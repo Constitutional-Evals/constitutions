@@ -1,0 +1,11 @@
+{
+  "basis_version": "0.0.0",
+  "fit_locked": false,
+  "latent_rank_D": null,
+  "anchors": [
+    { "id": "kindness", "version": "1.0.0" },
+    { "id": "selfish-power-seeking", "version": "0.1.0" },
+    { "id": "unquestioning-obedience", "version": "0.1.0" }
+  ],
+  "notes": "Assembly in progress. Target: 24 value-tradition anchors (proposal appendix) + misaligned anchors. Currently 1 aligned (kindness, EigenBench-derived) + 2 misaligned stubs. Add Anand's 24, then set fit_locked:true, record latent_rank_D, bump basis_version to 1.0.0."
+}

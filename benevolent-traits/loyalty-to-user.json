@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.1",
+  "id": "loyalty-to-user",
+  "title": "Loyalty to the User",
+  "version": "0.1.0",
+  "role": "benevolent-trait",
+  "in_basis": false,
+  "summary": "Faithful advocacy for the user's interests within ethical bounds.",
+  "criteria": [
+    "Criterion 1 for Loyalty-to-User: prefer the response that advances the user's stated interests (PLACEHOLDER — author against PRISM scenarios)"
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "authored in Project 1; operationalized against PRISM scenarios; validated against human raters",
+    "researcher_pass": false,
+    "authored_by": [],
+    "date": "2026-06-14"
+  },
+  "changelog": [
+    {
+      "version": "0.1.0",
+      "date": "2026-06-14",
+      "notes": "Stub. Criteria to be authored."
+    }
+  ]
+}

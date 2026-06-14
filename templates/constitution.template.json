@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.1",
+  "id": "REPLACE-with-lowercase-slug",
+  "title": "Human-Readable Name",
+  "version": "0.1.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "philosophical",
+  "tradition": "e.g. Stoicism",
+  "summary": "One-line description.",
+  "overview": "2-4 sentence narrative of the value system's core, applied to an LLM agent.",
+  "criteria": [
+    "Prefer the response that ... (comparative; consumed by the EigenBench judges)"
+  ],
+  "voices": {
+    "third_person": ["The model should ..."],
+    "second_person": ["You should ..."],
+    "first_person": ["I should ..."]
+  },
+  "guidelines": [
+    "When principle A conflicts with principle B, ..."
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "single shared meta-prompt; principles extracted from the foundational bundle; multi-LLM consensus; researcher triage",
+    "source_bundle": ["sources/REPLACE/doc1.md"],
+    "models": [],
+    "meta_prompt": "generation/meta-prompt.md@v0.1",
+    "researcher_pass": false,
+    "authored_by": [],
+    "date": "YYYY-MM-DD"
+  },
+  "changelog": [
+    { "version": "0.1.0", "date": "YYYY-MM-DD", "notes": "Initial draft." }
+  ]
+}

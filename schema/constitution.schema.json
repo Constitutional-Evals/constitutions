@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://constitutionalevals.org/schema/constitution.schema.json",
+  "title": "Constitution",
+  "type": "object",
+  "required": ["schema_version", "id", "title", "version", "role", "in_basis", "criteria"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": { "const": "1.1" },
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "title": { "type": "string", "minLength": 1 },
+    "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "role": { "enum": ["anchor", "benevolent-trait", "supplementary", "personalized"] },
+    "in_basis": { "type": "boolean" },
+    "valence": { "enum": ["aligned", "misaligned", "neutral"] },
+    "tradition_class": { "enum": ["religious", "philosophical", "secular-modern", "indigenous", "other"] },
+    "tradition": { "type": "string" },
+    "summary": { "type": "string" },
+    "overview": { "type": "string" },
+    "criteria": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 },
+      "description": "Comparative criteria ('Prefer the response that ...'). Consumed by the EigenBench judges." },
+    "voices": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Parallel phrasings of the same criteria, used as OCT character-training inputs.",
+      "properties": {
+        "first_person": { "type": "array", "items": { "type": "string" } },
+        "second_person": { "type": "array", "items": { "type": "string" } },
+        "third_person": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "guidelines": { "type": "array", "items": { "type": "string" },
+      "description": "Edge cases / conflict-resolution guidance." },
+    "license": { "type": "string" },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "method": { "type": "string" },
+        "source_bundle": { "type": "array", "items": { "type": "string" },
+          "description": "Paths under sources/<id>/ used to generate this constitution; selection/order is a sensitivity probe." },
+        "source_texts": { "type": "array", "items": { "type": "string" } },
+        "models": { "type": "array", "items": { "type": "string" } },
+        "meta_prompt": { "type": "string" },
+        "researcher_pass": { "type": "boolean" },
+        "authored_by": { "type": "array", "items": { "type": "string" } },
+        "derived_from": { "type": "string" },
+        "date": { "type": "string" }
+      }
+    },
+    "partner": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "terms"],
+      "properties": {
+        "name": { "type": "string" },
+        "supplied_by": { "type": "string" },
+        "engagement": { "type": "string" },
+        "usage": { "type": "string" },
+        "terms": { "type": "string" }
+      }
+    },
+    "changelog": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["version", "date", "notes"],
+        "additionalProperties": false,
+        "properties": {
+          "version": { "type": "string" },
+          "date": { "type": "string" },
+          "notes": { "type": "string" }
+        }
+      }
+    }
+  },
+  "allOf": [
+    { "if": { "properties": { "role": { "const": "anchor" } } },
+      "then": { "properties": { "in_basis": { "const": true } } } },
+    { "if": { "properties": { "role": { "enum": ["benevolent-trait", "supplementary", "personalized"] } } },
+      "then": { "properties": { "in_basis": { "const": false } } } },
+    { "if": { "properties": { "role": { "const": "personalized" } } },
+      "then": { "required": ["partner"] } }
+  ]
+}

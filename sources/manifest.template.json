@@ -1,0 +1,13 @@
+{
+  "constitution_id": "REPLACE",
+  "sources": [
+    {
+      "title": "Source title",
+      "url": "https://...",
+      "license": "public-domain | CC-BY | proprietary | unknown",
+      "redistributable": false,
+      "files": [],
+      "notes": "If redistributable, list the committed .md file(s) in `files`. If not, keep them in _private/ and leave `files` empty."
+    }
+  ]
+}

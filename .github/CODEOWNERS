@@ -1,0 +1,12 @@
+# Review routing. Replace the team/handles once the org + teams exist.
+# All constitution content and schema changes require governance review.
+
+*                       @Constitutional-Evals/governance
+/anchors/               @Constitutional-Evals/governance
+/schema/                @Constitutional-Evals/governance
+/VERSIONING.md          @Constitutional-Evals/governance
+/GOVERNANCE.md          @Constitutional-Evals/governance
+
+# Engineering owns the build/validation tooling.
+/scripts/               @Constitutional-Evals/eng
+/.github/               @Constitutional-Evals/eng

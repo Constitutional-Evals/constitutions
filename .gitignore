@@ -1,0 +1,7 @@
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+# Non-redistributable foundational texts (copyrighted sources kept local, never published):
+sources/**/_private/
