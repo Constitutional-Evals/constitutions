@@ -1,0 +1,69 @@
+{
+  "constitution_id": "islam",
+  "sources": [
+    {
+      "title": "The Qur'an — ethical selections (Marmaduke Pickthall translation, 1930)",
+      "url": "https://archive.org/details/englishtranslationoftheholyquranbymarmadukepickthall",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["quran-ethical-selections-pickthall.md"],
+      "notes": "Pickthall's 'The Meaning of the Glorious Koran' (first published 1930). U.S. copyright for works published in 1930 expired 95 years after publication, i.e. on 1 January 2026, so the work is now public domain in the U.S. Verse text retrieved from the Al Quran Cloud API (en.pickthall edition, api.alquran.cloud), which serves the Pickthall translation verse-by-verse. This file is a CURATED SELECTION of the Qur'an's ethical/moral passages (not the full text); selection rationale is documented in the file header and in README.md. FIDELITY: spot-checked verbatim against the independent scan-backed Wikisource 1930 Pickthall edition (2:177, 2:275, 6:151-152, al-Balad, al-Asr) — the wording matches Pickthall's published translation, EXCEPT that the Al Quran Cloud 'en.pickthall' edition normalizes the epithet 'God-fearing' to 'Allah-fearing' (e.g. end of 2:177) and standardizes some punctuation. This is a minor editorial normalization of the divine-name epithet, not a re-translation; the text is faithfully Pickthall in substance and wording."
+    },
+    {
+      "title": "The Holy Qur'an: Text, Translation and Commentary (Abdullah Yusuf Ali, 1934-1938)",
+      "url": "https://archive.org/details/TheHolyQuranAbdullahYusufAli1938",
+      "license": "unknown",
+      "redistributable": false,
+      "files": [],
+      "notes": "Widely used English translation WITH extensive interpretive commentary/footnotes — a strong tafsir-style interpretive source. COPYRIGHT CAUTION: although often described as public domain, this work was first published in Lahore in 1934-1938 (foreign publication). Under the U.S. URAA copyright-restoration rules, foreign works still protected in their source country on 1 January 1996 received a 95-year-from-publication U.S. term, which would run until ~2029-2033. Therefore its full text and commentary are treated here as NOT redistributable in this public repo. Metadata-only. Fair-use excerpt (Q 2:177, Yusuf Ali): 'It is not righteousness that ye turn your faces towards East or West; but it is righteousness — to believe in Allah... to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask...' (~30 words)."
+    },
+    {
+      "title": "The Alchemy of Happiness (Kimiya-yi Sa'adat) — al-Ghazali, trans. Claud Field (1909/1910)",
+      "url": "https://www.globalgreyebooks.com/alchemy-of-happiness-ebook.html",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["ghazali-alchemy-of-happiness-field.md"],
+      "notes": "Al-Ghazali's own Persian abridgment of his Ihya' 'Ulum al-Din, translated by Claud Field (Wisdom of the East series, John Murray, 1909/1910). Public domain (pre-1930 publication; author d. 1111). Included as the PUBLIC-DOMAIN STAND-IN for the copyrighted modern Ihya translations. Clean transcription from Global Grey eBooks; original scan also at archive.org/details/alchemyofhappine00algh. Complete text of all 8 chapters (~35k tokens)."
+    },
+    {
+      "title": "Ihya' 'Ulum al-Din (The Revival of the Religious Sciences) — Islamic Texts Society / Fons Vitae editions (T.J. Winter et al., trans.)",
+      "url": "https://www.its.org.uk/",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "The respected modern scholarly English translations of individual books of the Ihya (Islamic Texts Society, Cambridge, translators incl. T.J. Winter / Abdal Hakim Murad; and the Fons Vitae Ghazali Series) are under copyright. Metadata-only entry; full text NOT stored. See also ghazali.org/ihya/english for a catalogue of book-by-book translations (licenses vary per book — treat as copyrighted unless a specific book states otherwise). The public-domain Alchemy of Happiness (above) is the redistributable proxy for the Ihya's themes."
+    },
+    {
+      "title": "Ihya' Ulum-id-Din (Revival of Religious Learnings) — trans. Fazl-ul-Karim",
+      "url": "https://archive.org/details/ihya-ul-uloom-in-english",
+      "license": "unknown",
+      "redistributable": false,
+      "files": [],
+      "notes": "English translation (from the Urdu) by Maulana Fazl-ul-Karim, 4 vols (Bangladesh, 1971; reprinted Darul-Ishaat, Karachi, 1993). Copyright status unclear; abridges roughly half the original. Treated as unknown / NOT redistributable. Metadata-only; a scanned copy circulates on archive.org but its full text is not stored here."
+    },
+    {
+      "title": "Tahdhib al-Akhlaq (The Refinement of Character) — Ibn Miskawayh, trans. Constantine K. Zurayk (1968)",
+      "url": "https://search.worldcat.org/search?q=Refinement+of+Character+Miskawayh+Zurayk",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "The standard English translation by Constantine K. Zurayk (American University of Beirut Press, 1968) is under copyright. Metadata-only; full text NOT stored. Ibn Miskawayh (d. 1030) offers a Greek-influenced (Aristotelian/Platonic) Islamic virtue ethics: the soul's three faculties (rational, spirited, appetitive), virtues as means between extremes (wisdom, courage, temperance, justice), the cultivation and refinement of character, justice, and love/friendship (mahabba). Six discourses in total. No public-domain English translation is known to exist."
+    },
+    {
+      "title": "Major Themes of the Qur'an — Fazlur Rahman (1980)",
+      "url": "https://search.worldcat.org/search?q=Major+Themes+of+the+Quran+Fazlur+Rahman",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Modern academic interpretive work (University of Chicago Press, 1980; 2nd ed. 2009). A leading thematic treatment of the Qur'an's ethics, theology, and view of the human being — useful for interpretation quality. Under copyright; metadata-only, full text NOT stored."
+    },
+    {
+      "title": "The Holy Qur'an with English Translation and Commentary — Maulana Muhammad Ali (1st ed. 1917; 1920 printing)",
+      "url": "https://en.wikisource.org/wiki/The_Holy_Qur'an_(Maulana_Muhammad_Ali)",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["quran-ethical-selections-muhammad-ali.md"],
+      "notes": "First-edition (1917) translation-with-commentary by Maulana Muhammad Ali — the first widely available English Qur'an translation-plus-commentary by a Muslim, and a major influence on later English translations (incl. Pickthall). PUBLIC DOMAIN in the U.S.: first published 1917 (Woking/Lahore), reprinted 1920, both before 1 Jan 1931; even under URAA the restored U.S. term is 95 years from publication (1917+95 = 2012, already expired), so it is unambiguously PD now (longest-living contributor d. 1951 -> also PD in life+74 jurisdictions). A CURATED SELECTION of his translation of the SAME ethical passages as the Pickthall file has been committed as a public-domain SECOND TRANSLATION and interpretive stand-in for the copyright-encumbered Yusuf Ali (see that entry). Text taken from the scan-backed English Wikisource transcription of the 1920 printing (NOT the copyrighted 1951 revision or the modern Zahid-Aziz-edited editions). Fidelity caveats documented in the file header: (a) al-Fatiha omitted (its scan layout could not be transcribed to publish quality with confidence); (b) the Wikisource inline transcription of Surah 2 renders the divine name as 'God' rather than Muhammad Ali's published 'Allah' — reproduced verbatim and flagged; (c) 2:275 is missing from the Wikisource transcription (placeholder inserted; full verse present in the Pickthall file); (d) a few obvious OCR letter-errors were corrected to Muhammad Ali's published wording. Original first-edition scan also at archive.org/details/Translation_And_Commentary_Of_The_Holy_Quran_By-Muhammad_Ali_Jauhar_1917 . His full explanatory commentary (extensive PD footnotes) is NOT committed: it survives cleanly only in the first-edition page-scans (would need hand-verified OCR) — a human-procurement item; the modern per-verse commentary on aaiil.org/muslim.org is the copyrighted REVISED edition and must not be used."
+    }
+  ]
+}

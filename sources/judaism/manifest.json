@@ -1,0 +1,77 @@
+{
+  "constitution_id": "judaism",
+  "sources": [
+    {
+      "title": "Pirkei Avot (Ethics of the Fathers) — Mishnah Yomit translation by Dr. Joshua Kulp",
+      "url": "https://www.sefaria.org/Pirkei_Avot",
+      "license": "CC-BY",
+      "redistributable": true,
+      "files": ["pirkei-avot-kulp.md"],
+      "notes": "Full tractate (6 chapters). Modern scholarly translation by Dr. Joshua Kulp (Mishnah Yomit, learn.conservativeyeshiva.org/mishnah/), hosted by Sefaria. Sefaria v3 API reports this version's license as CC-BY (attribution required, which is satisfied by this manifest entry and the file header). Foundational source #1: the most concentrated corpus of Jewish practical/moral ethics."
+    },
+    {
+      "title": "Pirkei Avot (Sayings of the Jewish Fathers) — Charles Taylor translation (1897)",
+      "url": "https://www.sefaria.org/Pirkei_Avot",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["pirkei-avot-taylor.md"],
+      "notes": "Full tractate (6 chapters). Charles Taylor, 'Sayings of the Jewish Fathers (Pirqe Aboth)', 2nd ed., Cambridge University Press, 1897. Second translation of the same source as a translation-sensitivity variant. NOTE ON LICENSE: Sefaria's v3 API labels this specific version 'unknown', but the underlying 1897 text is unambiguously public domain in the US (published 1897; translator Charles Taylor d. 1908). Text fetched via the Sefaria API (which digitized the sacred-texts.com / nli.org.il copy); Taylor's own transliterations preserved. Original PD source also at https://sacred-texts.com/jud/pol/ (Pirqe Aboth)."
+    },
+    {
+      "title": "Maimonides, The Guide for the Perplexed — ethics-relevant selections (Friedländer translation)",
+      "url": "https://www.gutenberg.org/ebooks/73584",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["maimonides-guide-selections-friedlander.md"],
+      "notes": "Foundational source #2. M. Friedländer translation, 2nd ed. revised (London: Routledge, 1904/1910); public domain (translator d. 1917; Project Gutenberg source is out of US copyright). Full work is ~3x the per-doc cap, so this is a curated ~35k-token selection of the ethics core: Part I ch.2 (good and evil); Part III ch.26-28 and 31-35 (reasons for the commandments, welfare of body and soul, divine pedagogy, self-restraint, classification of the mitzvot); and Part III ch.51-54 (worship through the perfected intellect, and the capstone ch.54 on the four kinds of human perfection culminating in loving-kindness, justice, and righteousness). Part III ch.29-30 (Sabean-idolatry ethnography) deliberately omitted to keep the focus ethical; recoverable from the same Gutenberg source. Selection rationale is in the file header."
+    },
+    {
+      "title": "Maimonides, Eight Chapters (Shemonah Perakim) — Gorfinkle translation (1912)",
+      "url": "https://en.wikisource.org/wiki/Eight_chapters_of_Maimonides_on_Ethics",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["maimonides-eight-chapters-gorfinkle.md"],
+      "notes": "Bonus / bridge source between #1 (Avot) and #2 (Guide): Maimonides' introduction to tractate Avot, his systematic ethical psychology (Aristotelian mean, diseases of the soul and their cure, self-restraint vs. virtue, free will). Full text, all 8 chapters. Joseph I. Gorfinkle, 'The Eight Chapters of Maimonides on Ethics', Columbia University Press, 1912 (public domain). Text from the Wikisource proofread transcription; editor's introduction, footnotes, and page apparatus omitted. Also available (with apparatus) on Internet Archive: https://archive.org/details/eightchaptersofm00maim"
+    },
+    {
+      "title": "Abraham Joshua Heschel, God in Search of Man: A Philosophy of Judaism (1955)",
+      "url": "https://www.worldcat.org/oclc/377190",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Foundational source #3 — COPYRIGHTED, text NOT stored in this public repo. Farrar, Straus & Cudahy, New York, 1955 (reprint Farrar, Straus and Giroux; ISBN 978-0374513313). Role in the bundle: the major 20th-century philosophy of Judaism — 'depth theology' grounded in wonder / radical amazement, the sense of the ineffable, revelation, and the mitzvot as sacred deeds ('a leap of action') through which the human being answers God's search for man. Consult via library or purchase; do not commit its text here. PUBLIC-DOMAIN COMPANION for this dimension: Bahya ibn Paquda, 'Duties of the Heart' (next entry), a committable classical source for Judaism's inward/devotional ethics."
+    },
+    {
+      "title": "Bahya ibn Paquda, Duties of the Heart (Hovot ha-Levavot) — Edwin Collins selection (1904)",
+      "url": "https://archive.org/details/dutiesheart00collgoog",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["bahya-duties-of-the-heart-collins.md"],
+      "notes": "Public-domain classical source added for the same dimension as the copyrighted Heschel (source #3): Judaism's inward/devotional ethics (mussar) — the 'duties of the heart' (intention, gratitude, humility, trust in God, love of God) as distinct from the outward 'duties of the limbs'. Bahya ben Joseph ibn Paquda, 11th-c. Zaragoza. Translation: Edwin Collins, 'The Duties of the Heart', Wisdom of the East series (London: John Murray); translator's preface dated 1 Feb 1904, text from the 1909 printing — public domain (pre-1930; Google Books PD determination on the source scan). Collins's volume is an ABRIDGED SELECTION of the original ten 'gates', reproduced here in full (Introduction + gate passages). Collins's Introduction doubles as an interpretive essay (situates Bahya between Arab philosophy, Greek thought, and Rabbinic Judaism). Cleaned from a Google Books OCR scan (djvu.txt); minor OCR artifacts may remain. Selection/quality notes in the file header."
+    },
+    {
+      "title": "R. Travers Herford, Pirke Aboth: The Ethics of the Talmud — Sayings of the Fathers (commentary)",
+      "url": "https://archive.org/details/ethicsoftalmudsa0000herf_g4c5",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [],
+      "notes": "Interpretive work (classical scholarly commentary on Avot, text + translation + verse-by-verse notes). LICENSE CAVEAT: the 1925 first edition (Jewish Institute of Religion Press) is public domain in the US (published 1925), but the widely reprinted Schocken revised edition (1945/1962) is still under copyright. Left uncommitted (files: []) because the clean full texts readily available online could not be positively verified as the PD 1925 edition rather than a copyrighted reprint. To include: source and verify a scan of the 1925 first edition, then commit a selection (e.g. Herford's General Introduction). OPEN QUESTION for the user."
+    },
+    {
+      "title": "Menachem Kellner, Maimonides on Human Perfection (1990)",
+      "url": "https://philpapers.org/rec/KELMOH",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Interpretive work (metadata only). Brown Judaic Studies 202, Atlanta: Scholars Press, 1990 (reprint ISBN 978-1930675391). A focused academic study of Maimonides' account of human perfection, centered on Guide III:54 (the four perfections) — directly interprets the capstone of the Guide selections included here."
+    },
+    {
+      "title": "John C. Merkle, The Genesis of Faith: The Depth Theology of Abraham Joshua Heschel (1985)",
+      "url": "https://www.worldcat.org/title/genesis-of-faith-the-depth-theology-of-abraham-joshua-heschel/oclc/11623150",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Interpretive work (metadata only). New York: Macmillan, 1985 (ISBN 978-0029209905). A systematic exposition of Heschel's philosophy of Judaism, the best single-volume secondary guide to the thought in 'God in Search of Man' (wonder, the ineffable, revelation, sacred deeds)."
+    }
+  ]
+}
