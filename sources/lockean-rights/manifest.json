@@ -1,0 +1,70 @@
+{
+  "constitution_id": "lockean-rights",
+  "sources": [
+    {
+      "title": "John Locke, Second Treatise of Government (1689)",
+      "url": "https://www.gutenberg.org/ebooks/7370",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "locke-second-treatise-1-natural-law-and-property.md",
+        "locke-second-treatise-2-civil-society-and-dissolution.md"
+      ],
+      "notes": "Core text. From Project Gutenberg eBook #7370 (Second Treatise of Government), reproducing the 1690 first-edition public-domain text. The full treatise (~78k tokens) exceeds the 50k-token per-document cap, so it is split into two files and reduced to the chapters most load-bearing for a natural-rights ethic: Part 1 = Ch. I-V (political power, state of nature, state of war, slavery, property); Part 2 = Ch. VII-IX, XI, XVIII-XIX (civil society, consent, the ends of government, extent/limits of the legislative power as a trust, tyranny, dissolution and the right of revolution). Omitted: Ch. VI, X, XII-XVII (paternal power, forms of commonwealth, and the mechanics/derivation of governmental powers), as less central to the rights core. Selection documented in each file header and in README.md."
+    },
+    {
+      "title": "John Locke, A Letter Concerning Toleration (1689), William Popple 1689 English translation",
+      "url": "https://en.wikisource.org/wiki/A_Letter_Concerning_Toleration",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "locke-letter-concerning-toleration.md"
+      ],
+      "notes": "Included in full. Popple's 1689 English translation of Locke's Latin Epistola de Tolerantia; both the original and the translation are long out of copyright. Transcribed from Wikisource (standard public-domain Popple text), trailing PD-license boilerplate paragraphs removed. Supplies the bundle's account of freedom of conscience and the separation of civil from religious authority: civil government is instituted only to secure civil interests (life, liberty, health, and the possession of outward things), and the care of souls is not committed to the magistrate."
+    },
+    {
+      "title": "Herbert Spencer, The Man versus the State (1884) — selected essays: 'The Coming Slavery' and 'The Great Political Superstition'",
+      "url": "https://archive.org/details/socialstatistics00spenuoft",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "spencer-man-versus-the-state-selected.md"
+      ],
+      "notes": "PUBLIC-DOMAIN SUBSTITUTE FOR NOZICK (see below). Spencer d. 1903; first published 1884; text from the 1892 edition (Social Statics, Abridged and Revised; together with The Man versus the State), transcribed with OCR cleanup from Internet Archive scan socialstatistics00spenuoft (University of Toronto copy). Two essays selected as the most Nozick-adjacent: 'The Coming Slavery' (state relief and the expansion of compulsory over voluntary cooperation as a slide toward servitude; coercive redistribution as a form of bondage — the PD ancestor of Nozick's 'taxation of earnings from labour is on a par with forced labour') and 'The Great Political Superstition' (rights are not the gift of parliaments or the state; individual rights are pre-political and the state's authority is strictly bounded and instrumental). OCR normalization: line-break hyphenation rejoined, running page-headers and page numbers removed, bibliographic footnotes to Spencer's other works dropped. Editorial [bracketed] insertions from the print edition retained."
+    },
+    {
+      "title": "Frédéric Bastiat, The Law (La Loi, 1850), Patrick James Stirling 1874 English translation",
+      "url": "https://www.gutenberg.org/ebooks/44800",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "bastiat-the-law.md"
+      ],
+      "notes": "PUBLIC DOMAIN — 'unknown' resolved. OPTIONAL / SUPPLEMENTARY text (not part of the primary generation config; see README). The prior worry that no clean pre-1930 English translation exists rested on a misidentification: the widely circulated copyrighted 'The Law' is the Dean Russell translation (FEE, 1950), but the text carried by Project Gutenberg #44800 is NOT the Russell translation — it is the earlier Patrick James Stirling translation first published in Essays on Political Economy (G. P. Putnam's Sons, 1874), which is public domain by age (pre-1930). Diagnostic: the Stirling text opens 'The law perverted! The law—and, in its wake, all the collective forces of the nation…', whereas Russell opens 'The law perverted! And the police powers of the state perverted along with it!'. Bastiat's French original (d. 1850) is also PD. The committed file reproduces ONLY the 1874 Stirling translation and Bastiat's own four footnotes; the 2007 Ludwig von Mises Institute reset material carried by #44800 (a foreword by Thomas DiLorenzo dated May 2007, the publisher's index, and cover/blurb matter) carries a fresh 2007 copyright and was stripped out. Committed but marked OPTIONAL because adding it pushes the bundle over its ~120k-token budget; the primary config is the two Locke works plus Spencer, and Spencer already carries the natural-rights/minimal-state/anti-plunder dimension. Fair-use-style characterization: 'The Law' argues that life, liberty, and property are natural rights that precede legislation; that law is 'the organization of the natural right of lawful defense … the substitution of collective for individual forces'; and that law is 'perverted' into 'legal plunder' when used to take from some for the benefit of others."
+    },
+    {
+      "title": "Robert Nozick, Anarchy, State, and Utopia (1974)",
+      "url": "https://search.worldcat.org/title/1121919",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "COPYRIGHTED (Basic Books, 1974); metadata only, no text stored. Named in the appendix as a foundational source. Fair-use characterization (<200 words): Nozick defends the minimal 'night-watchman' state — limited to protection against force, theft, fraud, and enforcement of contracts — as the only state that can be justified without violating individual rights; any more extensive state violates rights. He advances an entitlement theory of justice in holdings with three principles: justice in acquisition, justice in transfer, and rectification of past injustice; a distribution is just if it arises from a just distribution by just steps. Central claims include self-ownership; that 'taxation of earnings from labour is on a par with forced labour'; the Wilt Chamberlain argument that 'liberty upsets patterns' (any end-state or patterned principle of distributive justice requires continuous interference with liberty); and a treatment of the Lockean proviso on appropriation. The public-domain proxy for this libertarian/minimal-state dimension in this bundle is Herbert Spencer, The Man versus the State (see above)."
+    },
+    {
+      "title": "A. John Simmons, The Lockean Theory of Rights (1992)",
+      "url": "https://press.princeton.edu/books/paperback/9780691019185/the-lockean-theory-of-rights",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "INTERPRETIVE / SECONDARY, metadata only. Copyrighted (Princeton University Press, 1992). A leading modern reconstruction of Locke's theory of natural rights (the rights of self-government, the connection between rights and the law of nature, property, and the limits of consent). Listed for provenance/interpretive context; not used as generation input. Cf. also Jeremy Waldron, God, Locke, and Equality (Cambridge UP, 2002) on the theological grounding of Lockean equality."
+    },
+    {
+      "title": "Sterling P. Lamprecht, The Moral and Political Philosophy of John Locke (1918)",
+      "url": "https://archive.org/details/moralpoliticalph00lampuoft",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [],
+      "notes": "INTERPRETIVE / SECONDARY, public domain (Columbia University Press, 1918), but NOT committed to keep the bundle within the ~120k-token cap. Offered as a public-domain interpretive companion (an early systematic study of Locke's law of nature, natural rights, property, and the state) should maintainers wish to add a scholarly layer later; full text is available at the URL."
+    }
+  ]
+}

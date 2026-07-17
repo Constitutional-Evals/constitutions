@@ -1,0 +1,77 @@
+{
+  "constitution_id": "stoicism",
+  "sources": [
+    {
+      "title": "Epictetus, Enchiridion (The Handbook / Manual)",
+      "url": "https://www.gutenberg.org/ebooks/10661",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["epictetus-enchiridion-long.md"],
+      "notes": "Complete text, all 53 chapters. Translation by George Long, from Project Gutenberg #10661 (A Selection from the Discourses of Epictetus with the Encheiridion). George Long (1800-1879); translation first published 1877, deeply public domain. The compact summary of the Stoic art of living: the dichotomy of control, desire and aversion, roles and duties, freedom."
+    },
+    {
+      "title": "Epictetus, Discourses (selected chapters)",
+      "url": "https://www.gutenberg.org/ebooks/10661",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["epictetus-discourses-long-selection.md"],
+      "notes": "PRIMARY bundle. 17 chapters selected from Arrian's record of Epictetus, translation by George Long (Project Gutenberg #10661). SELECTION: the ethically richest material -- what is 'up to us' vs. not (dichotomy of control), providence and the rational order, the nature of the good, kinship with God and human dignity, roles/duties, freedom, bearing adversity and sickness, tranquillity, friendship, and attention (prosoche). Trimmed from an earlier 22-chapter draft to fit the primary bundle; the 5 dropped chapters (Of Contentment; Not Being Angry at Others' Faults; On Constancy; What Solitude Is; On Freedom From Fear) are each thematically covered by a retained chapter. Public domain. A second George Long-translated text alongside the Enchiridion; a P.E. Matheson (1916) rendering could be added later as a translation-sensitivity variant."
+    },
+    {
+      "title": "Marcus Aurelius, Meditations (George Long translation)",
+      "url": "https://www.gutenberg.org/ebooks/15877",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["marcus-aurelius-meditations-long-books1-6.md", "marcus-aurelius-meditations-long-books7-12.md"],
+      "notes": "Complete twelve books, translation by George Long (1862), from Project Gutenberg #15877 (The Thoughts of the Emperor Marcus Aurelius Antoninus). Long's editorial footnotes and index removed; the reflections are unabridged. Split across two files (Books 1-6, 7-12) to keep each under the per-document size cap. NOTE: Gutenberg #2680, sometimes catalogued as 'the George Long Meditations,' is in fact the Meric Casaubon (1634) translation -- verified against the text; #15877 is the true George Long version and is used here as the primary."
+    },
+    {
+      "title": "Marcus Aurelius, Meditations, Books II-IV (Meric Casaubon translation)",
+      "url": "https://www.gutenberg.org/ebooks/2680",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["marcus-aurelius-meditations-casaubon-books2-4.md"],
+      "notes": "OPTIONAL -- translation-sensitivity variant, NOT part of the primary ~111k-token bundle (load individually for probing). Meric Casaubon's 1634 English (Project Gutenberg #2680), Books II-IV only -- among the philosophically densest. Deeply public domain (translation 1634; the modern editorial introduction in #2680 predates 1930). Included as an archaic-idiom formatting probe against the George Long primary."
+    },
+    {
+      "title": "Seneca, Moral Letters to Lucilius / Epistulae Morales (selected letters, Gummere translation)",
+      "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["seneca-moral-letters-selection.md"],
+      "notes": "PRIMARY bundle. 10 of the 124 letters, translation by Richard M. Gummere (Loeb Classical Library: vol. 1 1917, vol. 2 1920, vol. 3 1925 -- all first published before 1930 and public domain in the US). Text from English Wikisource; Gummere's section numbers joined into their paragraphs. SELECTION carries the systematic-ethics dimension of Stoicism and is the PUBLIC-DOMAIN STAND-IN for Becker's copyrighted A New Stoicism: the supreme good and virtue as the only good (71, 76, 120), the divine reason within and following nature (41, 107), philosophy as therapy and the guide of life (23), the equal humanity of all persons including slaves (47), self-sufficiency and friendship (9), the mortality of each day and facing death (1, 26). Trimmed from an earlier 15-letter draft to fit the primary bundle; dropped letters 5, 7, 8, 16, 44 (themes retained elsewhere). All selected letters are from the pre-1930 Loeb volumes (highest is Letter 120, Loeb vol. 3, 1925)."
+    },
+    {
+      "title": "George Long, 'The Philosophy of Antoninus' (interpretive essay)",
+      "url": "https://www.gutenberg.org/ebooks/15877",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["interpretive-long-philosophy-of-antoninus.md"],
+      "notes": "OPTIONAL -- interpretive layer, NOT part of the primary ~111k-token bundle (load individually). George Long's 1862 introductory exposition of Stoic doctrine -- physics, providence and the rational order, the good, duty, and the moral aim -- prefacing his Meditations translation (Project Gutenberg #15877). A 19th-century scholarly framing of how the primary texts were historically read. Public domain."
+    },
+    {
+      "title": "E. Vernon Arnold, Roman Stoicism (1911)",
+      "url": "https://archive.org/details/romanstoicismbei00arnouoft",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [],
+      "notes": "Interpretive/scholarly option, NOT committed (kept metadata-only to stay within the bundle size budget; the Long essay already supplies the interpretive layer). Cambridge University Press, 1911; public domain, freely available on the Internet Archive. A systematic historical account of the Roman Stoa (Seneca, Epictetus, Marcus) -- ethics, theology, and the doctrine of virtue. Could be converted and committed if a fuller interpretive layer is wanted."
+    },
+    {
+      "title": "Lawrence C. Becker, A New Stoicism (Princeton University Press, 1998; rev. ed. 2017)",
+      "url": "https://press.princeton.edu/books/paperback/9780691177212/a-new-stoicism",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "COPYRIGHTED -- metadata only, no text stored. Fair-use characterization: a modern systematic reconstruction of Stoic ethics for contemporary readers. Becker argues Stoicism can be rebuilt on the maxim 'follow the facts,' developing a naturalistic stoic axiology in which virtue (ideal rational agency) is the only genuine good, the passions are answerable to reason, and practical wisdom integrates one's ends over a whole life. It is the canonical modern statement of systematic Stoic ethics but cannot be redistributed here. The public-domain stand-in for this systematic-ethics role is the Seneca Moral Letters selection above (esp. Letters 71, 76, 120, 41, 107)."
+    },
+    {
+      "title": "Pierre Hadot, The Inner Citadel: The Meditations of Marcus Aurelius (Harvard University Press, 1998)",
+      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674007079",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "COPYRIGHTED -- metadata only, no text stored. Fair-use characterization: a leading modern scholarly study reading the Meditations as spiritual exercises structured by Epictetus' three disciplines (assent/judgment, desire, and action/impulse). Useful interpretive context for how Marcus's aphorisms cohere as a systematic ethical practice; not redistributable here."
+    }
+  ]
+}

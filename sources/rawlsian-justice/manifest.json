@@ -1,0 +1,69 @@
+{
+  "constitution_id": "rawlsian-justice",
+  "sources": [
+    {
+      "title": "Jean-Jacques Rousseau, The Social Contract (1762), trans. G. D. H. Cole (1913) — Books I, II, and IV.i–ii",
+      "url": "https://www.gutenberg.org/ebooks/46333",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["rousseau-social-contract.md"],
+      "notes": "PD antecedent, not a named source. Cole's 1913 translation is public domain (Project Gutenberg #46333). Selection: Book I (the social compact), Book II (the general will, inalienable/indivisible sovereignty, law, the legislator), and Book IV chs. i-ii (the general will is indestructible; voting). Rawls situates justice as fairness in the social-contract tradition Rousseau revives; the general will is a direct ancestor of a will oriented to the common good under fair procedures. Full four-book work is ~45k words; trimmed to the ethically core ~17k to fit the per-doc cap and avoid Book III's material on forms of government. Footnotes and page apparatus stripped; prose reflowed to clean Markdown."
+    },
+    {
+      "title": "David Hume, An Enquiry Concerning the Principles of Morals (1751) — Section III: Of Justice (complete, Parts I-II)",
+      "url": "https://www.gutenberg.org/ebooks/4320",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["hume-of-justice.md"],
+      "notes": "PD antecedent, not a named source. Public domain (Hume d. 1776; Project Gutenberg #4320). The complete Section III is included. Rawls explicitly adopts Hume's account of the 'circumstances of justice' — the conditions of moderate scarcity and limited altruism under which justice becomes both possible and necessary (A Theory of Justice, sec. 22, cites Hume). A strong, non-overlapping antecedent that grounds the original position's background conditions. Footnote blocks stripped; small-caps emphasis of the source edition preserved."
+    },
+    {
+      "title": "Adam Smith, The Theory of Moral Sentiments (1759) — Part I.i (sympathy, propriety) and Part III (the impartial spectator), selections",
+      "url": "https://www.gutenberg.org/ebooks/58559",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["smith-moral-sentiments.md"],
+      "notes": "PD antecedent, not a named source. Public domain (Smith d. 1790; Project Gutenberg #58559, The Essays of Adam Smith). Selection: Part I, Section I (sympathy, mutual sympathy, and how we judge propriety by changing places in imagination) and Part III, chs. I-III (self-approbation, the love of praiseworthiness, and the 'impartial spectator' / conscience). Smith's device of judging conduct from the standpoint of an impartial, well-informed spectator is a recognized ancestor of the original position's move to strip away partiality. Page-number markers and footnotes stripped; prose reflowed to clean Markdown."
+    },
+    {
+      "title": "John Rawls, A Theory of Justice (1971; rev. ed. 1999)",
+      "url": "https://www.hup.harvard.edu/books/9780674000780",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "COPYRIGHT-WITHHELD named foundational source (Harvard University Press / Belknap). Full text is NOT stored anywhere in this repo. Fair-use characterization (<200 words): Rawls develops 'justice as fairness': principles of justice are those free and rational persons would choose in an 'original position' behind a 'veil of ignorance' that hides their class, talents, and conception of the good, guaranteeing impartiality. Parties choose two principles, lexically ordered: (1) an equal claim to a fully adequate scheme of equal basic liberties; (2) social and economic inequalities are just only if attached to positions open under fair equality of opportunity and to the greatest benefit of the least-advantaged (the 'difference principle'). Priority rules rank liberty over the second principle and fair opportunity over the difference principle. Justification proceeds by 'reflective equilibrium,' mutually adjusting principles and considered judgments; 'primary goods' (rights, liberties, opportunities, income, self-respect) are the distributive currency. Offered as a systematic alternative to utilitarianism, which Rawls faults for ignoring the 'separateness of persons.'"
+    },
+    {
+      "title": "John Rawls, Political Liberalism (1993; expanded ed. 2005)",
+      "url": "https://cup.columbia.edu/book/political-liberalism/9780231130899/",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "COPYRIGHT-WITHHELD named foundational source (Columbia University Press). Full text is NOT stored anywhere in this repo. Fair-use characterization (<200 words): Political Liberalism revises justice as fairness to address the 'fact of reasonable pluralism' — free institutions inevitably produce a diversity of incompatible yet reasonable comprehensive doctrines (religious, moral, philosophical). Rawls asks how a just and stable society of free and equal citizens can endure when divided by such doctrines. He distinguishes a 'political' conception of justice — freestanding, justified without appeal to any single comprehensive view — from 'comprehensive' doctrines. Stability is secured through an 'overlapping consensus,' in which citizens affirm the shared political conception each from within their own doctrine. Questions of 'constitutional essentials' and basic justice are settled by 'public reason': citizens and officials justify the use of coercive political power only by principles and evidence others could reasonably endorse, not by sectarian premises. The book thereby reframes the earlier theory as political rather than metaphysical."
+    },
+    {
+      "title": "T. M. Scanlon, What We Owe to Each Other (1998)",
+      "url": "https://www.hup.harvard.edu/books/9780674004238",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "COPYRIGHT-WITHHELD named foundational source (Harvard University Press / Belknap). Full text is NOT stored anywhere in this repo. Fair-use characterization (<200 words): Scanlon defends 'contractualism' about the part of morality concerning what we owe to each other. An act is wrong if it would be disallowed by any principle for the general regulation of behaviour that no one could reasonably reject as a basis for informed, unforced general agreement. Rightness and wrongness are thus understood through mutual justifiability: to judge an act wrong is to judge that it could not be justified to others on grounds they could not reasonably reject. Reasonable rejection weighs the burdens a principle places on affected individuals considered one by one, rather than aggregating benefits across persons — honouring the 'separateness of persons' and resisting utilitarian summing. Scanlon grounds the special authority of moral conclusions in the value of standing in a relation of mutual recognition with others. The book also develops broader accounts of reasons, value, well-being, promising, and responsibility."
+    },
+    {
+      "title": "Samuel Freeman, Rawls (Routledge Philosophers, 2007) — interpretive/secondary",
+      "url": "https://search.worldcat.org/search?q=Freeman+Rawls+Routledge+Philosophers",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "COPYRIGHT-WITHHELD interpretive work (Routledge), metadata-only. A comprehensive scholarly overview of Rawls's system by his student and editor: the original position, the two principles and their priority, the argument against utilitarianism, and the move from A Theory of Justice to Political Liberalism. Listed as an orientation pointer for the human distiller; no text stored."
+    },
+    {
+      "title": "Samuel Freeman (ed.), The Cambridge Companion to Rawls (Cambridge University Press, 2003) — interpretive/secondary",
+      "url": "https://search.worldcat.org/search?q=Cambridge+Companion+to+Rawls+Freeman",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "COPYRIGHT-WITHHELD interpretive collection (Cambridge University Press), metadata-only. Essays by leading scholars on the original position, the difference principle, political liberalism, public reason, and Rawls's Kantian constructivism. Listed as an orientation pointer; no text stored. Publisher: Cambridge University Press, ISBN 9780521659765."
+    }
+  ]
+}
