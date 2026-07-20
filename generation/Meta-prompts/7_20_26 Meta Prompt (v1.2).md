@@ -17,7 +17,7 @@ The constitution must contain:
 2. "criteria": 8-12 behavioral criteria. These should be very brief, one short sentence per criteria. Each criterion measures one thing only.
 3. "guidelines": 3-5 edge-case or conflict-resolution rules.
 
-Each criterion and guideline must be written in the phrasing:
+Each criterion and guideline must be written in the phrasing below:
 - third_person: "The model treats..."
 
 The phrasings must express an underlying idea, stated as a fact about the model's dispositions and behavior.
