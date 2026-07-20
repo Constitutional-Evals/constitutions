@@ -4,11 +4,11 @@ Verbatim source passages selected for broad, balanced relevance to the correspon
 
 ## Complete standalone translation of the Yoga Sūtras
 
+32. End of the sequences of mutations
 •
 33. Characteristic of a sequence
 34. Nature of Isolation
 .
-
 
 ## p. xxx (#44) #############################################
 
@@ -43,10 +43,7 @@ i. 12-16. An orientation of the whole life with reference to one idea; an
 emotional transformation corresponding to this focused state.
 i. 12 The restriction of them is by [means] of practice and passionlessness. i. 13 Practice is [repeated] exertion to the end that (the mind-
 
-
-## p. xxxi (#45) ############################################
-
-xxxi]
+## p. xxxi (#45) ############################################ xxxi]
 Translation of the Yoga-sutras
 stuff] shall have permanence in this [restricted state]. i. 14 But this
 [practice] becomes confirmed when it has been cultivated for a long time
@@ -82,7 +79,6 @@ the omniscient is at its utmost excellence. i. 26 Teacher of the Primal
 [Sages] also, forasmuch as [with Him] there is no limitation by time.
 i. 27 The word-expressing Him is the Mystic-syllable. i. 28 Repetition
 of it and reflection upon its meaning [should be made].
-
 
 ## p. xxxii (#46) ###########################################
 
@@ -125,10 +121,7 @@ the state of being tinged by [one] of these [three]. i. 42 Of [these
 balanced-states) the state-balanced with deliberation is confused by
 reason of predicate-relations between words and intended-objects and
 
-
-## p. xxxiii (#47) ##########################################
-
-{xxxiii
+## p. xxxiii (#47) ########################################## {xxxiii
 without the Comment or the Explanation
 ideas. i. 43 When the memory is quite purified, [that balanced-state]-
 which is, as it were, empty of itself and which brightens [into conscious
@@ -165,7 +158,6 @@ ii. 7 Passion is that which dwells upon pleasure. ii. 8 Aversion is that
 which dwells upon pain. ii. 9 The will-to-live sweeping on [by the
 force of its own nature exists in this form even in the wise. ii. 10
 [H.0.8. 17]
-
 
 ## p. xxxiv (#48) ###########################################
 
@@ -205,7 +197,6 @@ the unparticularized [forms) and the resoluble only [into primary matter]
 and irresoluble-primary-matter are the divisions of the aspects (guna).
 ii. 20 The Seer who is nothing but (the power of seeing], although
 undefiled (çuddha), looks upon the presented idea. ii. 21 The objectof-sight is only for the sake of it (the Self]. ii. 22 Though it has
-
 
 ## p. xxxv (#49) ############################################
 
@@ -248,7 +239,6 @@ Results of the abstentions and observances
 ii. 33-45. Persistent inhibitions of certain kinds reorganize an increase of
 activity of the opposite kind.
 ii. 33 If there be inhibition by perverse-considerations, there should be
-
 
 ## p. xxxvi (#50) ###########################################
 
@@ -295,10 +285,7 @@ as it is in itself on the part of the organs by disjoining themselves from
 their object. ii. 55 As a result of this [withdrawal] there is a complete
 mastery of the organs.
 
-
-## p. xxxvii (#51) ##########################################
-
-xxxvii]
+## p. xxxvii (#51) ########################################## xxxvii]
 without the Comment or the Explanation
 BOOK THIRD-SUPERNORMAL POWERS
 First direct aid: vi. Fixed-attention
@@ -339,7 +326,6 @@ to organs, mutations of external-aspect and of time-variation and of
 intensity have been enumerated. iii. 14 A substance conforms itself to
 quiescent and uprisen and indeterminable external-aspects. iii. 15 The
 order of the sequence is the reason for the order of the mutations.
-
 
 ## p. xxxviii (#52) #########################################
 
@@ -385,10 +371,7 @@ and the Self, which are absolutely uncommingled [in the presented-idea].
 Since the sattva exists as object for another, the [intuitive] knowledge
 of the Self arises as the result of constraint upon that which exists for
 
-
-## p. xxxix (#53) ###########################################
-
-xxxix]
+## p. xxxix (#53) ########################################### xxxix]
 without the Comment or the Explanation
 its own sake. iii. 36 As a result of this [constraint upon that which
 exists for its own sake], there arise vividness and the organ-of-[supernal]-
@@ -427,7 +410,6 @@ discrimination.
 Culmination of concentration
 iii. 53-55. The particular which is indiscernible in respect of class or
 term or point-in-space is intuitively discerned; the widest span of objectivity is also discerned. This is the attainment of Isolation.
-
 
 ## p. xl (#54) ##############################################
 
@@ -471,10 +453,7 @@ it be a permanent order as contrasted with a succession of transient
 appearances.
 iv. 14 The that-ness of a thing is due to a singleness of mutation.
 
-
-## p. xli (#55) #############################################
-
-xli]
+## p. xli (#55) ############################################# xli]
 without the Comment or the Explanation
 iv. 15. Because, while the [physical] thing remains the same, the mindstuffs are different, [therefore the two are upon] distinct levels-of-existence.
 iv. 16 And a thing is not dependent upon a single mind-stuff, [for then
@@ -514,14 +493,13 @@ of the aspects, no longer provided with a purpose by the Self, or it is
 the Energy of Intellect grounded in itself.
 [H.O.S. 17]
 
-
 ## p. xlii (#56) ############################################
 
 ## Selected interpretive and supporting passages
 
-### chunk 3 — yoga_sutras — Book I, sutra 1-2 — pāda 1
+### chunk 3 — yoga_sutras — I.1 — pāda 1
 
-i. 1-]
+## p. 6 (#62) ############################################### i. 1-]
 [6
 Book I. Concentration or Samādhi
 in the words «But this.>>> The word ca has the sense of <but» and distinguishes the whole from the part. -<<<Which belongs to all the stages>> refers
@@ -566,49 +544,50 @@ distracted, the concentration which is the occasional stability of the mind-stuf
 
 ## p. 7 (#63) ###############################################
 
-### chunk 6 — yoga_sutras — 1.2 — pāda 1
+### chunk 5 — yoga_sutras — I.2 — pāda 1
 
-9]
-Provisional definition of Yoga
-[-i. 2
-and is therefore to be rejected]. Hence the mind-stuff being
-disgusted with this [discriminative discernment] restricts even this
-Insight. When it has reached this state, [the mind-stuff'], [after
-the restriction of the fluctuations,] passes over to subliminal
-impressions (samskāra). This is the [so-called] seedless concentrafion. In this state nothing becomes an object of consciousness :
-such is concentration not conscious [of objects]. Accordingly the
-yoga [which we have defined as] the restriction of the fluctuations
-of the mind-stuff is two-fold.
-He introduces the second sutra with the words <the distinguishing characteristic of this.>> The words <of this>> refer to the two kinds of yoga mentioned
-in the previous sūtra. 2. Yoga is the restriction of the fluctuations of mindstuff. Yoga is that particular state of mind-stuff in which sources-of-validideas and the other fluctuations are restricted. The objection is made that
-this cannot be the distinguishing characteristic [of yoga] since yoga conscious
-[of objects] would be excluded. For in this [conscious yoga], [those] fluctuations of mind-stuff which have the sattva-aspect are not restricted. The reply is
-<by the non-use of the word 'all'>> If yoga had been said to be the restriction of all the fluctuations of mind-stuff, [yoga] conscious [of objects] would
-not have been included. But if the objection be made that this includes too
-much since there is restriction of sattva in the first three states, the reply is,]
-the restriction of the fluctuations of mind-stuff which are hostile to the latentdeposit (açaya-paripanthin) of karma from the hindrances [i.e. the restriction, as
-thus qualified] includes this [yoga] also. And this is so] because there is a
-restriction of those mind-stuff's fluctuations which have the rajas and tamas
-aspect in this [conscious yoga] also, and because this (tad) [hostility to the
-hindrances] is (bhavat) a part of that (tasya) [restriction]. But why is this
-mind-stuff, which is a single thing, in connexion with its own] restless and
-other stages? And since some one might be in doubt why the fluctuations
-of mind-stuff which is in such [a three-fold] state should be restricted, he now
-makes clear first of all the reason for [the mind-stuff's] connexion with [these]
-states. «Now mind-stuff>> [is in this threefold state] since the aspect sattva has a
-disposition to vividness [and] since the aspect rajas has a disposition to activity
-[and] since the aspect tamas has a disposition to inertia. The use of the word
-<vividness» is the use of a part for the whole (upalaksana). It alludes also to
-other kinds of sattva, to serenity and lightness and joy (priti); and <activity»
-alludes to [the other kinds of rajas, to pain and grief. Inertia is a property
-of the tamas-fluctuation and is opposed to activity. The use of the word
-<<<inertia» is a partial expression for heaviness and covering and dejection and
-similar states. What he means to say is this: the mind-stuff, although a single
-2 [ 0.8. 17]
+## p. 8 (#64) ############################################### i. 1-]
+[8
+Book I. Concentration or Samādhi
+restricted in [yoga] conscious [of objects] while fluctuations of sattva are retained;
+but that in [yoga] not conscious [of an object] all fluctuations whatsoever are
+restricted. Therefore [the final result] is established (siddham) that belonging
+to all stages>> means occurring in all these [four) stages, Madhumati and so
+on, which [four] are [all] included in these two stages [of the conscious and
+the unconscious yoga].
+i
+:
+The intent of the following sūtra is to state the distinguishing
+characteristic of this [yoga].
+2. Yoga is the restriction of the fluctuations of mind-stuff.
+By the non-use of the word 'all' [before the fluctuations>], [the
+yoga which is conscious [of objects] is also included under the
+denomination of yoga. Now mind-stuff has three aspects (guna),
+as appears from the fact that it has a disposition to vividness
+(prakhyā), to activity (pravrtti), and to inertia (sthiti). For the
+mind-stuff's [aspect] sattva, which is vividness, when commingled
+with rajas and tamas, acquires a fondness for supremacy and for
+objects-of-sense; while the very same [constituent-aspect, sattva,]
+when pervaded with tamas, tends towards demerit and nonperception and passionateness and towards a failure of [its own
+rightful] supremacy; (and) the very same [sattva], -when the
+covering of error has dwindled away,-illumined now in its
+totality (sarvatas), but faintly pervaded by rajas, tends towards
+merit and knowledge and passionlessness and [its own rightful]
+supremacy; [and] the very same [sattva], -the stains of the last
+vestige of rajas once removed, -grounded in itself and being
+nothing but the discernment (khyāti) of the difference between the
+sattva and the Self (purusa), tends towards the Contemplation of
+the Rain-cloud of [knowable] Things. The designation given by
+contemplators (dhyāyin) to this kind of mind-stuff] is the highest
+Elevation (prasamkhyāna). For the Energy of Intellect (citi-çakti)
+is immutable and does not unite [with objects]; it has objects
+shown to it and is undefiled [by constituent-aspects] and is unending.
+Whereas this discriminate discernment (viveka-khyāti), whose
+essence is sattva, is [therefore] contrary to this [Energy of Intellect
 
-## p. 10 (#66) ##############################################
+## p. 9 (#65) ###############################################
 
-### chunk 8 — yoga_sutras — YS 1.2 commentary — pāda 1
+### chunk 8 — yoga_sutras — Pada 1 (discernment/elevation discussion) — pāda 1
 
 11]
 Functions of the mind-stuff
@@ -651,11 +630,9 @@ assumed the form of objects; but it is the thinking-substance only which, becaus
 it undergoes mutations (parinata sati) in the form of the objects, shows the
 object to the Energy of Intellect, which [latter however] does not take their
 
-## p. 12 (#68) ##############################################
+### chunk 9 — yoga_sutras — I.2 (with I.51 material) — pāda 1
 
-### chunk 9 — yoga_sutras — Book I sutra 2 (with 3 context) — pāda 1
-
-i. 2-]
+## p. 12 (#68) ############################################## i. 2-]
 [12
 Book I. Concentration or Samādhi
 form. And when this happens, the Self is then said to become aware [of
@@ -746,11 +723,9 @@ This same meaning is made clear by the author of the Comment when he says
 true. But if while in the state of emergence the Energy of Intellect is not
 Literally, although the essential-attribute (srarūpa) cannot be divided [from the Self].
 
-## p. 14 (#70) ##############################################
+### chunk 11 — yoga_sutras — YS 1.3-4 — pāda 1
 
-### chunk 11 — yoga_sutras — I.3-4 — pāda 1
-
-i. 3-]
+## p. 14 (#70) ############################################## i. 3-]
 [14
 Book I. Concentration or Samādhi
 grounded in itself and while in the state of restriction is grounded [in itself],
@@ -793,57 +768,49 @@ the fluctuations [of mind-stuff]. <At other times> means in the emergent
 
 ## p. 15 (#71) ##############################################
 
-### chunk 12 — yoga_sutras — i.4 — pāda 1
+### chunk 14 — yoga_sutras — 1.5 — pāda 1
 
-15]
-The Self correlated with its thinking-substance
-[-i. 4
-state;> <the fluctuations [of mind-stuff]> are the tranquil and the cruel
-and the infatuated; <<not distinguished» means not different. These [three]
-are those [fluctuations) which the Self has.-<The same form:> in these
-words the word 'same' is synonymous with 'one'. What he means to say
-is this: when, by reason of nearness to each other, the difference between
-[the colour] of the China-rose and of the crystal [vase], or analogously, between
-the thinking-substance and the Self, does not come to consciousness (a-bhedagrahe), then the individual by wrongly attributing the fluctuations of the
-thinking-substance to the Self, recognizes [wrongly] that he is tranquil or
-pained or infatuated. Likewise, wrongly supposing that his face when reflected
-upon the dirty surface of a mirror is itself dirty, [the individual] bemoans
-himself at the thought that he is dirty. Although the fluctuation of the
-thinking-substance, like the perception of sounds or other [perceptible] things,
-is also wrongly attributed to the Self, and although in so far as it is primarysubstance it should be experienced as being unintelligent, nevertheless by
-transferring the quality of the Self to the thinking-substance, [the fluctuation
-of the thinking-substance] appears as if it were a fluctuation of the Self, as
-if it were an experience [of the Self]. And so although the Soul (atman) has
-no misconceptions, it seems to have misconceptions; although not an experiencer, it seems to be an experiencer; although it lacks the discriminative
-discernment, it seems to be provided with it, [and] it shines forth by the
-discriminative discernment. And this will be set forth in detail in this [sutra]
-[iv. 22), "The intellect (citi) which unites not [with objects] is conscious of
-its own thinking-substance when [the mind-stuff] takes its form [by reflecting
-it];" and in this [iii. 35], "Experience is undistinguished from a presentedidea on the part of the sattva-aspect and of the Self, each absolutely uncommingled [in the presented idea]." And this has been established in another
-system also [the Samkhya]. Accordingly with the words and so>> he introduces (aha) the sūtra of Pañcaçikha the ācārya, "There is only one appearance
-[for both],-that appearance is knowledge." The question is raised, 'How
-is there one appearance? considering that you say that the fluctuation of the
-thinking-substance-occupied on the one hand with the different kinds of
-things, and occupied on the other hand with insight, and perceptible as
-being unintelligent in so far as it is primary-substance-is appearance; and
-[considering that you at the same time say that] the Self's intelligence (caitanya),
-which is different from this and which is the perception, is [also] appearance.'
-1 Literally: Although yet another Selfwrong-attribution possesses a fluctuation of the thinking-substance like the
-perception of sounds and so on, and
-although
-...
-* Reading iva vivekakhyātyā. Or: it seems
-to be provided with it up to discriminative discernment [that is, so long as
-there is no discriminative discernment:
-reading iva a vivekakhyātyāh]. Or: it
-seems to be provided with it during
-the time of non-discriminative discernment [reading iva a-vivekakhyātyām].
-
-## p. 16 (#72) ##############################################
+:
+17]
+[-i. 5
+Five kinds of fluctuations
+meant. Therefore although there is no correlation with the mind-stuff, still
+it is established that the Self accepts aid afforded by it, and that it does not
+enter into mutation. A question is raised, 'The relation of property and
+proprietor is [we grant] the reason for experience and is subject to the conditions of undifferentiated-consciousness. But subject to what conditions is
+undifferentiated-consciousness? Not subject to conditions (as everybody admits)
+no effect is produced. As they say, "Is there any commencement of undifferentiated-consciousness for him [that is, man] as in the case of sleep and
+so on?"" While apparently summing up, he (in fact] removes this doubt
+with the words <Hence the reason why... experiences the fluctuations of
+the mind-stuff.>> The reason for the [Self's] awareness of the mind-stuff's
+fluctuations in the form of tranquil and cruel and infatuated forms is the
+[above-mentioned) correlation, which is without beginning since it is under
+the conditions of undifferentiated-consciousness which is without beginning. ✓
+And the serial-order (santana) of undifferentiated-consciousness and of the
+subconscious-impressions (vāsanā) is, like the serial-order of seed and sprout,
+without beginning.
+Moreover these for there are many such found in the mind-stuffmust be restricted.
+5. The fluctuations are of five kinds and are hindered or
+unhindered.
+The hindered (klista) are those which are caused by the hindrances
+(kleça) [undifferentiated-consciousness, &c.: see ii. 3] and are the field
+for growth of the accumulation of the latent-deposits of karma ;
+the unhindered have discriminative discernment as their object and
+thus obstruct the task (adhikāra) of the aspects (guna). These are
+still unhindered even when they occur in the stream of the hindered.
+For even in the midst of the hindered [fluctuations] they are unhindered; while in the midst of the unhindered [they are] hindered.
+Corresponding subliminal-impressions are produced by nought else
+than [these] fluctuations, and fluctuations [are made] by subliminalimpressions. In this wise, the wheel of fluctuations and subliminalimpressions ceaselessly rolls1 on [until the highest concentration is
+attained]. Operating in this wise, this mind-stuff, having finished
+its task, abides in its own likeness, or [rather] becomes resolved
+[into primary substance] - These, either hindered or unhindered,
+are the five-fold fluctuations.
+1 Compare iv. 11, p. 2882 (Calc. ed.).
+[H.O.S. 17]
 
 ### chunk 31 — yoga_sutras — I.11-13 — pāda 1
 
-i. 11-]
+## p. 34 (#90) ############################################## i. 11-]
 [34
 Book I. Concentration or Samādhi
 do memories associate themselves [with the subliminal-impression and with the
@@ -884,7 +851,7 @@ subordinate activities, but not an alternative [action].
 
 ## p. 35 (#91) ##############################################
 
-### chunk 32 — yoga_sutras — YS 1.13-1.14 — pāda 1
+### chunk 32 — yoga_sutras — i.13-14 — pāda 1
 
 35]
 [-i. 14
@@ -926,11 +893,9 @@ subliminal-impressions. But if, even after having done practice of this kind,
 a man should fail to persevere, then in the course of time he might be overrun
 [reading abhibhūyeta]. Therefore one must not fail to persevere.
 
-## p. 36 (#92) ##############################################
-
 ### chunk 33 — yoga_sutras — I.15 — pāda 1
 
-i. 15-)
+## p. 36 (#92) ############################################## i. 15-)
 (36
 Book I. Concentration or Samādhi
 15. Passionlessness is the consciousness of being master on
@@ -979,7 +944,7 @@ it at Yoga-bindu, vs. 91 and elsewhere.
 
 ## p. 37 (#93) ##############################################
 
-### chunk 34 — yoga_sutras — 1.15-1.16 — pāda 1
+### chunk 34 — yoga_sutras — YS 1.15-1.16 — pāda 1
 
 37]
 Restriction of fluctuations by passionlessness
@@ -1020,11 +985,9 @@ with a perfect discrimination, resulting from the purity of this
 The central-organ (manas) is counted as the eleventh sense-organ and is the Single
 Sense here referred to.
 
-## p. 38 (#94) ##############################################
-
 ### chunk 35 — yoga_sutras — I.16 — pāda 1
 
-i. 16-]
+## p. 38 (#94) ############################################## i. 16-]
 [38
 Book I. Concentration or Samādhi
 passionless with regard to [all] qualities whether perceptible or notperceptible. Thus passionlessness is of two kinds. Of these [two],
@@ -1065,150 +1028,316 @@ the citta (Samkhya-sära, iii, near beg.).
 
 ## p. 39 (#95) ##############################################
 
-### chunk 47 — yoga_sutras — i.24 — pāda 1
+### chunk 37 — yoga_sutras — i.16-17 — pāda 1
 
-51]
-The Içvara and the other Selves
+## p. 40 (#96) ############################################## i. 16-]
+[40
+Book I. Concentration or Samādhi
+[knowable] Things; nothing but that. To this same effect he will say [iv. 29]
+"For one who takes no interest even in Elevation there always follows, as a
+result of discriminative discernment, the concentration [called] the Rain-cloud
+of [knowable] Things," and [iv. 31] "Then, because of the endlessness of perception from which all defilements and coverings have passed away, the knowable amounts to little." For this reason Isolation is inseparably connected with
+it [and] is an essential characteristic (avinābhāvin) of it.
+Now when the fluctuations of mind-stuff have been restricted by
+these two means, how are we to describe the [ensuing] concentration conscious [of an object] ?
+17. [Concentration becomes] conscious [of its object] by
+assuming forms either of deliberation [upon coarse objects]
+or of reflection [upon subtile objects] or of joy or of the
+sense-of-personality.
+Deliberation (vitarka) is the mind-stuff's coarse direct-experience
+(ābhoga) when directed to its supporting [object]. Reflection
+(vicāra) is the subtile [direct-experience]. Joy is happiness. The
+sense-of-personality is a feeling (samvid) which pertains to one self
+[wherein the Self and the personality are one]. Of these [four] the
+first, [that is, deliberation] which has [all] the four associated
+together is concentration deliberating [upon coarse objects]. The
+second, [that is, reflection,] which has deliberation subtracted [from
+it] is [concentration] reflecting [upon subtile objects]. The third,
+[that is, joy,] which has reflection subtracted from it, is [concentration] with [the feeling] of joy. The fourth, [that is, the sense-ofpersonality,] which has this [joy] subtracted from it, is [concentration] which is the sense-of-personality and nothing more.
+these kinds of concentrations have an object upon which they rest.
+After having mentioned the means (upaya), in order that he may state whatmay-be-obtained-by-these-means (upeya) in all its variations, he asks «Now...
+by these two means?>> 17. [Concentration becomes conscious [of its object]
+by assuming forms either of deliberation [upon coarse objects] or of
+reflection [upon subtile objects] or of joy or of the sense-of-personality.
+Since [concentration] not conscious [of an object] is preceded by [concentration]
+conscious [of an object), he describes first concentration [conscious] of an object.
+The generic-nature of [concentration] conscious [of an object] is to be learned
+from its association with the forms of delil eration and of reflection and of
+All
+
+## p. 41 (#97) ##############################################
+
+### chunk 38 — yoga_sutras — 1.17-1.18 — pāda 1
+
+41]
+Concentration conscious of an object
+[-i. 18
+joy and of the sense-of-personality as they are in themselves. He explains
+deliberation by the words the mind-stuff's.>> The direct-experience (ābhoga) [of
+an object] is an insight (prajñā) with a direct-perception (sākṣātkāra) of the thing
+itself. And this is coarse because the object is coarse. For just as an archer,
+when he is a beginner, pierces first only a coarse, and afterwards a subtile
+target, so the yogin, when a beginner, has direct experience merely of some
+coarse object of contemplation made of the five (material) elements, [for✓
+example] four-armed [Vishnu], and afterwards a subtile [object]. Likewise the
+subtile direct-experience, when directed to its supporting [object], is a reflection
+upon an object which is either the unresoluble-primary-matter (alinga) or the
+resoluble-matter (linga) or the five tanmatra which are the subtile elements,
+the causes of the coarse [elements]. - Having thus described the object to be
+known, he describes the object which is the process-of-knowing with the word
+<<joy.» Happiness is the mind-stuff's direct-experience when directed towards
+a sense-organ as a coarse supporting object. Sense-organs, as every one knows,
+arise from the personality-substance (ahaṁkāra), in so far as they have a disposition to illumine because of the predominance of the sattva [quality]. And
+because the sattva [gives] pleasure, these sense-organs also [give] pleasure.
+Thus direct-experience when directed to them is happiness. - With the words
+<afeelingwhichpertainstooneself>> he tells of the concentration which has
+the knower as its object (grahitrvisaya). Organs-of-sense are produced out of the f
+sense-of-personality. Consequently the sense-of-personality is their subtile form.
+Moreover this [sense-of-personality] together with the [Self as known becomes
+the idea (buddhi), that is, the feeling which pertains to one self. And because
+the knower becomes included in this [feeling], one may say that there is a
+[concentration] conscious of the knower as its object. - He gives another subordinate difference between [these] four in the words of these [four] the first.>>>
+The effect adjusts itself to the cause, not the cause to the effect. Hence this
+coarse direct-experience becomes associated [by inherence] with coarse [objects]
+and with subtile [objects], with sense-organs and with the feeling-of-personality,
+which are four kinds of causes. Furthermore, the other (first three directexperiences, inasmuch] as they have three or two or one cause, assume a triple
+or double or single form. The words <All these distinguish [concentration
+conscious of an object] from [concentration] not conscious [of an object].
+Now by what means is that concentration produced which is not
+conscious of any object? or what is its nature?
+18. The other [concentration which is not conscious of
+objects] consists of subliminal - impressions only [after
+The word sthula is used here in the sense of product as contrasted with sūksma in the
+sense of cause: cp. iii. 44.
+[H.O.8. 17]
+
+### chunk 45 — yoga_sutras — i.24 — pāda 1
+
+49]
+Nature of the Içvara
 [-i. 24
-In alluding to this he says «But now....primary-substance.>> He gives the
-reply to this objection in the following sutra. 24. Untouched by hindrances
-or karmas or fruition or by latent-deposits the Içvara is a special kind of
-Self. <<The <hindrances> are undifferentiated-consciousness and the rest», for it
-is these that, by the stroke of various kinds of misery, hinder a man within the
-round-of-rebirth. «Good (kuçala) or evil» are merit and demerit; and by a
-figurative expression they are called karma, because they proceed from karma.
-<<<Fruition» is birth and length-of-life and the [kind of] experience [ii. 13].
-<<<Corresponding to these :>> the subconscious-impressions corresponding to the
-fruitions. These subconscious-impressions are called latent-deposits because
-they lie in the ground of the mind-stuff. For, until [that particular] karma,
-[that is, some demerit], which precipitates (nirvartaka)1 the birth [of an individual]
-as a young elephant, makes manifest an impression (bhāvanā) [latent in his
-mind-stuff] which is characterized by a previously (prāg) [existing and potential
-kind of experience [proper to] a young elephant, -for so long [that karma] is not
-capable of [producing] the experience proper to a young elephant. Therefore it
-proves to be true that the impression which produces the experience (anubhava)
-of being born as a young elephant corresponds to the fruition as a young elephant.
-It might be said: 'Such things as hindrances, inasmuch as they are properties
-of the thinking-substance, can by no means whatsoever touch the Self. Accordingly merely by mentioning the word <Self> the absence of any trace of these
-[hindrances] is established. Consequently what need is there of the words
-<hindrances or karmas> and the rest?' In reply to this he says «These.>>>
-These [hindrances and karmas and fruitions and latent-impressions] although
-they reside in the central-organ (manas) are attributed to the Self who is in the
-round-of-rebirths. Why? «For it is he that is said to be the experiencer of
-the results of these [in the central-organ].>> That is to say, he is the thinker
-(cetayitr). Consequently the Içvara, because he is a Self, comes into relation
-with these. For this reason, [because these are only attributed to the Self], it is
-consistent to make a denial of this [relation]. This he does in the word «who.>>>
-For the Içvara is a special kind of Self who is untouched by this (kind] of
-experience, namely, that also found in the thinking-substance and common to
-the Selves in general. It is a special kind> in that it is specialized [and]
-discriminated from [all] other Selves. Desirous of pointing out what is not
-to be included in the words <aspecialkind> he first raises a counter-objection
-(paricodana) and then rebuts it in the words <Now these have obtained
-Isolation.» 1. There is the bondage to primary-matter in the case of those
-[whose bodies) are resolved into primary-matter. 2. There is [the bondage]
-to evolved-matter in the case of the discarnate. 3. There is the bondage to
-...
-This word is glossed in the Rahasyam
-by the word janaka. And the word
-'young elephant' karabha is said to
-mean an elephant which eats grass and
-twigs (katakāsthāçi hastīti).
+devotion to the Içvara. He discusses the words <By devotion. By devotion
+[that is] by a special kind of adoration either mental or verbal or bodily.
+<<He inclines», that is, He is brought near (to him) and favours him. «Profound-desire>> is a wish for some thing yet to come, to the effect that this thing
+coveted by him may be his. By this means only and not by any other
+functional-activity. The rest is easy.
+But it is now asked who is this (being] that we have called the
+Içvara, as distinct from the primary-substance and the Self?
+24. Untouched by hindrances or karmas or fruition or by
+latent-deposits the Içvara is a special kind of Self.
+The hindrances> are undifferentiated-consciousness and the rest
+[ii. 3]. The <karmas> are good (kuçala) or evil. The fruition> is
+the consequences which these [evolve). The latent-deposits>
+(āçaya) are subconscious-impressions (vāsanā) corresponding to
+these [fruitions]. These (hindrances and karmas and fruitions
+and latent-deposits], although they are found in the central-organ
+(manas), are attributed to the Self. For it is he that is said to be
+the experiencer of the results of these [in the central-organ]. Just
+as the victory or defeat which depends upon the combatants is
+attributed to [their] lord (svamin). For, the Içvara is a special
+kind of Self who is untouched by this [kind of] experience.
+Then there are those who have obtained Isolation; and those
+who are in Isolation (kevalin) are many. Now these by severing
+the three instruments of bondage have obtained Isolation; and
+the Içvara's relation to this [Isolation] belongs neither to the past /
+nor to the future, [but is eternal]. Thus it is not with Him as
+with the [ordinary] liberated [Self] that there has been expressly
+made known a terminus a quo of bondage (pūrvā bandhakoti).
+Nor is it with Him, as it is with one [whose body] is resolved into
+primary-matter, that there is a terminus ad quem, when bondage
+• According to Samkhya-sūtra i. 91-92 the
+Içvara should be classed as one of
+these.
+* The three bandhana would be 1. prakrti,
+2. vikāra, 3. daksiņā. Compare Sām.
+[H.O.S. 17]
+Tat. Kāum. xliv. The three vipāka are
+jāti, āyus, and bhoga (ii. 13). These
+three are also the upasarga (Vācaspati-miçra, i. 29, Calcutta edition,
+p. 6614).
 
-## p. 52 (#108) #############################################
+### chunk 52 — yoga_sutras — I.25 — pāda 1
 
-### chunk 79 — yoga_sutras — 1.43 — pāda 1
-
-i. 43-]
-[84
+## p. 56 (#112) ############################################# i. 25-]
+[56
 Book I. Concentration or Samādhi
-is thrown off. And when these are thrown off, predicate-relations in the form of
-an idea either of an inference or of anything heard, which two are rooted in
-memory, are thrown off. Then in the concentrated insight, freed from these
-predicate-relations, the intended object remains as it is in itself and nothing more ;
-and becomes accurately characterized as having just that form which it has in
-itself and as nothing more, and as not having any form of predicated-relation.
-This is the super-deliberative balanced-state. This is the higher perception of
-the yogin, since in it there is not even a trace of false attribution. An objection might be raised, 'This may be so. But yogins, having known the that-ness
-of the intended object, make it consistent [with other knowledge] and teach it.
-And (va) how can this intended object be taught by verbal communication or be
-made consistent by inference which is intended for another, both of which cases
-not referring to that [object which is intended in the higher perception]?
-Accordingly verbal-communication and inference [must] refer to that [higher
-object]. And since these two are predicate-relations, the higher perception is
-also nothing but a predicate-relation.' In reply to this he says «And this ...
-anything heard.>> For if this [knowledge], like that with deliberation, were
-accompanied by inference or by anything that had been heard, that is, if it had
-been tainted by either of these, then it would be confused. But it is only the
-germ of these two. For from it inference and anything that has been heard have
-their being. And it is not the rule that whatever is a cause of an effect has the
-same object as itself as its effect. For because the idea of smoke is the cause
-of the idea of fire, it does not therefore have this [fire] for its object. Consequently [the yogins] having known [the thatness of the intended object] by
-a perception free of predicate-relations1, teach it and make it consistent through
-the medium of predicate-relations. He sums up by saying «Therefore,>> and
-shows the connexion with the sutra which is to be explained by using the
-word «super-deliberative.>> The sūtra begins with the words 43. When the
-memory is quite purified. The purification2 is the removal of the memory
-which follows (tasmad) upon the predicate-relation which is nothing but the
-idea of the inference and of anything that has been heard and of the conventional-usage of words. When this occurs (tasyām). And in this case the
-purification from the memory of conventional-usages is the cause (hetu), and
-the purification from the memory of ideas, such as, of anything that has been
-1 A favourite verse to illustrate the gradual
-advance from the first dim impression
-to an assertion in distinct predicate
-form is Māgha's verse in Çiçupālavadha
-i. 3. First a ball of light; then a body;
-then a person is seen; finally one says
-"It is Narada!" as one beholds him
-falling from the sky.
-• This purification seems to be a relaxation
-of attention which has been given
-to a too closely limited field. Our
-deepest convictions may speak to us
-in dissociative processes wherein any
-fixed succession of apperceptive acts
-has ceased. The purification lies in
-a distribution of attention so that it
-regards a whole and disregards the
-successive parts.
+of the omniscient. He, verily, in whom this germ as it increases
+progressively reaches its utmost excellence is the omniscient.
+It is possible for the germ of the omniscient to reach this
+[uttermost] limit, for it admits of degrees of excellence, as in the
+case of any ascending scale. He in whom the limit of thinking
+is reached is the omniscient and He is a special kind of Self.
+[If you object that this argument would prove the omniscience of
+Buddha or of Jina, there would be this reply.) An inference exhausts (upakşaya) its force in bringing a general proposition to a
+conclusion, but is powerless to prove a particular instance. Therefore the ascertainment of the [Omniscient] one's special name is
+[not a matter of inference, but is rather] to be sought out in the
+verbal-communication, [which excludes the supposed cases, since
+their tradition is false]. Although He is above all feelings of selfgratification, yet (to this Içvara] the gratification of living beings
+is a sufficient motive. He may be conceived as resolving, 'By
+instruction in knowledge and in right-living, at the dissolution
+of the mundane period and at the great dissolution, I will lift up
+human beings, who are whirled in the vortex of existence.' And
+likewise it hath been said, "The First Knower, assuming a
+created mind-stuff through compassion, the Exalted, the Supreme
+Sage, unto Āsuri who desired to know, declared this doctrine."
+After having mentioned the sacred books as a means of proving (His) power of
+action and of knowledge, he shows that inference is a means of proving [His]
+power of knowledge. This is stated in the words <<Furthermore.>> 25. In
+this [Icvara] the germ of the omniscient is at its utmost excellence. Не
+discusses [the sutra) in the words <<This our.>> In proportion to the degree to
+which the tamas which covers the sattva of the thinking-substance has been removed, this our process-of-knowing supersensuous things, past and future and
+present, which occur separately as well as collectively, - [this] process may be
+qualified as being either small or great. This is the germ [or] cause of the omniscient. Some one knows a very little of the past or of the other times, another
+Compare sămānyenopasamhāraḥ, p. 100,
+line 4, Calcutta ed. of this work.
+• By Pañcaçikha in the first fragment as
+collected by Garbe in his article on
+Pañcaçikha und seine Fragmente (in
+Festgruss an Roth, Stuttgart, 1893),
+p. 77. This fragment is also discussed
+by Fitz Edward Hall in his edition
+of the Samkhya-Pravachana-Bhāshya,
+1856, Preface pp. 10 and 17. See also
+Garuda Purāņa i. 18.
 
-## p. 85 (#141) #############################################
+## p. 57 (#113) #############################################
 
-### chunk 93 — yoga_sutras — I.50-51 — pāda 1
+### chunk 59 — yoga_sutras — i.29-i.30 — pāda 1
 
-i. 50-]
-[98
-Book I. Concentration or Samādhi
+63]
+Results of meditation upon the Içvara
+[-i. 30
+to be described [ii. 32]. The words «Whatever...>> give the exposition of these
+[latter words]. The word <own>> [refers to his soul (ātman), that is, his self.
+The word «self» (rūpa) excludes all qualities attributed [to him] by undifferentiated-consciousness. One might well say that devotion to the Içvara has the
+Içvara as its object; how then can it apparently give a direct perception,
+a thinking in the inverse way [upon one's own real self]? For this would
+prove too much. In reply to this he says «as the Içvara.» «Undefiled :>>>
+not subject to origination or dissolution in so far as He is absolutely unchanged.
+<<<Undisturbed> means free from hindrances. «Isolated>> means beyond the
+scope of merit and demerit [and] consequently exempt from accidents.» «Accidents>> are birth and length of life and kind of experience [ii. 13]. - Since a
+homogeneity implies a certain degree of difference, he shows the difference
+between [Selves in general] and the Içvara by saying <conscious [by reflection] of its thinking-substance.>> In such wise the word (inverse> has been
+described. In the case of two objects which are totally irrelevant to each
+other, prolonged meditation on either one unfits one for a direct perception of
+the other. Whereas prolonged meditation upon one object proves to be of
+service for the direct perception of another similar to it. Similarly the
+study of one book proves to be of service for the acquisition of knowledge of
+another book similar to it. As for (tu) immediate-perception (pratyāsatti), it is
+the cause of direct perception with regard to one's own self, but not with regard
+to another self. Thus by meditating upon the Içvara, we learn about our own
+selves.] Thus the argument is cleared up.
+But what are these obstacles? Those which distract the mindstuff. But what are these [that are distractive] and (vā) how many
+are they? [He replies.]
+30. Sickness and languor and doubt and heedlessness and
+listlessness and worldliness (avirati) and erroneous perception
+and failure to attain any stage [of concentration] and instability in the state [when attained]-these distractions of the
+mind-stuff are the obstacles.
+There are nine obstacles, the distractions of the mind-stuff. These
+appear together with the fluctuations of the mind-stuff. And they
+are not found where the aforesaid fluctuations of mind-stuff are
+not. Sickness is a disorder in the humours [of the body] or in the
+secretions or in the organs. Languor is a lack of activity in the
+mind-stuff. Doubt is a kind of thinking which touches both alternatives [of a dilemma], so that one thinks 'This might be so;
+might not be so.' Heedlessness is a lack of reflection upon the
+
+### chunk 67 — yoga_sutras — YS 1.33 — pāda 1
+
+71]
+Friendliness, compassion, joy, indifference [-i. 33
+33. By the cultivation of friendliness towards happiness
+and compassion towards pain and joy towards merit and
+indifference towards demerit [the yogin should attain] the
+undisturbed calm of the mind-stuff.
+Of these 1 [four] he should cultivate friendliness towards all living
+beings that have reached the experience of happiness; compassion towards those in pain; joy towards those whose character
+is meritorious; indifference towards those whose character is
+demeritorious. When he thus cultivates [friendliness and the rest]
+the white quality [of karma] comes into being [within him].
+And then the mind-stuff becomes calm; and when calm it becomes
+single-in-intent and reaches the stable state.
+Because one whose central-organ is unpurified and full of such [feelings] as
+jealousy cannot successfully (sampatti) effect concentration and the means of
+concentration, he proceeds to set forth the means of [securing] undisturbed calm
+of the mind, which are hostile to such [feelings] as jealousy. This he does
+by saying «Of which [stable mind-stuff] this.>> In other words, of which
+stable mind-stuff this is the purification. The sutra begins with the words
+33 friendliness and compassion and ends with the words undisturbed
+calm
 ...
-this,>> which he removes with the words these do not. For the work of
-the mind-stuff is of two kinds, the enjoyment of sounds and other [perceptible]
-things (çabdadi) and discriminative discernment. With regard to these two
-[kinds of work], the mind-stuff, when it has latent-impressions of karma from
-the hindrances, proceeds to the enjoyment of sounds and other [perceptible]
-things; but for the mind, all of whose latent-impressions of karma from the
-hindrances have been uprooted by subliminal-impressions arising in insight, and
-whose state is that its task is nearly ended, the only work that remains is discriminative discernment. Accordingly subliminal-impressions from concentration are not the reasons why the mind-stuff has enjoyment as its task. On the
-contrary they are hostile to that. They cause the mind-stuff to cease from its
-work; they make it incapable [of that work] which has the character of enjoyment. This is the meaning. Why? «For the movement of the mind-stuff
-terminates at [the time of] discernment.>> Since in order to enjoy, the mind-stuff
-moves until it experiences discriminative discernment. But when discriminative discernment has come to pass, hindrances cease and it has no longer the
-task of enjoyment. Consequently the complete quiescence of the task of enjoyment is the purpose for which subliminal-impressions from insight exist. It is
-this that has been stated here.
-What further does he gain?
-51. When this [subliminal-impression] also is restricted,
-since all is restricted, [the yogin gains] seedless concentration.
-This [seedless concentration] is counter not only to concentrated
-insight but is opposed even to subliminal-impressions made in
-insight. Why? Because the subliminal-impression produced by
-restriction inhibits the subliminal-impressions produced by concentration. The existence of subliminal-impressions made by the
-mind-stuff in restriction may be inferred from the experience of the
-lapse of time during which there is stability (sthiti) of the restriction. Together with the subliminal-impressions which arise out
-of the emergent and restricted concentrations and which are conducive to Isolation, the mind-stuff resolves itself into its own permanent primary-matter. Therefore these subliminal-impressions
-are counter to the mind-stuff's task and are not causes of its
-stability. Consequently, its task ended, together with the subliminal-impressions which are conducive to Isolation, the mindstuff ceases [from its task]. When it ceases, the Self abides in
-himself and is therefore called pure and liberated.
+...
+When towards those who are happy the mind-stuff cultivates
+friendliness, that is, cordiality, (then) the taint of envy ceases. When
+towards those who are in pain [the mind-stuff] cultivates compassion, that is,
+a desire to destroy pain in another as if it were his own, [then) the taint of a
+desire to injure others ceases from the mind. When towards living-creatures
+whose disposition is meritorious the mind cultivates joy, that is, gladness,
+[then] the taint of jealousy ceases. When towards those whose disposition is
+demeritorious, the mind cultivates indifference, that is, neutrality, [then] the
+taint of wrath ceases. And then, after the qualities (dharma) made of rajas and of
+tamas have ceased, the white quality made of sattva comes into being. One may
+say that he becomes endowed with a superiority of sattva. When there canproperly-be-said-to-be (paksa) a restriction of the fluctuations, his mind-stuff,
+1 These form the chapter on the Brahma
+vihāras in the Visuddhi-Magga.
+2 Compare the statements in iv. 7 on white
+and black karma; and in ii. 13 on the
+rise of white karma.
+* This construction is a good instance of
+ἀπὸ κοινοῦ (kākākṣi).
+* This form (sāuhārdam) does not seem to
+accord with the examples given in
+Siddhānta kaumudi on vi. 3. 52 (Nirn.
+Sag. ed., 1904, p. 2072).
+* Medhatithi on Manu, in a characteristically Schopenhaurian frame of mind,
+informs us that friendliness is the
+absence of aversion (dvesābhāva) and
+not an attachment to one's friends.
+For that would be bondage. Similarly
+joy is the cessation of grief but not
+positive gladness. Because that would
+be the result of passion. See Bālarāma's
+notet p. 77 (Calc.ed.). Ihave not traced
+the passage to Medhatithi-bhatta.
 
-## p. 99 (#155) #############################################
+### chunk 73 — yoga_sutras — 1.41 — pāda 1
+
+## p. 78 (#134) ############################################# i. 41-]
+[78
+Book I. Concentration or Samādhi
+the knower or to the process-of-knowing or to the object-tobe-known, in the state of resting upon [one] of these [three]
+and in the state of being tinged by [one] of these [three], and
+[thus] is in the balanced-state.
+..
+The meaning of the words <from which
+fluctuations have
+dwindled away> refers [to the mind-stuff] of which the presentedideas have come to rest. He takes as the example the words <as
+from a precious gem.›1 Just as a crystal is tinged by the various
+colours of the different things next to which it lies and appears as
+having the form of the coloured (rūpa) thing-next-to-which-it-lies
+(upāçraya), so the mind-stuff is influenced by referring to the
+object-to-be-known and comes into a state-of-balance with the
+object-to-be-known and appears as having the form of the object-tobe-known as it is in itself. Influenced by a subtile element it comes
+into a state-of-balance with the subtile element and seems to be
+the subtile element itself. Likewise, influenced by referring to a
+coarse [element] it comes into a state-of-balance with a coarse form
+and seems to have a coarse form. Similarly, influenced by particular things of the world it comes into a state-of-balance with the
+particular thing of the world and seems to have the form of the
+world. An analogous situation would be found to exist also with
+reference to the processes-of-knowing, [that is] in the organs of
+Influenced by referring to a process-of-knowing it comes
+into a state-of-balance with the process-of-knowing and appears as
+having the form of the process-of-knowing as it is in itself. Similarly, influenced by referring to the Self as knower it comes into a
+state-of-balance with the Self as knower and appears as having the
+form of the Self as knower. Similarly, influenced by referring to
+a liberated Self it comes into a state-of-balance with the liberated
+Self and appears as having the form of the liberated Self. Thus it
+is that the mind, which is like a precious gem, in the state of resting upon [one] of these, upon the knower or upon a process-ofknowing or upon the object-to-be-known [that is] upon the Self or
+a sense-organ or an element, (and which is] in a state of being
+tinged by [one of these, (that is] while resting upon [one of] these,
+sense.
+1 Compare Çakuntala, First prose speech after ii. 7 (Pischel, p. 12512).
+
+## p. 79 (#135) #############################################
 
 ### chunk 94 — yoga_sutras — 1.51 — pāda 1
 
@@ -1250,9 +1379,7 @@ the yogin. And the moments of the higher passionlessness, in so far as they are
 1 Patañjala Rahasyam identifies this with dharma-megha.
 * As explained in i. 18.
 
-## p. 100 (#156) ############################################
-
-### chunk 96 — yoga_sutras — Book 2, Sutra 1 — pāda 2
+### chunk 96 — yoga_sutras — Book II.1 — pāda 2
 
 BOOK SECOND
 MEANS OF ATTAINMENT
@@ -1282,8 +1409,6 @@ quite purifies the sattva and performs the protective ordinances and daily
 See ii, 44 and compare Linga Pur. viii. 39.
 3 Contrast this with i. 23 and see also Linga
 Pur. viii. 40.
-
-## p. 104 (#160) ############################################
 
 ### chunk 98 — yoga_sutras — ii.2 — pāda 2
 
@@ -1331,11 +1456,9 @@ p. 3192 (Calc. ed.).
 • Deussen's excellent rendering of this word
 is Verinnerlichung.
 
-## p. 106 (#162) ############################################
-
 ### chunk 99 — yoga_sutras — II.3-4 — pāda 2
 
-ii. 3-] Book II. Means of Attainment or Sadhana
+## p. 106 (#162) ############################################ ii. 3-] Book II. Means of Attainment or Sadhana
 [106
 Now what are these1 hindrances and (vā) how many are they?
 3. Undifferentiated-consciousness (avidyā) and the feelingof-personality and passion and aversion and the will-tolive are the five hindrances.
@@ -1421,8 +1544,6 @@ See ii. 33.
 3 When they form a succession of tanu and
 atanu.
 
-## p. 108 (#164) ############################################
-
 ### chunk 108 — yoga_sutras — II.6 — pāda 2
 
 115]
@@ -1464,97 +1585,6 @@ them, that is, the capacity to be an enjoyer and to be objects to be enjoyed.-
 He elaborates the sutra by saying «The Self.>>- It might be asked, 'Why, since
 This is the sixth fragment of Pañcaçikha according to Garbe. Compare Bh. Gītā vi. 41.
 
-## p. 116 (#172) ############################################
-
-### chunk 110 — yoga_sutras — II.7-9 — pāda 2
-
-117]
-Passion, aversion, will-to-live
-[-ii. 9
-perceived, it is only after remembering that one of this same kind is the source
-of pleasure that he infers that this one is a source of pleasure in so far as it is of
-the same kind. After this follows the desire. He explains the words <dwells
-upon> by the word <<That.>>
-8. Aversion1 is that which dwells upon pain.
-That repulsion [or] wrath [or] anger, on the part of one acquainted
-with pain, ensuing upon a recollection of pain, for either the pain
-or for the means of attaining it, is aversion.
-8. Aversion is that which dwells upon pain. The words <acquainted with
-pain» are to be explained as [in the] previous [sūtra]. He explains the words
-<dwells upon> by the word <<that.>> Repulsion in the sense that it repels. The
-same he elaborates by synonyms, [for instance,] <wrath.>>>
-9. The will-to-live (abhiniveça) sweeping on [by the force of]
-its own nature 2 exists in this form even in the wise.
-In all living beings this craving for one's self ceaselessly rises,
-'May I not cease to live! May I live!' This craving for one's
-self does not arise except in one in whom the experience of death
-resides. And from [the existence] of this (hope] the experience of
-other births is made clear. And this is that well-known hindrance
-[called] the will-to-live. This [fear of death], inconceivable as a
-result of either perception or inference or verbal-communication,
-sweeping on [by the force of] its own nature, as a vision of extermination, forces the inference that the pangs of death have already
-been experienced in previous births. And just as it is evident that
-this fear is to be found in the unspeakably stupid, so also even in
-the wise, who have some understanding of the prior limit [of
-human lives], [that is, the round-of-rebirths,] and of their final
-Professor Deussen quotes most appositely
-Spinoza, Ethica iii. 13, Scholion, Amor
-nihil aliud est, quam laetitia concomitante idea causae externae; et odium
-nihil aliud, quam tristitia concomitante
-idea causae externae.
-* See Ruyyaka: Alaṁkārasarvasva (Kāvyamālā 35), p. 55', interprets the word as
-meaning merely eo ipso or by its own
-nature. Compare Rāmānanda Yati in
-Maniprabhā (Benares Sanskrit Series),
-1903, p. 307, vāsanā-āsangah svarasah.
-
-## p. 118 (#174) ############################################
-
-### chunk 114 — yoga_sutras — II.12 — pāda 2
-
-121]
-Karma rooted in hindrances
-[-ii. 12
-of the hindrances would be the Elevation (prasamkhyāna). In view of this
-inferiority the Elevation has been called very slight.
-12. The latent-deposit of karma has its root in the hindrances
-and may be felt in a birth seen or in a birth unseen.
-In this case we have a latent-deposit of the karma of merit and of
-demerit propagated1 from lust [or] from greed [or] from infatuation
-[or] from anger. And this may be felt either in a birth seen or
-may be felt in a birth not seen. Of these, that [latent-deposit of
-karma] which, in so far as there is keen intensity, proceeds from
-sacrificial formulae [and] from self-castigation [and] from concentration, and which is perfected by worship of the Içvara [or]
-of a deity [or] of a sage or magnanimous beings, has instantly
-its fruition as a latent-deposit of meritorious karma. Thus [for
-instance] when, in so far as the hindrance is keen, contempt is
-shown again and again to those who have sought protection in
-terror and in sickness and in wretchedness, or again to those
-magnanimous beings who castigate themselves, this [contempt]
-also has fruition as a latent-impression of evil karma. Just as
-the youth Nandīçvara passed out of the human form and was
-transformed into a divinity, so also Nahusa, Prince of the Gods,
-passed out from his proper mutation and was transformed into the
-condition of a brute. Among these [latent-deposits] there is, in
-the case of those who dwell in the underworlds, no latent-deposit
-of karma which might be felt in a birth seen [in this life]; and in
-the case of those hindrances which have dwindled, there is no latentdeposit of karma which might be felt in a birth unseen [that is, in
-another life].
-'This may be true. Hindrances [are hindrances] because they hinder [and
-because they are the causes of birth and of length-of-life and of kind-ofexperience; and the latent impressions of karma are of this kind (tathā). But
-undifferentiated-consciousness (avidyā) and the other [hindrances do not hinder
-1 A better reading is prabhara.
-* If mahānubhāva were a title of respect, it
-would precede the other members of
-the compound according to Pân. ii. 2.30
-and Siddhanta Kaum. (Nir. Sāg. ed.),
-1904, p. 1558.
-• See Linga Pur. viii. 43. 7-53.
-See MBh. v. 17.
-[H.O.8. 17]
-
-## p. 122 (#178) ############################################
-
 ### chunk 116 — yoga_sutras — II.13 — pāda 2
 
 123]
@@ -1590,8 +1620,6 @@ compact by one single impulse (ekapraghattakena). After accomplishing death, it 
 only. And this birth receives its length from that same karma. And
 again in that same length-of-life from that same karma it attains to
 its kind-of-experience. This latent-deposit of karma since it is the
-
-## p. 124 (#180) ############################################
 
 ### chunk 126 — yoga_sutras — II.15 — pāda 2
 
@@ -1631,8 +1659,6 @@ Why is this? It is because a wise man is like an eyeball. Just
 Maxims, 2nd ed., 1909, p. 76) points out
 that Vacaspati uses this nyāya again
 in the Tatparyațīkā (1898), p. 5313.
-
-## p. 134 (#190) ############################################
 
 ### chunk 128 — yoga_sutras — YS 2.15 — pāda 2
 
@@ -1677,93 +1703,102 @@ also a latent-deposit of karma made by aversion and by infatuation. And there
 is nothing contradictory in making infatuation, whose other name is misconception, the cause of a latent-deposit of the karma of infatuation also. If it be asked,
 1 Omitted in most MSS.
 
-## p. 136 (#192) ############################################
+### chunk 130 — yoga_sutras — II.15 — pāda 2
 
-### chunk 133 — yoga_sutras — II.16-17 — pāda 2
+137]
+Pain is past and present and future
+[-ii. 15
+lusts never subsides; just as by the butter-oblation the flames flare up yet
+once again." The rest is without obscurity.-2. He asks a question with regard
+to the painfulness of anxiety in the words, <Now what?>> The answer is
+<every one. As everybody knows what it is, he does not make a detailed
+statement of it as such. And the detailed statement is analogous to that of the
+painfulness of mutation.-3. He asks about the painfulness of subliminalimpressions by saying what?>> He gives the answer in the words <the
+experience of pleasure.>> For an experience of pleasure gives rise to a subliminal
+impression and this to a memory of pleasure; and this to a passion; and this to
+movements of the central-organ and of the body and of [the organ of] speech;
+and this [gives rise] to merit and demerit; from these [comes] the experience
+of fruition; from this a subconscious-impression. Thus there is a beginningless
+[chain]. Here the connexion should be understood in this way. There is
+a memory of pleasure and of pain according to the variation in the degree of the
+subliminal-impressions of pleasure and of pain; and from this comes passion
+and aversion; from these two come karma; from the karmas, fruition. Streaming
+on in this way the stream of pain hinders the yogin only, but not the other
+perceiver, [that is] any ordinary person, as he says in the words <Thus this...
+from-time-without-beginning.>> But the triple anguishes sweep down upon the
+other. This is the construction [of the sentence]. - In so far as the two
+anguishes, that from the gods and that from the elements, are [each] external,
+their unity is emphasized.-Since it is a fluctuation in the mind-stuff, undifferentiated-consciousness (avidyā) is said to be <fluctuating mind-stuff.>> Under the
+influence of] this, with regard to those very things which are to be rejected>>>
+[that is] with regard to the thinking-substance and the organs and the body and
+so on [as the 'I',] and with regard to wife and children [as the 'of me'], <he
+conforms [himself] to the 'I-substance' and to the 'Of-me-substance.'>> This
+being the case, there is no other refuge for him than the focused-insight. So
+he says «This being so.>> This being so, he has mentioned the extrinsic
+(āupādhika) painfulness of the pleasure in objects as a result of mutation and
+of subliminal-impressions and of contact with anxiousness. He (now) indicates
+the intrinsic [painfulness) by saying <<<And by reason of the opposition of the
+aspects (guna).>>>> He explains [this part of the sutra] by saying brightness.>>>
+Brightness and activity and inertia are the forms, in so far as they are forms
+of the thinking-substance, which enter into mutation. The aspects (guna) are
+sattva and rajas and tamas [and they are interdependent upon each other. They
+give rise to either 1. a tranquil (its essence is pleasure), or 2. a cruel (its
+essence is pain), or finally (eva) 3. an infatuated (its essence is dejection)
+presented-idea of [these] three aspects, although its form is an experience of
+pleasure. And not even this mutation of this [thinking-substance] having such
+a presented-idea as its form is fixed. Because of this he says "And because
+the changes of the aspects (guna) are unstable, the mind-stuff is in rapid mutation.">» It is objected, '[There is] one presented-idea; how can it at one time
+[H.O.S. 17]
 
-ii. 16-] Book II.
-Means of Attainment or Sadhana
-[140
-<<This same system is set forth in its four divisions.» 16. That which is to be
-escaped is pain yet to come. The words yet to come> exclude the past and
-the present. He makes this consistent by saying «pain past. If it be
-objected that present pain now in experience is not to be transferred beyond
-experience, he replies ≪And present.>> Easy.
-Therefore the cause of this same thing that is described as something to be escaped is once more specified.
-17. The correlation of the Seer and the object-of-sight is the
-cause of that which is to be escaped.
-The Seer is the Self conscious by reflection of the thinkingsubstance. Objects-of-sight are all external-aspects (dharma)
-which have struck upon the sattva of the thinking-substance. So
-this same object-of-sight giving its aid, like a magnet,1 by the mere
-fact of being near, becomes, by reason of its being an object-of-sight,
-the property of the Self, its proprietor, whose nature is seeing. It
-becomes changed into an object upon which experience operates, -
-in so far it has the nature of another. Having acquired [this new]
-being, although self-dependent, [it becomes] by serving one-notitself, dependent on one-not-itself. The correlation of these two,
-the power of seeing and the power by which one sees, is from timewithout-beginning and is effected for [two] purposes. (This correlation is] the cause of that which is to be escaped, in other words,
-the cause of pain. And in this sense it has also been said, "By
-avoidance of the cause of correlation with this [thinking-substance]
-the antidote for pain would be absolute." Why [would this be so]?
-Because we know the antidote to prevent the cause of pain. For
-example, we know that the liability-to-scratches inheres in the
-sole of the foot, the power to scratch inheres in the thorn,
-the prevention [of scratching] is either by not stepping with the
-foot upon the thorn or by stepping [upon it when the sole
-of the foot] is covered by a foot-protector. Whoever understands
-these three [scratch and cause and prevention] has begun the
-antidote therefor and is not exposed to the pain from scratches.
-1 Compare i. 4, p. 171; ii. 18, p. 143*; iv. 17, 300° (Calc. ed.).
-Compare iv. 24.
+### chunk 137 — yoga_sutras — II.18 — pāda 2
 
-## p. 141 (#197) ############################################
+## p. 144 (#200) ############################################ ii. 18-] Book II. Means of Attainment or Sadhana [144
+He tells what the object-of-sight itself is.
+18. With a disposition to brightness and to activity and to
+inertia, and with the elements and the organs as its essence,
+and with its purpose the experience and the liberation [of
+the Self], -[this is the object-of-sight.
+The sattva has the disposition to brightness; the rajas has the
+disposition to activity; the tamas has the disposition to inertia.
+These aspects (guna) with the [three] separate parts influencing
+each other, with external-aspects (dharma) in conjunction or in
+separation, with limitations1-in-extent (mūrti) brought about by
+basing them upon an interdependence of one upon another, -
+with separate powers, although in subservience to each other,
+still unconfused, - with conformations (anupātin) according to
+various disparate and comparate powers, with their presence
+manifested at the time when they become dominant, with their
+existence, although subordinate to the dominant [aspects] yet from
+their functional-activity (vyāpara) inferred as included in the
+dominant, with their faculties employed as effective for the
+purposes of the Self, - with their aid given, like that of a magnet,
+from the mere fact of being near, - following without any external
+cause after a fluctuation of any one of themselves-these aspects
+(guna) are denoted by the word primary-cause. And this is called
+<the object-of-sight.> This same object-of-sight enters into mutation as elements and as organs, -as elements such as earth and
+the others in coarse 2 and in subtile [form]. It enters likewise into
+mutation as organs such as the organ-of-hearing (crotra). But it
+is not without an impelling force. On the contrary, it acts only
+by accepting an impelling force. For the object-of-sight exists for
+the sake of the experience and the liberation of the Self. Of these
+[two], experience is the ascertainment of things with desirable
+qualities and of things with undesirable qualities so long
+as this [ascertainment] does not divide [the Self from the
+thinking-substance]. Liberation is the ascertainment of the
+1 Compare iii. 44, p. 254o (Calc. ed.).
+* This refers forward to the important and
+peculiardefinitions of coarse and subtile
+in iii. 44. See the illuminating words
+of Balarama in notes 1 and 2 of p. 144
+(Calc. ed.).
+• Compare drastuh starūpopalabdhiḥ s0
+'pavargah, ii. 23, p. 1574 (Calc. ed.).
 
-### chunk 134 — yoga_sutras — II.17 — pāda 2
+## p. 145 (#201) ############################################
 
-141]
-Cause of pain
-[-ii. 17
-Why [is this]? Because of his power to apperceive the three-fold
-character [of the case]. And to resume the argument (atrāpi), the
-sattva, the castigated, comes under the ownership of rajas, the
-castigator. Why [so] ? Since it stands in a passive relation to
-the activity of the castigator. The act of castigation affects
-the sattva as a passive object, but does not affect the immutable
-and inactive Soul (kşetrajña). [Why inactive ?) Since it has
-objects shown to it. But if the sattva be under castigation, the
-Self, it appears, conforming itself to the form of this [sattva] is
-itself castigated along with [the sattva].
-That which is to be escaped has been described. Its cause (nidāna) is [now]
-described 17. The correlation of the Seer and the object-of-sight is the cause
-of that which is to be escaped. He tells of the Seer himself in the words
-<<The Seer... conscious by reflection of the thinking-substance.>> The intelligence (citi) belonging to the Self (Pums), although it is detached, becomes conscious by reflection of the thinking-substance, and this consists in the thinkingsubstance being imaged (chāyā) [in the intelligence]. It is objected that 'even if
-this be so, [the Self] could see the thinking-substance only, but could not see
-the various things (çabdādi) which are absolutely shut off [from it)'. To this he
-replies, «Objects-of-sight... the (sattva) of the thinking-substance.>> When by
-the channel of the senses the thinking-substance enters into mutations having
-the forms of various things and when it is an object-of-sight, the various things,
-the external-aspects, are also objects-of-sight. It is objected, 'In so far as the
-thinking-substance has assumed the form of these [things], it may have the form
-of the various things. But if, in the case of the Self, his relation to the thinking-substance be assumed, he would be mutable. Yet if there be no relation
-between them, how can the various things, although present in the (sattva) of
-the thinking-substance, be objects-of-sight? For surely an object-of-sight not
-in relation with the Seer cannot be called an object-of-sight.' To this he replies,
-<this same object-of-sight.>>> All this has been given in detail by us in Book First,
-where we showed [i. 7, p.22] that the sattva of the thinking-substance, although not
-in combination with intelligence (caitanya), in so far as it is absolutely clear, still,
-in so far as it contains the image (bimba) of the intelligence, seems to come into
-a balanced state [with the intelligence] and [so] experiences the various things.
-Hence also the Seer, enjoying within himself the pleasures and other [experiences] offered by the sattva of the thinking-substance which has entered into
-mutation in the form of the various things, becomes the proprietor. And the
-sattva of the thinking-substance [having mutations] of such a kind becomes his
-property. So this same sattva of the thinking-substance, containing the forms
-of the various things, becomes the object-of-sight; and being like a magnet, it
-becomes the property of the Self whose nature is seeing and who is the proprietor.
+### chunk 147 — yoga_sutras — YS 2.20 — pāda 2
 
-## p. 142 (#198) ############################################
-
-### chunk 147 — yoga_sutras — II.20 — pāda 2
-
-ii. 20-] Book II. Means of Attainment or Sadhana
+## p. 154 (#210) ############################################ ii. 20-] Book II. Means of Attainment or Sadhana
 [154
 The object-of-sight has been explained. Now this sūtra is introduced with the intent of determining what the Seer as such is.
 20. The Seer, who is nothing but [the power of] seeing,
@@ -1806,7 +1841,7 @@ comments on Samkhya-kärikä xxiii.
 
 ## p. 155 (#211) ############################################
 
-### chunk 148 — yoga_sutras — II.20 — pāda 2
+### chunk 148 — yoga_sutras — YS 2.20 — pāda 2
 
 155]
 Presented-ideas instruments of the Self
@@ -1848,98 +1883,6 @@ change into the likeness [of the Seer].' In reply to this he says, «nor
 1 That is to say, unspecialized.
 * This is Pañcaçikha's ninth fragment. It is quoted again in iv. 22.
 
-## p. 156 (#212) ############################################
-
-### chunk 149 — yoga_sutras — II.20 — pāda 2
-
-ii. 20-] Book II. Means of Attainment or Sadhana
-[156
-utterly heterogeneous.>>> Of these [two], he rejects the homogeneity in the
-words, <not even homogeneous.>> The reason [for this] he asks by saying
-<<<why?>> For the heterogeneity he gives a reason which itself contains a
-reason, in the words, <known or not known.>> Because the thinking-substance
-enters into mutations, it is heterogeneous. When, as we know, this [thinkingsubstance] changes into the form of [the various things from] sound down.
-wards, then the object, having the distinguishing characteristics of [the various
-things from] sound downwards, becomes known to this [thinking-substance];
-but when not so changed into the form of these [things], the object does not
-become known to it. And so only occasionally it assumes the forms of these
-[things] and enters into mutations. And the argument is [of this kind): The
-thinking-substance enters into mutations; since objects are [sometimes] known
-and [sometimes] not known by it; just as the organ of hearing and other
-organs [are sometimes active and sometimes not]. And the Self proves to be
-of different properties to this, because the middle term [that is, always-known]
-is contrary to this, as he says, Kalways known.>> The objector says, 'This
-may be so. But if the Self always has its object known, then he could not
-be isolated.' With this in mind, he asks, «Why do we say this]?>> Не
-gives the answer in the words, «Because surely ..not...for the thinkingsubstance.>> In the state of restriction the thinking-substance may exist and
-at the same time there may be no process of apperception [by the Self].
-Therefore in order to indicate the contradiction, it is said, an object to the
-Self.>> So the first <<and» (buddhiç ca) has an accumulative force and makes
-the thinking-substance an object; but the two remaining «ands» (visayaç ca
-and 'grahītā ca) are to make the contradiction clear. The argument, however,
-is this. The Self enters not into mutation; because objects are always known
-to it in the conscious and emergent states'; whatever enters into mutation
-does not always have its objects known; just as the organ of hearing or other
-[organs]. This is a negative instance of the middle term [sadā-jñātaviṣayatvāt].
-He gives another [instance] of difference in properties in the words, «Moreover
-...
-...
-for the sake of another.>> For the thinking-substance, in so far as it fulfils
-the purpose of the Self by combining with hindrances and karma and subconscious-impressions and with objects and organs, is for the sake of another.
-The argument, moreover, is this: The thinking-substance is for the sake of
-another; because it acts by combining causes; like a bed or a seat or an
-ointment. But the Self is not like that, as he says the Self exists for its own
-sake.>> Everything serves the purpose of the Self, but the Self serves no other.
-This is the point. He gives yet another [instance] of difference in properties in
-the words, «Thus... each thing.>> The thinking-substance determines all
-things as being serene or cruel or infatuated when it mutates into their forms.
-And these [three] are mutations of the sattva and rajas and tamas aspects. Thus
-* This excludes the state unconscious of objects.
-* Compare Samkhya-kärikā xvii.
-
-## p. 157 (#213) ############################################
-
-### chunk 154 — yoga_sutras — II.23 — pāda 2
-
-161]
-Explanations of non-sight of the Self [-ii. 23
-with the object-for-sight as property. That apperception of the
-object-for-sight which results from this correlation is experience.
-Whereas the apperception of what the Seer is, is liberation. Since
-the correlation lasts until sight is effected, sight is said to be the
-cause of discorrelation. Since sight and non-sight are opposite to
-each other, non-sight is said to be the instrumental cause of correlation. Sight in this [system] is not the cause of release; but the
-absence of bondage results from the absence of non-sight. This is
-release. Where there is sight, non-sight, which is the cause of bondage, ceases [to be felt]. Thus the perception which is sight is said
-to be the cause of isolation. And what is this so-called non-sight ?
-1. Is it the authority (adhikāra) of the aspects (guna) [over the
-Self]? 2. Or is it the case that, when in [the equipoised state of]
-the primary-cause, the mind-stuff, by which the objects are shown
-to the proprietor in his capacity as Seer, fails to produce [effects],
-there is non-sight, although the property, the object-for-sight,
-exists? 3. Or is it that the aspects (guna) possess the intendedobjects [in potential form]? 4. Or is undifferentiated-consciousness (avidyā), which, together with its own mind-stuff, has been
-restricted, the seed for the production of its peculiar mind-stuff?
-5. Or is it the manifestation of subliminal-impressions in motion
-(gati) after the subliminal-impressions in equilibrium (sthiti) have
-dwindled away? Of which [theory] this has been said, "The
-primary cause if it existed, on the one hand, in equilibrium (sthiti)
-only, would be a non-primary cause, because it would not cause
-any evolved effect. Similarly, if on the other hand it existed in
-motion (gati) only, it would be a non-primary cause, because the
-evolved effects would be permanent. And since it does act in
-both ways [equilibrium and motion] it is ordinarily termed primary
-substance; not otherwise. Also with regard to other supposed
-causes the same reasoning [applies]." 6. According to some
-non-sight is nothing but the power by which one sees, as the
-Sacred Word says, "The primary cause acts with the intent of
-displaying itself." The Self capable of illuminating all illuminable
-1 Compare iv. 34.
-* Udāsīna Bālarāma attributes this to Pañcaçikha.
-[H.O.S. 17]
-* Reading vrtti.
-
-## p. 162 (#218) ############################################
-
 ### chunk 162 — yoga_sutras — II.25-26 — pāda 2
 
 169]
@@ -1977,11 +1920,9 @@ perfection of cultivation for a long time, uninterruptedly, and with earnest
 1 Discussed in Samkhya Tattva Kaumudi on Kār. 51.
 [H.O.8. 17]
 
-## p. 170 (#226) ############################################
-
 ### chunk 163 — yoga_sutras — II.27 — pāda 2
 
-ii. 26-] Book II. Means of Attainment or Sadhana [170
+## p. 170 (#226) ############################################ ii. 26-] Book II. Means of Attainment or Sadhana [170
 attention, [and which] has direct perception and has uprooted erroneous perceptions together with their subconscious impressions, [and which is thus]
 unwavering, this is the means of escape. The rest of the comment is easy.
 27. For him [there is] insight seven-fold and advancing in
@@ -2024,7 +1965,7 @@ p. 269o (Calc. ed.).
 
 ### chunk 171 — yoga_sutras — II.30 — pāda 2
 
-ii. 30-] Book II. Means of Attainment or Sadhana [178
+## p. 178 (#234) ############################################ ii. 30-] Book II. Means of Attainment or Sadhana [178
 Of these [eight]-
 30. Abstinence1 from injury and from falsehood and from
 theft and from incontinence and from acceptance of gifts are
@@ -2067,45 +2008,48 @@ Manu iv. 138 and viii. 138.
 
 ## p. 179 (#235) ############################################
 
-### chunk 174 — yoga_sutras — YS 2.31-2.32 — pāda 2
+### chunk 172 — yoga_sutras — ii.30 — pāda 2
 
-181]
-Five observances
-[-ii. 32
-to nothing else. - The same is qualified in respect of place, as when
-one says, 'I will not slay in a holy place.' - The same is qualified
-in respect of time, as when one says, 'I will not slay on the
-fourteenth day [of the lunar fortnight] nor on a day of good omen.
--The same, in the case of one who refrains from [these] three is
-qualified in respect of exigency, as when one says, 'For the sake of
-gods and brahmans and not otherwise I will slay.' Likewise also
-in the case of the warrior who says, 'In battle only [I will do]
-injury, and nowhere else.' Abstinence-from-injury and the other
-[abstinences] unqualified by these species or times or places or
-exigencies must be kept when [covering] no less than all [these]
-cases. <In all [these] classes> means with regard to all [these]
-objects. Without exceptions in no less than all [these] classesthis is what is meant by speaking of the Great Course-of-conduct1
-when [covering] all [these] stages.
-<<<Now as for these.>> The sutra begins with the words 31... by species and
-ends with the words Great Course-of-conduct. <When [covering] all [these]
-classes> means of those which are found in all [these] stages which are characterized as being species and the other [three stages]. The words <Abstinencefrom-injury and the other [abstinences]>> mean that the definition [of the Great
-Course-of-conduct] must be asserted in the case of the other abstentions also.
-The Comment is easy.
-32. Cleanliness and contentment and self-castigation and
-study and devotion to the Içvara are the observances.
-Of these [five], cleanliness is produced by earth or by water or the
-like, and by the consumption and other [requirements] with regard
-to pure sacrificial food. This is outer. Inner [cleanliness) is the
-washing away of the blemishes of the mind-stuff. - [To practise] contentment means not to covet more than the means at hand. Selfcastigation is the bearing of extremes, hunger and thirst, cold and
-heat, standing and sitting, stock-stillness and formal stillness,
-and, according to usage, courses-of-conduct such as mortifications
-(krcchra) and lunar fasts and rigid penances. - Study is the
-1 Compare Manu xii. 1-6.
-* Manu xi. 106, &c.
-* Manu vi. 20, &c.
-* Manu xi. 213, &c.
-
-## p. 182 (#238) ############################################
+179]
+Five abstentions
+[-ii. 30
+ing them or keeping them or losing them or in being attached to
+them or in harming them. These then are the abstentions.
+Having announced the aids [to yoga] of which the first are the abstentions and
+the observances, he introduces a sutra which specifies the abstentions by saying
+<of these [eight].>> The sutra begins with the words 30. Abstinence from
+injury and ends with the word abstentions. He describes the aid to yoga [called]
+abstinence from injury by saying, in every way.>> He praises such abstinencefrom-injury with the words, «And the other.» «Rooted in it would mean
+that, even if these are performed without observing abstinence from injury, they
+are as if they had not been performed, since they are quite fruitless. This is
+the meaning. The following up of them has nothing as its aim but the perfection of this [abstinence-from-killing). 'If abstinence-from-killing has the others
+rooted in it, how can it be that they aim at the perfection of the abstinencefrom-injury?' To this he replies, in order to teach it.» «Perfection> [in other
+words] the rise into consciousness of a thought. An objector asks, 'This may be
+true. But if the others exist for the sake of knowing abstinence from injury,
+what need of them, since this thought comes from the other source?' In reply
+he says, Kits spotlessness. If the others were not followed up, abstinence-frominjury would be defiled by falsehood and other [vices). With reference to this
+same point he tells of a concurrent opinion of those-who-have-the-tradition
+(agamika) in the words, «And in this sense it has been said.>> Easy. - He gives
+the distinguishing characteristic of abstinence-from-falsehood in the words,
+<speech and mind such as correspond to the object-intended.>> The word such
+(yathā) raises an expectation which is fulfilled by the words <corresponding to
+what is seen.>> He brings this into connexion with the correlated word
+<corresponding-to (tathā)>> in the expression <speech and mind corresponding
+to.» [This should be, whenever there is a desire to say [something). (If spoken]
+otherwise [than as seen], it is not abstinence-from-falsehood. This is stated with
+an explanation in the words to some other person.>> In order that knowledge
+thereof may pass to some one else, speech is spoken [or] uttered to produce knowledge similar to one's own knowledge. If it is not deceitful [or] the cause of
+deceit, [it is abstinence-from-falsehood]. Just as when Drona the Master [MBh.
+vii. chap. 190] asked Yudhisthira [the king] with regard to the death of his own
+son Açvatthāman, 'Venerable sir (@yusman), thou who art rich in truth, has
+Açvatthāman been slain?' And he having in mind the elephant who had
+the corresponding name said, 'It is true, Açvatthāman is slain.' This is an
+answer which does not make Yudhisthira's own knowledge pass to [the other
+person]. For his own knowledge derived from the sense-organ1 had as its
+object the slaying of the elephant and this [knowledge] was not passed [to
+Drona]. But quite another knowledge, that of the slaying of the latter's son,
+was formed [in Drona's mind].-<<Or mistaken» means due to a mistake, either
+1 Reading indriya-janmā with the Bikaner MS. and the Bombay and Poona editions.
 
 ### chunk 176 — yoga_sutras — ii.33-34 — pāda 2
 
@@ -2144,100 +2088,91 @@ opposites.
 • Compare aho vighnaratyaḥ prārthitārthasiddhayaḥ, Çakuntala, Act iii, near end;
 and χαλεπὰ τὰ καλά Repub. 435 c, 497 D.
 
-## p. 184 (#240) ############################################
+### chunk 177 — yoga_sutras — II.34 — pāda 2
 
-### chunk 180 — yoga_sutras — II.38-41 — pāda 2
+## p. 184 (#240) ############################################ ii. 34-] Book II. Means of Attainment or Sadhana
+[184
+Of these [considerations], first of all, injury, since it is done or caused
+to be done or approved, is three-fold. Moreover, each of these
+is three-fold, in so far as there is greed [such as] desire for the
+meat or for the skin, or in so far as there is anger as when a man
+thinks he has been hurt by that man', or in so far as there
+is infatuation as when a man thinks [that what he is doing] 'will
+be merit for me'. Again, since greed and anger and infatuation are
+three-fold as being mild and moderate and vehement, there are
+thus seven-and-twenty varieties of injuries. Yet again, since
+[these are] gentle and moderate and extreme [these are] threefold as follows, gently mild and moderately mild and keenly mild;
+similarly, gently moderate and moderately moderate and keenly
+moderate; likewise, gently keen and moderately keen and vehemently keen. Thus injury is of one-and-eighty varieties. It is,
+however, innumerable because of the varieties due to specifications
+(niyama) and to options (vikalpa) and to aggregations (samuccaya),
+due to the fact that the varieties of those-who-breathe-the-breathof-life are innumerable. In the same manner [the classification] is
+to be applied to falsehood and to the other [crimes). Now since
+these perverse considerations have endless consequences in pain
+and in lack of thinking, one should cultivate their opposites. [In
+other words], there is a cultivation of those things the endless
+consequences of which are pain and a lack of thinking. And to
+continue, he who commits an injury first of all reduces the strength
+of the victim, then causes him pain by falling upon him with
+a knife or something of the kind, [and] afterwards even deprives
+him of life. When once he has taken away [the victim's] strength,
+his own animate or inanimate aids begin to have their strength
+dwindle away. As a result of causing pain, he himself experiences
+pain in hells and in [the bodies of] animals and of departed spirits
+and in other [forms). As a result of uprooting (the victim] from
+life, he himself continues from moment to moment at the very
+point of departure from life. And even while wishing for death he
+Raghavānanda in the Patañjala-Rahasyam
+attributes this quotation to Paksilasvamin. It is found in Vätsyāyana's
+Bhāsya (Vizian. ed. p. 17); and quoted,
+with a change in the order of words,
+by the Udyotakara in the Nyaya-
+Värttika (Bibl. Ind. p. 910).
+• See Vācaspati on ii. 15, p. 114o (Calc. ed.).
 
-187]
-Results of abstentions
-[-ii. 39
-38. As soon as he is grounded in abstinence from incontinence, he acquires energy.
-By the acquisition of which the yogin increases [his] unhindered 1
-qualities. And when he is perfected he is able to transfer [his]
-thinking to [his] pupils.
-38. As soon as he is grounded in abstinence from incontinence, he acquires
-energy. Energy [that is] power. By the acquisition of which he increases
-[or] accumulates qualities, such as minuteness, which are unhindered [that is]
-which have not been hindered. And when perfected he is endowed with the
-eight perfections of which the first is [called] tāra and also by other names
-such as Reasoning (üha). He is able to transfer his thinking which relates to
-the aids to yoga to his pupils [or] disciples.
-39. As soon as he is established in abstinence-from-acceptance-of-gifts, a thorough illumination upon the conditions of
-birth-
--Becomes his. 'Who was I? How was I? Or what [can] this
-birth be? Or how (can) this (birth) be? Or what shall we
-become? Or how shall we become?' Such a desire to know his
-own condition in former and later and intermediate times becomes
-of itself fulfilled 3 for him. These when he is established in the
-abstentions are the perfections.
-39. As soon as he is established in abstinence-from-acceptance-of-gifts, a
-thorough illumination upon the conditions of birth. Birth is [coming into]
-relation with a body and with sense-organs and the rest which are particularized
-as belonging to some class [of beings). There is a thorough illumination, a
-direct perception of the conditions [of birth] [or] of what kinds [of birth]. That
-is to say, a thorough knowledge of a quiescent or uprisen or indeterminable
-birth together with its form [of experience]. He desires to know the past in
-the words, 'Who was I?'>> He desires to know the different details as to
-origin and persistence of this same [birth] in the words, «' How was I?» Не
-desires to know what the present birth itself is in the words, <<'Or what?>>>
-Is the body made directly of elements, or is it nothing but an aggregation of
-elements, or is it other than these? Here also the words 'Or how' might be
-supplied. Elsewhere this is the actual reading.
-in the words, <<'Or what shall we become?>>
-are [to be] supplied.
-«Such for him.>>
-• Samkhya-kārikā li.
-..
-He desires to know the future
-Here again the words 'Or how'
-The former [time] is past time;
-• The Vart. says viçistā bhavati.
-1 See Manu xii. 28.
-• In the text of Vacaspati katham vā apparently was lacking.
+## p. 185 (#241) ############################################
 
-## p. 188 (#244) ############################################
+### chunk 192 — yoga_sutras — Book 3, sutra 1 — pāda 3
 
-ii. 39-]
-[188
-Book II. Means of Attainment or Sadhana
-the later is future; the intermediate is the present. The existence of the self
-in these is a relation with a body and the rest. There is a desire to know this
-and from desire comes knowledge according to the maxim, "He who desires
-anything, does that same thing."
-We will speak with regard to observances.
-40. As a result of cleanliness there is disgust at one's own
-body and no intercourse with others.
-As soon as there is disgust with his own body, he has begun
-cleanliness. Seeing the offensiveness of the body, he is no longer
-attached to the body and becomes an ascetic (yati). Moreover
-there is no intercourse with others. Perceiving the true nature of
-the body, desirous of escaping even his own body, even after
-he has washed it with earth and water and other [substances], not
-seeing any purity in the body, how could he have intercourse with
-the bodies of others absolutely unhallowed as they are?
-40. As a result of cleanliness, there is disgust at one's own body and no
-intercourse with others. By this [sūtra] it is told what is indicative of perfection in outer cleanliness.
-Furthermore [as other results],
-41. Purity of sattva and gentleness and singleness-of-intent
-and subjugation of the senses and fitness for the sight of the
-self-
-The word 'arise' completes the sentence. As a result of cleanliness there is purity of sattva; therefrom [it acquires] gentleness;
-from this [it acquires] singleness-of-intent; therefrom [it acquires]
-subjugation of the senses; and from this fitness for the sight of the
-self is acquired by the sattva of the thinking-substance. So to
-this [last] there is access, as a result of his being established in
-cleanliness.
-He tells what is indicative of inner perfection by saying «Furthermore.» 41.
-Purity of sattva and gentleness and singleness-of-intent and subjugation
-of the senses and fitness for the sight of the self. When the defilements of
-* Compare ii. 5, p. 113o (Calc. ed.).
-• See Linga Pur. viii. 32-33.
+BOOK THIRD
+SUPERNORMAL POWERS
+The five indirect aids [to yoga] have been described. Fixed
+attention1 is [now] to be described.
+1. Binding the mind-stuff to a place is fixed-attention.
+Binding of the mind-stuff, only in so far as it is a fluctuation, to
+the navel or to the heart-lotus or to the light within the head or
+to the tip of the nose or to the tip of the tongue or to other places
+of the same kind or to an external object, this is fixed-attention.
+The First and Second Books described Concentration and the means thereto. In
+the Third Book the supernormal powers are to be described which are reasons
+for propagation of belief and which are favourable to this [concentration and
+its means]. These supernormal powers are to be accomplished by constraints
+(samyama). And constraint is the combination of fixed-attention and of contemplation and of concentration. So inasmuch as these [three] are the means of
+accomplishing the supernormal powers, we have here a mention of these three,
+in order to make known the particular quality of each as being direct aids to
+yoga and as contrasted with the five which are indirect aids. And with
+regard to these [three], fixed-attention and contemplation and concentration
+are in the relation of cause to effect, and the serial order [of causes and
+effects] is specified. Therefore this order is followed in the order of the statements. Accordingly, fixed-attention is the first to be characterized. So he says
+1. Binding the mind-stuff to a place is fixed-attention. He describes a
+place belonging to one's self by the words to the navel.>> By the words
+<other places of the same kind>> we must understand the palate and so forth.
+The binding is a relation. He describes an external place by the words «or
+to an external.» And with an external object the mind-stuff as such cannot
+have a relation. So it is said, only in so far as it is a fluctuation,>> in other
+words, only so far as it is a perception. On this point also there is a Purana,
+"Having mastered his breath by restraint of breath and his organs by with-
+1 See also ii. 29 and 53.
+• Compare Maitrī Upan. vi. 20 and Garuda
+Pur. ccxxvi. 21.
+* Compare Patanjali: Mahābhāsya I. 225";
+I. 356 (Kielhorn's ed.) and frequently.
+• Vishnu Pur. vi. 7. 45 and Nāradīya Pur.
+lxvii. 21.
 
-## p. 189 (#245) ############################################
+### chunk 249 — yoga_sutras — III.33-35 — pāda 3
 
-### chunk 248 — yoga_sutras — III.33-35 — pāda 3
-
-iii. 33-]
+## p. 262 (#318) ############################################ iii. 33-]
 [262
 Book III. Supernormal Powers or Vibhūti
 khyāna), there results, when he attains perfection therein, an [intuitive] knowledge due to that self-asserting which is the preliminary indication (linga) of
@@ -2274,7 +2209,7 @@ even to the sattva which is mutable. Experience is a presentedidea which fails t
 
 ## p. 263 (#319) ############################################
 
-### chunk 249 — yoga_sutras — iii.35 — pāda 3
+### chunk 250 — yoga_sutras — iii.35 — pāda 3
 
 263]
 [-iii. 35
@@ -2322,11 +2257,9 @@ it be objected that the sattva of the thinking-substance might be different from
 1 Brhad-Aran. Up. ii. 4. 14 and iv. 5. 15. * For example, i. 4, p. 16; ii. 17, p. 141;
 and also iv. 22, p. 306 (Calc. ed.).
 
-## p. 264 (#320) ############################################
+### chunk 251 — yoga_sutras — III.35 — pāda 3
 
-### chunk 250 — yoga_sutras — III.35 — pāda 3
-
-iii. 35-]
+## p. 264 (#320) ############################################ iii. 35-]
 [264
 Book III. Supernormal Powers or Vibhūti
 the Self, but that experience could not be different from the Self, he replies «This
@@ -2371,9 +2304,9 @@ is discerned] by no one.
 
 ## p. 265 (#321) ############################################
 
-### chunk 252 — yoga_sutras — III.37-38 — pāda 3
+### chunk 253 — yoga_sutras — III.37-38 — pāda 3
 
-iii. 37-] Book III. Supernormal Powers or Vibhūti
+## p. 266 (#322) ############################################ iii. 37-] Book III. Supernormal Powers or Vibhūti
 [266
 [But] arising [in the yogin] whose mind-stuff is emergent, they
 are perfections.
@@ -2410,7 +2343,7 @@ word <concentration» is used [instead of 'constraint,'] because it is predomina
 
 ## p. 267 (#323) ############################################
 
-### chunk 269 — yoga_sutras — iii.49 — pāda 3
+### chunk 270 — yoga_sutras — iii.49 — pāda 3
 
 283]
 Subjugation of the primary cause
@@ -2451,11 +2384,9 @@ in the form of knowledge and of activity, are for the sake of the discernment
 into the difference between the sattva and the Self by way of the confidence
 1 See also i. 15, pp. 416 and 423; i. 35, p. 81*; i. 40, p. 84%o; ii. 26, p. 1641" (Calc. ed.).
 
-## p. 284 (#340) ############################################
+### chunk 271 — yoga_sutras — III.49-50 — pāda 3
 
-### chunk 270 — yoga_sutras — III.49-50 — pāda 3
-
-iii. 49-] Book III. Supernormal Powers or Vibhūti
+## p. 284 (#340) ############################################ iii. 49-] Book III. Supernormal Powers or Vibhūti
 [284
 ...
 produced by grasping the perfections in turn and binding them together.
@@ -2503,7 +2434,7 @@ ii. 24, p. 1622; ii. 27, p. 1665; iii. 55,
 
 ## p. 285 (#341) ############################################
 
-### chunk 271 — yoga_sutras — iii.50-51 — pāda 3
+### chunk 272 — yoga_sutras — iii.50-51 — pāda 3
 
 285]
 The gods allure yogins
@@ -2542,11 +2473,9 @@ Yonder are the Wishing Trees; the Stream-of-heaven (mandākinī)
 confers blessedness; the sages are perfected; the nymphs are
 1 Compare SBE. xxi, Kern, Saddharmapundarīka, p. 387. • Invite, seek to attract.
 
-## p. 286 (#342) ############################################
+### chunk 273 — yoga_sutras — III.51 — pāda 3
 
-### chunk 272 — yoga_sutras — III.51 — pāda 3
-
-iii. 51-] Book III. Supernormal Powers or Vibhūti [286
+## p. 286 (#342) ############################################ iii. 51-] Book III. Supernormal Powers or Vibhūti [286
 incomparable and not prudish. Eyes and ears [will become]
 supernal; the body like diamond. In consequence of your peculiar
 virtues, Venerable Sir, all these things have been won by you.
@@ -2590,7 +2519,7 @@ Compare the stanza ajarāmaravat prājñaḥ, &c., Hitopadeça, Introd., verse 3
 
 ## p. 287 (#343) ############################################
 
-### chunk 280 — yoga_sutras — iii.55 — pāda 3
+### chunk 282 — yoga_sutras — iii.55 — pāda 3
 
 295]
 Isolation follows discrimination
@@ -2628,9 +2557,7 @@ the sattva, both the supremacy (āiçvarya) proceeding from concentration and th
 there are no more hindrances. Because there are no more hindrances there is no fruition of karma. In this state the aspects,
 1 See above, p. 98o (Calc. ed.).
 
-## p. 296 (#352) ############################################
-
-### chunk 288 — yoga_sutras — iv.7 — pāda 4
+### chunk 290 — yoga_sutras — iv.7 — pāda 4
 
 305]
 Karma of the yogin
@@ -2669,11 +2596,9 @@ some injury to others. For even in an action in which rice-grains or some-
 • Compare Çāstra Dīpikā (Ben. ed., 1885), p. 3, first lines.
 [H.O.S. 17]
 
-## p. 306 (#362) ############################################
+### chunk 299 — yoga_sutras — IV.11 — pāda 4
 
-### chunk 297 — yoga_sutras — IV.11 — pāda 4
-
-iv. 10-]
+## p. 314 (#370) ############################################ iv. 10-]
 [314
 Book IV. Isolation or Kaivalya
 of fseed. This is the meaning. On this point he gives a well-known illustration
@@ -2712,9 +2637,9 @@ Samaraicca Kaha p. 33810.
 
 ## p. 315 (#371) ############################################
 
-### chunk 311 — yoga_sutras — IV.18-19 — pāda 4
+### chunk 313 — yoga_sutras — IV.18-19 — pāda 4
 
-iv. 18-]
+## p. 328 (#384) ############################################ iv. 18-]
 [328
 Book IV. Isolation or Kaivalya
 But as for [the Self] for whom this same mind-stuff is an objectof-sense-
@@ -2754,7 +2679,7 @@ Just as the organs-of-sense and the sounds and other perceptible
 
 ## p. 329 (#385) ############################################
 
-### chunk 312 — yoga_sutras — iv.19 — pāda 4
+### chunk 314 — yoga_sutras — iv.19 — pāda 4
 
 329]
 Things distinct from thoughts
@@ -2798,59 +2723,7 @@ possessive.
 * Reading prakāçatā hy asya... nānu harakarmatā.
 42 [H.0.8. 17]
 
-## p. 330 (#386) ############################################
-
-### chunk 315 — yoga_sutras — IV.21-22 — pāda 4
-
-iv. 21-]
-Book IV. Isolation or Kaivalya
-[332
-these are afraid of this very [existence). Thus in the very act of
-saying, 'That I may feel the passionlessness of the Great Disgust
-for the divisions-of-existence and that they may arise no more and
-altogether cease, I will lead the student's life1 in the presence of
-my spiritual guide,' they deny after all the existence of the
-existence. But the systems with the Samkhya and Yoga at their
-head denote by the word 'self' the Self, the Owner, the
-experiencer of the mind-stuff.
-Again he sets up a Destructionist as opponent with the words <If there be the
-opinion.>> 'It may be granted that because [mind-stuff is an object-for-sight
-it is not conscious of itself. But this does not necessitate the existence of a self
-(ātman). For any later moment of mind-stuff belonging to the same continuousseries (santāna) can perceive the moment of the mind-stuff which gave it birth
-and which became naturally restricted.' This is the meaning. (This latter
-moment of mind-stuff is called] immediately contiguous (samanantara) because
-it is alike (sama) in point of knowledge, and immediate (anantara) in point of
-not being separated. 21. If [one mind-stuff were the object-for-sight for
-another, there would be an infinite regress from one thinking-substance
-to another thinking-substance, as well as confusion of memory. The
-word <thinking-substance» means mind-stuff. When the succeeding thinkingsubstance is not itself known, it is not able to know the previous thinkingsubstance. And a previous thinking-substance as long as it is unrelated with
-the thinking-substance cannot be supposed to be perceived. For certainly a man
-who does not know what a staff is cannot know what it means to speak of
-a man with a staff. Therefore there would be an infinite regress. The [divisions
-of existence are the five] groups (skandha), consciousness and sensations and
-perceptions and forms and predispositions. When he says «But the systems
-with the Samkhya and Yoga at their head>> he means to say that the Sämkhya
-and Yoga are at the head of such systems as the Väiçesika. The rest is easy.
-How [is this]?
-22. The Intellect (citi) which unites not [with objects] is
-conscious of its own thinking-substance when [the mindstuff] takes the form of that (thinking-substance by
-reflecting it].
-"For, the Energy of the experiencer, which is immutable and
-Similar discussion in Caraka-Samhitā,
-fifth adhyāya.
-• The word sva as applied to the mind-stuff
-implies a contrast to the owner (sramin). The reference is to the beginning of the Comment on iv. 19.
-• The order varies from the Buddhist order.
-See H. C. Warren's Buddhism in
-Translations, Appendix, p. 487.
-* This is Pañcaçikha's ninth fragment
-(according to Garbe), quoted a second
-time (see ii. 20), and misprinted both
-times (pratisamkrāteva).
-
-## p. 333 (#389) ############################################
-
-### chunk 316 — yoga_sutras — IV.22 — pāda 4
+### chunk 318 — yoga_sutras — IV.22 — pāda 4
 
 333]
 The Self does not unite with objects
@@ -2895,11 +2768,9 @@ of the thinking-substance, he quotes the Sacred Word (agama), saying «And
 in this sense it has been said "... not an under-world.">» Just the mental
 activity of the eternal Çiva, (that is) Brahman, whose nature is undefiled,
 
-## p. 334 (#390) ############################################
+### chunk 319 — yoga_sutras — IV.22-23 — pāda 4
 
-### chunk 317 — yoga_sutras — IV.22-23 — pāda 4
-
-iv. 22-]
+## p. 334 (#390) ############################################ iv. 22-]
 Book IV. Isolation or Kaivalya
 [334
 which changes into an image of Intellect, (and which,) inasmuch as it changes
@@ -2939,7 +2810,49 @@ who has the property of immutability has been proved to be over and above the
 
 ## p. 335 (#391) ############################################
 
-### chunk 320 — yoga_sutras — IV.24-25 — pāda 4
+### chunk 321 — yoga_sutras — IV.23-24 — pāda 4
+
+## p. 336 (#392) ############################################ iv. 23-]
+Book IV. Isolation or Kaivalya
+its eight aids which would introduce them to concentrated insight the oljers
+of which is the self they should be awakened. To explain: In the concentrated
+insight the object-for-the-insight, the self, is other than the mind-stuff when
+[the self] is reflected. Why so? Because the self becomes that upon which thes
+[mind-stuff] rests. And if, although instructed by this argument, the opponent
+perversely should say, 'Why should not that upon which it rests be the mind
+stuff itself,' he replies <If this object.>> If this object, which is the self (arman
+be merely the mind-stuff and not something over and above this (mind-stu,
+then how could the insight by itself ascertain its form as being insight? Fr
+there cannot be a fluctuation of a thing with reference to itself. He brings the
+discussion to a close by saying «Accordingly.>> One shows them pity by giving
+them the proper instruction, as he says «Thus.» «According to its kinds
+means according to its nature.
+And for what reason is this?
+24. This [mind-stuff], although diversified by countless subconscious-impressions, exists for the sake of another, because
+its nature is to produce [things as] combinations.
+Although diversified by absolutely countless subconscious-impressions, this same mind-stuff exists for the sake of another, for the
+sake of the experience and the release of another; not for its own
+sake. Because like a house1 its nature is to work as a combination.
+The mind-stuff must act as a combiner [for the Self] and not for its
+own sake. Pleasurable mind-stuff is not for the pleasure [of the
+mind-stuff]. The mind-stuff of thought is not for the thought [of
+the mind-stuff]. But both of these two kinds exist for the sake
+of another. And that very Self which has its purpose in the two
+purposes of experience and liberation is this others, not any other
+in general. Any indefinite other as such which the Destructionists
+set forth in general terms, would all still exist for the sake of some
+other, since [after all] they (too] act (only) to produce things to
+be combined. But that particular other which is the Self does
+not act as a combination.
+He introduces another reason for the existence of the self (atman) over and above
+the mind-stuff by asking, «And for what reason is this?>>24. This [mind-stuff",
+although diversified by countless subconscious-impressions, exists for the
+sake of another, because its nature is to produce [things as] combinations.
+1 See Sämkhya-kär. xvii.
+
+## p. 337 (#393) ############################################
+
+### chunk 322 — yoga_sutras — IV.24-25 — pāda 4
 
 337]
 Mind-stuff exists for the Self
@@ -2979,9 +2892,7 @@ infer that there is in him [good] karma rooted in the knowledge of
 the difference [between the sattva and the Self], conducive to liberation, and brought to completion [in the past). In him, the pondering
 [H.O.8. 17]
 
-## p. 338 (#394) ############################################
-
-### chunk 324 — yoga_sutras — IV.29-30 — pāda 4
+### chunk 326 — yoga_sutras — iv.29-30 — pāda 4
 
 341]
 Supreme detachment of the Self
@@ -3022,9 +2933,7 @@ the hindrances and of karma. But why does he become liberated even while
 living? The answer is in the word «Because.» For verily the latent-deposit
 1 See i. 2, p. 114, and iv. 32, p. 315o (Calc. ed.).
 
-## p. 342 (#398) ############################################
-
-### chunk 329 — yoga_sutras — iv.34 — pāda 4
+### chunk 331 — yoga_sutras — IV.34 — pāda 4
 
 347]
 Self-sufficiency of Isolation
@@ -3068,9 +2977,7 @@ grounded in itself. In so far as their work is done, the aspects, no longer
 provided with a purpose by the Self, are inversely generated. They are resolved
 into their cause which is the primary-cause (pradhana). Of the aspects, whose
 
-## p. 348 (#404) ############################################
-
-iv. 34]
+## p. 348 (#404) ############################################ iv. 34]
 [348
 Book IV. Isolation or Kaivalya
 essence is causes and effects, the subliminal-impressions of the restriction of

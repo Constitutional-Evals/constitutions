@@ -6,9 +6,7 @@ Verbatim source passages selected for broad, balanced relevance to the correspon
 
 ### chunk 17 — legge_introduction — Introduction ch. III
 
-the notes subjoined to it. There T ho appears as the spon¬
-taneously operating cause of all movement in the pheno¬
-mena of the universe ; and the nearest the writer can come
+the notes subjoined to it. There T ho appears as the spontaneously operating cause of all movement in the phenomena of the universe ; and the nearest the writer can come
 to a name for it is ‘ the Great T ao.’ Having established this
 name, he subsequently uses it repeatedly ; see chh. xxxiv
 and liii. In the third paragraph of his twentieth chapter,
@@ -22,10 +20,8 @@ having a positive existence ; existences cannot be regarded
 as non-existent. The name Tao is a metaphor used for
 the purpose of description. To say that it exercises some
 causation, or that it does nothing, is speaking of it from the
-phase of a thing ; — how can such language serve as a de¬
-signation of it in its greatness ? If words were sufficient
-for the purpose, we might in a day’s time exhaust the sub¬
-ject of the Tho. Words not being sufficient, we may talk
+phase of a thing ; — how can such language serve as a designation of it in its greatness ? If words were sufficient
+for the purpose, we might in a day’s time exhaust the subject of the Tho. Words not being sufficient, we may talk
 about it the whole day, and the subject of discourse will
 only have been a thing. Tao is the extreme to which
 things conduct us. Neither speech nor silence is sufficient
@@ -40,8 +36,7 @@ the meantime, the best way of dealing with it in translating
 is to transfer it to the version, instead of trying to introduce
 an English equivalent for it.
 
-2. Next in importance to Tho is the name Thien, mean¬
-ing at first the vaulted sky or the open firmament of heaven.
+2. Next in importance to Tho is the name Thien, meaning at first the vaulted sky or the open firmament of heaven.
 In the Confucian Classics, and in the speech of the Chinese
 
 The Khang-hsi dictionary defines thu by lu, road or way.
@@ -53,9 +48,7 @@ synonym settles the original meaning of Tao in the sense of ‘ road.’
 
 people, this name is used metaphorically as it is by our-
 
-Usage of the selves for the Supreme Being, with reference
-
-term Thien. especially to His will and rule. So it was
+Usage of the selves for the Supreme Being, with reference term Thien. especially to His will and rule. So it was
 that the idea of God arose among the Chinese fathers ; so
 it was that they proceeded to fashion a name for God,
 calling Him Ti, and Shang Ti, ‘the Ruler,’ and ‘the
@@ -68,8 +61,7 @@ where, speaking of the Tao, Lao-jze says, ‘ I do not know
 whose Son it is ; it might seem to be before God.’
 
 Nor is the name Thien very common. We have the
-phrase, ‘ Heaven and Earth,’ used for the two great con¬
-stituents of the kosmos, owing their origin to the Tdo, and
+phrase, ‘ Heaven and Earth,’ used for the two great constituents of the kosmos, owing their origin to the Tdo, and
 also for a sort of binomial power, acting in harmony with
 the Tao, covering, protecting, nurturing, and maturing all
 things. Never once is Thien used in the sense of God, the
@@ -77,16 +69,30 @@ Supreme Being. In its peculiarly Tioistic employment,
 it is more an adjective than a noun. ‘ The Tao of Heaven ’
 means the Tio that is Heavenly, the course that is quiet
 and undemonstrative, that is free from motive and effort,
-such as is seen in the processes of nature, grandly pro¬
-ceeding and successful without any striving or crying.
+such as is seen in the processes of nature, grandly proceeding and successful without any striving or crying.
 The Tao of man, not dominated by this Tdo, is contrary
 to it, and shows will, purpose, and effort, till, submitting to
 it, it becomes ‘ the Tdo or Way of the Sages,’ which in all
 its action has no striving.
 
-### chunk 23 — legge_introduction — Introduction ch. III
+The characteristics both of Heaven and man are dealt
+with more fully by Wwang than by Lao. In the conclusion
+of his eleventh Book, for instance, he says : — ‘ What do we
+mean by Tao? There is the Tao (or Way) of Heaven, and
+there is the Tao of man. Acting without action, and yet
+attracting all honour, is the Way of Heaven. Doing and
+being embarrassed thereby is the Way of man. The Way
+of Heaven should play the part of lord ; the Way of man,
+the part of minister. The two are far apart, and should be
+distinguished from each other.’
 
-of the lao. fiftieth chapter he says, ‘ He who is skilful in
+CH. III.
+
+### chunk 23 — legge_introduction — Introduction ch. III.6-7
+
+6. Lao-jze describes some other and kindred results of
+cultivating the Tao in terms which are sufficiently startling,
+Startling results and which it is difficult to accept. In his of the lao. fiftieth chapter he says, ‘ He who is skilful in
 managing his life travels on land without having to shun
 rhinoceros or tiger, and enters a host without having to
 avoid buff coat or sharp weapon. The rhinoceros finds no
@@ -97,8 +103,6 @@ in him no place of death.’ To the same effect he says in
 his fifty-fifth chapter, ‘ He who has in himself abundantly
 the attributes (of the Tao) is like an infant. Poisonous
 
-THE TEXTS OF TAOISM.
-
 CH. III.
 
 insects will not sting him ; fierce beasts will not seize him ;
@@ -106,8 +110,7 @@ birds of prey will not strike him.’
 
 Such assertions startle us by their contrariety to our
 observation and experience, but so does most of the teaching
-of Taoism. What can seem more absurd than the declara¬
-tion that ‘the Tao does nothing, and so there is nothing
+of Taoism. What can seem more absurd than the declaration that ‘the Tao does nothing, and so there is nothing
 that it does not do ?’ And yet this is one of the fundamental
 axioms of the system. The thirty-seventh chapter, which
 enunciates it, goes on to say, ‘ If princes and kings were
@@ -117,9 +120,7 @@ so, is generalised in the fortieth, one of the shortest chapters,
 and partly in rhyme : —
 
 ‘The movement of the Tao
-By contraries proceeds ;
-
-And weakness marks the course
+By contraries proceeds ; And weakness marks the course
 Of Tao’s mighty deeds.
 
 All things under heaven sprang from it as existing (and
@@ -141,8 +142,7 @@ With no desire, at rest and still,
 All things go right, as of their will.’
 
 I do not cull any passages from A'wang-jze to illustrate
-these points. In his eleventh Book his subject is Govern¬
-ment by ‘Let-a-be and the exercise of Forbearance.’
+these points. In his eleventh Book his subject is Government by ‘Let-a-be and the exercise of Forbearance.’
 
 7. This Tao ruled men at first, and then the world was
 in a paradisiacal state. Neither of our authorities tells us
@@ -154,10 +154,7 @@ CH. III.
 
 INTRODUCTION.
 
-2 7
-
-more than one description of what he considered the para¬
-disiacal state was. He calls it 1 the age of Perfect Virtue.’
+2 7 more than one description of what he considered the paradisiacal state was. He calls it 1 the age of Perfect Virtue.’
 In the thirteenth paragraph of his twelfth Book he says,
 
 1 In this age, they attached no value to wisdom, nor employed
@@ -173,12 +170,9 @@ the services of one another, without thinking that they were
 conferring or receiving any gift. Therefore their actions
 left no trace, and there was no record of their affairs.’
 
-Again, in the fourth paragraph of his tenth Book, address¬
-ing an imaginary interlocutor, he says, ‘Are you, Sir, un¬
-acquainted with the age of Perfect Virtue?’ He then gives
+Again, in the fourth paragraph of his tenth Book, addressing an imaginary interlocutor, he says, ‘Are you, Sir, unacquainted with the age of Perfect Virtue?’ He then gives
 the names of twelve sovereigns who ruled in it, of the
-greater number of whom we have no other means of know¬
-ing anything, and goes on : — ‘In their times the people used
+greater number of whom we have no other means of knowing anything, and goes on : — ‘In their times the people used
 knotted cords in carrying on their business. They thought
 their (simple) food pleasant, and their (plain) clothing
 beautiful. They were happy in their (simple) manners,
@@ -189,29 +183,168 @@ one to the other ; they might not die till they were old ;
 and yet all their life they would have no communication
 together. In those times perfect good order prevailed.’
 
-### chunk 34 — tao_te_ching — TTC 2-4
+### chunk 24 — legge_introduction — Introduction Ch. III sec. 7-8
+
+One other description of the primeval state is still more
+interesting. It is in the second paragraph of Bk. IX : —
+‘ The people had their regular and constant nature : — they
+wove and made themselves clothes ; they tilled the ground
+and got food. This was their common faculty. They were
+all one in this, and did not form themselves into separate
+classes ; so were they constituted and left to their natural
+tendencies. Therefore in the age of Perfect Virtue men
+walked along with slow and grave step, and with their
+
+CH. III.
+
+looks steadily directed forwards. On the hills there were
+no footpaths nor excavated passages ; on the lakes there
+were no boats nor dams. All creatures lived in companies,
+and their places of settlement were made near to one
+another. Birds and beasts multiplied to flocks and herds ;
+the grass and trees grew luxuriant and long. The birds
+and beasts might be led about without feeling the constraint ; the nest of the magpie might be climbed to, and
+peeped into. Yes, in the age of Perfect Virtue, men lived
+in common with birds and beasts, and were on terms of
+equality with all creatures, as forming one family; — how
+could they know among themselves the distinctions of
+superior men and small men ? Equally without knowledge,
+they did not leave the path of their natural virtue ; equally
+free from desires, they were in the state of pure simplicity.
+In that pure simplicity, their nature was what it ought
+to be.’
+
+Such were the earliest Chinese of whom /Cwang-jze
+could venture to give any account. If ever their ancestors
+had been in a ruder or savage condition, it must have
+been at a much antecedent time. These had long passed
+out of such a state ; they were tillers of the ground, and
+acquainted with the use of the loom. They lived in happy
+relations with one another, and in kindly harmony with the
+tribes of inferior creatures. But there is not the slightest
+allusion to any sentiment of piety as animating them individually, or to any ceremony of religion as observed by
+them in common. This surely is a remarkable feature in
+their condition. I call attention to it, but I do not dwell
+upon it.
+
+8. But by the time of Lao and Kw ang the cultivation of
+the T d o had fallen into disuse. The simplicity of life
+
+The decay of the
+Tao before the
+growth of
+knowledge.
+
+which it demanded, with its freedom from
+all disturbing speculation and action, was no
+longer to be found in individuals or in government. It was the general decay of manners and of social order which unsettled the mind of Lao, made him resign his position as a curator of the Royal Library,
+and determine to withdraw from China and hide himself
+
+CH. III.
+
+INTRODUCTION.
+
+among the rude peoples beyond it. The cause of the deterioration of the Tao and of all the evils of the nation
+was attributed to the ever-growing pursuit of knowledge,
+and of what we call the arts of culture. It had commenced
+very long before ; — in the time of Hwang-Ti, Wwang says
+in one place1; and in another he carries it still higher to
+Sui-zan and Fu-hsi2. There had been indeed, all along
+the line of history, a groping for the rules of life, as indicated by the constitution of man’s nature. The results
+were embodied in the ancient literature which was the lifelong study of Confucius. He had gathered up that literature ; he recognised the nature of man as the gift of Heaven
+or God. The monitions of God as given in the convictions
+of man’s mind supplied him with a Tao or Path of duty
+very different from the Tao or Mysterious Way of Lao.
+All this was gall and wormwood to the dreaming librarian
+or brooding recluse, and made him say, ‘If we could renounce our sageness and discard our wisdom, it would be
+better for the people a hundredfold. If we could renounce
+our benevolence and discard our righteousness, the people
+would again become filial and kindly. If we could renounce our artful contrivances and discard our (scheming
+for) gain, there would be no thieves nor robbers3.’
+
+### chunk 33 — tao_te_ching — TTC 1-2
+
+fail to wean from their wickedness. Those manifestoes are
+published by the mercy of Y ii Hwang Shang Ti that
+men and women may be led to repent of their faults and
+make atonement for their crimes. They emanate from the
+temples of the tutelary deities1 which are found throughout
+the empire, and especially in the walled cities, and are
+under the charge of Taoist monks. A visitor to one of the
+larger of these temples may not only see the pictures of
+the purgatorial courts and other forms of the modern
+superstitions, but he will find also astrologers, diviners,
+geomancers, physiognomists, et id genus omne, plying
+their trades or waiting to be asked to do so, and he will
+wonder how it has been possible to affiliate such things
+with the teachings of Lao-jze.
+
+Other manifestoes of a milder form, and more like our
+tractate, are also continually being issued as from one or
+other of what are called the state gods, whose temples are
+all in the charge of the same monks. In the approximation which has thus been going on of Taoism to Buddhism,
+the requirement of celibacy was long resisted by the professors of the former ; but recent editions of the Penal
+Code 2 contain sundry regulations framed to enforce celibacy, to bind the monks and nuns of both systems to the
+observance of the Confucian maxims concerning filial piety,
+and the sacrificial worship of the dead ; and also to restrict
+the multiplication of monasteries and nunneries. Neither
+Lao nor ./Twang was a celibate or recommended celibacy.
+The present patriarch, as a married man, would seem to be
+able still to resist the law.
+
+1 Called AVrang Hwang Miao, ‘Wall and Moat Temples,’ Palladia of
+the city.
+
+2 See Dr. Eitel’s third edition of his ‘ Three Lectures on Buddhism,’ pp.
+36-45 (Hongkong: Lane, Crawford & Co., 1884). The edition of the Penal
+Code to which he refers is of 1879.
+
+OR
+
+THE TAO
+
+AND ITS CHARACTERISTICS.
+
+PART I.
+
+Ch. 1. i. The T&o that can be trodden is not the
+enduring and unchanging T ao. The name that can
+be named is not the enduring and unchanging name.
+
+2. (Conceived of as) having no name, it is the
+Originator of heaven and earth ; (conceived of as)
+having a name, it is the Mother of all things.
+
+3. Always without desire we must be found, If its deep mystery we would sound ; But if desire always within us be,
+
+Its outer fringe is all that we shall see.
+
+4. Under these two aspects, it is really the same ;
+but as development takes place, it receives the different names. Together we call them the Mystery.
+Where the Mystery is the deepest is the gate of all
+that is subtle and wonderful.
+
+§f j||\ ‘Embodying the Tao.’ The author sets forth,
+as well as the difficulty of his subject would allow him, the
+nature of the Tao in itself, and its manifestation. To
+understand the Tao one must be partaker of its nature.
 
 Par. 3 suggests the words of the apostle John, ‘ He that
 loveth not knoweth not God ; for God is love.’ Both the
-Tao, L4o-jze’s ideal in the absolute, and its Teh, or opera¬
-tion, are comprehended in this chapter, the latter being the
+Tao, L4o-jze’s ideal in the absolute, and its Teh, or operation, are comprehended in this chapter, the latter being the
 T tto with the name, the Mother of all things. See pages 1 2,
 13 in the Introduction on the translation of the term Tao.
 
 2. 1. All in the world know the beauty of the
 beautiful, and in doing this they have (the idea of)
 
-THE TEXTS OF TAOISM.
-
 PT. I.
 
-what ugliness is ; they all know the skill of the skil¬
-ful, and in doing this they have (the idea of) what
+what ugliness is ; they all know the skill of the skilful, and in doing this they have (the idea of) what
 the want of skill is.
 
 2. So it is that existence and non-existence give
-birth the one to (the idea of) the other ; that diffi¬
-culty and ease produce the one (the idea of) the
+birth the one to (the idea of) the other ; that difficulty and ease produce the one (the idea of) the
 other ; that length and shortness fashion out the one
 the figure of the other ; that (the ideas of) height
 and lowness arise from the contrast of the one with
@@ -224,11 +357,12 @@ one following another.
 doing anything, and conveys his instructions without
 the use of speech.
 
+### chunk 34 — tao_te_ching — TTC 2-6
+
 4. All things spring up, and there is not one
 which declines to show itself ; they grow, and there
 is no claim made for their ownership ; they go
-through their processes, and there is no expecta¬
-tion (of a reward for the results). The work is
+through their processes, and there is no expectation (of a reward for the results). The work is
 accomplished, and there is no resting in it (as an
 achievement).
 
@@ -248,8 +382,6 @@ describe the action of the sage in par. 3 as in accordance
 with this law of contraries ; and, in par. 4, that of heaven
 
 CH. IV.
-
-THE TAO TEH KING.
 
 and earth, or what we may call nature, in the processes of
 the vegetable world.
@@ -275,16 +407,13 @@ weakens their wills, and strengthens their bones.
 
 3. He constantly (tries to) keep them without
 knowledge and without desire, and where there are
-those who have knowledge, to keep them from pre¬
-suming to act (on it). When there is this abstinence
+those who have knowledge, to keep them from presuming to act (on it). When there is this abstinence
 from action, good order is universal.
 
 ‘ Keeping the People at Rest.’ The object of
 the chapter is to show that government according to the
 Tao is unfavourable to the spread of knowledge among the
-people, and would keep them rather in the state of primi¬
-tive simplicity and ignorance, thereby securing their rest¬
-fulness and universal good order. Such is the uniform
+people, and would keep them rather in the state of primitive simplicity and ignorance, thereby securing their restfulness and universal good order. Such is the uniform
 teaching of Lao-jze and his great follower iTwang-jze, and
 of all Taoist writers.
 
@@ -296,14 +425,10 @@ guard against all fulness. Howr deep and unfa-
 
 5°
 
-THE TEXTS OF TAOISM.
-
 PT. i.
 
 thomable it is, as if it were the Honoured Ancestor
 of all things !
-
-### chunk 35 — tao_te_ching — TTC 4-7
 
 2. We should blunt our sharp points, and unravel
 the complications of things ; we should attemper
@@ -318,13 +443,10 @@ appear to have been before God.
 the Tdo; it might seem to have been before God. And
 yet there is no demonstration by it of its presence and
 operation. It is like the emptiness of a vessel. The second
-character = — see Khang-hsi on the latter. The
-
-practical lesson is, that in following the Tao we must try
+character = — see Khang-hsi on the latter. The practical lesson is, that in following the Tao we must try
 to be like it.
 
-5. 1. Heaven and earth do not act from (the im¬
-pulse of) any wish to be benevolent ; they deal with
+5. 1. Heaven and earth do not act from (the impulse of) any wish to be benevolent ; they deal with
 all things as the dogs of grass are dealt with. The
 sages do not act from (any wish to be) benevolent ;
 they deal with the people as the dogs of grass are
@@ -352,6 +474,8 @@ CH. VI.
 
 THE TAO TEH .STING.
 
+### chunk 35 — tao_te_ching — TTC 6-9
+
 wards, when the sacrifice was over, were thrown aside and
 left uncared for. Heaven and earth and the sages dealt so
 with all things and with the people ; but the illustration
@@ -378,8 +502,7 @@ Used gently, and without the touch of pain.
 
 Jjjfc ‘The Completion of Material Forms.’ This
 title rightly expresses the import of this enigmatical
-chapter ; but there is a foundation laid in it for the de¬
-velopment of the later Taoism, which occupies itself with
+chapter ; but there is a foundation laid in it for the development of the later Taoism, which occupies itself with
 the prolongation of life by the management of the breath
 or vital force.
 
@@ -391,14 +514,9 @@ our Kmg. ‘The spirit of the valley’ has come to be a
 name for the activity of the Tao in all the realm of its
 operation. ‘ The' female mystery ’ is the T 4 o with a name
 of chapter 1, which is ‘ the Mother of all things.’ All living
-beings have a father and mother. The processes of gene¬
-ration and production can hardly be imaged by us but
+beings have a father and mother. The processes of generation and production can hardly be imaged by us but
 by a recognition of this fact ; and so Lao-jze thought of the
 existing realm of nature — of life — as coming through an
-
-E 2
-
-THE TEXTS OF TAOISM.
 
 PT. I.
 
@@ -415,8 +533,6 @@ to endure and continue thus long is because they do
 not live of, or for, themselves. This is how they are
 able to continue and endure.
 
-### chunk 36 — tao_te_ching — TTC 7-10
-
 2. Therefore the sage puts his own person last,
 and yet it is found in the foremost place ; he treats
 his person as if it were foreign to him, and yet that
@@ -430,13 +546,11 @@ seeking for it. Heaven and earth afford a pattern to the
 sage, and the sage affords a pattern to all men.
 
 8. i. The highest excellence is like (that of)
-water. The excellence of water appears in its bene¬
-fiting all things, and in its occupying, without striving
+water. The excellence of water appears in its benefiting all things, and in its occupying, without striving
 (to the contrary), the low place which all men dislike.
 Hence (its way) is near to (that of) the Tao.
 
-2. The excellence of a residence is in (the suita¬
-bility of) the place ; that of the mind is in abysmal
+2. The excellence of a residence is in (the suitability of) the place ; that of the mind is in abysmal
 stillness ; that of associations is in their being with
 the virtuous ; that of government is in its securing
 good order ; that of (the conduct of) affairs is in its
@@ -452,8 +566,7 @@ does not wrangle (about his low position), no one
 finds fault with him.
 
 }^j ‘The Placid and Contented Nature.’ Water, as
-an illustration of the way of the Tao, is repeatedly em¬
-ployed by Lao-jze.
+an illustration of the way of the Tao, is repeatedly employed by Lao-jze.
 
 The various forms of what is excellent in par. a are
 brought forward to set forth the more, by contrast, the
@@ -465,11 +578,12 @@ to attempt to carry it when it is full. If you keep
 feeling a point that has been sharpened, the point
 cannot long preserve its sharpness.
 
+### chunk 36 — tao_te_ching — TTC 9-12
+
 2. When gold and jade fill the hall, their possessor
 cannot keep them safe. When wealth and honours
 lead to arrogancy, this brings its evil on itself. When
-the work is done, and one’s name is becoming dis¬
-tinguished, to withdraw into obscurity is the way of
+the work is done, and one’s name is becoming distinguished, to withdraw into obscurity is the way of
 Heaven.
 
 |H| ; but I cannot give a satisfactory rendering of
@@ -478,31 +592,25 @@ complacency in success are contrary to the Tao.
 
 The first clauses of the two sentences in par. x, jfjj
 
-StSffi# W W Z. #t iffi S Z,
-
-are instances of the ‘ inverted ’ style not uncommon in the
+StSffi# W W Z. #t iffi S Z, are instances of the ‘ inverted ’ style not uncommon in the
 oldest composition. ‘ The way of Heaven ’ = ‘ the Heavenly
 Tao ’ exemplified by man.
 
 10. 1. When the intelligent and animal souls
 are held together in one embrace, they can be kept
-from separating. When one gives undivided at¬
-tention to the (vital) breath, and brings it to the
+from separating. When one gives undivided attention to the (vital) breath, and brings it to the
 utmost degree of pliancy, he can become as a (tender)
 
 THE TEXTS OF TAOISxM.
 
 PT. I.
 
-babe. When he has cleansed away the most mys¬
-terious sights (of his imagination), he can become
+babe. When he has cleansed away the most mysterious sights (of his imagination), he can become
 without a flaw.
 
-2. In loving the people and ruling the state, can¬
-not he proceed without any (purpose of) action ? In
+2. In loving the people and ruling the state, cannot he proceed without any (purpose of) action ? In
 the opening and shutting of his gates of heaven,
-cannot he do so as a female bird ? While his intelli¬
-gence reaches in every direction, cannot he (appear
+cannot he do so as a female bird ? While his intelligence reaches in every direction, cannot he (appear
 to) be without knowledge ?
 
 3. (The Tao) produces (all things) and nourishes
@@ -515,11 +623,7 @@ the Tao).
 ‘ Possibilities.’ This chapter is one of the most
 difficult to understand and translate in the whole work.
 Even K u Hsi was not able to explain the first member
-satisfactorily. The text of that member seems well sup¬
-ported ; but I am persuaded the first clause of it is some¬
-how corrupt.
-
-### chunk 37 — tao_te_ching — TTC 10-13
+satisfactorily. The text of that member seems well supported ; but I am persuaded the first clause of it is somehow corrupt.
 
 The whole seems to tell what can be accomplished by
 one who is possessed of the Tao. In par. 3 he appears
@@ -581,100 +685,7 @@ and Yellow; the five notes are those of the imperfect
 Chinese musical scale, our G, A, B, D, E ; the five tastes
 are Salt, Bitter, Sour, Acrid, and Sweet.
 
-I am not sure that Wang Pi has caught exactly the
-author’s idea in the contrast between satisfying the belly
-
-THE TEXTS OF TAOISM,
-
-PT. I.
-
-and satisfying the eyes ; but what he says is ingenious :
-1 In satisfying the belly one nourishes himself; in gratifying
-the eyes he makes a slave of himself.’
-
-13. i. Favour and disgrace would seem equally
-to be feared ; honour and great calamity, to be re¬
-garded as personal conditions (of the same kind).
-
-2. What is meant by speaking thus of favour and
-disgrace ? Disgrace is being in a low position
-(after the enjoyment of favour). The getting that
-(favour) leads to the apprehension (of losing it), and
-the losing it leads to the fear of (still greater cala¬
-mity) : — this is what is meant by saying that favour
-and disgrace would seem equally to be feared.
-
-And what is meant by saying that honour and
-great calamity are to be (similarly) regarded as per¬
-sonal conditions ? What makes me liable to great
-calamity is my having the body (which I call myself) ;
-if I had not the body, what great calamity could
-come to me ?
-
-3. Therefore he who would administer the king¬
-dom, honouring it as he honours his own person,
-may be employed to govern it, and he who would
-administer it with the love which he bears to his
-own person may be entrusted with it.
-
-‘Loathing Shame.’ The chapter is difficult to
-construe, and some disciples of K\x Hsi had to ask him to
-explain it as in the case of ch. 10. His remarks on it are
-not to my mind satisfactory. Its object seems to be to
-show that the cultivation of the person according to the
-Tao, is the best qualification for the highest offices, even
-for the government of the world. Par. 3 is found in
-Afwangqze (XI, 18 b) in a connexion which suggests this
-view of the chapter. It may be observed, however, that in
-him the position of the verbal characters in the two clauses
-
-CII. XIV.
-
-### chunk 38 — tao_te_ching — TTC 14-15
-
-THE TAO TEH XING.
-
-of the paragraph is the reverse of that in the text of Hoshang Kung, so that we can hardly accept the distinction
-of meaning of the two characters given in his commentary,
-but must take them as synonyms. Professor Gabelentz
-gives the following version of K\v ang-jze: ‘ Darum, gebraucht er seine Person achtsam in der Verwaltung des
-Reiches, so mag man ihm die Reichsgewalt anvertrauen ;
-. . . liebend (schonend) . . . ubertragen.’
-
-14. i. We look at it, and we do not see it, and
-we name it ‘ the Equable.’ We listen to it, and we
-do not hear it, and we name it ‘ the Inaudible.’ We
-try to grasp it, and do not get hold of it, and we
-name it 1 the Subtle.’ With these three qualities, it
-cannot be made the subject of description ; and hence
-we blend them together and obtain The One.
-
-2. Its upper part is not bright, and its lower part
-is not obscure. Ceaseless in its action, it yet cannot
-be named, and then it again returns and becomes
-nothing. This is called the Form of the Formless,
-and the Semblance of the Invisible ; this is called
-the Fleeting and Indeterminable.
-
-3. We meet it and do not see its Front ; we follow
-it, and do not see its Back. When we can lay hold
-of the T4o of old to direct the things of the present
-day, and are able to know it as it was of old in
-the beginning, this is called (unwinding) the clue
-of Tao.
-
-‘The Manifestation of the Mystery.’ The subject
-of par. 1 is the Tio, but the Tao in its operation, and not
-the primal conception of it, as entirely distinct from things,
-which rises before the mind in the second paragraph. The
-Chinese characters which I have translated ‘the Equable,’
-
-‘ the Inaudible,’ and ‘ the Subtle,’ are now pronounced 1,
-Hi, and Wei, and in 1823 Remusat fancied that they were
-
-THE TEXTS OF TAOISM.
-
-PT. I.
+### chunk 38 — tao_te_ching — TTC 15-16
 
 intended to give the Hebrew tetragrammaton miT* which
 he thought had come to Lao-jze somehow from the West,
@@ -682,8 +693,7 @@ or been found by him there. It was a mere fancy or
 dream ; and still more so is the recent attempt to revive
 the notion by Victor von Strauss in 1870, and Dr. Edkins
 in 1884. The idea of the latter is specially strange,
-maintaining, as he does, that we should read the cha¬
-racters according to their old sounds. Lao-jze has not
+maintaining, as he does, that we should read the characters according to their old sounds. Lao-jze has not
 in the chapter a personal Being before his mind, but the
 procedure of his mysterious Tao, the course according to
 which the visible phenomena take place, incognisable by
@@ -692,8 +702,7 @@ by terms appropriate to what is within the domain of sense.
 See the Introduction, pp. 14, 15.
 
 15. 1. The skilful masters (of the Tao) in old
-times, with a subtle and exquisite penetration, com¬
-prehended its mysteries, and were deep (also) so as
+times, with a subtle and exquisite penetration, comprehended its mysteries, and were deep (also) so as
 to elude men’s knowledge. As they were thus beyond
 men’s knowledge, I will make an effort to describe
 of what sort they appeared to be.
@@ -708,8 +717,7 @@ valley, and dull like muddy water.
 
 3. Who can (make) the muddy water (clear) ?
 Let it be still, and it will gradually become clear.
-Who can secure the condition of rest ? Let move¬
-ment go on, and the condition of rest will gradually
+Who can secure the condition of rest ? Let movement go on, and the condition of rest will gradually
 arise.
 
 4. They who preserve this method of the Tao do
@@ -717,8 +725,6 @@ not wish to be full (of themselves). It is through
 their not being full of themselves that they can
 
 CH. XVI.
-
-THE TAO TEH KING.
 
 afford to seem worn and not appear new and
 complete.
@@ -729,8 +735,6 @@ Its practical outcome is here described in the masters of it
 of old, who in their own weakness were yet strong in it,
 and in their humility were mighty to be co-workers with it
 for the good of the world.
-
-### chunk 39 — tao_te_ching — 16-17
 
 The variety of the readings in par. 4 is considerable, but
 not so as to affect the meaning. This par. is found in Hwainan (XII, 23 a) with an unimportant variation. From the
@@ -754,31 +758,28 @@ returning to their root is what we call the state of
 stillness ; and that stillness may be called a reporting
 that they have fulfilled their appointed end.
 
-2. The report of that fulfilment is the regular, un¬
-changing rule. To know that unchanging rule is to be
+2. The report of that fulfilment is the regular, unchanging rule. To know that unchanging rule is to be
 intelligent ; not to know it leads to wild movements
 and evil issues. The knowledge of that unchanging
 rule produces a (grand) capacity and forbearance, and
 
 6o
 
-THE TEXTS OF TAOISM,
-
 PT. i.
 
 that capacity and forbearance lead to a community
 (of feeling with all things). From this community of
 feeling comes a kingliness of character ; and he who
-is king-like goes on to be heaven-like. In that like¬
-ness to heaven he possesses the Tao. Possessed
+is king-like goes on to be heaven-like. In that likeness to heaven he possesses the Tao. Possessed
 of the Tao, he endures long; and to the end of his
 bodily life, is exempt from all danger of decay.
 
 ‘ Returning to the Root.’ The chapter exhibits
-the operation of the Tao in nature, in man, and in govern¬
-ment ; an operation silent, but all-powerful ; unaccompanied
+the operation of the Tao in nature, in man, and in government ; an operation silent, but all-powerful ; unaccompanied
 with any demonstration of its presence, but great in its
 results.
+
+### chunk 39 — tao_te_ching — TTC 17-20
 
 An officer receives a charge or commission from his
 superior (£■£ -jj^) ; when he reports the execution of it
@@ -786,8 +787,7 @@ he is said ^ So all animate things, including men,
 receive their charge from the Tiro as to their life, and when
 they have fulfilled it they are represented as reporting that
 fulfilment ; and the fulfilment and report are described as
-their unchanging rule, so that they are the Tao’s impassive in¬
-struments, having no will or purpose of their own, — according
+their unchanging rule, so that they are the Tao’s impassive instruments, having no will or purpose of their own, — according
 to Lao-jze’s formula of ‘doing nothing and yet doing all
 things H ).’
 
@@ -796,8 +796,7 @@ of it, follows the becoming Heaven or Heaven-like ; and this
 is in accordance with the saying in the fourth chapter that
 ‘ the Tao might seem to have been before God.’ But, in
 /vwangyze especially, we often find the full possessor and
-displayer of the Tao spoken of as ‘ Heaven.’ The last sen¬
-tence, that he who has come to the full possession of the Tao
+displayer of the Tao spoken of as ‘ Heaven.’ The last sentence, that he who has come to the full possession of the Tao
 is exempt from all danger of decay, is generally illustrated by
 a reference to the utterances in ch. 50 ; as if Laoqze did indeed
 see in the Tao a preservative against death.
@@ -810,9 +809,7 @@ CH. XVIII.
 
 THE TAO TEH ffING.
 
-6l
-
-next they feared them ; in the next they despised
+6l next they feared them ; in the next they despised
 them. Thus it was that when faith (in the Tao)
 was deficient (in the rulers) a want of faith in them
 ensued (in the people).
@@ -822,8 +819,6 @@ appear, showing (by their reticence) the importance
 which they set upon their words ! Their work was
 done and their undertakings were successful, while
 the people all said, ‘We are as we are, of ourselves ! ’
-
-### chunk 40 — tao_te_ching — TTC 18-20
 
 ML ‘The Unadulterated Influence.’ The influence
 is that of the Tao, as seen in the earliest and paradisiacal
@@ -838,8 +833,7 @@ made their words valuable or precious,’ i. e. ‘ they seldom
 spake ; ’ cp. i Sam. iii. i .
 
 18. i. When the Great Tao (Way or Method)
-ceased to be observed, benevolence and righteous¬
-ness came into vogue. (Then) appeared wisdom
+ceased to be observed, benevolence and righteousness came into vogue. (Then) appeared wisdom
 and shrewdness, and there ensued great hypocrisy.
 
 2. When harmony no longer prevailed throughout
@@ -850,18 +844,14 @@ ministers appeared.
 ■jQ- ‘ The Decay of Manners.’ A sequel to the
 preceding chapter, and showing also how the general decay
 of manners afforded opportunity for the display of certain
-virtues by individuals. Observe ‘the Great Tdo,’ oc¬
-curring here for the first time as the designation of ‘the
+virtues by individuals. Observe ‘the Great Tdo,’ occurring here for the first time as the designation of ‘the
 Tao.’
-
-THE TEXTS OF TAOISM.
 
 PT. I.
 
 19. i. If we could renounce our sageness and
 discard our wisdom, it would be better for the people
-a hundredfold. If we could renounce our benevo¬
-lence and discard our righteousness, the people
+a hundredfold. If we could renounce our benevolence and discard our righteousness, the people
 would again become filial and kindly. If we could
 renounce our artful contrivances and discard our
 (scheming for) gain, there would be no thieves nor
@@ -892,6 +882,8 @@ Small is the difference they display.
 
 But mark their issues, good and ill ; —
 
+### chunk 40 — tao_te_ching — chapters 20-21
+
 What space the gulf between shall fill ?
 
 What all men fear is indeed to be feared ; but
@@ -905,7 +897,6 @@ my desires having as yet given no indication of their
 
 CH. XX.
 
-THE TAO TEH XING.
 
 presence. I am like an infant which has not yet
 smiled. I look dejected and forlorn, as if I had no
@@ -924,8 +915,7 @@ a rude borderer. (Thus) I alone am different from
 other men, but I value the nursing-mother (the
 T ao).
 
-‘ Being Different from Ordinary Men.’ The chap¬
-ter sets forth the difference to external appearance which the
+‘ Being Different from Ordinary Men.’ The chapter sets forth the difference to external appearance which the
 pursuit and observance of the Tao produces between its
 votaries and others ; and Lao-jze speaks in it as himself an
 example of the former. In the last three chapters he has
@@ -937,8 +927,6 @@ at the expense of being misconceived and misrepresented
 by others. Hence the chapter has an autobiographical
 character.
 
-### chunk 41 — tao_te_ching — TTC 21-23
-
 Having stated the fact following the renunciation of
 learning, he proceeds to dwell upon the troubles of learning
 in the rest of par. 1. Until the votary of learning knows
@@ -949,8 +937,6 @@ the ‘ yea.’
 
 Confucius (Ana. XVI, viii) specifies three things of which
 the superior man stands in awe ; and these and others of
-
-THE TEXTS OF TAOISM.
 
 PT. I.
 
@@ -982,9 +968,7 @@ Of what, when seen, shall then be told.
 
 Now it is so ; ’twas so of old.
 
-Its name — what passes not away ;
-
-So, in their beautiful array,
+Its name — what passes not away ; So, in their beautiful array,
 
 Things form and never know decay.
 
@@ -1008,11 +992,11 @@ how or from what, he does not say. What I have rendered
 
 CH. XXIII.
 
-THE TAO TEH KING.
-
 seems, as the latter says, in some way to correspond to
 the ‘Eternal Ideas’ of Plato in the Divine Mind. But
 Lao-jze had no idea of ‘ personality ’ in the Td o.
+
+### chunk 41 — tao_te_ching — TTC 22-24
 
 22. 1. The partial becomes complete; the crooked,
 straight; the empty, full; the worn out, new. He
@@ -1037,8 +1021,7 @@ real completion is comprehended under it.
 rightly expresses the subject-matter of the chapter. I cannot
 translate the first clause otherwise than I have done. It was
 an old saying, which L&o-jze found and adopted. Whether
-it was intended to embrace all the cases which are men¬
-tioned may be questioned, but he employs it so as to make
+it was intended to embrace all the cases which are mentioned may be questioned, but he employs it so as to make
 it do so.
 
 ‘ The emptiness ’ which becomes full is literally the
@@ -1052,10 +1035,6 @@ his commentary in loc.
 23. 1. Abstaining from speech marks him who is
 obeying the spontaneity of his nature. A violent
 [39] F
-
-### chunk 42 — tao_te_ching — chapters 23-25
-
-THE TEXTS OF TAOISM.
 
 PT. I.
 
@@ -1083,8 +1062,7 @@ faith sufficient (on his part), a want of faith (in him)
 ensues (on the part of the others).
 
 jte, ‘Absolute Vacancy.’ This, I think, is the meaning
-of the title, ‘Emptiness and Nothingness,’ an entire con¬
-formity to the Tao in him who professes to be directed by
+of the title, ‘Emptiness and Nothingness,’ an entire conformity to the Tao in him who professes to be directed by
 it. Such an one will be omnipotent in his influence in all
 others. The Tdo in him will restrain all (spasmodic)
 loquacity. Those who are described in par. 2 as ‘ failing ’
@@ -1093,8 +1071,7 @@ Julien has it, au crime. They are simply ordinary men,
 who have failed in their study of the Tao and practice of
 it, but are won to truth and virtue by the man whom the
 author has in mind. As we might expect, however, the
-mention of such men has much embarrassed the com¬
-mentators.
+mention of such men has much embarrassed the commentators.
 
 Compare the concluding sentence with the one at the
 end of par. 1 in ch. 17.
@@ -1106,8 +1083,7 @@ THE TAO TEH AING.
 24. He who stands on his tiptoes does not
 stand firm ; he who stretches his legs does not walk
 (easily). (So), he who displays himself does not
-shine ; he who asserts his own views is not distin¬
-guished ; he who vaunts himself does not find his
+shine ; he who asserts his own views is not distinguished ; he who vaunts himself does not find his
 merit acknowledged ; he who is self-conceited has no
 superiority allowed to him. Such conditions, viewed
 from the standpoint of the Tao, are like remnants
@@ -1116,23 +1092,20 @@ Hence those who pursue (the course) of the Tao do
 not adopt and allow them.
 
 ‘ Painful Graciousness.’ The chapter should be
-so designated. This concludes the subject of the two pre¬
-vious chapters,— pursuing the course, the course of the
+so designated. This concludes the subject of the two previous chapters,— pursuing the course, the course of the
 unemotional Tao without vain effort or display.
 
-The remnants of food were not used as sacrificial offer¬
-ings ; — see the Li K i (vol. xxvii, p. 8a). In what I have
+### chunk 42 — tao_te_ching — TTC 25-26
+
+The remnants of food were not used as sacrificial offerings ; — see the Li K i (vol. xxvii, p. 8a). In what I have
 rendered by 1 a tumour attached to the body,’ the is
 probably, by a mistake, for — see a quotation by Wu
-Khang from Sze-ma AT/nen. ‘Which all dislike’ is, liter¬
-ally, ‘ Things are likely to dislike them,’ the ‘ things ’ being
+Khang from Sze-ma AT/nen. ‘Which all dislike’ is, literally, ‘ Things are likely to dislike them,’ the ‘ things ’ being
 ‘ spirits and men,’ as Wu explains the term.
 
-25. 1. There was something undefined and com¬
-plete, coming into existence before Heaven and
+25. 1. There was something undefined and complete, coming into existence before Heaven and
 Earth. How still it was and formless, standing
-alone, and undergoing no change, reaching every¬
-where and in no danger (of being exhausted) ! It
+alone, and undergoing no change, reaching everywhere and in no danger (of being exhausted) ! It
 may be regarded as the Mother of all things.
 
 2. I do not know its name, and I give it the
@@ -1141,10 +1114,6 @@ Making an effort (further) to give it a name I call it
 The Great.
 
 3. Great, it passes on (in constant flow). Passing
-
-F 2
-
-THE TEXTS OF TAOISM.
 
 PT. I.
 
@@ -1159,29 +1128,23 @@ takes its law from Heaven ; Heaven takes its law
 from the Tffo. The law of the Tao is its being
 what it is.
 
-### chunk 43 — tao_te_ching — TTC 25-27
-
 , 1 Representations of the Mystery.’ In this
 chapter Lao approaches very near to give an answer to the
 question as to what the TAo is, and yet leaves the reader
 disappointed. He commences by calling it ‘a thing (#?);’
-but that term does not necessitate our regarding it as ‘ mate¬
-rial.’ We have seen in the preceding chapter that it is
+but that term does not necessitate our regarding it as ‘ material.’ We have seen in the preceding chapter that it is
 used to signify ‘spirits and men.’ Nor does his going on
 to speak of it as ‘ chaotic (yj^ J|j£) ’ necessarily lead us to
 conceive it as made up of the ‘ material elements of things ; ’
-we have the same term applied in ch. 14 to the three im¬
-material constituents there said to be blended in the idea
+we have the same term applied in ch. 14 to the three immaterial constituents there said to be blended in the idea
 of it.
 
 ‘ He does not know its name,’ and he designates it by the
 term denoting a course or way (Tao, |||), and indicating
-the phenomenal attribute, the method in which all pheno¬
-mena come before our observation, in their development or
+the phenomenal attribute, the method in which all phenomena come before our observation, in their development or
 evolution. And to distinguish it from all other methods of
 evolution, he would call it ‘ the Great Method,’ and so he
-employs that combination as its name in ch. 18 and else¬
-where ; but it cannot be said that this name has fully
+employs that combination as its name in ch. 18 and elsewhere ; but it cannot be said that this name has fully
 maintained itself in the writings of his followers. But
 understood thus, he here says, as in ch. t, that it is ‘ the
 Mother of all things.’ And yet, when he says that ‘ it
@@ -1191,8 +1154,6 @@ nameless Tao was the beginning (or originating cause) of
 Heaven and Earth,’ and ‘ might seem to have been before
 
 CH. XXVI.
-
-THE TAO TEH KING.
 
 God.’ Was he groping after God if haply he might find
 Him ? I think he was, and he gets so far as to conceive of
@@ -1206,9 +1167,7 @@ searching find out God ? Who can find out the Almighty
 to perfection ? ’
 
 The predicate of the Ta o in the chapter, most perplexing
-to myself, is 1 It returns,’ in par. 3. 1 It flows away, far
-
-away, and comes back are not the three statements
+to myself, is 1 It returns,’ in par. 3. 1 It flows away, far away, and comes back are not the three statements
 together equal to ‘ It is everywhere ? ’
 
 26. 1. Gravity is the root of lightness ; stillness,
@@ -1224,6 +1183,8 @@ do act lightly, he has lost his root (of gravity) ; if
 he proceed to active movement, he will lose his
 throne.
 
+### chunk 43 — tao_te_ching — TTC 26-29
+
 Sf§’ * The Quality of Gravity.’ Gravity and stillness
 are both attributes of the T d o ; and he who cultivates it
 must not give way to lightness of mind, or hasty action.
@@ -1237,8 +1198,6 @@ and later on the reading of ‘ has lost his root ’ for his
 Han Fei.
 
 7o
-
-THE TEXTS OF TAOISM.
 
 PT. I.
 
@@ -1255,8 +1214,6 @@ any man ; he is always skilful at saving things, and
 so he does not cast away anything. This is called
 ‘ Hiding the light of his procedure.’
 
-### chunk 44 — tao_te_ching — TTC 27-29
-
 2. Therefore the man of skill is a master (to be
 looked up to) by him who has not the skill ; and he
 who has not the skill is the helper of (the reputation
@@ -1267,14 +1224,12 @@ greatly err about them. This is called ‘The utmost
 degree of mystery.’
 
 *5JU. ‘ Dexterity in Using,’ that is, in the application
-of the Tao. This is the substance of the chapter, cele¬
-brating the effective but invisible operation of the Tao,
+of the Tao. This is the substance of the chapter, celebrating the effective but invisible operation of the Tao,
 and the impartial exercise of it for the benefit of all men
 and all things.
 
 I have given the most natural construction of the two
-characters at the end of par. i , the only possible construc¬
-tion of them, so far as I can see, suitable to the context.
+characters at the end of par. i , the only possible construction of them, so far as I can see, suitable to the context.
 The action of the Tao (non -acting and yet all-efficient) and
 that of the sage in accordance with it, are veiled by their
 nature from the sight of ordinary men.
@@ -1286,45 +1241,30 @@ the man who had the skill and the man without it, between
 
 CH. XXIX.
 
-THE TAO TEH XING.
-
-7r
-
 him who possessed the Tao, and him who had it not,
 which would be strange indeed.
 
-28. i. Who knows his manhood’s strength,
-
-Yet still his female feebleness maintains ;
-
-As to one channel flow the many drains,
+28. i. Who knows his manhood’s strength, Yet still his female feebleness maintains ; As to one channel flow the many drains,
 
 All come to him, yea, all beneath the sky.
 
 Thus he the constant excellence retains ; —
 
 The simple child again, free from all stains.
-Who knows how white attracts,
-
-Yet always keeps himself within black’s shade,
+Who knows how white attracts, Yet always keeps himself within black’s shade,
 The pattern of humility displayed,
 
 Displayed in view of all beneath the sky ;
 
 He in the unchanging excellence arrayed,
 Endless return to man’s first state has made.
-Who knows how glory shines,
-
-Yet loves disgrace, nor e'er for it is pale ;
-Behold his presence in a spacious vale,
-
-To which men come from all beneath the sky.
+Who knows how glory shines, Yet loves disgrace, nor e'er for it is pale ;
+Behold his presence in a spacious vale, To which men come from all beneath the sky.
 The unchanging excellence completes its tale ;
 The simple infant man in him we hail.
 
 2. The unwrought material, when divided and
-distributed, forms vessels. The sage, when em¬
-ployed, becomes the Head of all the Officers (of
+distributed, forms vessels. The sage, when employed, becomes the Head of all the Officers (of
 government) ; and in his greatest regulations he
 employs no violent measures.
 
@@ -1338,12 +1278,9 @@ or the feudal lord in a state.
 29. i. If any one should wish to get the kingdom
 for himself, and to effect this by what he does, I see
 
-THE TEXTS OF TAOISM.
-
 PT. I.
 
-that he will not succeed. The kingdom is a spirit¬
-like thing, and cannot be got by active doing. He
+that he will not succeed. The kingdom is a spiritlike thing, and cannot be got by active doing. He
 who would so win it destroys it ; he who would hold
 it in his grasp loses it.
 
@@ -1356,12 +1293,12 @@ Strength is of weakness oft the spoil ;
 
 The store in ruins mocks our toil.
 
-Hence the sage puts away excessive effort, extrava¬
-gance, and easy indulgence.
+### chunk 44 — tao_te_ching — TTC 30-32
+
+Hence the sage puts away excessive effort, extravagance, and easy indulgence.
 
 ‘Taking no Action.’ All efforts made with a
-purpose are sure to fail. The nature of the T a o necessi¬
-tates their doing so, and the uncertainty of things and
+purpose are sure to fail. The nature of the T a o necessitates their doing so, and the uncertainty of things and
 events teaches the same lesson.
 
 That the kingdom or throne is a ‘ spirit-like vessel ’ has
@@ -1371,13 +1308,10 @@ always shrink from translating jjjjjj by ‘ divine.’ Its
 English analogue is ‘ spirit,’ and the idea in the text is
 based on the immunity of spirit from all material law, and
 the uncertain issue of attempts to deal with it according to
-ordinary methods. Wu Kh ang takes the phrase as equiva¬
-lent to ‘ superintended by spirits,’ which is as inadmissible
+ordinary methods. Wu Kh ang takes the phrase as equivalent to ‘ superintended by spirits,’ which is as inadmissible
 as Julien’s ‘divin.’ The Tao forbids action with a personal
 purpose, and all such action is sure to fail in the greatest
 things as well as in the least.
-
-### chunk 45 — tao_te_ching — TTC 30-32
 
 30. i. He who would assist a lord of men in
 harmony with the T ao will not assert his mastery in
@@ -1390,8 +1324,6 @@ are sure to be bad years.
 
 CH. XXXI.
 
-THE tAo TEH .KING.
-
 3. A skilful (commander) strikes a decisive blow,
 and stops. He does not dare (by continuing his
 operations) to assert and complete his mastery. He
@@ -1400,8 +1332,7 @@ being vain or boastful or arrogant in consequence of
 it. He strikes it as a matter of necessity ; he strikes
 it, but not from a wish for mastery.
 
-4. When things have attained their strong matu¬
-rity they become old. This may be said to be not
+4. When things have attained their strong maturity they become old. This may be said to be not
 in accordance with the Tao : and what is not in
 accordance with it soon comes to an end.
 
@@ -1422,24 +1353,18 @@ But there is no necessity for such a construction of fflj.
 ‘ Weakness ’ and not ‘ strength ’ is the character of the
 T ao ; hence the lesson in par. 4.
 
-31. 1. Now arms, however beautiful, are instru¬
-ments of evil omen, hateful, it may be said, to all
+31. 1. Now arms, however beautiful, are instruments of evil omen, hateful, it may be said, to all
 creatures. Therefore they who have the Tao do
 not like to employ them.
 
 2. The superior man ordinarily considers the left
 hand the most honourable place, but in time of war
-the right hand. Those sharp weapons are instru¬
-ments of evil omen, and not the instruments of the
-
-THE TEXTS OF TAOISM.
+the right hand. Those sharp weapons are instruments of evil omen, and not the instruments of the
 
 PT. I.
 
-superior man ; — he uses them only on the compul¬
-sion of necessity. Calm and repose are what he
-prizes ; victory (by force of arms) is to him undesir¬
-able. To consider this desirable would be to delight
+superior man ; — he uses them only on the compulsion of necessity. Calm and repose are what he
+prizes ; victory (by force of arms) is to him undesirable. To consider this desirable would be to delight
 in the slaughter of men ; and he who delights in the
 slaughter of men cannot get his will in the kingdom.
 
@@ -1468,18 +1393,18 @@ the saddest thing next to losing it.
 32. 1. The Tao, considered as unchanging, has
 no name.
 
+### chunk 45 — tao_te_ching — TTC 32-34
+
 2. Though in its primordial simplicity it may be
 small, the whole world dares not deal with (one
 embodying) it as a minister. If a feudal prince or
-the king could guard and hold it, all would sponta¬
-neously submit themselves to him.
+the king could guard and hold it, all would spontaneously submit themselves to him.
 
 3. Heaven and Earth (under its guidance) unite
 together and send down the sweet dew, which, with-
 
 CH. XXXIII.
 
-THE TAO TEH XING.
 
 out the directions of men, reaches equally everywhere
 as of its own accord.
@@ -1488,8 +1413,6 @@ as of its own accord.
 When it once has that name, (men) can know to
 rest in it. When they know to rest in it, they can
 be free from all risk of failure and error.
-
-### chunk 46 — tao_te_ching — TTC 32-34
 
 5. The relation of the Tao to all the world is like
 that of the great rivers and seas to the streams from
@@ -1507,8 +1430,7 @@ The ‘primordial simplicity’ in par. 2 is the Tao in its
 simplest conception, alone, and by itself, and the
 in par. 4 is that Tao come forth into operation and become
 T eh, the Teh which affords a law for men. From this to
-the end of the paragraph is very obscure. I have trans¬
-lated from the text of Wang Pi. The text of Ho-shang
+the end of the paragraph is very obscure. I have translated from the text of Wang Pi. The text of Ho-shang
 Kung is different, and he comments upon it as it stands,
 but to me it is inexplicable.
 
@@ -1524,12 +1446,9 @@ does not perish, has longevity.
 ^ ‘Discriminating between (different) Attributes.’
 The teaching of the chapter is that the possession of the
 
-THE TEXTS OF TAOISM.
-
 PT. I.
 
-Tao confers the various attributes which are here most dis¬
-tinguished. It has been objected to it that elsewhere the
+Tao confers the various attributes which are here most distinguished. It has been objected to it that elsewhere the
 Tao is represented as associated with dulness and not
 intelligence, and with weakness and not with strength.
 But these seem to be qualities viewed from without, and
@@ -1538,9 +1457,7 @@ are the very opposite, and its action has the effect of
 enlightening what is dark, and overcoming what is strong.
 
 More interesting are the predicates in par. 2. 3Ho Hung
-gives the comment on it of the Indian monk, Kumara^iva,
-
-‘ one of the four suns of Buddhism,’ and who went to China
+gives the comment on it of the Indian monk, Kumara^iva, ‘ one of the four suns of Buddhism,’ and who went to China
 in A.D. 401: ‘To be alive and yet not alive may well be
 called long ; to die and yet not be dead may well be
 called longevity.’ He also gives the views of Lu Nangshih (a.d. 1042-1102) that the freedom from change of
@@ -1561,8 +1478,7 @@ to it. When its work is accomplished, it does not
 claim the name of having done it. It clothes all
 things as with a garment, and makes no assumption
 of being their lord ; — it may be named in the smallest
-things. All things return (to their root and disap¬
-pear), and do not know that it is it which presides
+things. All things return (to their root and disappear), and do not know that it is it which presides
 over their doing so ; — it may be named in the
 greatest things.
 
@@ -1571,10 +1487,9 @@ accomplish his great achievements. It is through
 
 CH. XXXV.
 
-THE TAO TEH KING.
+his not making himself great that he can accomplish them.
 
-his not making himself great that he can accom¬
-plish them.
+### chunk 46 — tao_te_ching — TTC 35-37
 
 1 The Task of Achievement.’ The subject is the
 greatness of what the Tao, called here by L&o’s own name
@@ -1587,11 +1502,8 @@ of chapters 2, 10, and 51, and for Ho-shang Kung’s difficult
 reading of ^ ^ ^ some copies give fly) Jjl, as in
 chapter 2.
 
-### chunk 47 — tao_te_ching — TTC 35-37
-
 35. 1. To him who holds in his hands the Great
-Image (of the invisible Tao), the whole world re¬
-pairs. Men resort to him, and receive no hurt, but
+Image (of the invisible Tao), the whole world repairs. Men resort to him, and receive no hurt, but
 (find) rest, peace, and the feeling of ease.
 
 2. Music and dainties will make the passing guest
@@ -1608,15 +1520,11 @@ good of the world.
 The Great Image (of the invisible T a o) is a name for
 the T&o in its operation; as in chapters 14 and 41. He
 who embodies this in his government will be a centre of
-attraction for all the world. Or the may be
-
-taken as a predicate of the holder of the Great Image :
+attraction for all the world. Or the may be taken as a predicate of the holder of the Great Image :
 — ‘If he go all under heaven teaching the Tao.’ Both
 constructions are maintained by commentators of note.
 In par. 2 the attraction of the Tao is contrasted with that
 of ordinary pleasures and gratifications.
-
-THE TEXTS OF TAOISM.
 
 PT. I.
 
@@ -1656,8 +1564,7 @@ taken from the deep, and brought into shallow water, can
 be easily taken or killed ; that is plain enough. ‘ The sharp
 instruments of a state’ are not its ‘weapons of war,’ nor
 its ‘ treasures,’ nor its ‘ instruments of government,’ that is,
-its rewards and punishments, though this last is the inter¬
-pretation often put on them, and sustained by a foolish
+its rewards and punishments, though this last is the interpretation often put on them, and sustained by a foolish
 reference to an incident, real or coined, in the history of the
 dukedom of Sung. The 11 kh\ are ‘contrivances for gain,’
 machines, and other methods to increase the wealth of
@@ -1672,8 +1579,7 @@ whom the Taoistic system would keep in a state of
 primitive simplicity and ignorance. This interpretation is
 in accordance with the meaning of the characters, and with
 the general teaching of Taoism. In no other way can
-I explain the paragraph so as to justify the place un¬
-doubtedly belonging to it in the system.
+I explain the paragraph so as to justify the place undoubtedly belonging to it in the system.
 
 37. i . The Tao in its regular course does nothing
 (for the sake of doing it), and so there is nothing
@@ -1682,6 +1588,8 @@ which it does not do.
 2. If princes and kings were able to maintain it,
 all things would of themselves be transformed by
 them.
+
+### chunk 47 — tao_te_ching — TTC 37-38
 
 3. If this transformation became to me an object
 of desire, I would express the desire by the nameless
@@ -1698,16 +1606,12 @@ All things go right as of their will.
 should be according to the Tao, doing without doing,
 governing without government.
 
-### chunk 48 — tao_te_ching — 38
-
 The subject of the third paragraph is a feudal prince or
 the king, and he is spoken of in the first person, to give
 more vividness to the style, unless the ‘ I,’ may, possibly,
 be understood of Lao-jze himself personating one of them.
 
 8o
-
-THE TEXTS OF TAOISM.
 
 PT. II.
 
@@ -1716,8 +1620,7 @@ PART II.
 38. i. (Those who) possessed in highest degree
 the attributes (of the Tao) did not (seek) to show
 them, and therefore they possessed them (in fullest
-measure). (Those who) possessed in a lower de¬
-gree those attributes (sought how) not to lose them,
+measure). (Those who) possessed in a lower degree those attributes (sought how) not to lose them,
 and therefore they did not possess them (in fullest
 measure).
 
@@ -1744,13 +1647,9 @@ benevolence appeared ; when benevolence was lost,
 righteousness appeared ; and when righteousness
 was lost, the proprieties appeared.
 
-6. Now propriety is the attenuated form of leal¬
-heartedness and good faith, and is also the com¬
-mencement of disorder ; swift apprehension is
+6. Now propriety is the attenuated form of lealheartedness and good faith, and is also the commencement of disorder ; swift apprehension is
 
 CH. XXXVIII.
-
-THE TAO TEH KING.
 
 (only) a flower of the Tao, and is the beginning of
 stupidity.
@@ -1785,23 +1684,20 @@ ingenious, and in accordance with the Taoistic system,
 is the manner in which Wu AV/ang construes the passage,
 and I am surprised that it has not been generally accepted.
 By ‘the higher teh’ he understands ‘the Tao,’ that which
-is prior to and above the Teh
-
-ifi ft); by ‘the lower teh,’ benevolence, that which is
+is prior to and above the Teh ifi ft); by ‘the lower teh,’ benevolence, that which is
 after and below the Teh; by ‘the higher benevolence,’
 the Teh which is above benevolence; by ‘the higher
-righteousness,’ the benevolence which is above righteous¬
-ness ; and by ‘ the higher propriety,’ the righteousness
+righteousness,’ the benevolence which is above righteousness ; and by ‘ the higher propriety,’ the righteousness
 which is above propriety. Certainly in the summation
 of these four paragraphs which we have in the fifth, the
 [39] G
-
-THE TEXTS OF TAOISM.
 
 PT. II.
 
 subjects of them would appear to have been in the mind
 of Lao-jze as thus defined by Wu.
+
+### chunk 48 — tao_te_ching — TTC 39-40
 
 In the remainder of the chapter he goes on to speak
 depreciatingly of ceremonies and knowledge, so that the
@@ -1817,8 +1713,6 @@ Heaven which by it is bright and pure ;
 
 Earth rendered thereby firm and sure ;
 
-### chunk 49 — tao_te_ching — TTC 39-41
-
 Spirits with powers by it supplied ;
 
 Valleys kept full throughout their void ;
@@ -1831,14 +1725,8 @@ The model which to all they give.
 All these are the results of the One (Tao).
 
 2. If heaven were not thus pure, it soon would
-rend ;
-
-If earth were not thus sure, ’twould break and
-bend ;
-
-Without these powers, the spirits soon would fail ;
-
-If not so filled, the drought would parch each vale ;
+rend ; If earth were not thus sure, ’twould break and
+bend ; Without these powers, the spirits soon would fail ; If not so filled, the drought would parch each vale ;
 
 Without that life, creatures would pass away ;
 
@@ -1851,16 +1739,13 @@ its (previous) meanness, and what is lofty finds its
 stability in the lowness (from which it rises). Hence
 princes and kings call themselves ‘ Orphans,’ ‘ Men
 of small virtue,’ and as ‘ Carriages without a nave.’
-Is not this an acknowledgment that in their con¬
-sidering themselves mean they see the foundation of
+Is not this an acknowledgment that in their considering themselves mean they see the foundation of
 
 CH. XL.
 
 THE TAO TEH .STING.
 
-§3
-
-their dignity ? So it is that in the enumeration of
+§3 their dignity ? So it is that in the enumeration of
 the different parts of a carriage we do not come on
 what makes it answer the ends of a carriage. They
 do not wish to show themselves elegant-looking as
@@ -1876,8 +1761,7 @@ of doing, it yet does all things.
 
 The difficulty of translation is in the third paragraph.
 The way in which princes and kings speak depreciatingly
-of themselves is adduced as illustrating how they have in¬
-deed got the spirit of the T ao ; and I accept the last
+of themselves is adduced as illustrating how they have indeed got the spirit of the T ao ; and I accept the last
 epithet as given by Ho-shang Kung, ‘ naveless ’ (Jj^),
 instead of ^ ( = ‘the unworthy’), which is found in Wang
 Pi, and has been adopted by nearly all subsequent editors.
@@ -1890,17 +1774,12 @@ explanation of the difficult clause which follows, in which
 also I have followed the text of Ho-shang Kung. For his
 fjj , Wang Pi has |j|L, which also is found in a quotation of
 it by Hwai-nan $ze ; but this need not affect the meaning.
-In the translation of the clause we are assisted by a some¬
-what similar illustration about a horse in the twenty-fifth
+In the translation of the clause we are assisted by a somewhat similar illustration about a horse in the twenty-fifth
 of Wwang-jze’s Books, par. 10.
 
 40. 1. The movement of the Tao
-By contraries proceeds ;
-
-And weakness marks the course
+By contraries proceeds ; And weakness marks the course
 Of Tio’s mighty deeds.
-
-THE TEXTS OF TAOISM.
 
 PT. II.
 
@@ -1917,39 +1796,24 @@ result.
 
 In translating par. a I have followed 3A° Hung, who
 finds the key to it in ch. i. Having a name, the Tao is
-‘ the Mother of all things ; ’ having no name, it is ‘ the Ori¬
-ginator of Heaven and Earth.’ But here is the teaching of
+‘ the Mother of all things ; ’ having no name, it is ‘ the Originator of Heaven and Earth.’ But here is the teaching of
 Lio-jze : — ‘If Tdo seems to be before God,’ Tao itself
 sprang from nothing.
 
-41. i. Scholars of the highest class, when they
-hear about the Tao, earnestly carry it into practice.
-Scholars of the middle class, when they have heard
-about it, seem now to keep it and now to lose it.
-Scholars of the lowest class, when they have heard
-about it, laugh greatly at it. If it were not (thus)
-laughed at, it would not be fit to be the Tao.
+### chunk 50 — tao_te_ching — TTC 43-46
 
-2. Therefore the sentence-makers have thus ex¬
-pressed themselves : —
-
-‘ The T ao, when brightest seen, seems light to lack ;
-
-Who progress in it makes, seems drawing back ;
-
-### chunk 51 — tao_te_ching — TTC 43-46
-
-and his glossarist, Kao Yu, makes out the One to be the
+Heaven, which was formed by the congealing of the T a o . ’
+According to another treatise, also assigned to the same Lii the One was ‘the primordial ether ; ’
+the Two, ‘the separation of that into its Yin and Yang
+constituents ; ’ and the Three, ‘ the production of heaven,
+earth, and man by these.’ In quoting the paragraph Hwainan 3ze omits * , and commences with — * and his glossarist, Kao Yu, makes out the One to be the
 Tao, the Two to be Spiritual Intelligences (J$ *Pj)> and
 the Three to be the Harmonising Breath. From the
 mention of the Yin and Yang that follows, I believe that
-Lao-jze intended by the Two these two qualities or ele¬
-ments in the primordial ether, which would be ‘ the One.’
+Lao-jze intended by the Two these two qualities or elements in the primordial ether, which would be ‘ the One.’
 I dare not hazard a guess as to what ‘ the Three ’ w'ere.
 
 CH. XLIV.
-
-THE TAO TEH KING.
 
 43. 1. The softest thing in the world dashes
 against and overcomes the hardest ; that which has
@@ -1978,13 +1842,9 @@ we cannot see how.
 
 Compare par. 2 writh ch. 2, par. 3.
 
-44. 1. Or fame or life,
+44. 1. Or fame or life, Which do you hold more dear ?
 
-Which do you hold more dear ?
-
-Or life or wealth,
-
-To which would you adhere ?
+Or life or wealth, To which would you adhere ?
 
 Keep life and lose those other things ;
 
@@ -2000,8 +1860,6 @@ Rejects what is more great ;
 
 Who loves large stores
 Gives up the richer state.
-
-THE TEXTS OF TAOISM.
 
 PT. II.
 
@@ -2032,9 +1890,7 @@ Of greatest fulness, deemed a void,
 Exhaustion ne’er shall stem the tide.
 
 Do thou what’s straight still crooked deem ;
-Thy greatest art still stupid seem,
-
-And eloquence a stammering scream.
+Thy greatest art still stupid seem, And eloquence a stammering scream.
 
 2. Constant action overcomes cold; being still
 overcomes heat. Purity and stillness give the
@@ -2044,8 +1900,7 @@ correct law to all under heaven.
 another illustration of the working of the Tao by contraries.
 
 According to Wu K/ia ng, the action which overcomes
-cold is that of the Yang element in the developing primor¬
-dial ether ; and the stillness which overcomes heat is that
+cold is that of the Yang element in the developing primordial ether ; and the stillness which overcomes heat is that
 of the contrary Yin element. These may have been in
 Lao-jze’s mind, but the statements are so simple as hardly
 to need any comment. Wu further says that the purity
@@ -2056,40 +1911,34 @@ send back their swift horses to (draw) the dung-carts.
 
 CH. XLVII.
 
-THE TAO TEH KING.
-
 When the Tao is disregarded in the world, the warhorses breed in the border lands.
 
 2. There is no guilt greater than to sanction
-ambition ; no calamity greater than to be discon¬
-tented with one’s lot ; no fault greater than the
+ambition ; no calamity greater than to be discontented with one’s lot ; no fault greater than the
 wish to be getting. Therefore the sufficiency of
-contentment is an enduring and unchanging suffi¬
-ciency.
+contentment is an enduring and unchanging sufficiency.
 
 ‘ The Moderating of Desire or Ambition.’ The
 chapter shows how the practice of the Tao must conduce
 to contentment and happiness.
+
+### chunk 51 — tao_te_ching — TTC 47-49
 
 In translating par. 1 I have, after Wu /T/zang, admitted a
 after the his chief authority for doing so being that
 it is so found in a poetical piece by .Yang Hang (a. D. 78-
 139). Ku Hsi also adopted this reading (^
 
-### chunk 52 — tao_te_ching — TTC 47-49
-
 XVIII, 7 a). In par. 3 Han Ying has a tempting variation
 of ^ $ f«r W St. but I have not adopted it because the
 same phrase occurs elsewhere.
 
-47. 1. Without going outside his door, one under¬
-stands (all that takes place) under the sky ; without
+47. 1. Without going outside his door, one understands (all that takes place) under the sky ; without
 looking out from his window, one sees the Tao of
 Heaven. The farther that one goes out (from
 himself), the less he knows.
 
-2. Therefore the sages got their knowledge with¬
-out travelling; gave their (right) names to things
+2. Therefore the sages got their knowledge without travelling; gave their (right) names to things
 without seeing them ; and accomplished their ends
 without any purpose of doing so.
 
@@ -2100,8 +1949,6 @@ as the chapter is, it is somewhat mystical. The phrase,
 ‘The Tao’ or way of Heaven, occurs in it for the first time ;
 and it is difficult to lay down its precise meaning. Lao-jze
 would seem to teach that man is a microcosm ; and that, if
-
-THE TEXTS OF TAOISM.
 
 PT. II.
 
@@ -2139,8 +1986,7 @@ till there is nothing coarse about him which is not put
 away. He puts it away till he has forgotten all that was bad
 in it. He then puts away all that is fine about him. He
 does so till he has forgotten all that was good in it. But
-the bad was wrong, and the good is right. Having dimi¬
-nished the wrong, and also diminished the right, the process
+the bad was wrong, and the good is right. Having diminished the wrong, and also diminished the right, the process
 is carried on till they are both forgotten. Passion and
 desire are both cut off; and his virtue and the Tao are in
 such union that he does nothing ; but though he does
@@ -2156,8 +2002,7 @@ In a passage in the ‘Narratives of the School’ (Bk. IX,
 Art. 2), we have a Confucian view of the passage : — 1 Let
 perspicacity, intelligence, shrewdness, and wisdom be
 guarded by stupidity, and the service of the possessor will
-affect the whole world ; let them be guarded by com¬
-plaisance, and his daring and strength will shake the age ;
+affect the whole world ; let them be guarded by complaisance, and his daring and strength will shake the age ;
 let them be guarded by timidity, and his wealth will be all
 within the four seas ; let them be guarded by humility, and
 there will be what we call the method of “ diminishing it,
@@ -2170,17 +2015,104 @@ AAvang-jze.
 49. 1. The sage has no invariable mind of his
 own ; he makes the mind of the people his mind.
 
-2. To those who are good (to me), I am good ;
-and to those who are not good (to me), I am also
-good ; — and thus (all) get to be good. To those
-who are sincere (with me), I am sincere ; and to
-those who are not sincere (with me), I am also
-sincere and thus (all) get to be sincere.
+### chunk 53 — tao_te_ching — 51-52
 
-### chunk 57 — tao_te_ching — TTC 56-58
+In pars. 2 and 3 I translate the characters
+by ‘three in ten,’ instead of by ‘thirteen,’ as Julien and
+other translators have done. The characters are susceptible of either translation according to the tone in which
+we read the . They were construed as I have done
+by Wang Pi ; and many of the best commentators have
+followed in his wake. ‘ The ministers of life to themselves ’ would be those who eschewed all things, both internal and external, tending to injure health ; ‘ the ministers
+of death,’ those who pursued courses likely to cause disease
+and shorten life ; the third three would be those who
+thought that by mysterious and abnormal courses they
+could prolong life, but only injured it. Those three classes
+being thus disposed of, there remains only one in ten rightly
+using the T ao, and he is spoken of in the next paragraph.
 
-With pars. 1 and 2, compare what is said about the in¬
-fant in chapters 10 and 20, and about the immunity from
+This par. 4 is easy of translation, and the various readings in it are unimportant, differing in this respect from
+those in par. 3. But the aim of the author in it is not clear.
+In ascribing such effects to the possession of the Tio, is he
+‘ trifling,’ as Dr. Chalmers thinks ? or indulging the play of
+his poetical fancy? or simply saying that the Taoist will
+keep himself out of danger ?
+
+51. 1. All things are produced by the T ao, and
+nourished by its outflowing operation. They receive
+their forms according to the nature of each, and are
+
+PT. II.
+
+completed according to the circumstances of their
+condition. Therefore all things without exception
+honour the Tao, and exalt its outflowing operation.
+
+2. This honouring of the T do and exalting of its
+operation is not the result of any ordination, but
+always a spontaneous tribute.
+
+3. Thus it is that the Tao produces (all things),
+nourishes them, brings them to their full growth,
+nurses them, completes them, matures them, maintains them, and overspreads them.
+
+4. It produces them and makes no claim to the
+possession of them ; it carries them through their
+processes and does not vaunt its ability in doing so ;
+it brings them to maturity and exercises no control
+over them ; — this is called its mysterious operation.
+
+|j|i, ‘The Operation (of the Tao) in Nourishing
+Things.’ The subject of the chapter is the quiet passionless
+operation of the T&o in nature, in the production and
+nourishing of things throughout the seasons of the year ; —
+a theme dwelt on by Lao-jze, in II, 4, X, 3, and other
+places.
+
+The T ao is the subject of all the predicates in par. 1, and
+what seem the subjects in all but the first member should
+be construed adverbially.
+
+On par. 2 Wu AT/kang says that the honour of the Son of
+Heaven is derived from his appointment by God, and that
+then the nobility of the feudal princes is derived from him ;
+but in the honour given to the Tao and the nobility ascribed
+to its operation, we are not to think of any external ordination. There is a strange reading of two of the members of
+par. 3 in Wang Pi, viz. ifS £ ^ £ for $ £ fb
+This is quoted and predicated of ‘ Heaven,’ in the Nestorian Monument of Hsi-an in the eighth century.
+
+52. 1. (The Tdo) which originated all under the
+sky is to be considered as the mother of them all.
+
+CH.LII.
+
+THE TAO TEH ATING.
+
+2. When the mother is found, we know what her
+children should be. When one knows that he is his
+mother’s child, and proceeds to guard (the qualities
+of) the mother that belong to him, to the end of his
+life he will be free from all peril.
+
+3. Let him keep his mouth closed, and shut up
+the portals (of his nostrils), and all his life he will be
+exempt from laborious exertion. Let him keep his
+mouth open, and (spend his breath) in the promotion
+of his affairs, and all his life there will be no safety
+for him.
+
+4. The perception of what is small is (the secret
+of) clear-sightedness ; the guarding of what is soft
+and tender is (the secret of) strength.
+
+5. Who uses well his light,
+
+Reverting to its (source so) bright,
+
+Will from his body ward all blight, And hides the unchanging from men’s sight.
+
+### chunk 56 — tao_te_ching — TTC 56-58
+
+With pars. 1 and 2, compare what is said about the infant in chapters 10 and 20, and about the immunity from
 dangers such as here described of the disciple of the Tao
 in ch. 50. My ' evil’ in the second triplet of par. 3 has been
 translated by ‘ felicity but a reference to the Khang-hsi
@@ -2189,13 +2121,7 @@ is well authorised. It is the only meaning allowable here.
 The third and fourth Q in this par. appear in Ho-shang
 Kung’s text as , and he comments on the clauses accord-
 
-H 2
-
-IOO
-
-THE TEXTS OF TAOISM.
-
-pt. ir.
+IOO pt. ir.
 
 ingly ; but (jjj is now the received reading. Some light
 is thrown on this paragraph and the next by an apocryphal
@@ -2218,8 +2144,7 @@ injury; of nobility or meanness : — he is the noblest
 man under heaven.
 
 Ufa, ‘ The Mysterious Excellence.’ The chapter gives
-us a picture of the man of Tao, humble and retiring, obli¬
-vious of himself and of other men, the noblest man under
+us a picture of the man of Tao, humble and retiring, oblivious of himself and of other men, the noblest man under
 heaven.
 
 Par. 1 is found in Tdwang-^ze (XIII, 20 b), not expressly
@@ -2238,10 +2163,7 @@ dexterity ; (but) the kingdom is made one’s own
 
 2. How do I know that it is so? By these
 
-CH. LVIII. THE TAO TEH SING. IOI
-
-facts : — In the kingdom the multiplication of prohibi¬
-tive enactments increases the poverty of the people ;
+CH. LVIII. THE TAO TEH SING. IOI facts : — In the kingdom the multiplication of prohibitive enactments increases the poverty of the people ;
 the more implements to add to their profit that the
 people have, the greater disorder is there in the
 state and clan ; the more acts of crafty dexterity
@@ -2254,13 +2176,11 @@ the more thieves and robbers there are.
 themselves ; I will be fond of keeping still, and the
 people will of themselves become correct. I will
 take no trouble about it, and the people will of
-themselves become rich ; I will manifest no ambi¬
-tion, and the people will of themselves attain to the
+themselves become rich ; I will manifest no ambition, and the people will of themselves attain to the
 primitive simplicity.’
 
 1 The Genuine Influence.’ The chapter shows
-how government by the Tao is alone effective, and of uni¬
-versal application ; contrasting it with the failure of other
+how government by the Tao is alone effective, and of universal application ; contrasting it with the failure of other
 methods.
 
 After the ‘weapons of war’ in par. 1, one is tempted to
@@ -2272,20 +2192,14 @@ Ho-shang Kung has the strange reading of {ffyj, and uses
 it in his commentary ; but the better text of ^ ^ is found
 both in Hvvai-nan and Sze-ma K/iie n, and in Wang Pi.
 
-We do not know if the writer were quoting any par¬
-ticular sage in par. 3, or referring generally to the sages of
+We do not know if the writer were quoting any particular sage in par. 3, or referring generally to the sages of
 the past ; — men like the ‘ sentence-makers ’ of ch. 41.
 
-58. 1. The government that seems the most un¬
-wise,
+58. 1. The government that seems the most unwise,
 
 Oft goodness to the people best supplies ;
 
-THE TEXTS OF TAOISM.
-
 PT. II.
-
-### chunk 58 — tao_te_ching — TTC 58-60
 
 That which is meddling, touching everything,
 Will work but ill, and disappointment bring.
@@ -2293,9 +2207,10 @@ Misery ! — happiness is to be found by its side !
 Happiness ! — misery lurks beneath it ! Who knows
 what either will come to in the end ?
 
+### chunk 57 — tao_te_ching — TTC 58-60
+
 2. Shall we then dispense with correction ? The
-(method of) correction shall by a turn become dis¬
-tortion, and the good in it shall by a turn become
+(method of) correction shall by a turn become distortion, and the good in it shall by a turn become
 evil. The delusion of the people (on this point) has
 indeed subsisted for a long time.
 
@@ -2311,25 +2226,20 @@ chapter ; nor are we helped to an understanding of it by
 Han Fei, with his additions and comments (XI, 3 b, 4 b),
 nor by Hwai-nan with his illustrations (XII, 21 a, b). The
 difficulty of it is increased by its being separated from the
-preceding chapter of which it is really the sequel. It con¬
-trasts still further government by the Tao, with that by
+preceding chapter of which it is really the sequel. It contrasts still further government by the Tao, with that by
 the method of correction. The sage is the same in both
 chapters, his character and government both marked by
 the opposites or contraries which distinguish the procedure
 of the Tao, as stated in ch. 40.
 
-59. 1. For regulating the human (in our consti¬
-tution) and rendering the (proper) service to the
+59. 1. For regulating the human (in our constitution) and rendering the (proper) service to the
 heavenly, there is nothing like moderation.
 
 2. It is only by this moderation that there is
 effected an early return (to man’s normal state).
-That early return is what I call the repeated accumu¬
-lation of the attributes (of the Teio). With that
+That early return is what I call the repeated accumulation of the attributes (of the Teio). With that
 
 CH. LX.
-
-THE TAO TEH KING.
 
 repeated accumulation of those attributes, there
 comes the subjugation (of every obstacle to such
@@ -2340,8 +2250,7 @@ the limit shall be, he may be the ruler of a state.
 3. He who possesses the mother of the state may
 continue long. His case is like that (of the plant)
 of which we say that its roots are deep and its flower
-stalks firm : — this is the way to secure that its endur¬
-ing life shall long be seen.
+stalks firm : — this is the way to secure that its enduring life shall long be seen.
 
 , ‘Guarding the Tdo.’ The chapter shows how
 it is the guarding of the T4o that ensures a continuance
@@ -2359,10 +2268,8 @@ in our constitution, the Heavenly element in our nature.
 The ‘moderation’ is the opposite of what we call ‘living
 fast,’ ‘ burning the candle at both ends.’
 
-In par. a I must read instead of the more com¬
-mon JJJ£. I find it in Lu Teh-ming, and that it is not a
-misprint in him appears from his subjoining that it is pro¬
-nounced like Jjjfc. Its meaning is the same as in ^ ^
+In par. a I must read instead of the more common JJJ£. I find it in Lu Teh-ming, and that it is not a
+misprint in him appears from his subjoining that it is pronounced like Jjjfc. Its meaning is the same as in ^ ^
 jij)J in ch. 5a, par. 5. Teh is not ‘ virtue ’ in our common
 meaning of the term, but ‘ the attributes of the T a o,’ as
 almost always with Lao-jze.
@@ -2373,13 +2280,10 @@ ch. 1, and especially in ch. 5a, par. 1.
 60. 1. Governing a great state is like cooking
 small fish.
 
-THE TEXTS OF TAOISM.
-
 PT. II.
 
 2. Let the kingdom be governed according to the
-Tao, and the manes of the departed will not mani¬
-fest their spiritual energy. It is not that those
+Tao, and the manes of the departed will not manifest their spiritual energy. It is not that those
 manes have not that spiritual energy, but it will not
 be employed to hurt men. It is not that it could not
 hurt men, but neither does the ruling sage hurt them.
@@ -2388,19 +2292,122 @@ hurt men, but neither does the ruling sage hurt them.
 other, their good influences converge in the virtue
 (of the Tao).
 
-### chunk 60 — tao_te_ching — 63-65
+%% ‘Occupying the Throne;’ occupying it, that is,
+according to the Tao, noiselessly and purposelessly, so
+that the people enjoy their lives, free from all molestation
+seen and unseen.
+
+Par. 1 . That is, in the most quiet and easy manner. The
+whole of the chapter is given and commented on by Han
+Fei (VI, 6a-7b); but very unsatisfactorily.
+
+### chunk 58 — tao_te_ching — 61-63
+
+The more one thinks and reads about the rest of the
+chapter, the more does he agree with the words of Julien : —
+‘ It presents the frequent recurrence of the same characters,
+and appears as insignificant as it is unintelligible, if we give
+to the Chinese characters their ordinary meaning.’ — The
+reader will observe that we have here the second mention
+of spirits (the manes; Chalmers, ‘the ghosts;’ Julien, les
+demons). See ch. 39.
+
+Whatever Lao-sze meant to teach in par. a, he laid in it
+a foundation for the superstition of the later and present
+Taoism about the spirits of the dead ; — such as appeared
+a few years ago in the ‘ tail-cutting ’ scare.
+
+61. 1. What makes a great state is its being (like)
+a low-lying, down-flowing (stream) ; — it becomes the
+centre to which tend (all the small states) under
+heaven.
+
+2. (To illustrate from) the case of all females : — the
+female always overcomes the male by her stillness.
+Stillness may be considered (a sort of) abasement.
+
+CH. I.XII.
+
+THE TAO TEH AING.
+
+T°5
+
+3. Thus it is that a great state, by condescending
+to small states, gains them for itself; and that
+small states, by abasing themselves to a great
+state, win it over to them. In the one case the
+abasement leads to gaining adherents, in the other
+case to procuring favour.
+
+4. The great state only wishes to unite men together and nourish them ; a small state only wishes
+to be received by, and to serve, the other. Each
+gets what it desires, but the great state must learn
+to abase itself.
+
+‘ The Attribute of Humility;’ — a favourite theme
+with Lao-jze ; and the illustration of it from the low-lying
+stream to which smaller streams flow is also a favourite
+subject with him. The language can hardly but recall the
+words of a greater than Laoqze: — ‘He that humbleth himself shall be exalted.’
+
+62. 1. Tdo has of all things the most honoured
+place.
+
+No treasures give good men so rich a grace;
+
+Bad men it guards, and doth their ill efface.
+
+2. (Its) admirable words can purchase honour;
+(its) admirable deeds can raise their performer above
+others. Even men who are not good are not abandoned by it.
+
+3. Therefore when the sovereign occupies his
+place as the Son of Heaven, and he has appointed
+his three ducal ministers, though (a prince) were to
+send in a round symbol-of-rank large enough to fill
+both the hands, and that as the precursor of the team
+of horses (in the court-yard), such an offering would
+not be equal to (a lesson of) this Tao, which one
+might present on his knees.
+
+4. Why was it that the ancients prized this Tao io6
+
+PT. II.
+
+so much ? Was it not because it could be got by
+seeking for it, and the guilty could escape (from the
+stain of their guilt) by it ? This is the reason why
+all under heaven consider it the most valuable thing.
+
+^ ‘ Practising the Tao.’ J|| ‘The value set on the Tao,’ would have been a more appropriate title.
+The chapter sets forth that value in various manifestations
+of it.
+
+Par. i. For the meaning of JpfL, see Confucian Analects,
+III, ch. 13.
+
+Par. 2. I am obliged to adopt the reading of the first
+sentence of this paragraph given by Hwai-nan, m # M. SI ft W min A: — see especially his
+quotation of it in XVIII, 10 a, as from a superior man,
+I have not found his reading anywhere else.
+
+Par. 3 is not easily translated, or explained. See the
+rules on presenting offerings at the court of a ruler or the
+king, in vol. xxvii of the 1 Sacred Books of the East,’ p. 84,
+note 3, and also a narrative in the 3° ATwan under the
+thirty-third year of duke Hsi.
 
 63. 1. (It is the way of the Tao) to act without
-(thinking of) acting ; to conduct affairs without (feel¬
-ing the) trouble of them ; to taste without discerning
+(thinking of) acting ; to conduct affairs without (feeling the) trouble of them ; to taste without discerning
 any flavour ; to consider what is small as great, and
 a few as many ; and to recompense injury with
 kindness.
 
+### chunk 59 — tao_te_ching — TTC 63-65
+
 2. (The master of it) anticipates things that are
 difficult while they are easy, and does things that
-would become great while they are small. All diffi¬
-cult things in the world are sure to arise from a
+would become great while they are small. All difficult things in the world are sure to arise from a
 previous state in which they were easy, and all
 great things from one in which they were small.
 Therefore the sage, while he never does what is
@@ -2424,8 +2431,7 @@ of Grace.’ The chapter sets forth the passionless method
 of the Tao, and how the sage accordingly accomplishes his
 objects easily by forestalling in his measures all difficulties.
 In par. 1 the clauses are indicative, and not imperative,
-and therefore we have to supplement the text in translat¬
-ing in some such way, as I have done. They give us a
+and therefore we have to supplement the text in translating in some such way, as I have done. They give us a
 cluster of aphorisms illustrating the procedure of the Tao
 ‘ by contraries,’ and conclude with one, which is the chief
 glory of Ldo-sze’s teaching, though I must think that its
@@ -2437,8 +2443,7 @@ It is quoted, however, twice by Liu Hsiang; — see my note
 on par. 2 of ch. 49.
 
 It follows from the whole chapter that the Taoistic
-‘ doing nothing ’ was not an absolute quiescence and inac¬
-tion, but had a method in it.
+‘ doing nothing ’ was not an absolute quiescence and inaction, but had a method in it.
 
 64. 1. That which is at rest is easily kept hold of;
 before a thing has given indications of its presence,
@@ -2463,8 +2468,7 @@ therefore does no harm ; he does not lay hold (so),
 and therefore does not lose his hold. (But) people
 in their conduct of affairs are constantly ruining them
 when they are on the eve of success. If they were
-careful at the end, as (they should be) at the begin¬
-ning, they would not so ruin them.
+careful at the end, as (they should be) at the beginning, they would not so ruin them.
 
 4. Therefore the sage desires what (other men)
 do not desire, and does not prize things difficult to
@@ -2474,15 +2478,13 @@ passed by. Thus he helps the natural development
 of all things, and does not dare to act (with an
 ulterior purpose of his own).
 
-1 Guarding the Minute.’ The chapter is a con¬
-tinuation and enlargement of the last. Wu .ST/zang, indeed,
+1 Guarding the Minute.’ The chapter is a continuation and enlargement of the last. Wu .ST/zang, indeed,
 unites the two, blending them together with some ingenious
 transpositions and omissions, which it is not necessary to
 discuss. Compare the first part of par. 3 with the last part
 of par. 1, ch. 29.
 
-65. 1. The ancients who showed their skill in prac¬
-tising the Tao did so, not to enlighten the people,
+65. 1. The ancients who showed their skill in practising the Tao did so, not to enlighten the people,
 but rather to make them simple and ignorant.
 
 2. The difficulty in governing the people arises
@@ -2493,22 +2495,18 @@ while he who does not (try to) do so is a blessing.
 3. He who knows these two things finds in them
 also his model and rule. Ability to know this
 
-### chunk 61 — tao_te_ching — TTC 60-67
-
 CH. LX VI,
 
 THE TAO TEH STING.
 
-model and rule constitutes what we call the myste¬
-rious excellence (of a governor). Deep and farreaching is such mysterious excellence, showing
-indeed its possessor as opposite to others, but lead¬
-ing them to a great conformity to him.
+model and rule constitutes what we call the mysterious excellence (of a governor). Deep and farreaching is such mysterious excellence, showing
+indeed its possessor as opposite to others, but leading them to a great conformity to him.
+
+### chunk 60 — tao_te_ching — 66-67
 
 V?* fjtb * -Pure, unmixed Excellence.’ The chapter shows
-the powerful and beneficent influence of the Ti o in govern¬
-ment, in contrast with the applications and contrivances of
-human wisdom. Compare ch. 19. My ‘simple and igno¬
-rant’ is taken from Julien. More literally the translation
+the powerful and beneficent influence of the Ti o in government, in contrast with the applications and contrivances of
+human wisdom. Compare ch. 19. My ‘simple and ignorant’ is taken from Julien. More literally the translation
 would be ‘ to make them stupid.’ My ‘ scourge ’ in par. 2
 is also after Julien’s ‘fleau.’
 
@@ -2540,8 +2538,6 @@ seem to be no quotations from the chapter in Han Fei or
 Hwai-nan ; but Wu K/ikng quotes passages from Tung
 
 I IO
-
-THE TEXTS OF TAOISM.
 
 PT. II.
 
@@ -2576,8 +2572,7 @@ be foremost ; — (of all which the end is) death.
 
 4. Gentleness is sure to be victorious even in
 battle, and firmly to maintain its ground. Heaven
-will save its possessor, by his (very) gentleness pro¬
-tecting him.
+will save its possessor, by his (very) gentleness protecting him.
 
 — =|§£, ‘ The Three Precious Things.’ This title is taken
 from par. 2, and suggests to us how the early framer of
@@ -2587,11 +2582,204 @@ distinguishing qualities of the possessor of the Tao, the
 
 CH. LXVIII.
 
-THE TAO TEH XING.
 
-I 1 1
+three great moral qualities appearing in its followers, the
+qualities, we may venture to say, of the Tdo itself. The
+same phrase is now the common designation of Buddhism
+in China, — the Tri-ratna or Ratna-traya, ‘ the Precious
+Buddha,’ ‘ the Precious Law,’ and ‘ the Precious Priesthood
+(or rather Monkhood) or Church;’ appearing also in the
+‘ Tri-rarawa,’ or ‘ formula of the Three Refuges,’ what Dr.
+Eitel calls ‘the most primitive formula fidei of the early
+Buddhists, introduced before Southern and Northern Buddhism separated.’ I will not introduce the question of
+whether Buddhism borrowed this designation from Taoism,
+after its entrance into China. It is in Buddhism the formula
+of a peculiar Church or Religion ; in Taoism a rule for the
+character, or the conduct which the Tao demands from all
+men. ‘ My Tao ’ in par. i is the reading of Wang Pi ;
+Ho-shang Kung’s text is simply Wang Pi’s reading
+is now generally adopted.
 
-### chunk 65 — tao_te_ching — DDJ 74-77
+### chunk 61 — tao_te_ching — TTC 68-71
+
+The concluding sentiment of the chapter is equivalent to
+the saying of Mencius (VII, ii, IV, 2), ‘ If the ruler of a
+state love benevolence, he will have no enemy under heaven.’
+‘ Heaven ’ is equivalent to ‘ the Tao,’ the course of events, —
+Providence, as we should say.
+
+68. He who in (Tao’s) wars has skill
+Assumes no martial port ;
+
+He who fights with most good will
+To rage makes no resort.
+
+He who vanquishes yet still
+Keeps from his foes apart ;
+
+He whose hests men most fulfil
+Yet humbly plies his art.
+
+Thus we say, ‘ He ne’er contends, And therein is his might.’
+
+Thus we say, ‘ Men’s wills he bends, That they with him unite.’
+
+Thus we say, ‘ Like Heaven’s his ends.
+
+No sage of old more bright.’
+
+PT. II.
+
+‘ Matching Heaven.’ The chapter describes the
+work of the practiser of the Tao as accomplished like that
+of Heaven, without striving or crying. He appears under
+the figure of a mailed warrior (^) of the ancient chariot.
+The chapter is a sequel of the preceding, and is joined on
+to it by Wu jOang, as is also the next.
+
+69. 1. A master of the art of war has said, ‘ I do
+not dare to be the host (to commence the war) ; I
+prefer to be the guest (to act on the defensive).
+I do not dare to advance an inch ; I prefer to retire
+a foot.’ This is called marshalling the ranks where
+there are no ranks ; baring the arms (to fight) where
+there are no arms to bare; grasping the weapon
+where there is no weapon to grasp ; advancing against
+the enemy where there is no enemy.
+
+2. There is no calamity greater than lightlyengaging in war. To do that is near losing (the
+gentleness) which is so precious. Thus it is that
+when opposing weapons are (actually) crossed, he
+who deplores (the situation) conquers.
+
+‘The Use of the Mysterious (Tdo).’ Such
+seems to be the meaning of the title. The chapter
+teaches that, if war were carried on, or rather avoided,
+according to the Tao, the result would be success. Laojze’s own statements appear as so many paradoxes. They
+are examples of the procedure of the Tao by ‘contraries,’
+or opposites.
+
+We do not know who the master of the military art
+referred to was. Perhaps the author only adopted the
+style of quotation to express his own sentiments.
+
+70. 1. My words are very easy to know, and very
+easy to practise ; but there is no one in the world
+who is able to know and able to practise them.
+
+2. There is an originating and all-comprehending
+
+CH. LXXI.
+
+THE TAO TEH iTING.
+
+(principle) in my words, and an authoritative law for
+the things (which I enforce). It is because they do
+not know these, that men do not know me.
+
+3. They who know me are few, and I am on that
+account (the more) to be prized. It is thus that the
+sage wears (a poor garb of) hair cloth, while he
+carries his (signet of) jade in his bosom.
+
+Jfft> ‘ The Difficulty of being (rightly) Known.’ The
+Tao comprehends and rules all Lao-jze’s teaching, as the
+members of a clan were all in the loins of their first father
+(tk)> anc* continue to look up to him ; and the people of
+a state are all under the direction of their ruler ; yet the
+philosopher had to complain of not being known. Lao-jze’s
+principle and rule or ruler was the Tao. His utterance
+here is very important. Compare the words of Confucius
+in the Analects, XIV, ch. 37, et al.
+
+Par. 2 is twice quoted by Hwai-nan, though his text is
+not quite the same in both cases.
+
+71. 1. To know and yet (think) we do not know
+is the highest (attainment) ; not to know (and yet
+think) we do know is a disease.
+
+2. It is simply by being pained at (the thought of)
+having this disease that we are preserved from it.
+The sage has not the disease. He knows the pain
+that would be inseparable from it, and therefore he
+does not have it.
+
+### chunk 63 — tao_te_ching — TTC 73-75
+
+3. Vitae si non taedet, nec patrii soli taedebit.
+
+4. Quare sanctus majestatis fastum non affectat, immo
+similem se caeteris ostendit.
+
+PT. XI.
+
+1 16
+
+5- Sibi recte consulens, populorum amans, non se pretiosum et inaccessibilem facit.
+
+6. Quidquid ergo timorem incutere potest, hoc evitat ;
+quod amorem conciliat et benignitatem, se demonstrat
+hoc eligi et ultro amplectitur.
+
+73. i. He whose boldness appears in his daring
+(to do wrong, in defiance of the laws) is put to death ;
+he whose boldness appears in his not daring (to do
+so) lives on. Of these two cases the one appears
+to be advantageous, and the other to be injurious.
+But When Heaven’s anger smites a man,
+
+Who the cause shall truly scan ?
+
+On this account the sage feels a difficulty (as to
+what to do in the former case).
+
+2. It is the way of Heaven not to strive, and yet
+it skilfully overcomes ; not to speak, and yet it is
+skilful in (obtaining) a reply ; does not call, and yet
+men come to it of themselves. Its demonstrations
+are quiet, and yet its plans are skilful and effective.
+The meshes of the net of Heaven are large ; far
+apart, but letting nothing escape.
+
+fi ft, ‘Allowing Men to take their Course.’ The
+chapter teaches that rulers should not be hasty to punish,
+especially by the infliction of death. Though they may
+seem to err in leniency, yet Heaven does not allow offenders
+to escape.
+
+While Heaven hates the ill-doer, yet we must not always
+conclude from Its judgments that every one who suffers from
+them is an ill-doer; and the two lines which rhyme, and
+illustrate this point, are equivalent to the sentiment in our
+Old Book, ‘ Clouds and darkness are round about Him.’
+They are ascribed to Lao-jze by Lieh-jze (VI, 7 a) ; but,
+it has been said, that they are quoted by him ‘in an
+entirely different connexion.’ But the same text in two
+
+CH. LXXV.
+
+THE TAO TEH iTING.
+
+IX7 different sermons may be said to be in different connexions.
+In Lieh-jze and our K ing the lines have the same meaning,
+and substantially the same application. Indeed Wang Wan,
+of our fourth century, the commentator of Lieh-jze, quotes
+the comment of Wang Pi on this passage, condensing it
+into, ‘Who can know the mind of Heaven? Only the sage
+can do so.’
+
+74. x. The people do not fear death; to what
+purpose is it to (try to) frighten them with death ?
+If the people were always in awe of death, and I
+could always seize those who do wrong, and put
+them to death, who would dare to do wrong ?
+
+2. There is always One who presides over the infliction of death. He who would inflict death in the
+room of him who so presides over it may be described as hewing wood instead of a great carpenter.
+Seldom is it that he who undertakes the hewing,
+instead of the great carpenter, does not cut his own
+hands !
 
 u i , ‘Restraining Delusion.’ The chapter sets forth
 the inefficiency of capital punishment, and warns rulers
@@ -2615,9 +2803,10 @@ It is through this that they suffer famine.
 I I 8 THE TEXTS OF TAOISM. PT. II.
 
 2. The people are difficult to govern because of
-the (excessive) agency of their superiors (in govern¬
-ing them). It is through this that they are difficult
+the (excessive) agency of their superiors (in governing them). It is through this that they are difficult
 to govern.
+
+### chunk 64 — tao_te_ching — TTC 75-78
 
 3. The people make light of dying because of the
 greatness of their labours in seeking for the means
@@ -2677,26 +2866,19 @@ honourable.’
 77. 1. May not the Way (or Tao) of Heaven be
 compared to the (method of) bending a bow ? The
 (part of the bow) which was high is brought low,
-and what was low is raised up. (So Heaven) dimin¬
-ishes where there is superabundance, and supple¬
-ments where there is deficiency.
+and what was low is raised up. (So Heaven) diminishes where there is superabundance, and supplements where there is deficiency.
 
-2. It is the Way of Heaven to diminish super¬
-abundance, and to supplement deficiency. It is not
+2. It is the Way of Heaven to diminish superabundance, and to supplement deficiency. It is not
 so with the way of man. He takes away from those
-who have not enough to add to his own super¬
-abundance.
+who have not enough to add to his own superabundance.
 
 3. Who can take his own superabundance and
 therewith serve all under heaven ? Only he who is
 in possession of the Tao !
 
-4. Therefore the (ruling) sage acts without claim¬
-ing the results as his ; he achieves his merit and
+4. Therefore the (ruling) sage acts without claiming the results as his ; he achieves his merit and
 does not rest (arrogantly) in it : — he does not wish
 to display his superiority.
-
-### chunk 66 — tao_te_ching — 78-79
 
 , ‘ The Way of Heaven but the chapter contrasts
 that way, unselfish and magnanimous, with the way of
@@ -2704,8 +2886,6 @@ man, selfish and contracted, and illustrates the point by the
 method of stringing a bow. This must be seen as it is
 done in China fully to understand the illustration. I have
 known great athletes in this country tasked to the utmost
-
-THE TEXTS OF TAOISM.
 
 PT. II.
 
@@ -2729,317 +2909,24 @@ no one is able to carry it out in practice.
 
 ‘ He who accepts his state’s reproach,
 
-Is hailed therefore its altars’ lord ;
-
-To him who bears men’s direful woes
+Is hailed therefore its altars’ lord ; To him who bears men’s direful woes
 They all the name of King accord.’
 
-4. Words that are strictly true seem to be para¬
-doxical.
+4. Words that are strictly true seem to be paradoxical.
 
-‘ Things to be Believed.’ It is difficult to give
-a short and appropriate translation of this title. The
-chapter shows how the most unlikely results follow from
-action according to the Tao.
-
-Par. 1. Water was Lao-jze’s favourite emblem of the
-Tao. Compare chapters 8, 66, et al.
-
-Par. 2. Compare ch. 36, par. 2.
-
-Par. 3. Of course we do not know who the sage was
-from whom Lao-^ze got the lines of this paragraph. They
-may suggest to some readers the lines of Burns, as they
-have done to me : —
-
-1 The honest man, though e’er so poor,
-
-Is king o’ men for a’ that.’
-
-But the Tdoist of Lao-jze is a higher ideal than Burns’s
-honest man.
-
-CH. LXXIX.
-
-THE TAO TEH JCING.
-
-I 2 I
-
-Par. 4 is separated from this chapter, and made to begin
-the next by Wu Kh ang.
-
-79. i. When a reconciliation is effected (between
-two parties) after a great animosity, there is sure to
-be a grudge remaining (in the mind of the one who
-was wrong). And how can this be beneficial (to the
-other) ?
-
-2. Therefore (to guard against this), the sage
-keeps the left-hand portion of the record of the
-engagement, and does not insist on the (speedy)
-fulfilment of it by the other party. (So), he who
-has the attributes (of the Tao) regards (only) the
-conditions of the engagement, while he who has not
-those attributes regards only the conditions favour¬
-able to himself.
-
-3. In the Way of Heaven, there is no partiality of
-love ; it is always on the side of the good man.
-
-‘Adherence to Bond or Covenant.’ The chapter
-shows, but by no means clearly, how he who holds fast to the
-Tao will be better off in the end than he who will rather
-try to secure his own interests.
-
-Par. 1 presents us with a case which the statements of
-the chapter are intended to meet : — two disputants, one
-good, and the other bad ; the latter, though apparently
-reconciled, still retaining a grudge, and ready to wreak
-his dissatisfaction, when he has an opportunity. The ^
-= ‘ for,’ ‘ for the good of.’
-
-Par. 1 is intended to solve the question. The terms of
-a contract or agreement were inscribed on a slip of wood,
-which was then divided into two ; each party having one
-half of it. At the settlement, if the halves perfectly fitted
-to each other, it was carried through. The one who had
-the right in the dispute has his part of the agreement, but
-does not insist on it, and is forbearing ; the other insists on
-the conditions being even now altered in his favour. The
-
-THE TEXTS OF TAOISM.
-
-PT. II.
-
-characters by which this last case is expressed, are very
-enigmatical, having reference to the satisfaction of the
-government dues of Lao-jze’s time, — a subject into which
-it would take much space to go.
-
-Par. 3 decides the question by the action of Heaven,
-which is only another name for the course of the Tao.
-
-### chunk 67 — tao_te_ching — 80-81
-
-80. i. In a little state with a small population, I
-would so order it, that, though there were individuals
-with the abilities of ten or a hundred men, there
-should be no employment of them ; I would make
-the people, while looking on death as a grievous
-thing, yet not remove elsewhere (to avoid it).
-
-2. Though they had boats and carriages, they
-should have no occasion to ride in them ; though
-they had buff coats and sharp weapons, they should
-have no occasion to don or use them.
-
-3. I would make the people return to the use of
-knotted cords (instead of the written characters).
-
-4. They should think their (coarse) food sweet ;
-their (plain) clothes beautiful ; their (poor) dwellings
-places of rest ; and their common (simple) ways
-sources of enjoyment.
-
-5. There should be a neighbouring state within
-sight, and the voices of the fowls and dogs should be
-heard all the way from it to us, but I would make
-the people to old age, even to death, not have any
-intercourse with it.
-
-jll> ‘ Standing Alone.’ The chapter sets forth what
-Lao-jze conceived the ancient government of simplicity
-was, and what he would have government in all time to
-be. He does not use the personal pronoun ‘ I ’ as the
-subject of the thrice-recurring fj|l, but it is most natural
-to suppose that he is himself that subject ; and he modestly
-supposes himself in charge of a little state and a small
-
-CH. LXXXI.
-
-THE TAO TEH XING.
-
-population. The reader can judge for himself of the con¬
-summation that would be arrived at ; — a people rude
-and uninstructed, using quippos, abstaining from war and
-all travelling, kept aloof from intercourse even with their
-neighbours, and without the appliances of what we call
-civilisation.
-
-The text is nearly all found in Sze-ma K/nt n and
-K wang-jze. The first member of par. 1, however, is very
-puzzling. The old Jesuit translators, Julien, Chalmers,
-and V. von Strauss, all differ in their views of it. Wu
-/Wang and 3 Ho Hung take what I have now rendered by
-‘ abilities,’ as meaning ‘ implements of agriculture,’ but their
-view is based on a custom of the Han dynasty, which is not
-remote enough for the purpose, and on the suppression,
-after Wang Pi, of a ^ in Ho-shang Kung’s text.
-
-81. 1. Sincere words are not fine ; fine words are
-not sincere. Those who are skilled (in the Tao)
-do not dispute (about it) ; the disputatious are not
-skilled in it. Those who know (the T4o) are not
-extensively learned ; the extensively learned do not
-know it.
-
-2. The sage does not accumulate (for himself).
-The more that he expends for others, the more does
-he possess of his own ; the more that he gives to
-others, the more does he have himself.
-
-3. With all the sharpness of the Way of Heaven,
-it injures not ; with all the doing in the way of the
-sage he does not strive.
-
-HH J=[ , ‘ The Manifestation of Simplicity.’ The chapter
-shows how quietly and effectively the Tao proceeds, and
-by contraries in a way that only the master of it can
-understand. The author, says Wu /Wang, ‘sums up in
-this the subject-matter of the two Parts of his Treatise,
-showing that in all its five thousand characters, there is
-nothing beyond what is here said.’
-
-THE TEXTS OF TAOISM.
-
-PT. II.
-
-I 24
-
-Par. 2 suggests to Dr. Chalmers the well-known lines of
-Bunyan as an analogue of it : —
-
-‘A man there was, though some did count him mad,
-
-The more he gave away, the more he had.’
-
-Wu W/zang brings together two sentences from K wang-jze
-(XXXIII, 21 b, 22 a), written evidently with the characters
-of this text in mind, which, as from a Tdoist mint, are
-a still better analogue, and I venture to put them into
-rhyme : —
-
-‘ Amassing but to him a sense of need betrays ;
-
-He hoards not, and thereby his affluence displays.’
-
-### chunk 69 — legge_introduction — Books II-III notices
-
-says, ‘ What Wwang-jze calls “ Discussions about Things ”
-has reference to the various branches of the numerous
-schools, each of which has its own views, conflicting with
-
-BK. II. BRIEF NOTICES OF THE DIFFERENT BOOKS. I2Q
-
-the views of the others.’ He goes on to show that if they
-would only adopt the method pointed out by A'wang-jzc,
-‘ their controversies would be adjusted (jjffoj yif)’’ now
-using the first Khi in the passive voice.
-
-This then was the theme of our author in this Book. It
-must be left for the reader to discover from the translation
-how he pursues it. I pointed out a peculiarity in the
-former Book, that though the idea of the T a o underlies
-it all, the term itself is never allowed to appear. Not only
-does the same idea underlie this Book, but the name is
-frequently employed. The Tao is the panacea for the
-evils of controversy, the solvent through the use of which
-the different views of men may be made to disappear.
-
-That the Tito is not a Personal name in the conception
-of Wwang-jze is seen in several passages. We have not to
-go beyond the phenomena of nature to discover the reason
-of their being what they are ; nor have we to go beyond
-the bigoted egoism and vaingloriousness of controversialists
-to find the explanation of their discussions, various as these
-are, and confounding like the sounds of the wind among
-the trees of a forest. To man, neither in nature nor in the
-sphere of knowledge, is there any other ‘ Heaven ’ but
-what belongs to his own mind. That is his only ‘True
-Ruler.’ If there be any other, we do not see His form, nor
-any traces of His acting. Things come about in their
-proper course. We cannot advance any proof of Creation.
-Whether we assume that there was something ‘ in the
-beginning’ or nothing, we are equally landed in contra¬
-diction and absurdity. Let us stop at the limit of what
-we know, and not try to advance a step beyond it.
-
-Towards the end of the Book our author’s agnosticism
-seems to reach its farthest point. All human experience
-is spoken of as a dream or as ‘illusion.’ He who calls
-another a dreamer does not know that he is not dreaming
-himself. One and another commentator discover in such
-utterances something very like the Buddhist doctrine that
-all life is but so much illusion This notion has its
-
-consummation in the story with which the Book concludes.
-
-[39] K
-
-THE TEXTS OF TAOISM.
-
-BK. III.
-
-ATwang-jze had dreamt that he was a butterfly. When he
-awoke, and was himself again, he did not know whether he,
-Wwang Afau, had been dreaming that he was a butterfly,
-or was now a butterfly dreaming that it was Wwang Wau.
-And yet he adds that there must be a difference between
-ATau and a butterfly, but he does not say what that
-difference is. But had he ever dreamt that he was a
-butterfly, so as to lose the consciousness of his personal
-identity as Wwang A"au ? I do not think so. One may,
-perhaps, lose that consciousness in the state of insanity ;
-but the language of Young is not sufficiently guarded when
-he writes of
-
-‘ Dreams, where thought, in fancy’s maze, runs mad.’
-
-When dreaming, our thoughts are not conditioned by the
-categories of time and space ; but the conviction of our
-identity is never lost.
-
-Book III. Yang Shang K u.
-
-‘The Lord of Life ’ is the T&o. It is to this that we are
-indebted for the origin of life and for the preservation of it.
-Though not a Personal Being, it is here spoken of as
-if it were, — ‘the Lord of Life;’ just as in the preceding
-Book it is made to appear as ‘a True Governor,’ and
-‘a True Ruler.’ But how can we nourish the Tao? The
-reply is, By avoiding all striving to do so ; by a passionless,
-unstraining performance of what we have to do in our
-position in life ; simply allowing the T ao to guide and
-nourish us, without doing anything to please ourselves
-or to counteract the tendency of our being to decay and
-death.
-
-Par. 1 exhibits the injury arising from not thus nourishing
-the life, and sets forth the rule we are to pursue.
-
-Par. a illustrates the observance of the rule by the perfect
-skill with which the cook of the ruler Wan-hui of Wei cut
-up the oxen for his employer without trouble to himself, or
-injury to his knife.
-
-«K. iv. BRIEF NOTICES OF THE DIFFERENT BOOKS. 1 3 T
-
-### chunk 91 — zhuangzi — Book I (Xiaoyaoyou)
+### chunk 90 — zhuangzi — Book I
 
 I cut it in two to make the parts into drinking
 vessels ; but the dried shells were too wide and
 unstable and would not hold (the liquor) ; nothing
-but large useless things ! Because of their useless¬
-ness I knocked them to pieces.’ Awangqze replied,
+but large useless things ! Because of their uselessness I knocked them to pieces.’ Awangqze replied,
 ‘You were indeed stupid, my master, in the use of
 what was large. There was a man of Sung who
 was skilful at making a salve which kept the hands
-from getting chapped ; and (his family) for genera¬
-tions had made the bleaching of cocoon-silk their
+from getting chapped ; and (his family) for generations had made the bleaching of cocoon-silk their
 business. A stranger heard of it, and proposed to
 buy the art of the preparation for a hundred ounces
-of silver. The kindred all came together, and con¬
-sidered the proposal. “ We have,” said they, “ been
+of silver. The kindred all came together, and considered the proposal. “ We have,” said they, “ been
 bleaching cocoon-silk for generations, and have only
 gained a little money. Now in one morning we can
 sell to this man our art for a hundred ounces ; — let
@@ -3061,12 +2948,9 @@ Su-Hu.
 2 The salve gave the troops of Wu a great advantage in a war
 on the Aiang, especially in winter.
 
-THE TEXTS OF TAOISM.
-
 BK. I.
 
-in the other it had only enabled its owners to con¬
-tinue their bleaching. The difference of result was
+in the other it had only enabled its owners to continue their bleaching. The difference of result was
 owing to the different use made of the art. Now
 you, Sir, had calabashes large enough to hold five
 piculs ; — why did you not think of making large
@@ -3086,8 +2970,7 @@ would not turn his head to look at it. Now your
 words, Sir, are great, but of no use ; — all unite in
 putting them away from them.’ Awang-jze replied,
 ‘Have you never seen a wild cat or a weasel ? There
-it lies, crouching and low, till the wanderer ap¬
-proaches ; east and west it leaps about, avoiding
+it lies, crouching and low, till the wanderer approaches ; east and west it leaps about, avoiding
 neither what is high nor what is low, till it is caught
 in a trap, or dies in a net. Again there is the Yak -,
 so large that it is like a cloud hanging in the sky.
@@ -3112,8 +2995,6 @@ in its uselessness to cause you distress ?’
 
 1 76
 
-THE TEXTS OF TAOISM.
-
 BK. II.
 
 BOOK II.
@@ -3123,7 +3004,89 @@ Part I. Section II.
 Khi Wft Lun, or ‘The Adjustment of
 Controversies V
 
-### chunk 95 — zhuangzi — Book II (Qi Wu Lun)
+### chunk 93 — zhuangzi — Book II (Qi Wu Lun)
+
+Given the body, with its hundred parts, its nine
+openings, and its six viscera, all complete in their
+places, which do I love the most ? Do you love
+them all equally ? or do you love some more than
+others ? Is it not the case that they all perform the
+part of your servants and waiting women ? A.11 of them being such, are they not incompetent to rule
+one another ? or do they take it in turns to be now
+ruler and now servants ? There must be a true
+Ruler (among them) 1 whether by searching you can
+find out His character or not, there is neither advantage nor hurt, so far as the truth of His operation
+is concerned. When once we have received the
+bodily form complete, its parts do not fail to perform
+their functions till the end comes. In conflict with
+things or in harmony with them, they pursue their
+course to the end, with the speed of a galloping
+horse which cannot be stopped ; — is it not sad ? To
+be constantly toiling all one’s lifetime, without seeing the fruit of one’s labour, and to be weary and
+worn out with his labour, without knowing where he
+is going to : — is it not a deplorable case ? Men
+may say, ‘ But it is not death ; ’ yet of what advantage is this ? When the body is decomposed, the
+mind will be the same along with it : — must not the
+case be pronounced very deplorable2? Is the life
+
+1 The name ‘ Ruler ’ is different from ‘ Governor ’ above ; but
+they both indicate the same concept in the author’s mind.
+
+2 The proper reply to this would be that the mind is not dissolved with the body; and A'wang-;ze’s real opinion, as we shall
+find, was that life and death were but phases in the phenomenal
+
+PT. I. SECT. n. THE WRITINGS OF iTWANG-SZE. 1 8 1 of man indeed enveloped in such darkness ? Is it I
+alone to whom it appears so ? And does it not
+appear to be so to other men ?
+
+3. If we were to follow the judgments of the predetermined mind, who would be left alone and without
+a teacher 1 ? Not only would it be so with those who
+know the sequences (of knowledge and feeling) and
+make their own selection among them, but it would
+be so as well with the stupid and unthinking. For
+one who has not this determined mind, to have his
+affirmations and negations is like the case described
+in the saying, ‘ He went to Ytieh to-day, and arrived
+at it yesterday2.’ It would be making what was not
+a fact to be a fact. But even the spirit-like Yu 3
+could not have known how to do this, and how should
+one like me be able to do it ?
+
+But speech is not like the blowing (of the wind) ;
+the speaker has (a meaning in) his words. If, however, what he says, be indeterminate (as from a
+mind not made up), does he then really speak or
+not ? He thinks that his words are different from the
+chirpings of fledgelings.; but is there any distinction
+between them or not ? But how can the T a o be
+so obscured, that there should be ‘ a True ’ and ‘ a
+False’ in it? How can speech be so obscured that
+there should be ‘the Right’ and ‘ the Wrong’ about
+them ? Where shall the Tao go to that it will not development. But the course of his argument suggests to us the
+question here, ‘ Is life worth living ? ’
+
+1 This ‘teacher’ is ‘the Tao.’
+
+2 Expressing the absurdity of the case. This is one of the
+sayings of Hui-jze ; — see Book XXXIII, par. 7.
+
+3 The successor and counsellor of Shun, who coped with and
+remedied the flood of Yao.
+
+r82
+
+BK. II.
+
+be found ? Where shall speech be found that it
+will be inappropriate ? Tao becomes obscured
+through the small comprehension (of the mind), and
+speech comes to be obscure through the vain-gloriousness (of the speaker). So it is that we have the
+contentions between the Literati1 and the Mohists 2,
+the one side affirming what the other denies, and
+vice versa. If we would decide on their several
+affirmations and denials, no plan is like bringing the
+(proper) light (of the mind) 3 to bear on them.
+
+### chunk 94 — zhuangzi — Book II (Qi Wu Lun)
 
 All subjects may be looked at from (two points of
 view), — from that and from this. If I look at a
@@ -3134,9 +3097,7 @@ a consequence of that : ’ — which is the theory that
 that view and this — (the opposite views)— produce
 each the other 4 5. Although it be so, there is affirmed
 now life and now death ; now death and now life ;
-now the admissibility of a thing and now its inadmis¬
-sibility ; now its inadmissibility and now its admis¬
-sibility. (The disputants) now affirm and now deny;
+now the admissibility of a thing and now its inadmissibility ; now its inadmissibility and now its admissibility. (The disputants) now affirm and now deny;
 now deny and now affirm. Therefore the sagely
 man does not pursue this method, but views things
 in the light of (his) Heaven6 (-ly nature), and hence
@@ -3186,8 +3147,7 @@ with as) a horse. Does a thing seem so to me ? (I say
 that) it is so. Does it seem not so to me ? (I say
 that) it is not so. A path is formed by (constant)
 
-1 The language of our author here is understood to have refer¬
-ence to the views of Kung-sun Lung, a contemporary of Hui-gze,
+1 The language of our author here is understood to have reference to the views of Kung-sun Lung, a contemporary of Hui-gze,
 and a sophist like him. One of his treatises or arguments had the
 title of ‘ The White Horse,’ and another that of ‘ Pointing to
 Things.’ If these had been preserved, we might have seen more
@@ -3195,8 +3155,6 @@ clearly the appropriateness of the text here. But the illustration
 of the monkeys and their actions shows us the scope of the whole
 paragraph to be that controversialists, whose views are substantially
 the same, may yet differ, and that with heat, in words.
-
-THE TEXTS OF TAOISM.
 
 BK. II.
 
@@ -3213,11 +3171,10 @@ things crafty and things strange ; — they may in the
 light of the Tao all be reduced to the same category
 (of opinion about them).
 
-### chunk 96 — zhuangzi — Book II (Qiwulun)
+### chunk 95 — zhuangzi — Book II (Qiwulun)
 
 It was separation that led to completion ; from
-completion ensued dissolution. But all things, with¬
-out regard to their completion and dissolution, may
+completion ensued dissolution. But all things, without regard to their completion and dissolution, may
 again be comprehended in their unity; — it is only the
 far reaching in thought who know how to comprehend
 them in this unity. This being so, let us give up
@@ -3251,8 +3208,7 @@ them out their acorns, (once) said, ‘ In the morning
 I will give you three (measures) and in the evening
 four.’ This made them all angry, and he said, ‘Very
 well. In the morning I will give you four and in
-the evening three.’ His two proposals were substan¬
-tially the same, but the result of the one was to make
+the evening three.’ His two proposals were substantially the same, but the result of the one was to make
 the creatures angry, and of the other to make them
 pleased : — an illustration of the point I am insisting
 on. Therefore the sagely man brings together a
@@ -3277,13 +3233,10 @@ the Tao, by which all things are fashioned.
 
 2 See the same passage in Book XXIII, par. 10.
 
-3 The ordinary reading here is fang my a boundary’ or ‘dis¬
-tinctive limit.’ Lin Hsi-^ung adopts the reading ‘ a response,’
+3 The ordinary reading here is fang my a boundary’ or ‘distinctive limit.’ Lin Hsi-^ung adopts the reading ‘ a response,’
 and I have followed him.
 
 1 86
-
-THE TEXTS OF TAOISM.
 
 BK. II.
 
@@ -3291,8 +3244,7 @@ It was through the definite expression of different
 opinions about it that there ensued injury to (the
 doctrine of) the Tao. It was this injury to the
 (doctrine of the) Tao which led to the formation of
-(partial) preferences. Was it indeed after such pre¬
-ferences were formed that the injury came ? or did
+(partial) preferences. Was it indeed after such preferences were formed that the injury came ? or did
 the injury precede the rise of such preferences ? If
 the injury arose after their formation, A’ao’s method
 of playing on the lute was natural. If the injury
@@ -3311,112 +3263,86 @@ to make them known to others. But as they could
 not be made clear, though they tried to make
 them so, they ended with the obscure (discussions)
 about 1 the hard ’ and ‘ the white.’ And their sons 2,
-moreover, with all the threads of their fathers’ com¬
-positions, yet to the end of their lives accomplished
+moreover, with all the threads of their fathers’ compositions, yet to the end of their lives accomplished
 nothing. If they, proceeding in this way, could be
 said to have succeeded, then am I also successful ;
 
-### chunk 100 — zhuangzi — Book II (Qi Wu Lun)
+### chunk 98 — zhuangzi — Book II (Qiwulun)
 
-‘ I heard the Master (speaking of such language as
-the following) : — “ The sagely man does not occupy
-himself with worldly affairs. He does not put him¬
-self in the way of what is profitable, nor try to avoid
-what is hurtful ; he has no pleasure in seeking (for
-anything from any one) ; he does not care to be found
-in (any established) Way ; he speaks without speak¬
-ing ; he does not speak when he speaks ; thus finding
-his enjoyment outside the dust and dirt (of the
-world).” The Master considered all this to be a
-shoreless flow of mere words, and I consider it to
-describe the course of the Mysterious Way. — What
-do you, Sir, think of it ? ’ AV/ang-wu $ze replied,
+‘ Do you know what it is that you do not know ? ’
+asked the other again, and he got the same reply.
+He asked a third time, — ‘ Then are all creatures thus
+without knowledge ?’ and Wang ! answered as before,
+(adding however), ‘ Notwithstanding, I will try and
+explain my meaning. How do you know that when
+I say “ I know it,” I really (am showing that) I do
+not know it, and that when I say “ I do not know
+it,” I really am showing that I do know it V And
+let me ask you some questions : — ‘ If a man sleep in
+a damp place, he will have a pain in his loins, and
+half his body will be as if it were dead ; but will it
+be so with an eel ? If he be living in a tree, he will
+be frightened and all in a tremble ; but will it be so
+with a monkey ? And does any one of the three
+know his right place ? Men eat animals that have
+been fed on grain and grass ; deer feed on the thickset grass ; centipedes enjoy small snakes ; owls and
+crows delight in mice ; but does any one of the four
+know the right taste ? The dog-headed monkey
+finds its mate in the female gibbon ; the elk and the
+axis deer cohabit ; and the eel enjoys itself with
+other fishes. Mao 3hiang1 2 and Li K\ 2 were accounted by men to be most beautiful, but when
+fishes saw them, they dived deep in the water from
+them ; when birds, they flew from them aloft ; and
 
-‘ The hearing of such words would have perplexed
-even Hwang-Ti, and how should A7du be competent
-to understand them ? And you, moreover, are too
-hasty in forming your estimate (of their meaning).
-You see the egg, and (immediately) look out for the
-cock (that is to be hatched from it) ; you see the
-bow, and (immediately) look out for the dove (that is
-to be brought down by it) being roasted. I will try
-to explain the thing to you in a rough way ; do you
-in the same way listen to me.
+1 Compare par. i of Book XXII.
 
-‘ H ow could any one stand by the side of the sun
-and moon, and hold under his arm all space and all
-time ? (Such language only means that the sagely
-man) keeps his mouth shut, and puts aside questions
-that are uncertain and dark ; making his inferior
-capacities unite with him in honouring (the One
-Lord). Men in general bustle about and toil ; the
+2 Two famous beauties; — the former, a contemporary of Hsi
+Shih (par. 4, note 2), and like her also, of the state of Y tieh ; the
+latter, the daughter of a barbarian chief among the Western Jung.
+She was captured by duke Hsien of 3 hr, in b. c. 672. He subsequently made her his wife, — to the great injury of his family
+and state.
 
-difficulties than the other. By the clause interjected in the trans¬
-lation after the first ‘Master,’ I have avoided the incongruity of
-ascribing the long description of Taoism to Confucius.
+bk. ir.
 
-[39] 0
+when deer saw them, they separated and fled away x.
+But did any of these four know which in the world
+is the right female attraction ? As I look at the
+matter, the first principles of benevolence and righteousness and the paths of approval and disapproval
+are inextricably mixed and confused together : — how
+is it possible that I should know how to discriminate
+among them ?’
 
-THE TEXTS OF TAOISM.
+Nieh K/iiieh said (further), ‘ Since you, Sir, do not
+know what is advantageous and what is hurtful, is
+the Perfect man also in the same way without the
+knowledge of them ?’ Wang 1 replied, ‘ The Perfect
+man is spirit-like. Great lakes might be boiling
+about him, and he would not feel their heat ; the
+Ho and the Han might be frozen up, and he would
+not feel the cold ; the hurrying thunderbolts might
+split the mountains, and the wind shake the ocean,
+without being able to make him afraid. Being such,
+he mounts on the clouds of the air, rides on the sun
+and moon, and rambles at ease beyond the four
+seas. Neither death nor life makes any change in
+him, and how much less should the considerations
+of advantage and injury do so1 2 3 ! ’
 
-BK. II.
+9. Kh u 3 asked W/£ang-wu 3ze s> saying,
 
-sagely man seems stupid and to know nothing 1. He
-blends ten thousand years together in the one (con¬
-ception of time) ; the myriad things all pursue their
-spontaneous course, and they are all before him as
-doing so.
+1 Not thinking them beautiful, as men did, but frightened and
+repelled by them.
 
-‘H ow do I know that the love of life is not a
-delusion ? and that the dislike of death is not like
-a young person’s losing his way, and not knowing
-that he is (really) going home ? Li K\ 2 was a daugh¬
-ter of the border Warden of Ai. When (the ruler
-of) the state of $m first got possession of her, she
-wept till the tears wetted all the front of her dress.
-But when she came to the place of the king3, shared
-with him his luxurious couch, and ate his grain-andgrass-fed meat, then she regretted that she had wept.
-How do I know that the dead do not repent of their
-former craving for life ?
+2 Compare Book I, pars. 3 and 5.
 
-‘ Those who dream of (the pleasures of) drinking
-may in the morning wail and weep ; those who dream
-of wailing and weeping may in the morning be going
-out to hunt. When they were dreaming they did
-not know it was a dream ; in their dream they
-may even have tried to interpret it 4 ; but when
-they awoke they knew that it was a dream. And
+3 We know nothing of the former of these men, but what is
+mentioned here ; the other appears also in Book XXV, 6, q. v. If
+‘ the master ’ that immediately follows be Confucius they must have
+been contemporary with him. The Klim in AVang-wu’s reply
+would seem to make it certain ‘ the master ’ was Confucius, but
+the oldest critics, and some modern ones as well, think that WAangwus name was also Khm. But this view is attended with more pt. I. SECT. II. THE WRITINGS OF ITWANG-3ZE.
 
-1 Compare Lao-jze’s account of himself in his Work, ch. 20.
-
-2 See note 2 on page 191. The lady is there said to have
-been the daughter of a barbarian chief ; here she appears as the
-child of the border Warden of Ai. But her maiden surname of
-K\ (#Jg) shows her father must have been a scion of the royal
-family of Wau. Had he forsaken his wardenship, and joined one
-of the Ti tribes, which had adopted him as its chief?
-
-3 3in was only a marquisate. How does Wwang-jze speak of its
-ruler as ‘ a king ? ’
-
-4 This could not be ; a man does not come to himself in his
-dream, and in that state try to interpret it.
-
-PT. I. SECT. II. THE WRITINGS OF JSTWANG-3ZE. 195
-
-### chunk 101 — zhuangzi — Book II (Qi Wu Lun)
-
-there is the great awaking, after which we shall
-know that this life was a great dream h All the
-while, the stupid think they are awake, and with nice
-discrimination insist on their knowledge ; now play¬
-ing the part of rulers, and now of grooms. Bigoted
-was that Kh\u ! He and you are both dreaming. I
-who say that you are dreaming am dreaming myself.
-These words seem very strange ; but if after ten
-thousand ages we once meet with a great sage who
-knows how to explain them, it will be as if we met
-him (unexpectedly) some morning or evening.
+### chunk 100 — zhuangzi — Book II
 
 io. ‘ Since you made me enter into this discussion
 with you, if you have got the better of me and not I
@@ -3425,8 +3351,7 @@ If I have got the better of you and not you of me,
 am I indeed right and you indeed wrong ? Is the
 one of us right and the other wrong ? are we both
 right or both wrong ? Since we cannot come to a
-mutual and common understanding, men will cer¬
-tainly continue in darkness on the subject.
+mutual and common understanding, men will certainly continue in darkness on the subject.
 
 ‘ Whom shall I employ to adjudicate in the matter?
 If I employ one who agrees with you, how can he,
@@ -3437,14 +3362,9 @@ us both or one who agrees with us both. In this
 way I and you and those others would all not
 be able to come to a mutual understanding ; and
 shall we then wait for that (great sage) ? (We need
-not do so.) To wait on others to learn how con¬
-flicting opinions are changed is simply like not so
+not do so.) To wait on others to learn how conflicting opinions are changed is simply like not so
 
 1 Compare XVIII, par. 4.
-
-O 2
-
-THE TEXTS OF TAOISM.
 
 BK. IT.
 
@@ -3454,8 +3374,7 @@ following this on into the unlimited past. It is by
 this method that we can complete our years (without
 our minds being disturbed) 1.
 
-‘What is meant by harmonising (conflicting opi¬
-nions) in the invisible operation of Heaven ? There
+‘What is meant by harmonising (conflicting opinions) in the invisible operation of Heaven ? There
 is the affirmation and the denial of it ; and there is
 the assertion of an opinion and the rejection of it.
 If the affirmation be according to the reality of the
@@ -3481,12 +3400,10 @@ said to be the same as ‘ the Heavenly Mould or Moulder,’ that is,
 the Heavenly Fashioner, one of the Taoistic names for the Tao.
 
 2 That is, all things being traced up to the unity of the T ao, we
-have found the pivot to which all conflicting opinions, all affirma¬
-tions, all denials, all positions and negatives converge, and bring to
+have found the pivot to which all conflicting opinions, all affirmations, all denials, all positions and negatives converge, and bring to
 bear on them the proper light of the mind. Compare paragraph 3.
 
-3 A story to the same effect as this here, with some textual varia¬
-tions, occurs in Book XXVII, immediately after par. 1 referred to
+3 A story to the same effect as this here, with some textual variations, occurs in Book XXVII, immediately after par. 1 referred to
 above.
 
 PT. I. sect. II. THE WRITINGS OF XWANG-3ZE.
@@ -3496,18 +3413,13 @@ the scales of a snake, or the wings of a cicada1 2?
 How should I know why I do one thing, or do not
 do another 3 ?
 
-### chunk 102 — zhuangzi — Book II-III
-
 ‘ Formerly, I, iFwang /Fau, dreamt that I was a
 butterfly, a butterfly flying about, feeling that it
 was enjoying itself. I did not know that it was Kau.
-Suddenly I awoke, and was myself again, the veri¬
-table /fau. I did not know whether it had formerly
+Suddenly I awoke, and was myself again, the veritable /fau. I did not know whether it had formerly
 been /fau dreaming that he was a butterfly, or it
 was now a butterfly dreaming that it was /fan. But
-between /fau and a butterfly there must be a differ¬
-ence4. This is a case of what is called the Trans¬
-formation of Things4.’
+between /fau and a butterfly there must be a difference4. This is a case of what is called the Transformation of Things4.’
 
 1 The mind cannot rest in second causes, and the first cause, if
 there be one, is inscrutable.
@@ -3516,8 +3428,9 @@ there be one, is inscrutable.
 of the shadow is still more remarkable.
 
 3 I have put this interrogatively, as being more graphic, and
-because of the particle which is generally, though not neces¬
-sarily, interrogative.
+because of the particle which is generally, though not necessarily, interrogative.
+
+### chunk 101 — zhuangzi — Book III / Book II end
 
 4 Hsiian Ying, in his remarks on these two sentences, brings
 out the force of the story very successfully : — ‘ Looking at them in
@@ -3526,12 +3439,9 @@ them, but in the delusion of the dream each of them appeared the
 other, and they could not distinguish themselves ! ATu could be a
 butterfly, and the butterfly could be Zau ; — we may see that in the
 world all traces of that and this may pass away, as they come under
-the influence of transformations.’ For the phrase, ‘ the transforma¬
-tion of things,’ see in Book XI, par. 5, et al. But the Taoism here
+the influence of transformations.’ For the phrase, ‘ the transformation of things,’ see in Book XI, par. 5, et al. But the Taoism here
 can hardly be distinguished from the Buddhism that holds that all
 human experience is merely so much maya or illusion.
-
-THE TEXTS OF TAOISM.
 
 BK. III.
 
@@ -3544,12 +3454,10 @@ Yang vShang KiX, or ‘ Nourishing the Lord of Life1.’
 1. There is a limit to our life, but to knowledge
 there is no limit. With what is limited to pursue
 after what is unlimited is a perilous thing ; and when,
-knowing this, we still seek the increase of our know¬
-ledge, the peril cannot be averted 2. There should
+knowing this, we still seek the increase of our knowledge, the peril cannot be averted 2. There should
 not be the practice of what is good with any
 thought of the fame (which it will bring), nor of
-what is evil with any approximation to the punish¬
-ment (which it will incur) 3 : — an accordance with the
+what is evil with any approximation to the punishment (which it will incur) 3 : — an accordance with the
 Central Element (of our nature) 4 5 is the regular way
 to preserve the body, to maintain the life, to nourish
 our parents, and to complete our term of years.
@@ -3578,12 +3486,8 @@ Mencius the works of that philosopher commence.
 
 PT. I. SECT. m. THE WRITINGS OF KWANG-3ZE.
 
-### chunk 103 — zhuangzi — Book III (Yang Sheng Zhu)
-
-ployed the pressure of his knee, in the audible rip¬
-ping off of the skin, and slicing operation of the
-knife, the sounds were all in regular cadence. Move¬
-ments and sounds proceeded as in the dance of ‘ the
+ployed the pressure of his knee, in the audible ripping off of the skin, and slicing operation of the
+knife, the sounds were all in regular cadence. Movements and sounds proceeded as in the dance of ‘ the
 Mulberry Forest1’ and the blended notes of ‘the
 Aung Shau V The ruler said, ‘ Ah ! Admirable !
 That your art should have become so perfect ! ’
@@ -3594,8 +3498,7 @@ in advance of any art. When I first began to cut
 up an ox, I saw nothing but the (entire) carcase.
 After three years I ceased to see it as a whole. Now
 I deal with it in a spirit-like manner, and do not look
-at it with my eyes. The use of my senses is dis¬
-carded, and my spirit acts as it wills. Observing the
+at it with my eyes. The use of my senses is discarded, and my spirit acts as it wills. Observing the
 natural lines, (my knife) slips through the great
 crevices and slides through the great cavities, taking
 advantage of the facilities thus presented. My art
@@ -3605,8 +3508,7 @@ the great bones.
 ‘A good cook changes his knife every year; — (it
 may have been injured) in cutting ; an ordinary cook
 changes his every month ; — (it may have been)
-broken. Now my knife has been in use for nine¬
-teen years ; it has cut up several thousand oxen, and
+broken. Now my knife has been in use for nineteen years ; it has cut up several thousand oxen, and
 yet its edge is as sharp as if it had newly come from
 the whetstone. There are the interstices of the
 joints, and the edge of the knife has no (appreciable)
@@ -3616,146 +3518,48 @@ the interstice is, how easily it moves along ! The
 1 Two pieces of music, ascribed to A7/aiig Thang and Hwang-
 Ti.
 
-THE TEXTS OF TAOISM.
-
 BK. III.
 
-blade has more than room enough. Nevertheless,
-whenever I come to a complicated joint, and see that
-there will be some difficulty, I proceed anxiously and
-with caution, not allowing my eyes to wander from
-the place, and moving my hand slowly. Then by a
-very slight movement of the knife, the part is quickly
-separated, and drops like (a clod of) earth to the
-ground. Then standing up with the knife in my
-hand, I look all round, and in a leisurely manner,
-with an air of satisfaction, wipe it clean, and put it
-in its sheath.’ The ruler Wan-hui said, ‘ Excellent !
-I have heard the words of my cook, and learned
-from them the nourishment of (our) life.’
+### chunk 109 — zhuangzi — Book IV
 
-3. When Kung-wan Hsien1 2 saw the Master of the
-Left, he was startled, and said, ‘ What sort of man
-is this ? How is it he has but one foot ? Is it from
-Heaven? or from Man?’ Then he added-, ‘It
-must be from Heaven, and not from Man. Heaven’s
-making of this man caused him to have but one foot.
-In the person of man, each foot has its marrow.
-By this I know that his peculiarity is from Heaven,
-and not from Man. A pheasant of the marshes has
-to take ten steps to pick up a mouthful of food, and
-thirty steps to get a drink, but it does not seek to be
-nourished in a coop. Though its spirit would (there)
-enjoy a royal abundance, it does not think (such
-confinement) good.’
+ness (for their attendants) disappear. Ought not
+caution to be exercised (in the management of
+them) ? ’ ‘ and do not speak about it. It is quite useless. A
+boat made from its wood would sink ; a coffin or
+shell would quickly rot ; an article of furniture
+would soon go to pieces ; a door would be
+covered with the exuding sap ; a pillar would be
+riddled by insects ; the material of it is good for
+nothing, and hence it is that it has attained to so
+great an age V
 
-1 There was a family in Wei with the double surname Kung-wan.
-This would be a scion of it.
+6. A (master) mechanic, called Shih, on his way to
+KJA, came to AT/^ii-yuan x, where he saw an oak-tree,
+which was used as the altar for the spirits of the
+land. It was so large that an ox standing behind
+it could not be seen. It measured a hundred spans
+round, and rose up eighty cubits on the hill before it
+threw out any branches, after which there were ten
+or so, from each of which a boat could be hollowed
+out. People came to see it in crowds as in a market
+place, but the mechanic did not look round at it, but
+held on his way without stopping. One of his workmen, however, looked long and admiringly at it, and
+then ran on to his master, and said to him, ‘ Since I
+followed you with my axe and bill, I have never
+seen such a beautiful mass of timber as this. Why
+would you, Sir, not look round at it, but went on
+without stopping ? ’ ‘ Have done,’ said Mr. Shih,
 
-2 This is Hsien still speaking. We have to understand his
-reasoning ad sensum and not ad verbum. The master of
-the Left had done 1 evil,’ so as to incur the punishment from
-which he suffered; and had shown himself less wise than a
-pheasant.
+1 The name of a place ; of a road ; of a bend in the road ; of
+a hill. All these accounts of the name are found in different
+editions of our author, showing that the locality had not been
+identified.
 
-pt. I. sect. in. THE WRITINGS OF JTWANG-SZE.
+2 No one has thought it worth cutting down.
 
-4. When Lao Tan died *, Kfim. Shih 1 2 went to con¬
-dole (with his son), but after crying out three times,
-he came out. The disciples 3 said to him, ‘ Were
-you not a friend of the Master ? ’ ‘I was,’ he re¬
-plied, and they said, ‘ Is it proper then to offer your
-condolences merely as you have done ? ’ He said,
-
-### chunk 107 — zhuangzi — Book IV (Jen Jian Shi)
-
-of the mind.’ ‘ I venture to ask what that fasting
-of the mind is,’ said Hui, and Wung-ni answered,
-
-‘ Maintain a perfect unity in every movement of
-your will. You will not wait for the hearing of
-your ears about it, but for the hearing of your
-mind. You will not wait even for the hearing of
-your mind, but for the hearing of the spirit1. Let
-the hearing (of the ears) rest with the ears. Let the
-mind rest in the verification (of the rightness of
-what is in the will). But the spirit is free from all
-pre-occupation and so waits for (the appearance of)
-things. Where the (proper) course is 2, there is
-freedom from all pre-occupation ; — such freedom is
-the fasting of the mind.’ Hui said3, ‘ Before it was
-possible for me to employ (this method), there I
-was, the Hui that I am ; now, that I can employ it,
-the Hui that I was has passed away. Can I be said
-to have obtained this freedom from pre-occupation ?’
-The Master replied, ‘ Entirely. I tell you that you
-can enter and be at ease in the enclosure (where he
-is), and not come into collision with the reputation
-(which belongs to him). If he listen to your
-counsels, let him hear your notes ; if he will not
-listen, be silent. Open no (other) door ; employ no
-other medicine ; dwell with him (as with a friend)
-in the same apartment, and as if you had no other
-option, and you will not be far from success in your
-object. Not to move a step is easy; to walk
-without treading on the ground is difficult. In
-acting after the manner of men, it is easy to fall
-
-1 The character in the text for ‘ spirit ’ here is ‘ the breath.’
-
-2 The T ao.
-
-3 ‘ Said ; ’ probably, after having made trial of this fasting.
-
-[39] P
-
-THE TEXTS OF TAOISM.
+2 I 8
 
 BK. IV.
-
-into hypocrisy ; in acting after the manner of
-Heaven, it is difficult to play the hypocrite. I have
-heard of flying with wings ; I have not heard of
-flying without them. I have heard of the know¬
-ledge of the wise ; I have not heard of the
-knowledge of the unwise. Look at that aperture
-(left in the wall) ; — the empty apartment is filled
-with light through it. Felicitous influences rest (in
-the mind thus emblemed), as in their proper resting
-place. Even when they do not so rest, we have
-what is called (the body) seated and (the mind)
-galloping abroad. The information that comes
-through the ears and eyes is comprehended in¬
-ternally, and the knowledge of the mind becomes
-something external : — (when this is the case), the
-spiritual intelligences will come, and take up their
-dwelling with us, and how much more will other
-men do so ! All things thus undergo a trans¬
-forming influence. This was the hinge on which
-Yu and Shun moved; it was this which Fu-hsi1
-and Ki-k/m 2 practised all their lives : how much
-more should other men follow the same rule ! ’
-
-3. 3ze-kao 3, duke of Sheh, being about to proceed
-on a mission to Kh{, asked iifiung-ni, saying, ‘ The
-king is sending me, Au-liang 3, on a mission which
-
-1 Often spoken of as Fo-hi, the founder of the Chinese kingdom.
-His place in chronology should be assigned to him more than
-b.c. 3000 rather than under that date.
-
-2 A predecessor of Fu-hsi, a sovereign of the ancient para¬
-disiacal time.
-
-3 The name of Sheh remains in Sheh-hsien, a district of the
-department Nan-yang, Ho-nan. Its governor, who is the subject
-of this narrative, was a Shan Aru-liang, styled 3ze-kao. He was
-
-PT. I. sect. iv. THE WRITINGS OF XWANC-3ZE.
-
-2 I I
-
-### chunk 111 — zhuangzi — Book IV
 
 When Mr. Shih was returning, the altar-oak
 appeared to him in a dream, and said, ‘ What other
@@ -3769,9 +3573,7 @@ branches are broken, and the smaller are torn away.
 So it is that their productive ability makes their
 lives bitter to them ; they do not complete their
 natural term of existence, but come to a premature
-end in the middle of their time, bringing on them¬
-selves the destructive treatment which they ordin¬
-arily receive. It is so with all things. I have
+end in the middle of their time, bringing on themselves the destructive treatment which they ordinarily receive. It is so with all things. I have
 sought to discover how it was that I was so useless ;
 — I had long done so, till (the effort) nearly caused
 my death ; and now I have learned it : — it has been
@@ -3779,8 +3581,7 @@ of the greatest use to me. Suppose that I had
 possessed useful properties, should I have become of
 the great size that I am ? And moreover you and I
 are both things ; — how should one thing thus pass
-its judgment on another ? how is it that you a use¬
-less man know all this about me a useless tree ? ’
+its judgment on another ? how is it that you a useless man know all this about me a useless tree ? ’
 When Mr. Shih awoke, he kept thinking about his
 dream, but the workman said, ‘ Being so taken with
 its uselessness, how is it that it yet acts here as the
@@ -3798,264 +3599,118 @@ being cut down ? Moreover, the reason of its being
 preserved is different from that of the preservation
 of things generally ; is not your explaining it from
 the sentiment which you have expressed wide of the
-mark ? ’
-
-7. Nan-po 3 zt-khi 1 in rambling about the Heights
-of Shang2 3, saw a large and extraordinary tree. The
-teams of a thousand chariots might be sheltered
-under it, and its shade would cover them all ! 3ze_
-khi said, ‘ What a tree is this ! It must contain an
-extraordinary amount of timber ! When he looked
-up, however, at its smaller branches, they were so
-twisted and crooked that they could not be made
-into rafters and beams ; when he looked down to its
-root, its stem was divided into so many rounded por¬
-tions that neither coffin nor shell could be made from
-them. He licked one of its leaves, and his mouth
-felt torn and wounded. The smell of it would make
-a man frantic, as if intoxicated, for more than three
-whole days together. ‘ This, indeed,’ said he, ‘ is a
-tree good for nothing, and it is thus that it has
-attained to such a size. Ah ! and spirit-like men
-acknowledge this worthlessness (and its result) V
-
-In Sung there is the district of Wing-shili 4, in
+mark ? ’ In Sung there is the district of Wing-shili 4, in
 which catalpae, cypresses, and mulberry trees grow
 well. Those of them which are a span or two or
-rather more in circumference 5 are cut down by per¬
-sons who want to make posts to which to tie their
+rather more in circumference 5 are cut down by persons who want to make posts to which to tie their
 
-1 Probably the Nan-kwo Qze-kM at the beginning of the second
-Book.
+### chunk 119 — zhuangzi — Book VI (Da Zong Shi)
 
-- In the present department of Kwei-teh, Ho-nan.
-
-3 A difficult sentence to construe.
-
-4 In what part of the duchy we do not know.
-
-5 See Mencius, VI, i, 13.
-
-THE TEXTS OF TAOISM.
-
-BK. IV.
-
-monkeys ; those which are three or four spans
-round are cut down by persons who want beams for
-their lofty and famous houses ; and those of seven
-or eight spans are cut down by noblemen and rich
-merchants who want single planks for the sides of
-their coffins. The trees in consequence do not
-complete their natural term of life, and come to a
-premature end in the middle of their growth under
-the axe and bill ; — this is the evil that befalls them
-from their supplying good timber.
-
-### chunk 113 — zhuangzi — Book V (De Chong Fu)
-
-1. In Lu2 there was a Wang Thai3 who had lost
-both his feet4 5; while his disciples who followed and
-went about with him were as numerous as those of
-Aring-ni Kiting K\ 6 asked Wung-ni about him,
-saying, ‘ Though Wang Thai is a cripple, the dis¬
-ciples who follow him about divide L11 equally with
-you, Master. When he stands, he does not teach
-them ; when he sits, he does not discourse to them.
-But they go to him empty, and come back full. Is
-there indeed such a thing as instruction without
-words6 ? and while the body is imperfect, may the
-mind be complete ? What sort of man is he ? ’
-Aring-ni replied, ‘ This master is a sage. I have
-
-1 See pp. 133, 134.
-
-2 The native state of Confucius, part of the present Shan-tung.
-
-s A Taoist of complete virtue ; but probably there was not really
-such a person. Our author fabricates him according to his fashion.
-
-4 The character uh (TTj) does not say that he had lost both his
-feet, but I suppose that such is the meaning, because of what is
-said of Toeless below that ‘ he walked on his heels to see Confucius.’
-The feet must have been amputated, or mutilated rather (justly or
-unjustly), as a punishment ; but Afwang-jze wished to say nothing
-on that point.
-
-5 Perhaps a disciple of Confucius ; — not elsewhere mentioned as
-such.
-
-6 See the Tao Teh King, ch. 2.
-
-THE TEXTS OF TAOISM.
-
-bk. v.
-
-only been too late in going to him. I will make
-him my teacher ; and how much more should those
-do so who are not equal to me ! Why should
-only the state of Lu follow him ? I will lead on all
-under heaven with me to do so.’ Khang Ki re¬
-joined, ‘ He is a man who has lost his feet, and yet
-he is known as the venerable Wang 1 ; — he must be
-very different from ordinary men. What is the
-peculiar way in which he employs his mind ? ’ The
-reply was, ‘ Death and life are great considerations,
-but they could work no change in him. Though
-heaven and earth were to be overturned and fall,
-they would occasion him no loss. His judgment is
-fixed regarding that in which there is no element
-of falsehood 2 ; and, while other things change, he
-changes not. The transformations of things are to
-him the developments prescribed for them, and he
-keeps fast hold of the author of them 2.’
-
-A7?ang K\ said, ‘ What do you mean ? ’ ‘ When
-
-we look at things,’ said Wung-ni, ‘ as they differ, we
-see them to be different, (as for instance) the liver
-and the gall, or Kh\\ and Yiieh ; when we look at
-them, as they agree, we see them all to be a unity.
-So it is with this (Wang Thai). He takes no know¬
-ledge of the things for which his ears and eyes are
-the appropriate organs, but his mind delights itself
-in the harmony of (all excellent) qualities. He looks
-at the unity which belongs to things, and does not
-perceive where they have suffered loss. He looks
-
-1 Literally, ‘the Senior;’ often rendered ‘Teacher.’
-
-2 ‘That in which there is no element of falsehood’ is the Tao,
-which also is the ‘Author’ of all the changes that take place in
-time and space. See the Introductory Note on the title and subject
-of the Book.
-
-pt. i. sect. v. THE WRITINGS OF KWANG-3ZE.
-
-on the loss of his feet as only the loss of so much
-earth.’
-
-Khzng K\ said, ‘ He is entirely occupied with his
-(proper) self1. By his knowledge he has discovered
-(the nature of) his mind, and to that he holds as
-what is unchangeable 1 ; but how is it that men make
-so much of him ? ’ The reply was, ‘ Men do not
-look into running water as a mirror, but into still
-water ; — it is only the still water that can arrest
-them all, and keep them (in the contemplation of
-their real selves). Of things which are what they
-are by the influence of the earth, it is only the pine
-and cypress which are the best instances ; — in winter
-as in summer brightly green 2. Of those which were
-what they were by the influence of Heaven3, the
-most correct examples were Yao and Shun ; for¬
-tunate in (thus) maintaining their own life correct,
-and so as to correct the lives of others.
-
-### chunk 120 — zhuangzi — Book VI (Da Zong Shi)
-
-The True men of old knew nothing of the love
-of life or of the hatred of death. Entrance into life
-occasioned them no joy ; the exit from it awakened
-no resistance. Composedly they went and came.
-They did not forget what their beginning had been,
-and they did not inquire into what their end would
-be. They accepted (their life) and rejoiced in it ;
-they forgot (all fear of death), and returned (to their
-state before life) 1. Thus there was in them what is
-called the want of any mind to resist the Tio, and
-of all attempts by means of the Human to assist
-the Heavenly. Such were they who are called the
+5. In this way they were one and the same in all
+their likings and dislikings. Where they liked, they
+were the same ; where they did not like, they were
+the same. In the former case where they liked, they
+were fellow-workers with the Heavenly (in them) ;
+in the latter where they disliked, they were coworkers with the Human in them. The one of
+these elements (in their nature) did not overcome
+the other. Such were those who are called the
 True men.
 
-3. Being such, their minds were free from all
-thought 2 ; their demeanour was still and unmoved ;
+Death and life are ordained, just as we have the
+constant succession of night and day ; — in both cases
+from Heaven. Men have no power to do anything
+in reference to them ; — such is the constitution of
+things1 2. There are those who specially regard
+Heaven3 as their father, and they still love It
+(distant as It is) 3; — how much more should they love
 
-1 Was not this the state of non-existence ? We cannot say of
-Pantaoism. However we may describe that, the Tao operates
-in nature, but is not identical with it.
+1 All this paragraph is taken as illustrative of the True man’s
+freedom from thought or purpose in his course.
 
-2 Ao* ]un aPPears in common editions as which
+2 See note 3 on par. 1, p. 236.
 
-must have got into the text at a very early time. ‘ The mind
-forgetting,’ or ‘ free from all thought and purpose,’ appears every-
+3 Love is due to a parent, and so such persons should love
+Heaven. There is in the text here, I think, an unconscious reference to the earliest time, before the views of the earliest Chinese
+diverged to Theism and Taoism. We cannot translate the
+here.
 
-PT. I. SECT. VI.
+242 THE TEXTS OF TAOISM. BK. vi.
 
-THE WRITINGS OF A'WANG-3ZE.
+That which stands out (Superior and Alone)1! Some
+specially regard their ruler as superior to themselves, and will give their bodies to die for him ; —
+how much more should they do so for That which
+is their true (Ruler) 1 ! When the springs are dried
+up, the fishes collect together on the land. Than
+that they should moisten one another there by the
+damp about them, and keep one another wet by their
+slime, it would be better for them to forget one
+another in the rivers and lakes 2. And when men
+praise Yao and condemn A'ieh, it would be better
+to forget them both, and seek the renovation of
+the Tao.
 
-their foreheads beamed simplicity. Whatever cold¬
-ness came from them was like that of autumn ;
-whatever warmth came from them was like that
-of spring. Their joy and anger assimilated to what
-we see in the four seasons. They did in regard to
-all things what was suitable, and no one could know
-how far their action would go. Therefore the sagely
-man might, in his conduct of war, destroy a state
-without losing the hearts of the people 1 ; his benefits
-and favours might extend to a myriad generations
-without his being a lover of men. Hence he who
-tries to share his joys with others is not a sagely
-man ; he who manifests affection is not benevolent ;
-he who observes times and seasons (to regulate his
-conduct) is not a man of wisdom ; he to whom profit
-and injury are not the same is not a superior man ;
-he who acts for the sake of the name of doing so,
-and loses his (proper) self is not the (right) scholar ;
-and he who throws away his person in a way which
-is not the true (way) cannot command the service of
-others. Such men as Hfi Pu-/£ieh, Wu Kwang,
-Po-1, Shu-/’/d, the count of Ki, Hsii-yu, Ki Thi, and
-Shan-thu Ti, all did service for other men, and
-sought to secure for them what they desired, not
-seeking their own pleasure 2.
+6. There is the great Mass (of nature); — I find the
+support of my body on it ; my life is spent in toil on
+it ; my old age seeks ease on it ; at death I find rest
+in it ; — what makes my life a good makes my death
+also a good3. If you hide away a boat in the ravine
+of a hill, and hide away the hill in a lake, you will
+say that (the boat) is secure ; but at midnight there
+shall come a strong man and carry it off on his back,
+while you in the dark know nothing about it. You
+may hide away anything, whether small or great, in
+the most suitable place, and yet it shall disappear
+from it. But if you could hide the world in the
+world 4, so that there was nowhere to which it could
+be removed, this would be the grand reality of the
 
-where in the Book as a characteristic of the True Man. Not a few
-critics contend that it was this, and not the Tao of which it is a
-quality, that iTwang-jze intended by the 1 Master ’ in the title.
+1 The great and most honoured Master, — the Tao.
 
-1 Such antithetic statements are startling, but they are common
-with both Lao-jze and our author.
+2 This sentence contrasts the cramping effect on the mind of
+Confucianism with the freedom given by the doctrine of the Tao.
 
-2 The seven men mentioned here are all adduced, I must sup¬
-pose, as instances of good and worthy men, but still inferior to the
-True Man. Of Hu Pu-^ieh all that we are told is that he was ‘ an
-ancient worthy.’ One account of Wft Kwang is that he was of the
-time of Hwang-Ti, with ears seven inches long ; another, that he
+8 The Tao does this. The whole paragraph is an amplification
+of the view given in the preceding note.
 
-THE TEXTS OF TAOISM.
+4 The Tao cannot be taken away. It is with its possessor, an
+‘ ever-during thing.’
 
-BK. VI.
+PT.I. SECT. VI. THE WRITINGS OF A'WANG-3ZE.
 
-4. The True men of old presented the aspect of
-judging others aright, but without being partisans ;
-of feeling their own insufficiency, but being without
-flattery or cringing. Their peculiarities were natural
-to them, but they were not obstinately attached to
-them ; their humility was evident, but there was
-nothing of unreality or display about it. Their
-placidity and satisfaction had the appearance of joy;
-their every movement seemed to be a necessity to
-them. Their accumulated attractiveness drew men’s
-looks to them ; their blandness fixed men’s attach¬
-ment to their virtue. They seemed to accommodate
-themselves to the (manners of their age), but with a
-certain severity ; their haughty indifference was be¬
-yond its control. Unceasing seemed their endea¬
-vours to keep (their mouths) shut ; when they looked
-down, they had forgotten what they wished to say.
+ever-during Thing h When the body of man comes
+from its special mould 1 2, there is even then occasion
+for joy ; but this body undergoes a myriad transformations, and does not immediately reach its perfection ; — does it not thus afford occasion for joys
+incalculable ? Therefore the sagely man enjoys
+himself in that from which there is no possibility
+of separation, and by which all things are preserved.
+He considers early death or old age, his beginning
+and his ending, all to be good, and in this other men
+imitate him ; — how much more will they do so in
+regard to That Itself on which all things depend,
+and from which every transformation arises !
 
-### chunk 134 — zhuangzi — Book VIII (Pian Mu)
+7. This is the T ao ; — there is in It emotion and
+sincerity, but It does nothing and has no bodily
+form3. It may be handed down (by the teacher),
+but may not be received (by his scholars). It may
+be apprehended (by the mind), but It cannot be
+seen. It has Its root and ground (of existence) in
+Itself. Before there were heaven and earth, from
+of old, there It was, securely existing. From It
+came the mysterious existences of spirits, from It the
+mysterious existence of God 4. It produced heaven ;
+It produced earth. It was before the Thai-/£i 5 6, and
+
+### chunk 132 — zhuangzi — Book VIII
 
 traordinary faculty in debating leads to the piling up
 of arguments like a builder with his bricks, or a netmaker with his string. (Its possessor) cunningly
-contrives his sentences and enjoys himself in dis¬
-cussing what hardness is and what whiteness is,
+contrives his sentences and enjoys himself in discussing what hardness is and what whiteness is,
 where views agree and where they differ, and pressing
 on, though weary, with short steps, with (a multitude
 of) useless words to make good his opinion ; nor will
 he stop till he has become aYang^u)1 or Mo (Ti)1.
-But in all these cases the parties, with their re¬
-dundant and divergent methods, do not proceed by
+But in all these cases the parties, with their redundant and divergent methods, do not proceed by
 that which is the correct path for all under the
 sky. That which is the perfectly correct path is not
 to lose the real character of the nature with which
@@ -4071,8 +3726,7 @@ amputate, or where it is by nature short, we are not
 to lengthen it. There is no occasion to try to
 remove any trouble that it may cause.
 
-3. The presumption is that benevolence and right¬
-eousness are not constituents of humanity ; for to
+3. The presumption is that benevolence and righteousness are not constituents of humanity ; for to
 how much anxiety does the exercise of them give
 rise ! Moreover when another toe is united to the
 
@@ -4094,9 +3748,7 @@ look at the evils of the world, as with eyes full of
 dust, and are filled with sorrow by them, while those
 who are not benevolent, having violently altered the
 character of their proper nature, greedily pursue
-after riches and honours. The presumption there¬
-fore is that benevolence and righteousness are con¬
-trary to the nature of man : — how full of trouble and
+after riches and honours. The presumption therefore is that benevolence and righteousness are contrary to the nature of man : — how full of trouble and
 contention has the world been ever since the three
 dynasties 1 began !
 
@@ -4105,8 +3757,7 @@ the compass and square, to give things their correct
 form you must cut away portions of what naturally
 belongs to them ; in employing strings and fastenings, glue and varnish to make things firm, you must
 violently interfere with their qualities. The bendings
-and stoppings in ceremonies and music, and the fac¬
-titious expression in the countenance of benevolence
+and stoppings in ceremonies and music, and the factitious expression in the countenance of benevolence
 and righteousness, in order to comfort the minds of
 men : — these all show a failure in observing the
 regular principles (of the human constitution). All
@@ -4119,16 +3770,9 @@ carpenter’s square. Nor is adhesion effected by
 1 Those of HsiS, Shang, and ^Tau; — from the twenty-third
 century b. c. to our author’s own time.
 
-THE TEXTS OF TAOISM.
-
 BK. VIII.
 
-### chunk 137 — zhuangzi — Book IX (Ma Ti)
-
-and to make them go together in regular order. In
-front were the evils of the bit and ornamented breastbands, and behind were the terrors of the whip and
-switch. (When so treated), more than half of them
-died.
+### chunk 135 — zhuangzi — Book IX
 
 The (first) potter said, ‘ I know well how to deal
 with clay ; ’ and (men proceeded) to mould it into
@@ -4163,8 +3807,6 @@ called primitive than the potter’s or carpenter’s.
 
 3 A difficult expression ; but the translation, probably, gives its
 
-THE TEXTS OF TAOISM.
-
 BK. IX.
 
 age of perfect virtue men walked along with slow
@@ -4173,11 +3815,9 @@ forwards. At that time, on the hills there were no
 foot-paths, nor excavated passages ; on the lakes
 there were no boats nor dams ; all creatures lived in
 companies ; and the places of their settlement were
-made close to one another. Birds and beasts multi¬
-plied to flocks and herds ; the grass and trees grew
+made close to one another. Birds and beasts multiplied to flocks and herds ; the grass and trees grew
 luxuriant and long. In this condition the birds and
-beasts might be led about without feeling the con¬
-straint ; the nest of the magpie might be climbed to,
+beasts might be led about without feeling the constraint ; the nest of the magpie might be climbed to,
 and peeped into. Yes, in the age of perfect virtue,
 men lived in common with birds and beasts, and
 were on terms of equality with all creatures, as
@@ -4190,22 +3830,16 @@ simplicity. In that state of pure simplicity, the
 nature of the people was what it ought to be. But
 when the sagely men appeared, limping and wheeling
 about in (the exercise of) benevolence, pressing
-along and standing on tiptoe in the doing of right¬
-eousness, then men universally began to be per¬
-plexed. (Those sages also) went to excess in their
+along and standing on tiptoe in the doing of righteousness, then men universally began to be perplexed. (Those sages also) went to excess in their
 performances of music, and in their gesticulations in
 the practice of ceremonies, and then men began to
-be separated from one another. If the raw materials
-
-true significance. ‘ Heaven’ here is synonymous with ‘the Tao
+be separated from one another. If the raw materials true significance. ‘ Heaven’ here is synonymous with ‘the Tao
 but its use shows how readily the minds, even of Lao and A’wang,
 had recourse to the earliest term by which the Chinese fathers had
 expressed their recognition of a Supreme and Controlling Power
 and Government.
 
-PT. II. SECT. II. THE WRITINGS OF EWANG-3ZE. 279
-
-had not been cut and hacked, who could have made
+PT. II. SECT. II. THE WRITINGS OF EWANG-3ZE. 279 had not been cut and hacked, who could have made
 a sacrificial vase from them ? If the natural jade
 had not been broken and injured, who could have
 made the handles for the libation-cups from it ? If
@@ -4224,49 +3858,98 @@ characteristics of the Tao in order to the practice of
 benevolence and righteousness was the error of the
 sagely men.
 
-### chunk 142 — zhuangzi — Book X-XI
+### chunk 138 — zhuangzi — Book X (Khu Khieh)
 
-knots on cords in carrying on their affairs. They
-thought their (simple) food pleasant, and their
-(plain) clothing beautiful. They were happy in
-their (simple) manners, and felt at rest in their
-(poor) dwellings. (The people of) neighbouring
-states might be able to descry one another ; the
-voices of their cocks and dogs might be heard (all
-the way) from one to the other ; they might not die
-till they were old ; and yet all their life they would
-have no communication together1. In those times
-perfect good order prevailed.
+1 This is an instance of cause and effect naturally happening.
 
-Now-a-days, however, such is the state of things
-that you shall see the people stretching out their
-necks, and standing on tiptoe, while they say, ‘ In
-such and such a place there is a wise and able
-man.’ Then they carry with them whatever dry
-provisions they may have left, and hurry towards
-it, abandoning their parents in their homes, and
-neglecting the service of their rulers abroad. Their
-footsteps may be traced in lines from one state
-to another, and the ruts of their chariot-wheels also
-for more than a thousand 1 i. This is owing to the
-error of their superiors in their (inordinate) fondness
-for knowledge. When those superiors do really love
-knowledge, but do not follow the (proper) course,
-the whole world is thrown into great confusion.
+2 At a meeting of the princes, presided over by king Hsuan of
+AAu (b. 0. 369-340), the ruler of Lu brought very poor wine for
+the king, which was presented to him as wine of R ao, in consequence of a grudge against that kingdom by his officer of wines.
+In consequence of this king Hsiian ordered siege to be laid to
+Han- tan, the capital of Aao. This is an instance of cause and
+effect occurring irregularly.
 
-How do I know that the case is so ? The know¬
-ledge shown in the (making of) bows, cross-bows,
-hand-nets, stringed arrows, and contrivances with
-springs is great, but the birds are troubled by them
+3 There seems to be no connexion of cause and effect here ;
+but ATwang-jze goes on in his own way to make out that there is
+such a connexion.
 
-of History ’ between Fu-hsi and Shan-nang. The remaining two
-may be found, I suppose, in the Lfi Shih of Lo Pi.
+PT. II. SECT. ill. THE WRITINGS OF XWANG-3ZE. 285 to measure (their wares), even by means of those
+pecks and bushels should we be teaching them to
+steal 1 ; if we make for them weights and steelyards
+to weigh (their wares), even by means of those
+weights and steelyards shall we be teaching them
+to steal. If we make for them tallies and seals to
+secure their good faith, even by means of those
+tallies and seals shall we be teaching them to steal.
+If we make for them benevolence and righteousness
+to make their doings correct, even by means of benevolence and righteousness shall we be teaching them
+to steal. How do I know that it is so? Here is
+one who steals a hook (for his girdle) ; — he is put to
+death for it : here is another who steals a state ; — he
+becomes its prince. But it is at the gates of the
+princes that we find benevolence and righteousness
+(most strongly) professed ; — is not this stealing benevolence and righteousness, sageness and wisdom ?
+Thus they hasten to become great robbers, carry
+off princedoms, and steal benevolence and righteousness, with all the gains springing from the use of
+pecks and bushels, weights and steelyards, tallies
+and seals : — even the rewards of carriages and
+coronets have no power to influence (to a different
+course), and the terrors of the axe have no power to
+restrain in such cases. The giving of so great gain
+to robbers (like) K ih, and making it impossible to
+restrain them ; — this is the error committed by the
+sages.
 
-1 See the eightieth chapter of the Tao Teh -Sfing.
+3. In accordance with this it is said, ‘Fish should
 
-PT. II. SECT. III. THE WRITINGS OF iTWANG-oZE. 289
+1 The verb ‘ to steal ’ is here used transitively, and with a
+hiphil force.
 
-above ; the knowledge shown in the hooks, baits,
+BK. X.
+
+not be taken from (the protection of) the deep
+waters ; the agencies for the profit of a state should
+not be shown to men V But those sages (and their
+teachings) are the agencies for the profit of the
+world, and should not be exhibited to it. Therefore
+if an end were put to sageness and wisdom put away,
+the great robbers would cease to arise. If jade were
+put away and pearls broken to bits, the small thieves
+would not appear. If tallies were burned and seals
+broken in pieces, the people would become simple
+and unsophisticated. If pecks were destroyed and
+steelyards snapped in two, the people would have no
+wrangling. If the rules of the sages were entirely
+set aside in the world, a beginning might be made
+of reasoning with the people. If the six musical
+accords were reduced to a state of utter confusion,
+organs and lutes all burned, and the ears of the
+(musicians like the) blind Khwang1 2 stopped up, all
+men would begin to possess and employ their
+(natural) power of hearing. If elegant ornaments
+were abolished, the five embellishing colours disused,
+and the eyes of (men like) Li Ku 3 glued up, all
+men would begin to possess and employ their
+(natural) power of vision. If the hook and line were
+destroyed, the compass and square thrown away, and
+the fingers of men (like) the artful K/mi 4 smashed,
+all men would begin to possess and employ their
+(natural) skill ; — as it is said, ‘ The greatest art is
+
+1 See the T&o Teh Amg, ch. 36. Our author’s use of it
+throws light on its meaning.
+
+2 Note 1, p. 186.
+
+3 Note 2, p. 269.
+
+4 A skilful maker of arrows of the time of Yao, — the Kungkung of the Shh, II, i, 21 ; V, xxii, 19.
+
+PT. II. sect. ill. THE WRITINGS OF iTWANG-3ZE.
+
+### chunk 140 — zhuangzi — Book X-XI
+
+PT. II. SECT. III. THE WRITINGS OF iTWANG-oZE. 289 above ; the knowledge shown in the hooks, baits,
 various kinds of nets, and bamboo traps is great,
 but the fishes are disturbed by them in the waters ;
 the knowledge shown in the arrangements for
@@ -4302,15 +3985,12 @@ The plain and honest-minded people are neglected,
 and the plausible representations of restless spirits
 [39] u
 
-THE TEXTS OF TAOISM.
-
 BK. x.
 
 received with pleasure ; the quiet and unexciting
 method of non-action is put away, and pleasure
 taken in ideas garrulously expressed. It is this
-garrulity of speech which puts the world in dis¬
-order.
+garrulity of speech which puts the world in disorder.
 
 PT. II. SECT. IV. THE WRITINGS OF A'WANG-SZE.
 
@@ -4318,12 +3998,10 @@ BOOK XI.
 
 Part II. Section IV.
 
-3a i Yu, or ‘ Letting Be, and Exercising For¬
-bearance V
+3a i Yu, or ‘ Letting Be, and Exercising Forbearance V
 
 1. I have heard of letting the world be, and
-exercising forbearance ; I have not heard of govern¬
-ing the world. Letting be is from the fear that
+exercising forbearance ; I have not heard of governing the world. Letting be is from the fear that
 men, (when interfered with), will carry their nature
 beyond its normal condition ; exercising forbearance
 is from the fear that men, (when not so dealt with),
@@ -4332,98 +4010,139 @@ all men do not carry their nature beyond its normal
 condition, nor alter its characteristics, the good
 government of the world is secured.
 
-### chunk 156 — zhuangzi — Book XII
+Formerly, Yao’s government of the world made
+men look joyful ; but when they have this joy in
+their nature, there is a want of its (proper)
+placidity. The government of the world by Adeh,
+(on the contrary), made men look distressed ; but
+when their nature shows the symptoms of distress,
+there is a want of its (proper) contentment. The
+want of placidity and the want of contentment are
+contrary to the character (of the nature) ; and where
+this obtains, it is impossible that any man or state
+should anywhere abide long. Are men exceedingly
+joyful ? — the Y ang or element of expansion in them
+is too much developed. Are they exceedingly
 
-of strength, but the result which he accomplished
-was very small. 3ze-kung said to him, ‘ There is a
-contrivance here, by means of which a hundred
-plots of ground may be irrigated in one day. With
-the expenditure of a very little strength, the result
-accomplished is great. Would you, Master, not like
-(to try it) ? ’ The gardener looked up at him, and
-said, ‘ How does it work ? ’ 3ze_kung said, ‘ It is a
-lever made of wood, heavy behind, and light in
-front. It raises the water as quickly as you could do
-with your hand, or as it bubbles over from a boiler.
-Its name is a shadoof.’ The gardener put on an
-angry look, laughed, and said, ‘ I have heard from
-my teacher that, where there are ingenious contri¬
-vances, there are sure to be subtle doings ; and that,
-where there are subtle doings, there is sure to be a
-scheming mind. But, when there is a scheming mind
-in the breast, its pure simplicity is impaired. When
-this pure simplicity is impaired, the spirit becomes
-unsettled, and the unsettled spirit is not the proper
-residence of the Tao. It is not that I do not know
-(the contrivance which you mention), but I should be
-ashamed to use it.’
+1 See pp. 142, 143.
 
-(At these words) 3ze_kung looked blank and
-ashamed ; he hung down his head, and made no
-reply. After an interval, the gardener said to him,
+BK. XI.
 
-‘ Who are you, Sir ? ’ ‘A disciple of Khung AVdu,’
-was the reply. The other continued, ‘ Are you not
-the scholar whose great learning makes you com¬
-parable to a sage, who make it your boast that you
-surpass all others, who sing melancholy ditties all
-by yourself, thus purchasing a famous reputation
-throughout the kingdom ? If you would (only) for¬
-get the energy of your spirit, and neglect the care of
+irritated? — the Yin or opposite element is too
+much developed. When those elements thus predominate in men, (it is as if1) the four seasons
+were not to come (at their proper times), and the
+harmony of cold and heat were not to be maintained ; — would there not result injury to the bodies
+of men ? Men’s joy and dissatisfaction are made to
+arise where they ought not to do so ; their movements are all uncertain ; they lose the mastery of
+their thoughts ; they stop short midway, and do not
+finish what they have begun. In this state of
+things the world begins to have lofty aims, and
+jealous dislikes, ambitious courses, and fierce animosities, and then we have actions like those of the
+robber Will, or of 3ang (Shan) and Shih (3hiu)2.
+If now the whole world were taken to reward the
+good it would not suffice, nor would it be possible
+with it to punish the bad. Thus the world, great
+as it is, not sufficing for rewards and punishments,
+from the time of the three dynasties downwards,
+there has been nothing but bustle and excitement.
+Always occupied with rewards and punishments,
+what leisure have men had to rest in the instincts
+of the nature with which they are endowed ?
 
-PT. II. SECT. V.
+### chunk 148 — zhuangzi — Book XII (Thien Ti)
 
-THE WRITINGS OF ATWANG-3ZE.
+Hence it is said3, ‘The ancients who had the
+nourishment of the world wished for nothing and
+the world had enough ; they did nothing and all
+things were transformed ; their stillness was abysmal,
+and the people were all composed.’ The Record
+says4, ‘ When the one (Tao) pervades it, all business
 
-your body, you might approximate (to the Tao).
-But while you cannot regulate yourself, what leisure
-have you to be regulating the world ? Go on your
-way, Sir, and do not interrupt my work.’
+1 Meaning, probably, his appellation as Thien Qze, ‘ the Son of
+Heaven.’
 
-3ze-kung shrunk back abashed, and turned pale.
-He was perturbed, and lost his self-possession, nor did
-he recover it, till he had walked a distance of thirty
-li. His disciples then said, ‘ Who was that man?
-Why, Master, when you saw him, did you change
-your bearing, and become pale, so that you have
-been all day without returning to yourself?’ He
-replied to them, c Formerly I thought that there was
-but one man 1 in the world, and did not know that
-there was this man. I have heard the Master say
-that to seek for the means of conducting his under¬
-takings so that his success in carrying them out may
-be complete, and how by the employment of a little
-strength great results may be obtained, is the way
-of the sage. Now (I perceive that) it is not so at
-all. They who hold fast and cleave to the Tao
-are complete in the qualities belonging to it. Com¬
-plete in those qualities, they are complete in their
-bodies. Complete in their bodies, they are com¬
-plete in their spirits. To be complete in spirit is
-the way of the sage. (Such men) live in the world
-in closest union with the people, going along with
-them, but they do not know where they are going.
-Vast and complete is their simplicity ! Success,
-gain, and ingenious contrivances, and artful clever¬
-ness, indicate (in their opinion) a forgetfulness of the
-(proper) mind of man. These men will not go
-where their mind does not carry them, and will do
+2 That is, ‘they responded to the Tao,’ without any constraint
+but the example of their rulers.
 
-[39]
+8 Here there would seem to be a quotation which I have not
+been able to trace to its source.
 
-1 Confucius.
-Y
+4 This ‘ Record ’ is attributed to Lao-jze ; but we know nothing
+of it. In illustration of the sentiment in the sentence, the critics pt. ii. sect. v. THE WRITINGS OF ATWANG-3ZE.
 
-THE TEXTS OF TAOISM.
+is completed. When the mind gets to be free from
+all aim, even the Spirits submit.’
+
+2. The Master said 1 , ‘ It is the T ao that overspreads and sustains all things. How great It is in
+Its overflowing influence ! The Superior man ought
+by all means to remove from his mind (all that is contrary to It). Acting without action is what is called
+Heaven(-like). Speech coming forth of itself is
+what is called (a mark of) the (true) Virtue. Loving
+men and benefiting things is what is called Benevolence. Seeing wherein things that are different yet
+agree is what is called being Great. Conduct free
+from the ambition of being distinguished above
+others is what is called being Generous. The possession in himself of a myriad points of difference
+is what is called being Rich. Therefore to hold
+fast the natural attributes is what is called the
+Guiding Line (of government) 2 ; the perfecting of
+those attributes is what is called its Establishment ;
+accordance with the Tao is what is called being
+Complete ; and not allowing anything external to
+affect the will is what is called being Perfect. When
+the Superior man understands these ten things,
+he keeps all matters as it were sheathed in himself,
+showing the greatness of his mind; and through
+the outflow of his doings, all things move (and come
+to him). Being such, he lets the gold lie hid in the
+hill, and the pearls in the deep ; he considers not refer to par. 34 in the fourth Appendix to the Yi King; but it is
+not to the point.
+
+1 Who is ‘ the Master ’ here ? Confucius ? or Lao-jze ? I think
+the latter, though sometimes even our author thus denominates
+Confucius ; — see par. 9.
+
+2 ? the Tao.
 
 BK. XII.
 
-### chunk 161 — zhuangzi — Book XIII
+property or money to be any gain ; he keeps aloof
+from riches and honours ; he rejoices not in long life,
+and grieves not for early death ; he does not account
+prosperity a glory, nor is ashamed of indigence ; he
+would not grasp at the gain of the whole world
+to be held as his own private portion ; he would
+not desire to rule over the whole world as his own
+private distinction. His distinction is in understanding that all things belong to the one treasury,
+and that death and life should be viewed in the
+same way V
 
-1 See pp. 144, 145.
+3. The Master said, 1 How still and deep is the
+place where the Tao resides! How limpid is its
+purity! Metal and stone without It would give
+forth no sound. They have indeed the (power of)
+sound (in them), but if they be not struck, they do
+not emit it. Who can determine (the qualities that
+are in) all things ?
 
-2 That is, its operation is universal. The Chinese critics gene¬
-rally explain ‘ accumulation ’ here by ‘ rest,’ which is not quite the
+‘ The man of kingly qualities holds on his way
+unoccupied, and is ashamed to busy himself with
+(the conduct of) affairs. He establishes himself in
+(what is) the root and source (of his capacity), and
+his wisdom grows to be spirit-like. In this way his
+attributes become more and more great, and when
+his mind goes forth, whatever things come in his
+way, it lays hold of them (and deals with them).
+Thus, if there were not the T ao, the bodily form
+would not have life, and its life, without the attributes (of the Tao), would not be manifested. Is
+not he who preserves the body and gives the fullest
+development to the life, who establishes the attri-
+
+1 Balfour : — ‘ The difference between life and death exists no
+more ; ’ Gabelentz : — ‘ Sterben und Leben haben gleiche Erscheinung.’
+
+### chunk 158 — zhuangzi — Book XIII (Tao of Heaven)
+
+2 That is, its operation is universal. The Chinese critics generally explain ‘ accumulation ’ here by ‘ rest,’ which is not quite the
 idea.
 
 3 Such is the meaning here of the i|fe, as in the Tao Teh
@@ -4446,8 +4165,7 @@ found in this their resting-place 3. Resting here,
 they were vacant ; from their vacancy came fullness ;
 from their fullness came the nice distinctions (of
 things). From their vacancy came stillness ; that
-stillness was followed by movement ; their move¬
-ments were successful. From their stillness came
+stillness was followed by movement ; their movements were successful. From their stillness came
 their non-action. Doing-nothing, they devolved the
 cares of office on their employes. Doing-nothing was
 accompanied by the feeling of satisfaction. Where
@@ -4459,8 +4177,7 @@ Vacancy, stillness, placidity, tastelessness, quietude,
 silence, and doing-nothing are the root of all things.
 When this is understood, we find such a ruler on the
 throne as Yao, and such a minister as Shun. When
-with this a high position is occupied, we find the attri¬
-butes of the Tis and kings, — the sons of Heaven ;
+with this a high position is occupied, we find the attributes of the Tis and kings, — the sons of Heaven ;
 with this in a low position, we find the mysterious
 
 1 here, is contracted in many editions into , which some
@@ -4470,15 +4187,12 @@ have mistaken for
 
 3 Implying cessation from all thought and purpose.
 
-THE TEXTS OF TAOISM.
-
 BK. XIII.
 
 sages, the uncrowned kings, with their ways. With this
 retiring (from public life), and enjoying themselves
 at leisure, we find the scholars who dwell by the
-rivers and seas, among the hills and forests, all sub¬
-missive to it ; with this coming forward to active life
+rivers and seas, among the hills and forests, all submissive to it ; with this coming forward to active life
 and comforting their age, their merit is great, and
 their fame is distinguished ; — and all the world
 becomes united in one.
@@ -4486,8 +4200,7 @@ becomes united in one.
 2. (Such men) by their stillness become sages ;
 and by their movement, kings. Doing-nothing, they
 are honoured ; in their plain simplicity, no one in the
-world can strive with them (for the palm of) excel¬
-lence. The clear understanding of the virtue of
+world can strive with them (for the palm of) excellence. The clear understanding of the virtue of
 Heaven and Earth is what is called ‘ The Great
 Root,’ and ‘ The Great Origin ; ’ — they who have it
 are in harmony with Heaven, and so they produce
@@ -4497,8 +4210,7 @@ harmony with men is called the Joy of men ; being
 in harmony with Heaven is called the Joy of Heaven.
 Wwang-jze said, ‘My Master! my Master! He
 shall hash and blend all things in mass without being
-cruel ; he shall dispense his favours to all ages with¬
-out being benevolent. He is older than the highest
+cruel ; he shall dispense his favours to all ages without being benevolent. He is older than the highest
 antiquity, and yet is not old. He overspreads the
 heavens and sustains the earth ; from him is the
 carving of all forms without any artful skill 1 ! This
@@ -4514,26 +4226,21 @@ changed.
 
 PT. II. SECT. vi. THE WRITINGS OF STWANG-3ZE.
 
-### chunk 166 — zhuangzi — Book XIII (Tao, the Way of Heaven)
+### chunk 163 — zhuangzi — Book XIII
 
 9. The Master 1 said, ‘ The Tao does not exhaust
 itself in what is greatest, nor is it ever absent from
-what is least ; and therefore it is to be found com¬
-plete and diffused in all things. How wide is its
-universal comprehension ! How deep is its un¬
-fathomableness ! The embodiment of its attributes
+what is least ; and therefore it is to be found complete and diffused in all things. How wide is its
+universal comprehension ! How deep is its unfathomableness ! The embodiment of its attributes
 in benevolence and righteousness is but a small
 result of its spirit-like (working) ; but it is only the
 perfect man who can determine this. The perfect
 man has (the charge of) the world ; — is not the
-charge great ? and yet it is not sufficient to em¬
-barrass him. He wields the handle of power over
+charge great ? and yet it is not sufficient to embarrass him. He wields the handle of power over
 the whole world, and yet it is nothing to him. His
-discrimination detects everything false, and no con¬
-sideration of gain moves him. He penetrates to
+discrimination detects everything false, and no consideration of gain moves him. He penetrates to
 the truth of things, and can guard that which is
-fundamental. So it is that heaven and earth are ex¬
-ternal to him, and he views all things with indifference,
+fundamental. So it is that heaven and earth are external to him, and he views all things with indifference,
 and his spirit is never straitened by them. He has
 comprehended the Tio, and is in harmony with its
 characteristics; he pushes back benevolence and
@@ -4547,8 +4254,7 @@ Philosophers,’ the text is and not
 
 PT. IX. SECT. VI. THE WRITINGS OF XWANG-3ZE. 343
 
-10. What the world thinks the most valuable ex¬
-hibition of the T a o is to be found in books. But
+10. What the world thinks the most valuable exhibition of the T a o is to be found in books. But
 books are only a collection of words. Words have
 what is valuable in them ; — what is valuable in
 words is the ideas they convey. But those ideas
@@ -4586,11 +4292,140 @@ chiefs of the Kwx dynasty.
 2 See in Mencius I, i, vii, 4 a similar reference to the hall and
 the courtyard below it.
 
-THE TEXTS OF TAOISM.
-
 BK. XIII.
 
-### chunk 176 — zhuangzi — Book XV
+tinued. ‘ They are dead,’ was the reply. ‘ Then,’
+said the other, ‘ what you, my Ruler, are reading are
+only the dregs and sediments of those old men.’
+The duke said, ‘ How should you, a wheelwright,
+have anything to say about the book which I am
+reading ? If you can explain yourself, very well ;
+if you cannot, you shall die!’ The wheelwright
+said, ‘Your servant will look at the thing from the
+point of view of his own art. In making a wheel,
+if I proceed gently, that is pleasant enough, but the
+workmanship is not strong ; if I proceed violently,
+that is toilsome and the joinings do not fit. If the
+movements of my hand are neither (too) gentle nor
+(too) violent, the idea in my mind is realised. But
+I cannot tell (how to do this) by word of mouth ; — -
+there is a knack in it. I cannot teach the knack to
+my son, nor can my son learn it from me. Thus it
+is that I am in my seventieth year, and am (still)
+making wheels in my old age h But these ancients,
+and what it was not possible for them to convey, are
+dead and gone : — so then what you, my Ruler, are
+reading is but their dregs and sediments ! ’
+
+1 Compare the story in Book III about the ruler Wan-hui and
+his butcher; and other passages.
+
+### chunk 169 — zhuangzi — Book XIV
+
+‘ The perfect men of old trod the path of benevolence as a path which they borrowed for the occasion,
+and dwelt in Righteousness as in a lodging which they
+used for a night. Thus they rambled in the vacancy
+of Untroubled Ease, found their food in the fields of
+Indifference, and stood in the gardens which they had
+not borrowed. U ntroubled Ease requires the doing of
+nothing; Indifference is easily supplied with nourishment ; not borrowing needs no outlay. The ancients
+called this the Enjoyment that Collects the True.
+
+‘ Those who think that wealth is the proper thing
+for them cannot give up their revenues ; those who
+seek distinction cannot give up the thought of fame ;
+those who cleave to power cannot give the handle of
+it to others. While they hold their grasp of those
+things, they are afraid (of losing them). When they
+let them go, they are grieved ; and they will not look
+at a single example, from which they might perceive
+the (folly) of their restless pursuits : — such men are
+under the doom of Heaven 1.
+
+‘ Hatred and kindness; taking and giving; reproof
+and instruction ; death and life : — these eight things
+are instruments of rectification, but only those are
+able to use them who do not obstinately refuse to
+comply with their great changes. Hence it is said,
+“ Correction is Rectification.” When the minds of
+
+1 See the same expression used in Book VI, par. n, used
+by Confucius of himself. Comparing the two passages together,
+I must doubt the correctness of my note there (2, p. 252), that
+‘Heaven’ is used in the Confucian sense of Ti, or God. The
+men here pursued and toiled after the pleasures of the world, rather
+than the quiet satisfactions of the Tao.
+
+pt. ii. sect. vii. THE WRITINGS OF ITWANG-3ZE. 357 some do not acknowledge this, it is because the gate
+of Heaven1 (in them) has not been opened.’
+
+6. At an interview with Lao Tan, Confucius
+spoke to him of benevolence and righteousness. Lao
+Tan said, ‘ If you winnow chaff, and the dust gets into
+your eyes, then the places of heaven and earth and
+of the four cardinal points are all changed to you.
+If musquitoes or gadflies puncture your skin, it will
+keep you all the night2 from sleeping. But this
+painful iteration of benevolence and righteousness
+excites my mind and produces in it the greatest confusion. If you, Sir, would cause men not to lose
+their natural simplicity, and if you would also imitate
+the wind in its (unconstrained) movements, and stand
+forth in all the natural attributes belonging to you !
+— why must you use so much energy, and carry a
+great drum to seek for the son whom you have lost 3 4 ?
+The snow-goose does not bathe every day to make
+itself white, nor the crow blacken itself every day to
+make itself black. The natural simplicity of their
+black and white does not afford any ground for controversy ; and the fame and praise which men like
+to contemplate do not make them greater than they
+naturally are. When the springs (supplying the
+pools) are dried up, the fishes huddle together on
+the dry land. Than that they should moisten one
+another there by their gasping, and keep one another
+wet by their milt, it would be better for them to
+forget one another in the rivers and lakes V
+
+1 See Book XXIII, par. 9. The phrase = ff| )frf.
+
+2 The common reading ^ is a mistake for .
+
+3 Compare the same illustration in the preceding Book, par. 7.
+
+4 This illustration is from Book VI, par. 5.
+
+BK. XIV.
+
+From this interview with LAo Tan, Confucius
+returned home, and for three days did not speak.
+His disciples (then) asked him, saying, ‘ Master, you
+have seen LAo Tan; in what way might you admonish and correct him ?’ Confucius said, ‘ In him
+(I may say) that I have now seen the dragon. The
+dragon coils itself up, and there is its body ; it
+unfolds itself and becomes the dragon complete. It
+rides on the cloudy air, and is nourished by the Y i n
+and Y ang. I kept my mouth open, and was unable
+to shut it ; — how could I admonish and correct LAo
+Tan ? ’
+
+### chunk 172 — zhuangzi — Book XV
+
+would do their utmost to incorporate other states
+with their own, are fond of.
+
+Resorting to marshes and lakes ; dwelling in
+solitary places ; occupying themselves with angling
+and living at ease all this shows their one object
+to be to do nothing. This is what gentlemen of the
+rivers and seas, men who avoid the society of the
+world and desire to live at leisure, are fond of.
+
+Blowing and breathing with open mouth ; inhaling
+and exhaling the breath ; expelling the old breath
+and taking in new ; passing their time like the (dormant) bear x, and stretching and twisting (the neck)
+like a bird 1 ; — all this simply shows the desire for
+longevity. This is what the scholars who manipulate their breath, and the men who nourish the
+body and wish to live as long as Pang 3w are
+fond of.
 
 As to those who have a lofty character without
 any ingrained ideas ; who pursue the path of selfcultivation without benevolence and righteousness ;
@@ -4598,24 +4433,19 @@ who succeed in government without great services or
 fame ; who enjoy their ease without resorting to the
 rivers and seas ; who attain to longevity without the
 management (of the breath) ; who forget all things
-and yet possess all things ; whose placidity is un¬
-limited, while all things to be valued attend them
+and yet possess all things ; whose placidity is unlimited, while all things to be valued attend them
 such men pursue the way of heaven and earth, and
 display the characteristics of the sages. Hence it
 is said 2, ‘ Placidity, indifference, silence, quietude,
 
-1 This is probably the meaning. The text is simply : — ‘ Bear¬
-passing, bird-stretching.’
+1 This is probably the meaning. The text is simply : — ‘ Bearpassing, bird-stretching.’
 
 2 ‘It is said:’ — where? and by whom? These questions we
-cannot answer. We have met indeed already with the same cha¬
-racteristics of the Tao; but Wwang-jze is not likely to be quoting
+cannot answer. We have met indeed already with the same characteristics of the Tao; but Wwang-jze is not likely to be quoting
 
 PT. II. SECT. VIII.
 
-THE WRITINGS OF iTWANG-SZE. 365
-
-absolute vacancy, and non-action : — these are the
+THE WRITINGS OF iTWANG-SZE. 365 absolute vacancy, and non-action : — these are the
 qualities which maintain the level of heaven and
 earth and are the substance of the T&o and its
 characteristics.’
@@ -4632,11 +4462,9 @@ unimpaired.’
 
 Therefore it is (also) said, ‘ The life of the sage is
 (like) the action of Heaven ; and his death is the
-transformation common to (all) things. In his still¬
-ness his virtue is the same as that of the Yin, and
+transformation common to (all) things. In his stillness his virtue is the same as that of the Yin, and
 in movement his diffusiveness is like that of the
-Yang. He does not take the initiative in produc¬
-ing either happiness or calamity. He responds to
+Yang. He does not take the initiative in producing either happiness or calamity. He responds to
 the influence acting on him, and moves as he feels
 the pressure. He rises to act only when he is obliged
 to do so. He discards wisdom and the memories
@@ -4645,30 +4473,23 @@ of the past ; he follows the lines of his Heaven
 from Heaven, no involvement from things, no
 blame from men, and no reproof from the spirits of
 the dead \ His life seems to float along ; his death
-seems to be a resting. He does not indulge any
-
-himself. On the ‘ It is said,’ and the five recurrences of the phrase
+seems to be a resting. He does not indulge any himself. On the ‘ It is said,’ and the five recurrences of the phrase
 below, Lu Shfi-i£ih says that Awang-jze is quoting from sentences
 current among the adherents of Taoism, — the sentence-makers
 often drawn on by Lao-jze; compare the Tao Teh A'ing, ch. xli.
 
 1 See Book XIII, par. 2.
 
-THE TEXTS OF TAOISM.
-
 BK. XV.
 
 anxious doubts ; he does not lay plans beforehand.
-His light is without display; his good faith is with¬
-out previous arrangement. His sleep is untroubled
+His light is without display; his good faith is without previous arrangement. His sleep is untroubled
 by dreams ; his waking is followed by no sorrows.
-His spirit is guileless and pure; his soul is not sub¬
-ject to weariness. Vacant and without self-assertion,
+His spirit is guileless and pure; his soul is not subject to weariness. Vacant and without self-assertion,
 placid and indifferent, he agrees with the virtue of
 Heaven.’
 
-Therefore it is said (further), ‘ Sadness and plea¬
-sure show a depraving element in the virtue (of those
+Therefore it is said (further), ‘ Sadness and pleasure show a depraving element in the virtue (of those
 who feel them) ; joy and anger show some error in
 their course ; love and hatred show a failure of their
 virtue. Hence for the mind to be free from sorrow
@@ -4680,17 +4501,7 @@ perfection of vacancy ; to have no intercourse with
 and to have no rebellious dissatisfactions is the
 perfection of purity.’
 
-3. Therefore it is said (still further), ‘ If the body
-be toiled, and does not rest, it becomes worn out ;
-if the spirit be used without cessation, it becomes
-toiled ; and when toiled, it becomes exhausted. It
-is the nature of water, when free from admixture,
-to be clear, and, when not agitated, to be level ;
-while if obstructed and not allowed to flow, it cannot
-preserve its clearness ; — being an image of the
-virtue of Heaven.’ Hence it is said (once again),
-
-### chunk 182 — zhuangzi — Book XVII (Qiushui)
+### chunk 178 — zhuangzi — Book XVII (Qiu Shui)
 
 3. The earl of the Ho said, ‘ The disputers of the
 world all say, “ That which is most minute has no
@@ -4711,8 +4522,7 @@ division ; where it is not possible to encompass a
 mass, there is no longer a possibility of numerical
 estimate. What can be discoursed about in words
 is the grossness of things ; what can be reached in
-idea is the subtilty of things. What cannot be dis¬
-coursed about in words, and what cannot be reached
+idea is the subtilty of things. What cannot be discoursed about in words, and what cannot be reached
 by nice discrimination of thought, has nothing to
 do either with subtilty or grossness.
 
@@ -4728,9 +4538,7 @@ his affairs, he does not plume himself on supporting
 
 PT. II. SECT. X.
 
-THE WRITINGS OF XWANG-3ZE. 379
-
-himself by his own strength, nor does he despise
+THE WRITINGS OF XWANG-3ZE. 379 himself by his own strength, nor does he despise
 those who in their greed do what is mean; while
 he differs in his conduct from the vulgar, he does
 not plume himself on being so different from them ;
@@ -4766,222 +4574,20 @@ We shall (thus) know that heaven and earth is but
 of a hair is (as) a mound or a mountain ; — such is
 the view given of them by their relative size. Look-
 
-THE TEXTS OF TAOISM.
-
 BK. XVII.
 
 ing at them from the services they render, allowing
 to everything the service which it does, there is not
 one which is not serviceable ; and, extending the
 consideration to what it does not do, there is not
-one which is not unserviceable. We know (for in¬
-stance) that East and West are opposed to each
+one which is not unserviceable. We know (for instance) that East and West are opposed to each
 other, and yet that the one cannot be without
 (suggesting the idea of) the other ; — (thus) their
 share of mutual service is determined. Looking at
 them with respect to their tendencies, if we approve
 of what they approve, then there is no one who may
 not be approved of ; and, if we condemn what they
-condemn, there is no one who may not be con¬
-demned. There are the cases of Yao and Kieh,
+condemn, there is no one who may not be condemned. There are the cases of Yao and Kieh,
 each of whom approved of his own course, and
 condemned the other ; — such is the view arising
 from the consideration of tendency and aim.
-
-### chunk 183 — zhuangzi — Book XVII (Qiu Shui)
-
-‘ Formerly Yao and Shun resigned (their thrones),
-and yet each continued to be Tl ; Wih-khwai1 re¬
-signed (his marquisate) which led to his ruin. Thang
-and Wft contended (for the sovereignty), and each
-became king ; the duke of Pai 2 contended (for
-Kkti), which led to his extinction. Looking at the
-subject from these examples of striving by force and
-of resigning, and from the conduct of Ydo (on the
-one hand) and of K ieh (on the other), we see that
-there is a time for noble acting, and a time for
-
-1 See Mencius II, ii, ch. 8, and I, ii, chaps, io, n, with the
-notes. ^ is probably a mistake for *
-
-2 See the last narrative but one in the 3° A7nvan, under the
-sixteenth year of duke Ai of Lu, — the year in which Confucius died.
-‘ The duke of Pai ’ was merely the chief of a district of A7m ; but
-rebelling against the Ruler of the State, he was defeated, and
-strangled himself.
-
-PT. II. SECT. X. THE WRITINGS OF JTWANG-3ZE. 38 1
-
-mean; — these characteristics are subject to no re¬
-gular rule.
-
-5. ‘A battering ram may be used against the wall
-of a city, but it cannot be employed to stop up a
-hole ; — the uses of implements are different. The
-(horses) Kh ih-<£i and Hwa-lih1 could in one day
-gallop 1000 li, but for catching rats they were not
-equal to a wild dog or a weasel ; — the gifts of
-creatures are different. The white horned owl col¬
-lects its fleas in the night-time, and can discern the
-point of a hair, but in bright day it stares with its
-eyes and cannot see a mound or a hill ; — the natures
-of creatures are different.
-
-‘ Hence the sayings, “ Shall we not follow and
-honour the right, and have nothing to do with the
-wrong ? shall we not follow and honour those who
-secure good government, and have nothing to do
-with those who produce disorder ? ” show a want of
-acquaintance with the principles of Heaven and
-Earth, and with the different qualities of things.
-It is like following and honouring Heaven and
-taking no account of Earth ; it is like following and
-honouring the Yin and taking no account of the
-Yang. It is clear that such a course cannot be
-pursued. Yet notwithstanding they go on talking
-so : — if they are not stupid, they are visionaries.
-The Ti sovereigns resigned their thrones to others
-in one way, and the rulers of the three dynasties
-transmitted their thrones to their successors in
-another. He who acts differently from the require¬
-ments of his time and contrary to its custom is
-called an usurper ; he who complies with the time
-
-1 Two of king Mu’s team of eight famous steeds.
-
-THE TEXTS OF TAOISM.
-
-bk. xvir.
-
-and follows the common practice is said to be right¬
-eous. Hold your peace, O earl of the Ho. How
-should you know what constitutes being noble and
-being mean, or who are the small and who the great? ’
-
-6. The earl of the Ho said, ‘Very well. But
-what am I to do ? and what am I not to do ? How
-am I to be guided after all in regard to what I
-accept or reject, and what I pursue or put away
-from me ? ’ Zo of the Northern Sea replied, ‘From
-the standpoint of the Tio, what is noble ? and what
-is mean ? These expressions are but the different
-extremes of the average level. Do not keep per¬
-tinaciously to your own ideas, which put you in
-such opposition to the Tao. What are few? and
-what are many ? These are denominations which
-we employ in thanking (donors) and dispensing
-gifts. Do not study to be uniform in doing so ; —
-it only shows how different you are from the Tao.
-Be severe and strict, like the ruler of a state who
-does not selfishly bestow his favours. Be scrupu¬
-lous, yet gentle, like the tutelary spirit of the land,
-when sacrifice is offered to him who does not
-bestow his blessing selfishly. Be large-minded
-like space, whose four terminating points are illimit¬
-able, and form no particular enclosures. Hold all
-things in your love, favouring and supporting none
-specially. This is called being without any local
-or partial regard ; all things are equally regarded ;
-there is no long or short among them.
-
-### chunk 184 — zhuangzi — Book XVII (Qiushui)
-
-‘ There is no end or beginning to the T ao. Things
-indeed die and are born, not reaching a perfect state
-which can be relied on. Now there is emptiness,
-and now fulness ; — they do not continue in one
-form. The years cannot be reproduced ; time
-
-PT. II. SECT. X.
-
-THE WRITINGS OF JSTWANG-3ZE. 383
-
-cannot be arrested. Decay and growth, fulness
-and emptiness, when they end, begin again. It is
-thus that we describe the method of great righteous¬
-ness, and discourse about the principle pervading
-all things. The life of things is like the hurrying
-and galloping along of a horse. With every move¬
-ment there is a change ; with every moment there
-is an alteration. What should you be doing ? what
-should you not be doing? You have only to be
-allowing this course of natural transformation to
-be going on.’
-
-7. The earl of the Ho said, ‘What then is there
-so valuable in the Tcio ?’ Zo of the Northern Sea
-replied, ‘ He who knows the Tao is sure to be well
-acquainted with the principles (that appear in the
-procedures of things). Acquainted with (those)
-principles, he is sure to understand how to regulate
-his conduct in all varying circumstances. Having
-that understanding, he will not allow things to
-injure himself. Fire cannot burn him who is (so)
-perfect in virtue, nor water drown him ; neither cold
-nor heat can affect him injuriously ; neither bird nor
-beast can hurt him. This does not mean that he is
-indifferent to these things; it means that he dis¬
-criminates between where he may safely rest and
-where he will be in peril ; that he is tranquil equally
-in calamity and happiness ; that he is careful what
-he avoids and what he approaches — so that nothing
-can injure him. Hence it is said, “What is heavenly
-is internal ; what is human is external.” The virtue
-(of man) is in what is Heavenly. If you know the
-operation of what is Heavenly and what is Human,
-you will have your root in what is Heavenly and
-your position in Virtue. You will bend or stretch
-
-3§4
-
-THE TEXTS OF TAOISM.
-
-BK. XVIT.
-
-(only) after the (necessary) hesitation ; you will have
-returned to the essential, and may be pronounced
-to have reached perfection.’
-
-‘ What do you mean,’ pursued the earl, ‘ by the
-Heavenly, and by the Human ? ’ Zo replied, ‘Oxen
-and horses have four feet; — that is what I call their
-Heavenly (constitution). When horses’ heads are
-haltered, and the noses of oxen are pierced, that
-is what I call (the doing of) Man. Hence it is
-said, “ Do not by the Human (doing) extinguish the
-Heavenly (constitution) ; do not for your (Human)
-purpose extinguish the appointment (of Heaven) ;
-do not bury your (proper) fame in (such) a pursuit
-of it ; carefully guard (the Way) and do not lose
-it; — this is what I call reverting to your True
-(Nature).” ’
-
-8. The khwei 1 desires to be like 2 the millipede1 ;
-the millipede to be like the serpent ; the serpent
-like the wind ; the wind to be like the eye ; and the
-eye to be like the mind s.
-
-The khwei said to the millipede, ‘With my one
-leg I hop about, and can hardly manage to go
-along. Now you have a myriad feet which you can
-employ ; how is it that you are so abundantly fur¬
-nished ? ’ The millipede said, ‘ It is not so. Have
-you not seen one ejecting saliva ? The largest
-portion of it is like a pearl, while the smaller
-portions fall down like a shower of mist in innumer-
-
-1 The khwei is ‘ a sort of dragon (it may be, a worm) with
-one foot.’ The hsien has many feet; one account calls it £a
-centipede.’
-
-2 Such is the meaning of the lin or lien. The best commenta¬
-tors explain it by hsien (|$|), ‘ to covet and desire.’
-
-s Compare Book I, par. 3, towards the end.
-
-PT. II. SECT. X.
-
-THE WRITINGS OF iTWANG-SZE. 385
-
-able drops. Now I put in motion the springs set
-in me by Heaven, without knowing how I do so.’
