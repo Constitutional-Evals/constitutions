@@ -1,0 +1,69 @@
+{
+  "constitution_id": "christianity",
+  "sources": [
+    {
+      "title": "The Sermon on the Mount (Matthew 5–7) — World English Bible (WEB)",
+      "url": "https://ebible.org/web/",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["sermon-on-the-mount-web.md"],
+      "notes": "Foundational source #1. The World English Bible is explicitly dedicated to the public domain by its publisher (eBible.org / Rainbow Missions, Inc.); no copyright is claimed. Complete text of Matthew chapters 5–7 in a plain modern-English translation. Cross-reference and textual footnotes removed for clean reading; no words of the text altered. ~14.5k characters."
+    },
+    {
+      "title": "The Sermon on the Mount (Matthew 5–7) — King James Version (KJV)",
+      "url": "https://ebible.org/eng-kjv2006/",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["sermon-on-the-mount-kjv.md"],
+      "notes": "Foundational source #1, second translation. The KJV is public domain in the United States and worldwide except the United Kingdom (where it is under perpetual Crown copyright administered by Cambridge University Press); it is universally treated as a public-domain text in scholarship and digital corpora. Complete text of Matthew 5–7. Included as a second translation of the same discourse (Early Modern English) alongside the WEB, per the repo's encouragement of multiple translations as a formatting-sensitivity probe. ~14.7k characters."
+    },
+    {
+      "title": "Augustine of Hippo, The City of God (De Civitate Dei) — selections — trans. Marcus Dods (1871)",
+      "url": "https://www.gutenberg.org/ebooks/45304",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["augustine-city-of-god-selections-dods.md"],
+      "notes": "Foundational source #2. Marcus Dods translation (1871); public domain. The full work (~400k words, 22 books) is far over the size cap, so this file extracts the most ethics-relevant material: Book XIX in full (the supreme good, peace as 'the tranquillity of order', justice, ordered love, the two cities' ends), plus selected chapters of Book XIV (living according to man vs. God; the will and love; pride; the two cities formed by two loves), Book I (mercy; providence to good and wicked alike; the two cities intermingled), and Book V (glory, domination, and true happiness in rule). Selection rationale is stated in the file header. Source text also available as Gutenberg #45305 (Vol II). ~163.5k characters (~44k tokens)."
+    },
+    {
+      "title": "Thomas Aquinas, Summa Theologiae, Secunda Secundae (II-II) — selections — trans. Fathers of the English Dominican Province (1920)",
+      "url": "https://www.gutenberg.org/ebooks/18755",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["aquinas-summa-II-II-selections.md"],
+      "notes": "Foundational source #3. English Dominican Province translation (1920); public domain. The II-II treats the moral life across 189 Questions; this file selects a coherent ethical core spanning the three theological virtues and the chief social cardinal virtue, preserving whole Questions (with their Objection / On the contrary / I answer that / Reply structure): Q4 (the virtue of faith), Q17 (hope in itself), Q23 (charity as friendship with God; form of the virtues), Q25 (the object of charity — love of neighbour and of enemies), and Q58 (justice). Selection rationale and tradeoffs stated in the file header. The full charity treatise (qq. 23–27, incl. Q26 'Of the Order of Charity') and the cardinal-virtue definitions of prudence/fortitude/temperance were omitted for length. ~184.5k characters (~46k tokens)."
+    },
+    {
+      "title": "John Chrysostom, Homilies on the Gospel of Saint Matthew — selected homilies on the Sermon on the Mount — NPNF trans. George Prevost, rev. M. B. Riddle (1888)",
+      "url": "https://www.newadvent.org/fathers/200115.htm",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["chrysostom-homilies-on-matthew-selections.md"],
+      "notes": "Interpretive work #1 (public domain, included). The classic patristic verse-by-verse exposition of the Sermon on the Mount, from Nicene and Post-Nicene Fathers, First Series, Vol. 10 (1888; public domain), reproduced by New Advent. Included as an interpretive companion showing how the early Church read Jesus' ethical teaching. Selection: Homily 15 (on Matthew 5:1–16, the Beatitudes and salt & light) and Homily 18 (on Matthew 5:38–48, non-retaliation and love of enemies). New Advent banners/navigation/footer removed. Companion homilies (16, 17, 19–24) cover the rest of Matthew 5–7 and are available at newadvent.org/fathers (200116.htm ... 200124.htm) if more interpretive coverage is wanted. ~86k characters (~21k tokens)."
+    },
+    {
+      "title": "Hans Dieter Betz, The Sermon on the Mount (Hermeneia commentary series)",
+      "url": "https://fortresspress.com/product/sermon-mount-hermeneia-critical-and-historical-commentary-bible",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Interpretive work #2 (modern, copyrighted — METADATA ONLY, do not redistribute). Hans Dieter Betz, 'The Sermon on the Mount', Hermeneia: A Critical and Historical Commentary on the Bible (Minneapolis: Fortress Press, 1995), ISBN 978-0800660314. A major critical-historical study arguing the Sermon on the Mount (and its Lukan parallel, the Sermon on the Plain) circulated as pre-Matthean epitomes of Jesus' teaching; the standard advanced scholarly reference on the text's ethics and composition. FAIR-USE SUMMARY (not a quotation): Betz treats the Sermon as a carefully structured 'epitome' of theology and ethics meant to be memorized and enacted, reading the Beatitudes, antitheses, and Golden Rule as a coherent program of righteousness rather than isolated maxims. Useful for interpreting the primary Sermon-on-the-Mount texts in this bundle. Full text NOT stored (copyright)."
+    },
+    {
+      "title": "R. A. Markus, Saeculum: History and Society in the Theology of St Augustine",
+      "url": "https://www.cambridge.org/core/books/saeculum/",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Interpretive work #3 (modern, copyrighted — METADATA ONLY, do not redistribute). R. A. Markus, 'Saeculum: History and Society in the Theology of St Augustine' (Cambridge University Press, 1970; rev. 1988), ISBN 978-0521386814. The standard modern study of Augustine's political and social theology and of the 'two cities' doctrine central to the City of God selections in this bundle. FAIR-USE SUMMARY (not a quotation): Markus argues that for Augustine the earthly and heavenly cities are inextricably intermingled within the 'saeculum' (the present age), that no earthly political order can be simply identified with either city, and that Christian ethics must therefore operate within an ambiguous, provisional secular sphere ordered toward a peace that only the heavenly city fully attains. Directly aids interpretation of City of God Books XIX and XIV. Full text NOT stored (copyright)."
+    },
+    {
+      "title": "Servais Pinckaers, The Sources of Christian Ethics",
+      "url": "https://www.cuapress.org/9780813208183/the-sources-of-christian-ethics/",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Interpretive work #4 (modern, copyrighted — METADATA ONLY, do not redistribute). Servais Pinckaers OP, 'The Sources of Christian Ethics', trans. Mary Thomas Noble (Washington, DC: Catholic University of America Press, 1995), ISBN 978-0813208183. A leading modern account of Thomistic virtue ethics, widely used to interpret the Summa II-II selections in this bundle. FAIR-USE SUMMARY (not a quotation): Pinckaers contrasts a 'freedom for excellence' (rooted in the virtues, beatitude, and the Sermon on the Mount as the charter of the Christian moral life) with a later 'freedom of indifference' (rooted in obligation and law), arguing that Aquinas's ethics is fundamentally an ethics of happiness and virtue oriented to the beatitudes rather than a morality of bare obligation. Directly aids interpretation of Aquinas on charity and the virtues. Full text NOT stored (copyright)."
+    }
+  ]
+}
