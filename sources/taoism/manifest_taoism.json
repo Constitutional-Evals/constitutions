@@ -1,0 +1,25 @@
+{
+  "constitution_id": "taoism",
+  "sources": [
+    {
+      "title": "James Legge, The Texts of Taoism, Sacred Books of the East, Volume 39 — Tao Te Ching and Zhuangzi Books I–XVII (1891)",
+      "url": "https://www.sacred-texts.com/tao/sbe39/index.htm",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "TTC + Zhuangzhi P1.md"
+      ],
+      "notes": "Foundational source #1. James Legge's 1891 English translation in Sacred Books of the East, vol. 39; public domain in the United States. The complete volume contains Legge's general introduction to Taoism, the complete 81-chapter Tao Te Ching, introductory and interpretive material, and Zhuangzi Books I–XVII with explanatory and philological notes. The unabridged Markdown source measured 865,030 characters, 136,832 words, and approximately 315,371 cl100k_base tokens. Because it exceeds the approximately 50k-token per-document cap, a source-specific relevance-and-coverage extractor selects approximately 50k verbatim tokens while preserving substantial representation of the Tao Te Ching, Zhuangzi, Legge's introductions, and interpretive notes. Selection prioritizes dao, de, wu wei, naturalness, simplicity, humility, softness, receptivity, noncompetition, restrained government, perspectivism, transformation, usefulness and uselessness, skillful action, knowledge, language, life, and death. Scan/site boilerplate, isolated page numbers, navigation text, and obvious OCR artifacts may be removed; selected wording is not paraphrased. The filename's 'Zhuangzhi' spelling is retained for repository compatibility."
+    },
+    {
+      "title": "James Legge, The Texts of Taoism, Sacred Books of the East, Volume 40 — Zhuangzi Books XVIII–XXXIII and supplementary Taoist texts (1891)",
+      "url": "https://www.sacred-texts.com/tao/sbe40/index.htm",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Zhuangzhi P2.md"
+      ],
+      "notes": "Foundational source #2. James Legge's 1891 English translation in Sacred Books of the East, vol. 40; public domain in the United States. The volume completes the received 33-book Zhuangzi with Books XVIII–XXXIII and includes supplementary Taoist texts, interpretive appendices, analyses attributed to Lin Hsi-kung, and an index covering the two-volume work. The unabridged Markdown source measured 610,057 characters, 110,444 words, and approximately 168,245 cl100k_base tokens. Because it exceeds the approximately 50k-token per-document cap, a source-specific extractor selects approximately 50k verbatim tokens. The separate budget prevents the later Zhuangzi books and the shorter second volume from being crowded out by SBE 39. The extractor favors philosophically and ethically relevant root passages, Legge's genuinely interpretive notes, and useful supplementary texts while limiting indexes, long name lists, repetitive anecdotes, purely technical philology, and OCR debris. Selected passages are restored to original source order and are not paraphrased."
+    }
+  ]
+}

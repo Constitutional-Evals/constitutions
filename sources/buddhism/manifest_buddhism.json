@@ -1,0 +1,45 @@
+{
+  "constitution_id": "buddhism",
+  "sources": [
+    {
+      "title": "F. L. Woodward, The Buddha's Path of Virtue: A Translation of the Dhammapada (1921)",
+      "url": "https://www.gutenberg.org/ebooks/35185",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Dhammapada English.md"
+      ],
+      "notes": "Foundational source #1. Complete English translation of the Dhammapada from Pali by F. L. Woodward, first published in 1921 and distributed by Project Gutenberg as public domain in the United States. All 26 chapters are included in full, covering mind, heedfulness, self-discipline, wise and foolish conduct, craving, anger, violence, the path, the mendicant life, and the ideal awakened practitioner. The cleaned Markdown file measured 96,860 characters, 15,878 words, and approximately 26,761 cl100k_base tokens. Project Gutenberg headers, footers, navigation, and distribution boilerplate may be removed; no words of the translation are intentionally altered."
+    },
+    {
+      "title": "The Heart of the Transcendent Perfection of Wisdom — complete long Tibetan recension — trans. Adam Pearcey (2019)",
+      "url": "https://www.lotsawahouse.org/words-of-the-buddha/heart-sutra",
+      "license": "cc-by-nc-4.0",
+      "redistributable": true,
+      "files": [
+        "Heart Sutra.md"
+      ],
+      "notes": "Foundational source #2. Complete long-recension Heart Sutra translated from Tibetan by Adam Pearcey and published by Lotsawa House under Creative Commons Attribution-NonCommercial 4.0. The text includes the narrative setting, Sariputra's question, Avalokitesvara's response, the analysis of emptiness, the mantra, the Buddha's approval, and the assembly's response. Included in full. The Markdown file measured 3,997 characters, 655 words, and approximately 1,065 cl100k_base tokens. Formatting may be normalized to Markdown, but the translation is not intentionally altered. Redistribution and adaptation must remain noncommercial and preserve attribution and the CC BY-NC 4.0 notice."
+    },
+    {
+      "title": "Rongtön Sheja Künrig, Feast of Ambrosia: Instructions on Practising Fourfold Emptiness — trans. Adam Pearcey (2022)",
+      "url": "https://www.lotsawahouse.org/tibetan-masters/rongton/fourfold-emptiness-instructions",
+      "license": "cc-by-nc-4.0",
+      "redistributable": true,
+      "files": [
+        "Heart Sutra Interpretation.md"
+      ],
+      "notes": "Interpretive work #1 (openly licensed, included). A practical and philosophical interpretation of the Heart Sutra composed by Rongtön Sheja Künrig and translated by Adam Pearcey, published by Lotsawa House under CC BY-NC 4.0. It explains fourfold emptiness, rejects both inherent existence and simple nonexistence, and connects the sutra's view with meditation, vigilance, bodhicitta, afflictive emotions, and conduct. Included in full. The Markdown file measured 5,588 characters, 927 words, and approximately 1,310 cl100k_base tokens. Adam Pearcey is the translator; Rongtön Sheja Künrig is the author. Redistribution and adaptation must remain noncommercial and preserve attribution and the CC BY-NC 4.0 notice."
+    },
+    {
+      "title": "Ngulchu Dharmabhadra, Concise Explanatory Outline of the Heart of Wisdom — trans. Adam Pearcey (2019)",
+      "url": "https://www.lotsawahouse.org/tibetan-masters/ngulchu-dharmabhadra/heart-sutra-outline",
+      "license": "cc-by-nc-4.0",
+      "redistributable": true,
+      "files": [
+        "Heart Sutra Second Interpretation.md"
+      ],
+      "notes": "Interpretive work #2 (openly licensed, included). A structural interpretation composed by Ngulchu Dharmabhadra and translated by Adam Pearcey, published by Lotsawa House under CC BY-NC 4.0. It maps the complete Heart Sutra across the setting, question and answer, five paths, aggregates, sense sources, elements, dependent origination, Four Noble Truths, wisdom and attainment, mantra, approval, and conclusion. Included in full. The Markdown file measured 6,273 characters, 1,040 words, and approximately 1,704 cl100k_base tokens. Adam Pearcey is the translator; Ngulchu Dharmabhadra is the author. Redistribution and adaptation must remain noncommercial and preserve attribution and the CC BY-NC 4.0 notice."
+    }
+  ]
+}

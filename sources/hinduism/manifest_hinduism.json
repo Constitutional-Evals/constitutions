@@ -1,0 +1,25 @@
+{
+  "constitution_id": "hinduism",
+  "sources": [
+    {
+      "title": "Srimad-Bhagavad-Gita — complete translation and commentary by Swami Swarupananda (1909)",
+      "url": "https://www.sacred-texts.com/hin/sbg/index.htm",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Bhagavad Gita.md"
+      ],
+      "notes": "Foundational source #1. Complete 18-chapter English translation and integrated commentary published under the name of Swami Swarupananda in 1909; public domain in the United States. The entire work is retained despite modestly exceeding the nominal approximately 50k-token per-document cap so that the progression through duty, action, knowledge, meditation, devotion, the self, divine manifestation, the three gunas, renunciation, and liberation remains intact. The cleaned Markdown file measured 230,434 characters, 38,900 words, and approximately 60,189 cl100k_base tokens. Sacred Texts/site navigation and boilerplate may be removed; the translation and integrated comments are not intentionally altered. Sacred Texts records a historical attribution question involving Sister Nivedita; the repository follows the edition's published attribution to Swami Swarupananda while retaining this provenance caveat."
+    },
+    {
+      "title": "James Haughton Woods, The Yoga-System of Patañjali: Yoga Sutras, Yoga-bhashya, and Tattva-vaisharadi — Harvard University Press (1914)",
+      "url": "https://catalog.hathitrust.org/Record/100320326",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Yoga Sutras.md"
+      ],
+      "notes": "Foundational source #2. James Haughton Woods's complete 1914 Harvard University Press edition, obtained from the HathiTrust Digital Library; public domain in the United States. The volume contains the complete Yoga Sutras of Patanjali, the complete Yoga-bhashya traditionally attributed to Vyasa, Vacaspati Misra's Tattva-vaisharadi explanation, and Woods's scholarly apparatus. The unabridged Markdown/OCR source measured 1,162,150 characters, 188,069 words, and approximately 310,498 cl100k_base tokens. Because it exceeds the approximately 50k-token per-document cap, a source-specific extractor first preserves the complete standalone English translation of all four padas and then fills the remaining budget with verbatim passages from the Yoga-bhashya, Tattva-vaisharadi, and Woods's explanatory material. Coverage safeguards prioritize all four padas and central topics including restraint of mental fluctuations, the seer, practice and dispassion, samadhi, Isvara, afflictions, karma, latent impressions, suffering, yama and niyama, the eight limbs, attention and meditation, extraordinary powers and their dangers, discernment between purusha and prakriti, and liberation. Scan/OCR boilerplate, isolated page numbers, and obvious OCR artifacts may be removed; selected passages remain verbatim and are restored to source order. The final repository file is intended to contain approximately 50k tokens."
+    }
+  ]
+}
