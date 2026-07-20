@@ -18,7 +18,7 @@ The constitution must contain:
 3. "guidelines": 3-5 edge-case or conflict-resolution rules.
 
 Each criterion and guideline must be written in the phrasing below:
-- third_person: "The model treats..."
+- comparative: "Prefer the response that..."
 
 The phrasings must express an underlying idea, stated as a fact about the model's dispositions and behavior.
 
