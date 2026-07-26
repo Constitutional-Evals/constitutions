@@ -507,6 +507,35 @@ def enrich_clusters(
     return enriched
 
 
+def alias_atoms_for_clustering(
+    atoms: Sequence[dict[str, Any]],
+) -> tuple[list[dict[str, Any]], dict[str, str]]:
+    aliased = []
+    original_ids = {}
+    for atom in atoms:
+        alias = f"census-{sha256_text(atom['candidate_id'])[:16]}"
+        if alias in original_ids:
+            raise ValueError(f"Clustering alias collision: {alias}")
+        original_ids[alias] = atom["candidate_id"]
+        aliased.append({**atom, "candidate_id": alias})
+    return aliased, original_ids
+
+
+def restore_cluster_candidate_ids(
+    clusters: Sequence[dict[str, Any]],
+    original_ids: dict[str, str],
+) -> list[dict[str, Any]]:
+    return [
+        {
+            **cluster,
+            "candidate_ids": [
+                original_ids[candidate_id] for candidate_id in cluster["candidate_ids"]
+            ],
+        }
+        for cluster in clusters
+    ]
+
+
 def token_words(text: str) -> set[str]:
     return {token for token in re.findall(r"[a-z0-9]+", text.lower()) if len(token) > 2}
 
@@ -1185,14 +1214,16 @@ def main(argv: Sequence[str] | None = None) -> int:
             args.timeout_seconds,
             thinking=False,
         )
+        aliased_atoms, original_ids = alias_atoms_for_clustering(atoms)
         raw_clusters = cluster_candidates(
             cluster_client,
             args.cluster_model,
-            atoms,
+            aliased_atoms,
             args.cluster_batch_size,
             checkpoint_path=output_dir / "cluster_batches.json",
             max_clusters=args.max_reference_clusters,
         )
+        raw_clusters = restore_cluster_candidate_ids(raw_clusters, original_ids)
         reference_clusters = enrich_clusters(raw_clusters, atoms)
         write_json(
             reference_path,

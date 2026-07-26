@@ -6,10 +6,12 @@ from experiments.long_source_atom_census.analyze import (
 )
 from experiments.long_source_atom_census.run import (
     ATOM_SCHEMA,
+    alias_atoms_for_clustering,
     blind_probe_cases,
     chunk_text,
     constitution_prompt,
     evidence_is_grounded,
+    restore_cluster_candidate_ids,
     review_schema_for,
     select_budgeted_clusters,
 )
@@ -62,6 +64,33 @@ class GroundingTests(unittest.TestCase):
 
         self.assertEqual(first, second)
         self.assertTrue(all(chunk.char_count <= 1000 for chunk in first))
+
+    def test_clustering_uses_contiguous_aliases_and_restores_provenance(self):
+        atoms = [
+            {"candidate_id": "chunk::atom-02", "kind": "criterion"},
+            {"candidate_id": "chunk::atom-09", "kind": "guideline"},
+        ]
+
+        aliased, original_ids = alias_atoms_for_clustering(atoms)
+        aliases = [atom["candidate_id"] for atom in aliased]
+        restored = restore_cluster_candidate_ids(
+            [
+                {
+                    "label": "cluster",
+                    "candidate_ids": aliases,
+                }
+            ],
+            original_ids,
+        )
+
+        self.assertEqual(len(set(aliases)), 2)
+        self.assertTrue(
+            all(atom["candidate_id"].startswith("census-") for atom in aliased)
+        )
+        self.assertEqual(
+            restored[0]["candidate_ids"],
+            ["chunk::atom-02", "chunk::atom-09"],
+        )
 
 
 class SelectionTests(unittest.TestCase):

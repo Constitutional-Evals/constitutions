@@ -54,6 +54,12 @@ region explicitly marked by an ellipsis. It still rejects paraphrases and
 unmarked omissions. The v2.3 raw census was archived and no downstream result
 was retained.
 
+The first v2.4 clustering call also stopped before producing a reference
+cluster because rejected atoms create gaps in descriptive candidate IDs and the
+clusterer inferred a missing ID. Clustering now receives deterministic opaque
+aliases and maps them back to the original provenance IDs after validation.
+The valid v2.4 census was retained unchanged.
+
 Evaluation:
 
 - blinded reviews from Gemma 4 31B, Command R 35B, and Qwen 3.6 dense 27B;
