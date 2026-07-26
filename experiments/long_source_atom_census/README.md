@@ -40,11 +40,11 @@ test rejected Qwen 3.6 35B-A3B after three malformed constitution responses;
 Gemma 4 and dense Qwen both passed, and Gemma 4 was selected for its lower
 observed latency. No experiment result was inspected in making this correction.
 
-The first census launch stopped before clustering after an extractor returned
-12 atoms against an arbitrary eight-item schema cap. Version 2.2 raises that
-cap to 20 and asks extractors for all meaningful atoms. The seven completed
-partial calls were archived and the census restarted from empty; no downstream
-experimental output existed.
+The first two census launches stopped before clustering after extractors
+returned 12 atoms against an eight-item cap and then 28 atoms against a
+20-item cap. Version 2.3 removes the atom-count cap and asks extractors for all
+meaningful atoms. Completed partial calls were archived and the census restarted
+from empty; no downstream experimental output existed.
 
 Evaluation:
 

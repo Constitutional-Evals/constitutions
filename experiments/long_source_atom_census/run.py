@@ -24,7 +24,8 @@ from experiments.long_source_distillation.run import (
 )
 
 
-PROTOCOL_VERSION = "long-source-atom-census-v2.2"
+PROTOCOL_VERSION = "long-source-atom-census-v2.3"
+ATOM_NUM_PREDICT = 7000
 TARGET_CRITERIA = 10
 TARGET_GUIDELINES = 4
 DEFAULT_SEEDS = (17, 29, 43, 71, 101)
@@ -49,7 +50,6 @@ ATOM_SCHEMA = {
         "atoms": {
             "type": "array",
             "minItems": 0,
-            "maxItems": 20,
             "items": {
                 "type": "object",
                 "required": ["kind", "statement", "evidence"],
@@ -307,9 +307,8 @@ A normative atom is one independently judgeable commitment. Use:
 - conflict: guidance for resolving competing commitments;
 - exception: a boundary condition, qualification, or rare but important case.
 
-Extract all meaningful atoms in the passage, up to 20. Do not aim for a fixed
-count, omit substantive minority commitments, or split hairs between
-near-duplicates.
+Extract all meaningful atoms in the passage. Do not aim for a fixed count, omit
+substantive minority commitments, or split hairs between near-duplicates.
 
 For each atom:
 - write one behaviorally checkable statement useful for comparing two LLM responses;
@@ -347,7 +346,7 @@ def extract_atoms(
         user=atom_prompt(chunk, value_system),
         schema=ATOM_SCHEMA,
         temperature=0.1,
-        num_predict=4500,
+        num_predict=ATOM_NUM_PREDICT,
     )
     accepted = []
     rejected = []
@@ -1102,6 +1101,8 @@ def main(argv: Sequence[str] | None = None) -> int:
         "max_reference_clusters": args.max_reference_clusters,
         "cluster_batch_size": args.cluster_batch_size,
         "thinking": False,
+        "atom_count_cap": None,
+        "atom_num_predict": ATOM_NUM_PREDICT,
         "extractor_models": extractor_models,
         "cluster_model": args.cluster_model,
         "writer_model": args.writer_model,

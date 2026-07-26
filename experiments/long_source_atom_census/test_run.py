@@ -16,8 +16,8 @@ from experiments.long_source_atom_census.run import (
 
 
 class GroundingTests(unittest.TestCase):
-    def test_atom_schema_does_not_impose_the_failed_eight_item_cap(self):
-        self.assertEqual(ATOM_SCHEMA["properties"]["atoms"]["maxItems"], 20)
+    def test_atom_schema_does_not_impose_an_arbitrary_item_cap(self):
+        self.assertNotIn("maxItems", ATOM_SCHEMA["properties"]["atoms"])
 
     def test_evidence_grounding_normalizes_whitespace(self):
         source = "Virtue is\n\n  the only good."
