@@ -3,5 +3,6 @@ __pycache__/
 *.pyc
 .DS_Store
 .venv/
+experiments/**/runs/
 # Non-redistributable foundational texts (copyrighted sources kept local, never published):
 sources/**/_private/
