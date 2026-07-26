@@ -60,6 +60,12 @@ clusterer inferred a missing ID. Clustering now receives gap-free numeric
 aliases and maps them back to the original provenance IDs after validation.
 The valid v2.4 census was retained unchanged.
 
+Qwen later emitted two narrowly mechanical JSON defects in one cluster batch.
+The parser repairs only missing key quotes, a duplicated object brace, and
+trailing commas before applying the same JSON Schema. A partition audit then
+removes duplicate assignments and preserves any omitted atom as its own
+source-grounded singleton; clustering cannot silently lose census content.
+
 Evaluation:
 
 - blinded reviews from Gemma 4 31B, Command R 35B, and Qwen 3.6 dense 27B;

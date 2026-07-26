@@ -323,11 +323,28 @@ def parse_json_object(text: str) -> dict[str, Any]:
     try:
         value = json.loads(cleaned)
     except json.JSONDecodeError:
-        start = cleaned.find("{")
-        end = cleaned.rfind("}")
+        repaired = cleaned
+        repaired = re.sub(
+            r'([,{]\s*)([A-Za-z_][A-Za-z0-9_]*)"\s*:',
+            r'\1"\2":',
+            repaired,
+        )
+        repaired = re.sub(
+            r"([,{]\s*)([A-Za-z_][A-Za-z0-9_]*)\s*:",
+            r'\1"\2":',
+            repaired,
+        )
+        repaired = re.sub(
+            r'\{\s*\{(?=\s*"cluster_id"\s*:)',
+            "{",
+            repaired,
+        )
+        repaired = re.sub(r",\s*([}\]])", r"\1", repaired)
+        start = repaired.find("{")
+        end = repaired.rfind("}")
         if start == -1 or end <= start:
             raise
-        value = json.loads(cleaned[start : end + 1])
+        value = json.loads(repaired[start : end + 1])
 
     if not isinstance(value, dict):
         raise ValueError("Expected a JSON object")

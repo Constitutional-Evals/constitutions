@@ -107,6 +107,26 @@ class SerializationTests(unittest.TestCase):
     def test_parse_json_object_accepts_fence(self):
         self.assertEqual(parse_json_object('```json\n{"ok": true}\n```'), {"ok": True})
 
+    def test_parse_json_object_repairs_mechanical_key_and_brace_errors(self):
+        malformed = """{
+        "clusters": [{
+          "cluster_id": "one",
+          description": "first",
+          "candidates": ["1"],
+        }, {
+        {
+          "cluster_id": "two",
+          description: "second",
+          "candidates": ["2"]
+        }]
+        }"""
+
+        parsed = parse_json_object(malformed)
+
+        self.assertEqual(len(parsed["clusters"]), 2)
+        self.assertEqual(parsed["clusters"][0]["description"], "first")
+        self.assertEqual(parsed["clusters"][1]["description"], "second")
+
     def test_strip_provenance_keeps_standard_constitution_shape(self):
         enriched = {
             "overview": "Test",

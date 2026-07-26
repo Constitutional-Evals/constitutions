@@ -9,6 +9,7 @@ from experiments.long_source_atom_census.run import (
     alias_atoms_for_clustering,
     blind_probe_cases,
     chunk_text,
+    complete_cluster_partition,
     constitution_prompt,
     evidence_is_grounded,
     restore_cluster_candidate_ids,
@@ -87,6 +88,43 @@ class GroundingTests(unittest.TestCase):
         self.assertEqual(
             restored[0]["candidate_ids"],
             ["chunk::atom-02", "chunk::atom-09"],
+        )
+
+    def test_cluster_partition_preserves_omissions_as_singletons(self):
+        atoms = [
+            {
+                "candidate_id": "1",
+                "kind": "criterion",
+                "statement": "First",
+            },
+            {
+                "candidate_id": "2",
+                "kind": "guideline",
+                "statement": "Second",
+            },
+        ]
+
+        completed, audit = complete_cluster_partition(
+            [
+                {
+                    "label": "first",
+                    "kind": "criterion",
+                    "synthesis": "First",
+                    "candidate_ids": ["1", "1"],
+                }
+            ],
+            atoms,
+        )
+
+        self.assertTrue(audit["complete_partition"])
+        self.assertEqual(audit["duplicate_assignments_removed"], ["1"])
+        self.assertEqual(
+            audit["missing_atoms_preserved_as_singletons"],
+            ["2"],
+        )
+        self.assertEqual(
+            [item for cluster in completed for item in cluster["candidate_ids"]],
+            ["1", "2"],
         )
 
 

@@ -534,6 +534,50 @@ def restore_cluster_candidate_ids(
     ]
 
 
+def complete_cluster_partition(
+    clusters: Sequence[dict[str, Any]],
+    atoms: Sequence[dict[str, Any]],
+) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+    by_id = {atom["candidate_id"]: atom for atom in atoms}
+    seen = set()
+    duplicate_ids = []
+    completed = []
+    for cluster in clusters:
+        unique_ids = []
+        for candidate_id in cluster["candidate_ids"]:
+            if candidate_id in seen:
+                duplicate_ids.append(candidate_id)
+                continue
+            seen.add(candidate_id)
+            unique_ids.append(candidate_id)
+        if unique_ids:
+            completed.append({**cluster, "candidate_ids": unique_ids})
+
+    missing_ids = [
+        atom["candidate_id"] for atom in atoms if atom["candidate_id"] not in seen
+    ]
+    for candidate_id in missing_ids:
+        atom = by_id[candidate_id]
+        completed.append(
+            {
+                "label": f"unclustered-{candidate_id}",
+                "kind": atom["kind"],
+                "synthesis": atom["statement"],
+                "candidate_ids": [candidate_id],
+                "counter_considerations": [],
+            }
+        )
+    return completed, {
+        "input_atoms": len(atoms),
+        "output_clusters": len(completed),
+        "missing_atoms_preserved_as_singletons": missing_ids,
+        "duplicate_assignments_removed": sorted(set(duplicate_ids)),
+        "complete_partition": (
+            sum(len(cluster["candidate_ids"]) for cluster in completed) == len(atoms)
+        ),
+    }
+
+
 def token_words(text: str) -> set[str]:
     return {token for token in re.findall(r"[a-z0-9]+", text.lower()) if len(token) > 2}
 
@@ -1220,6 +1264,14 @@ def main(argv: Sequence[str] | None = None) -> int:
             args.cluster_batch_size,
             checkpoint_path=output_dir / "cluster_batches.json",
             max_clusters=args.max_reference_clusters,
+        )
+        raw_clusters, partition_audit = complete_cluster_partition(
+            raw_clusters,
+            aliased_atoms,
+        )
+        write_json(
+            output_dir / "clustering_partition_audit.json",
+            partition_audit,
         )
         raw_clusters = restore_cluster_candidate_ids(raw_clusters, original_ids)
         reference_clusters = enrich_clusters(raw_clusters, atoms)
