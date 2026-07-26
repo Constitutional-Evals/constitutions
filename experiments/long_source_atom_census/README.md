@@ -18,7 +18,9 @@ Shared census:
 1. Chunk every primary source deterministically.
 2. Extract atoms from every chunk with Qwen 3.6 35B-A3B and Gemma 4 31B.
 3. Reject evidence excerpts that do not occur in the source chunk.
-4. Hierarchically cluster atoms while retaining candidate and source IDs.
+4. Embed atoms with Qwen3-Embedding 4B and partition them into exactly 40
+   cosine average-linkage clusters. Clustering is stratified to reserve four
+   clusters each for conflicts and exceptions when enough atoms exist.
 5. Compute a fixed cluster weight from extractor agreement, source breadth,
    conflict/exception status, and support.
 
@@ -54,22 +56,14 @@ region explicitly marked by an ellipsis. It still rejects paraphrases and
 unmarked omissions. The v2.3 raw census was archived and no downstream result
 was retained.
 
-The first v2.4 clustering call also stopped before producing a reference
-cluster because rejected atoms create gaps in descriptive candidate IDs and the
-clusterer inferred a missing ID. Clustering now receives gap-free numeric
-aliases and maps them back to the original provenance IDs after validation.
-The valid v2.4 census was retained unchanged.
-
-Qwen later emitted two narrowly mechanical JSON defects in one cluster batch.
-The parser repairs only missing key quotes, a duplicated object brace, and
-trailing commas before applying the same JSON Schema. A partition audit then
-removes duplicate assignments and preserves any omitted atom as its own
-source-grounded singleton; clustering cannot silently lose census content.
-
-The first global merge reached its fixed 4,000-token generation limit and
-stopped mid-JSON. Merge output allowance now scales with the number of
-provenance IDs, capped at 16,000 tokens; the 65,536-token context and merge
-inputs are unchanged.
+The valid v2.4 Stoic census was retained, but its LLM clustering experiment was
+rejected before probes or constitution generation. Even after ID and JSON
+contract hardening, the global merger omitted 256 of 746 atoms and produced
+266 clusters after the completeness audit restored omissions as singletons.
+Version 2.5 replaces model-generated cluster assignments with deterministic
+embedding clustering. This produces a complete, non-overlapping 40-cluster
+partition by construction. Qwen3-Embedding 4B and the exact numerical package
+versions are recorded in the run config and audit.
 
 Evaluation:
 
@@ -79,6 +73,14 @@ Evaluation:
 - fixed Command R pairwise judgments with deterministic A/B swapping.
 
 ## Run One Tradition
+
+Install the pinned numerical dependencies and embedding model on Spark:
+
+```bash
+python3 -m pip install -r \
+  experiments/long_source_atom_census/requirements-spark.txt
+ollama pull qwen3-embedding:4b
+```
 
 ```bash
 python3 -m experiments.long_source_atom_census.run \
@@ -99,15 +101,15 @@ Run the complete preregistered matrix and analysis:
 
 ```bash
 python3 -m experiments.long_source_atom_census.run_matrix \
-  --output-root experiments/long_source_atom_census/runs/v2-preregistered
+  --output-root experiments/long_source_atom_census/runs/v2.5-preregistered
 ```
 
 ## Preregistered Gates
 
 The budgeted method is provisionally successful only if:
 
+- the reference census is a complete, non-overlapping 40-cluster partition;
 - selection preserves all high-confidence conflict/exception clusters;
-- selection weighted reference recall is at least 0.90;
 - median independent-review coverage is no more than 5 points below exhaustive;
 - unsupported item rate is no more than 0.05;
 - pairwise agreement with the exhaustive-seed consensus is at least 0.90;
@@ -115,8 +117,14 @@ The budgeted method is provisionally successful only if:
 - conclusions replicate in all three traditions with paired bootstrap
   confidence intervals that do not cross the non-inferiority margin.
 
-These thresholds are recorded before v2 results are generated. Failure is a
+These thresholds are recorded before v2.5 results are generated. Failure is a
 result, not a reason to retune the method on the same runs.
+
+Selected raw cluster weight remains a descriptive statistic, not a gate:
+requiring 90% of distinct-cluster weight under a 50% evidence-packet budget is
+mathematically incompatible unless weights are extremely concentrated. The
+blinded downstream coverage and pairwise tests measure whether compression
+preserves usable normative content.
 
 The analysis writes `analysis.json` and `report.md` into the output root. The
 budgeted method is supported only if every gate passes independently in every

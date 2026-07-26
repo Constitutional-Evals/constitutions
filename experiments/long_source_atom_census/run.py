@@ -5,9 +5,13 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import importlib.metadata
 import json
 import re
 import sys
+import time
+import urllib.error
+import urllib.request
 from collections import defaultdict
 from dataclasses import asdict
 from pathlib import Path
@@ -16,7 +20,6 @@ from typing import Any, Sequence
 from experiments.long_source_distillation.run import (
     Chunk,
     OllamaClient,
-    cluster_candidates,
     normalize_review_scores,
     sha256_text,
     split_long_block,
@@ -24,7 +27,7 @@ from experiments.long_source_distillation.run import (
 )
 
 
-PROTOCOL_VERSION = "long-source-atom-census-v2.4"
+PROTOCOL_VERSION = "long-source-atom-census-v2.5"
 ATOM_NUM_PREDICT = 7000
 TARGET_CRITERIA = 10
 TARGET_GUIDELINES = 4
@@ -34,7 +37,7 @@ DEFAULT_EXTRACTORS = (
     "qwen3.6:35b-a3b-q4_K_M",
     "gemma4:31b-it-q4_K_M",
 )
-DEFAULT_CLUSTER = "qwen3.6:35b-a3b-q4_K_M"
+DEFAULT_EMBEDDING = "qwen3-embedding:4b"
 DEFAULT_WRITER = "gemma4:31b-it-q4_K_M"
 DEFAULT_REVIEWERS = (
     "gemma4:31b-it-q4_K_M",
@@ -457,6 +460,199 @@ def load_or_build_census(
     return atoms, rejected
 
 
+def embedding_text(atom: dict[str, Any]) -> str:
+    distinctive = atom.get("distinctive_reason", "").strip()
+    suffix = f" Distinctive context: {distinctive}" if distinctive else ""
+    return (
+        f"Normative atom type: {atom['atom_kind']}. "
+        f"Commitment: {atom['statement']}.{suffix}"
+    )
+
+
+def load_or_build_embeddings(
+    output_dir: Path,
+    atoms: Sequence[dict[str, Any]],
+    model: str,
+    base_url: str,
+    timeout_seconds: int,
+    batch_size: int = 64,
+) -> list[list[float]]:
+    path = output_dir / "atom_embeddings.json"
+    checkpoint = (
+        json.loads(path.read_text(encoding="utf-8"))
+        if path.exists()
+        else {"model": model, "embeddings": {}}
+    )
+    if checkpoint["model"] != model:
+        raise ValueError(f"Embedding model drift in {path}")
+    saved = checkpoint["embeddings"]
+    missing = [atom for atom in atoms if atom["candidate_id"] not in saved]
+    endpoint = f"{base_url.rstrip('/')}/api/embed"
+    for start in range(0, len(missing), batch_size):
+        batch = missing[start : start + batch_size]
+        print(
+            f"[embed {min(start + len(batch), len(missing))}/{len(missing)}]",
+            flush=True,
+        )
+        payload = {
+            "model": model,
+            "input": [embedding_text(atom) for atom in batch],
+            "truncate": False,
+            "keep_alive": "30m",
+        }
+        last_error = None
+        for attempt in range(3):
+            try:
+                request = urllib.request.Request(
+                    endpoint,
+                    data=json.dumps(payload).encode("utf-8"),
+                    headers={"Content-Type": "application/json"},
+                    method="POST",
+                )
+                with urllib.request.urlopen(
+                    request,
+                    timeout=timeout_seconds,
+                ) as response:
+                    result = json.loads(response.read().decode("utf-8"))
+                vectors = result["embeddings"]
+                if len(vectors) != len(batch):
+                    raise ValueError(
+                        f"Expected {len(batch)} embeddings, received {len(vectors)}"
+                    )
+                for atom, vector in zip(batch, vectors):
+                    saved[atom["candidate_id"]] = vector
+                write_json(path, checkpoint)
+                break
+            except (
+                KeyError,
+                ValueError,
+                TimeoutError,
+                urllib.error.URLError,
+            ) as exc:
+                last_error = exc
+                if attempt == 2:
+                    raise RuntimeError(
+                        f"Embedding request failed after 3 attempts: {exc}"
+                    ) from exc
+                time.sleep(2**attempt)
+        if last_error is not None and any(
+            atom["candidate_id"] not in saved for atom in batch
+        ):
+            raise AssertionError("Embedding retry loop exited without a result")
+    return [saved[atom["candidate_id"]] for atom in atoms]
+
+
+def allocate_clusters_by_kind(
+    atoms: Sequence[dict[str, Any]],
+    total_clusters: int,
+) -> dict[str, int]:
+    counts = {
+        kind: sum(atom["atom_kind"] == kind for atom in atoms)
+        for kind in ("principle", "conflict", "exception")
+    }
+    allocation = {
+        "principle": min(counts["principle"], max(0, total_clusters - 8)),
+        "conflict": min(counts["conflict"], 4),
+        "exception": min(counts["exception"], 4),
+    }
+    remaining = total_clusters - sum(allocation.values())
+    for kind in ("principle", "conflict", "exception"):
+        available = counts[kind] - allocation[kind]
+        addition = min(remaining, max(0, available))
+        allocation[kind] += addition
+        remaining -= addition
+    if remaining:
+        raise ValueError(
+            f"Cannot allocate {total_clusters} clusters across {len(atoms)} atoms"
+        )
+    return allocation
+
+
+def cluster_atoms_by_embedding(
+    atoms: Sequence[dict[str, Any]],
+    vectors: Sequence[Sequence[float]],
+    total_clusters: int,
+) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+    try:
+        import numpy as np
+        import sklearn
+        from sklearn.cluster import AgglomerativeClustering
+    except ImportError as exc:
+        raise RuntimeError(
+            "Embedding clustering requires the packages in requirements-spark.txt"
+        ) from exc
+
+    if len(atoms) != len(vectors):
+        raise ValueError("Atom and embedding counts differ")
+    allocation = allocate_clusters_by_kind(atoms, total_clusters)
+    matrix = np.asarray(vectors, dtype=np.float32)
+    grouped_indices: list[list[int]] = []
+    for kind in ("principle", "conflict", "exception"):
+        indices = [
+            index for index, atom in enumerate(atoms) if atom["atom_kind"] == kind
+        ]
+        cluster_count = allocation[kind]
+        if not indices:
+            continue
+        if cluster_count == 1:
+            labels = [0] * len(indices)
+        else:
+            labels = AgglomerativeClustering(
+                n_clusters=cluster_count,
+                metric="cosine",
+                linkage="average",
+            ).fit_predict(matrix[indices])
+        for label in sorted(set(int(value) for value in labels)):
+            grouped_indices.append(
+                [index for index, value in zip(indices, labels) if int(value) == label]
+            )
+
+    grouped_indices.sort(key=min)
+    raw_clusters = []
+    for group in grouped_indices:
+        group_matrix = matrix[group]
+        centroid = group_matrix.mean(axis=0)
+        centroid_norm = float(np.linalg.norm(centroid)) or 1.0
+        row_norms = np.linalg.norm(group_matrix, axis=1)
+        scores = group_matrix @ centroid / np.maximum(row_norms * centroid_norm, 1e-9)
+        representative_index = group[int(np.argmax(scores))]
+        representative = atoms[representative_index]
+        kinds = {atoms[index]["kind"] for index in group}
+        raw_clusters.append(
+            {
+                "label": f"{representative['atom_kind']}-medoid",
+                "kind": next(iter(kinds)) if len(kinds) == 1 else "mixed",
+                "synthesis": representative["statement"],
+                "representative_candidate_id": representative["candidate_id"],
+                "candidate_ids": [atoms[index]["candidate_id"] for index in group],
+                "counter_considerations": [],
+            }
+        )
+    assigned = [
+        candidate_id
+        for cluster in raw_clusters
+        for candidate_id in cluster["candidate_ids"]
+    ]
+    expected = [atom["candidate_id"] for atom in atoms]
+    audit = {
+        "method": "qwen3-embedding-cosine-average-linkage-stratified",
+        "embedding_model": None,
+        "numpy_version": np.__version__,
+        "scikit_learn_version": sklearn.__version__,
+        "input_atoms": len(atoms),
+        "output_clusters": len(raw_clusters),
+        "allocation_by_atom_kind": allocation,
+        "complete_partition": (
+            len(assigned) == len(expected)
+            and len(set(assigned)) == len(expected)
+            and set(assigned) == set(expected)
+        ),
+    }
+    if not audit["complete_partition"]:
+        raise ValueError("Embedding clustering did not produce a complete partition")
+    return raw_clusters, audit
+
+
 def enrich_clusters(
     raw_clusters: Sequence[dict[str, Any]],
     atoms: Sequence[dict[str, Any]],
@@ -471,6 +667,13 @@ def enrich_clusters(
         ]
         if not members:
             continue
+        representative_id = raw.get("representative_candidate_id")
+        members.sort(
+            key=lambda member: (
+                member["candidate_id"] != representative_id,
+                member["candidate_id"],
+            )
+        )
         sources = sorted({member["source_path"] for member in members})
         models = sorted({member["extractor_model"] for member in members})
         atom_kinds = sorted({member["atom_kind"] for member in members})
@@ -487,6 +690,7 @@ def enrich_clusters(
             "label": raw["label"],
             "kind": raw["kind"],
             "synthesis": raw["synthesis"],
+            "representative_candidate_id": representative_id,
             "candidate_ids": raw["candidate_ids"],
             "source_paths": sources,
             "extractor_models": models,
@@ -505,77 +709,6 @@ def enrich_clusters(
         cluster["packet_chars"] = len(json.dumps(cluster, ensure_ascii=False))
         enriched.append(cluster)
     return enriched
-
-
-def alias_atoms_for_clustering(
-    atoms: Sequence[dict[str, Any]],
-) -> tuple[list[dict[str, Any]], dict[str, str]]:
-    aliased = []
-    original_ids = {}
-    for index, atom in enumerate(atoms, start=1):
-        alias = str(index)
-        original_ids[alias] = atom["candidate_id"]
-        aliased.append({**atom, "candidate_id": alias})
-    return aliased, original_ids
-
-
-def restore_cluster_candidate_ids(
-    clusters: Sequence[dict[str, Any]],
-    original_ids: dict[str, str],
-) -> list[dict[str, Any]]:
-    return [
-        {
-            **cluster,
-            "candidate_ids": [
-                original_ids[candidate_id] for candidate_id in cluster["candidate_ids"]
-            ],
-        }
-        for cluster in clusters
-    ]
-
-
-def complete_cluster_partition(
-    clusters: Sequence[dict[str, Any]],
-    atoms: Sequence[dict[str, Any]],
-) -> tuple[list[dict[str, Any]], dict[str, Any]]:
-    by_id = {atom["candidate_id"]: atom for atom in atoms}
-    seen = set()
-    duplicate_ids = []
-    completed = []
-    for cluster in clusters:
-        unique_ids = []
-        for candidate_id in cluster["candidate_ids"]:
-            if candidate_id in seen:
-                duplicate_ids.append(candidate_id)
-                continue
-            seen.add(candidate_id)
-            unique_ids.append(candidate_id)
-        if unique_ids:
-            completed.append({**cluster, "candidate_ids": unique_ids})
-
-    missing_ids = [
-        atom["candidate_id"] for atom in atoms if atom["candidate_id"] not in seen
-    ]
-    for candidate_id in missing_ids:
-        atom = by_id[candidate_id]
-        completed.append(
-            {
-                "label": f"unclustered-{candidate_id}",
-                "kind": atom["kind"],
-                "synthesis": atom["statement"],
-                "candidate_ids": [candidate_id],
-                "counter_considerations": [],
-            }
-        )
-    return completed, {
-        "input_atoms": len(atoms),
-        "output_clusters": len(completed),
-        "missing_atoms_preserved_as_singletons": missing_ids,
-        "duplicate_assignments_removed": sorted(set(duplicate_ids)),
-        "complete_partition": (
-            sum(len(cluster["candidate_ids"]) for cluster in completed) == len(atoms)
-        ),
-    }
 
 
 def token_words(text: str) -> set[str]:
@@ -1146,13 +1279,13 @@ def parse_args(argv: Sequence[str] | None = None) -> argparse.Namespace:
     )
     parser.add_argument("--pair-judge-model", default=DEFAULT_PAIR_JUDGE)
     parser.add_argument("--probe-model", default="gemma4:31b-it-q4_K_M")
-    parser.add_argument("--cluster-model", default=DEFAULT_CLUSTER)
+    parser.add_argument("--embedding-model", default=DEFAULT_EMBEDDING)
+    parser.add_argument("--reuse-census-root", type=Path)
     parser.add_argument("--ollama-url", default="http://127.0.0.1:11434")
     parser.add_argument("--num-ctx", type=int, default=65536)
     parser.add_argument("--chunk-chars", type=int, default=18000)
     parser.add_argument("--overlap-chars", type=int, default=0)
     parser.add_argument("--max-reference-clusters", type=int, default=40)
-    parser.add_argument("--cluster-batch-size", type=int, default=24)
     parser.add_argument("--budget-ratio", type=float, default=0.5)
     parser.add_argument("--truncated-chars", type=int, default=80000)
     parser.add_argument("--timeout-seconds", type=int, default=900)
@@ -1191,12 +1324,16 @@ def main(argv: Sequence[str] | None = None) -> int:
         "overlap_chars": args.overlap_chars,
         "num_ctx": args.num_ctx,
         "max_reference_clusters": args.max_reference_clusters,
-        "cluster_batch_size": args.cluster_batch_size,
         "thinking": False,
         "atom_count_cap": None,
         "atom_num_predict": ATOM_NUM_PREDICT,
         "extractor_models": extractor_models,
-        "cluster_model": args.cluster_model,
+        "clustering_method": ("stratified-cosine-average-linkage-agglomerative-medoid"),
+        "embedding_model": args.embedding_model,
+        "numeric_dependencies": {
+            "numpy": importlib.metadata.version("numpy"),
+            "scikit-learn": importlib.metadata.version("scikit-learn"),
+        },
         "writer_model": args.writer_model,
         "reviewer_models": reviewer_models,
         "pair_judge_model": args.pair_judge_model,
@@ -1208,6 +1345,44 @@ def main(argv: Sequence[str] | None = None) -> int:
         "target_criteria": TARGET_CRITERIA,
         "target_guidelines": TARGET_GUIDELINES,
     }
+    reuse_dir = (
+        args.reuse_census_root / args.tradition if args.reuse_census_root else None
+    )
+    if reuse_dir and (reuse_dir / "census_atoms.json").exists():
+        reuse_config = json.loads(
+            (reuse_dir / "experiment_config.json").read_text(encoding="utf-8")
+        )
+        census_fields = (
+            "value_system",
+            "primary_files",
+            "source_manifest",
+            "chunk_count",
+            "chunk_chars",
+            "overlap_chars",
+            "num_ctx",
+            "thinking",
+            "atom_count_cap",
+            "atom_num_predict",
+            "extractor_models",
+            "seeds",
+        )
+        mismatches = [
+            field
+            for field in census_fields
+            if reuse_config.get(field) != experiment_config.get(field)
+        ]
+        if mismatches:
+            raise ValueError(
+                "Reused census is incompatible in fields: " + ", ".join(mismatches)
+            )
+        census_text = (reuse_dir / "census_atoms.json").read_text(encoding="utf-8")
+        experiment_config["reused_census"] = {
+            "source_protocol_version": reuse_config["protocol_version"],
+            "sha256": sha256_text(census_text),
+        }
+    else:
+        census_text = None
+        experiment_config["reused_census"] = None
     config_path = output_dir / "experiment_config.json"
     if config_path.exists():
         existing_config = json.loads(config_path.read_text(encoding="utf-8"))
@@ -1221,6 +1396,9 @@ def main(argv: Sequence[str] | None = None) -> int:
         output_dir / "chunks.json",
         {"chunks": [asdict(chunk) for chunk in chunks]},
     )
+    census_path = output_dir / "census_atoms.json"
+    if census_text is not None and not census_path.exists():
+        census_path.write_text(census_text, encoding="utf-8")
     print(
         f"{args.tradition}: {len(chunks)} chunks from "
         f"{len(source_manifest)} primary files",
@@ -1249,31 +1427,23 @@ def main(argv: Sequence[str] | None = None) -> int:
             "clusters"
         ]
     else:
-        cluster_client = OllamaClient(
+        vectors = load_or_build_embeddings(
+            output_dir,
+            atoms,
+            args.embedding_model,
             args.ollama_url,
-            args.num_ctx,
-            seeds[0] + 5000,
             args.timeout_seconds,
-            thinking=False,
         )
-        aliased_atoms, original_ids = alias_atoms_for_clustering(atoms)
-        raw_clusters = cluster_candidates(
-            cluster_client,
-            args.cluster_model,
-            aliased_atoms,
-            args.cluster_batch_size,
-            checkpoint_path=output_dir / "cluster_batches.json",
-            max_clusters=args.max_reference_clusters,
+        raw_clusters, partition_audit = cluster_atoms_by_embedding(
+            atoms,
+            vectors,
+            args.max_reference_clusters,
         )
-        raw_clusters, partition_audit = complete_cluster_partition(
-            raw_clusters,
-            aliased_atoms,
-        )
+        partition_audit["embedding_model"] = args.embedding_model
         write_json(
             output_dir / "clustering_partition_audit.json",
             partition_audit,
         )
-        raw_clusters = restore_cluster_candidate_ids(raw_clusters, original_ids)
         reference_clusters = enrich_clusters(raw_clusters, atoms)
         write_json(
             reference_path,

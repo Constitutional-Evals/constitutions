@@ -17,6 +17,7 @@ def parse_args(argv: Sequence[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument("--output-root", type=Path, required=True)
     parser.add_argument("--repo-root", type=Path, default=Path("."))
+    parser.add_argument("--reuse-census-root", type=Path)
     parser.add_argument(
         "--traditions",
         default=",".join(DEFAULT_TRADITIONS),
@@ -28,20 +29,23 @@ def main(argv: Sequence[str] | None = None) -> int:
     args = parse_args(argv)
     traditions = [item.strip() for item in args.traditions.split(",") if item.strip()]
     for tradition in traditions:
-        subprocess.run(
-            [
-                sys.executable,
-                "-m",
-                "experiments.long_source_atom_census.run",
-                "--tradition",
-                tradition,
-                "--repo-root",
-                str(args.repo_root),
-                "--output-root",
-                str(args.output_root),
-            ],
-            check=True,
+        command = [
+            sys.executable,
+            "-m",
+            "experiments.long_source_atom_census.run",
+            "--tradition",
+            tradition,
+            "--repo-root",
+            str(args.repo_root),
+            "--output-root",
+            str(args.output_root),
+        ]
+        reuse_dir = (
+            args.reuse_census_root / tradition if args.reuse_census_root else None
         )
+        if reuse_dir and (reuse_dir / "census_atoms.json").exists():
+            command.extend(["--reuse-census-root", str(args.reuse_census_root)])
+        subprocess.run(command, check=True)
     subprocess.run(
         [
             sys.executable,

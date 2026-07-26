@@ -6,13 +6,11 @@ from experiments.long_source_atom_census.analyze import (
 )
 from experiments.long_source_atom_census.run import (
     ATOM_SCHEMA,
-    alias_atoms_for_clustering,
+    allocate_clusters_by_kind,
     blind_probe_cases,
     chunk_text,
-    complete_cluster_partition,
     constitution_prompt,
     evidence_is_grounded,
-    restore_cluster_candidate_ids,
     review_schema_for,
     select_budgeted_clusters,
 )
@@ -66,65 +64,16 @@ class GroundingTests(unittest.TestCase):
         self.assertEqual(first, second)
         self.assertTrue(all(chunk.char_count <= 1000 for chunk in first))
 
-    def test_clustering_uses_contiguous_aliases_and_restores_provenance(self):
-        atoms = [
-            {"candidate_id": "chunk::atom-02", "kind": "criterion"},
-            {"candidate_id": "chunk::atom-09", "kind": "guideline"},
-        ]
-
-        aliased, original_ids = alias_atoms_for_clustering(atoms)
-        aliases = [atom["candidate_id"] for atom in aliased]
-        restored = restore_cluster_candidate_ids(
-            [
-                {
-                    "label": "cluster",
-                    "candidate_ids": aliases,
-                }
-            ],
-            original_ids,
+    def test_cluster_allocation_reserves_conflicts_and_exceptions(self):
+        atoms = (
+            [{"atom_kind": "principle"}] * 100
+            + [{"atom_kind": "conflict"}] * 10
+            + [{"atom_kind": "exception"}] * 10
         )
 
-        self.assertEqual(aliases, ["1", "2"])
         self.assertEqual(
-            restored[0]["candidate_ids"],
-            ["chunk::atom-02", "chunk::atom-09"],
-        )
-
-    def test_cluster_partition_preserves_omissions_as_singletons(self):
-        atoms = [
-            {
-                "candidate_id": "1",
-                "kind": "criterion",
-                "statement": "First",
-            },
-            {
-                "candidate_id": "2",
-                "kind": "guideline",
-                "statement": "Second",
-            },
-        ]
-
-        completed, audit = complete_cluster_partition(
-            [
-                {
-                    "label": "first",
-                    "kind": "criterion",
-                    "synthesis": "First",
-                    "candidate_ids": ["1", "1"],
-                }
-            ],
-            atoms,
-        )
-
-        self.assertTrue(audit["complete_partition"])
-        self.assertEqual(audit["duplicate_assignments_removed"], ["1"])
-        self.assertEqual(
-            audit["missing_atoms_preserved_as_singletons"],
-            ["2"],
-        )
-        self.assertEqual(
-            [item for cluster in completed for item in cluster["candidate_ids"]],
-            ["1", "2"],
+            allocate_clusters_by_kind(atoms, 40),
+            {"principle": 32, "conflict": 4, "exception": 4},
         )
 
 

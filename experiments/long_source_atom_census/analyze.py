@@ -17,7 +17,6 @@ from experiments.long_source_distillation.run import write_json
 
 
 NONINFERIORITY_MARGIN = -5.0
-WEIGHTED_SELECTION_RECALL_GATE = 0.90
 UNSUPPORTED_RATE_GATE = 0.05
 PAIR_AGREEMENT_GATE = 0.90
 INPUT_REDUCTION_GATE = 0.40
@@ -134,6 +133,8 @@ def summarize_condition(runs: Sequence[dict[str, Any]]) -> dict[str, float]:
 
 def analyze_tradition(tradition_dir: Path) -> dict[str, Any]:
     config = read_json(tradition_dir / "experiment_config.json")
+    census_atoms = read_json(tradition_dir / "census_atoms.json")
+    clustering_audit = read_json(tradition_dir / "clustering_partition_audit.json")
     clusters = read_json(tradition_dir / "reference_clusters.json")["clusters"]
     selection = read_json(tradition_dir / "budgeted_selection.json")
     probes = read_json(tradition_dir / "probe_cases.json")["cases"]
@@ -189,10 +190,11 @@ def analyze_tradition(tradition_dir: Path) -> dict[str, Any]:
         and (len(cluster["extractor_models"]) >= 2 or len(cluster["source_paths"]) >= 2)
     }
     gates = {
-        "high_confidence_conflicts_preserved": high_conflict_ids <= selected_ids,
-        "weighted_selection_recall": (
-            selection["weighted_reference_recall"] >= WEIGHTED_SELECTION_RECALL_GATE
+        "complete_reference_partition": (
+            clustering_audit["complete_partition"]
+            and clustering_audit["output_clusters"] == config["max_reference_clusters"]
         ),
+        "high_confidence_conflicts_preserved": high_conflict_ids <= selected_ids,
         "coverage_noninferiority": (
             coverage_interval["lower_95"] >= NONINFERIORITY_MARGIN
         ),
@@ -210,11 +212,18 @@ def analyze_tradition(tradition_dir: Path) -> dict[str, Any]:
         "tradition": config["tradition"],
         "config": config,
         "census": {
+            "accepted_atoms": len(census_atoms["atoms"]),
+            "rejected_atoms": len(census_atoms["rejected_atoms"]),
+            "grounding_acceptance_rate": (
+                len(census_atoms["atoms"])
+                / (len(census_atoms["atoms"]) + len(census_atoms["rejected_atoms"]))
+            ),
             "clusters": len(clusters),
             "selected_clusters": len(selected_ids),
             "high_confidence_conflict_clusters": len(high_conflict_ids),
             "weighted_selection_recall": selection["weighted_reference_recall"],
             "conflict_exception_recall": selection["conflict_exception_recall"],
+            "clustering_audit": clustering_audit,
         },
         "condition_summaries": summaries,
         "coverage_budgeted_minus_exhaustive": {
@@ -238,7 +247,7 @@ def render_report(results: Sequence[dict[str, Any]], aggregate: dict[str, Any]) 
         "",
         "## Gate Summary",
         "",
-        "| Tradition | Selection recall | Coverage diff (95% CI) | Unsupported | "
+        "| Tradition | Selected weight | Coverage diff (95% CI) | Unsupported | "
         "Pair agreement | Input reduction | Result |",
         "|---|---:|---:|---:|---:|---:|---|",
     ]
