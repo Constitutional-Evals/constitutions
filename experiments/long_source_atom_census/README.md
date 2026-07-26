@@ -46,6 +46,14 @@ returned 12 atoms against an eight-item cap and then 28 atoms against a
 meaningful atoms. Completed partial calls were archived and the census restarted
 from empty; no downstream experimental output existed.
 
+The complete v2.3 raw census then exposed a grounding-validator artifact before
+reference clustering: Qwen commonly joined exact source spans with explicit
+ellipses, causing valid quotations to fail a contiguous-substring check.
+Version 2.4 accepts only exact spans found in source order, with each omitted
+region explicitly marked by an ellipsis. It still rejects paraphrases and
+unmarked omissions. The v2.3 raw census was archived and no downstream result
+was retained.
+
 Evaluation:
 
 - blinded reviews from Gemma 4 31B, Command R 35B, and Qwen 3.6 dense 27B;

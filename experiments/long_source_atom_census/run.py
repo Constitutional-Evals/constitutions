@@ -24,7 +24,7 @@ from experiments.long_source_distillation.run import (
 )
 
 
-PROTOCOL_VERSION = "long-source-atom-census-v2.3"
+PROTOCOL_VERSION = "long-source-atom-census-v2.4"
 ATOM_NUM_PREDICT = 7000
 TARGET_CRITERIA = 10
 TARGET_GUIDELINES = 4
@@ -211,9 +211,30 @@ def normalize_whitespace(text: str) -> str:
 
 def evidence_is_grounded(evidence: str, source_text: str) -> bool:
     normalized_evidence = normalize_whitespace(evidence)
-    return bool(normalized_evidence) and (
-        normalized_evidence in normalize_whitespace(source_text)
-    )
+    normalized_source = normalize_whitespace(source_text)
+    if not normalized_evidence:
+        return False
+    if normalized_evidence in normalized_source:
+        return True
+
+    ellipsis_pattern = r"(?:\[\s*(?:\.{3,}|\u2026)\s*\]|\.{3,}|\u2026)"
+    if not re.search(ellipsis_pattern, normalized_evidence):
+        return False
+    segments = [
+        segment.strip()
+        for segment in re.split(ellipsis_pattern, normalized_evidence)
+        if segment.strip()
+    ]
+    if not segments or any(len(segment) < 20 for segment in segments):
+        return False
+
+    position = 0
+    for segment in segments:
+        position = normalized_source.find(segment, position)
+        if position < 0:
+            return False
+        position += len(segment)
+    return True
 
 
 def chunk_primary_sources(

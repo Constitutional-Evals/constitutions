@@ -25,6 +25,35 @@ class GroundingTests(unittest.TestCase):
         self.assertTrue(evidence_is_grounded("Virtue is the only good.", source))
         self.assertFalse(evidence_is_grounded("Pleasure is good.", source))
 
+    def test_evidence_grounding_accepts_ordered_exact_spans_with_ellipsis(self):
+        source = (
+            "Of things some are in our power, and others are not. "
+            "In our power are opinion and desire. "
+            "Not in our power are the body, property, and reputation."
+        )
+
+        self.assertTrue(
+            evidence_is_grounded(
+                "Of things some are in our power, and others are not. ... "
+                "Not in our power are the body, property, and reputation.",
+                source,
+            )
+        )
+        self.assertFalse(
+            evidence_is_grounded(
+                "Not in our power are the body, property, and reputation. ... "
+                "Of things some are in our power, and others are not.",
+                source,
+            )
+        )
+        self.assertFalse(
+            evidence_is_grounded(
+                "Some things are controllable by us. ... "
+                "Not in our power are the body, property, and reputation.",
+                source,
+            )
+        )
+
     def test_chunking_is_deterministic_and_bounded(self):
         text = "\n\n".join(f"Section {index} " + "x" * 300 for index in range(10))
 
