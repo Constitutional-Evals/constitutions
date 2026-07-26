@@ -786,15 +786,16 @@ def merge_clusters(
     model: str,
     clusters: Sequence[dict[str, Any]],
     candidate_kinds: dict[str, str],
+    max_clusters: int = 18,
 ) -> list[dict[str, Any]]:
-    if len(clusters) <= 18:
+    if len(clusters) <= max_clusters:
         return list(clusters)
 
     system = (
         "You consolidate a hierarchy of source-grounded criterion clusters. "
         "Preserve candidate provenance and minority principles. Return only JSON."
     )
-    user = f"""Consolidate these preliminary clusters into at most 18 clusters.
+    user = f"""Consolidate these preliminary clusters into at most {max_clusters} clusters.
 
 Merge only genuine conceptual overlap. Keep distinct conflict rules and rare
 principles. Every ID in an output candidates array must come from an input
@@ -816,7 +817,7 @@ Preliminary clusters:
         model=model,
         system=system,
         user=user,
-        schema=cluster_schema_for(candidate_ids, 18),
+        schema=cluster_schema_for(candidate_ids, max_clusters),
         temperature=0.1,
         num_predict=4000,
     )
@@ -831,6 +832,7 @@ def cluster_candidates(
     candidates: Sequence[dict[str, Any]],
     batch_size: int,
     checkpoint_path: Path | None = None,
+    max_clusters: int = 18,
 ) -> list[dict[str, Any]]:
     checkpoint = (
         json.loads(checkpoint_path.read_text(encoding="utf-8"))
@@ -853,7 +855,13 @@ def cluster_candidates(
     candidate_kinds = {
         candidate["candidate_id"]: candidate["kind"] for candidate in candidates
     }
-    return merge_clusters(client, model, preliminary, candidate_kinds)
+    return merge_clusters(
+        client,
+        model,
+        preliminary,
+        candidate_kinds,
+        max_clusters=max_clusters,
+    )
 
 
 def write_constitution(
@@ -955,7 +963,12 @@ def build_source_map(
 
 def normalize_review_scores(review: dict[str, Any]) -> dict[str, Any]:
     normalized = dict(review)
-    for key in ("coverage_score", "grounding_score", "redundancy_score"):
+    score_keys = [
+        key
+        for key, value in normalized.items()
+        if key.endswith("_score") and isinstance(value, (int, float))
+    ]
+    for key in score_keys:
         value = float(normalized[key])
         if value <= 1:
             value *= 100

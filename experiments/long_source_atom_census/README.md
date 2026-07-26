@@ -1,0 +1,87 @@
+# Long-Source Normative-Atom Census v2
+
+This is the preregistered replacement for the non-discriminative v1 chunk
+router. It asks whether a token-budgeted set of explicit, source-grounded
+normative atoms can produce constitutions that are non-inferior to exhaustive
+atom-census generation.
+
+## Primary Experiment
+
+Traditions:
+
+- Stoicism: five primary files; Casaubon and the interpretive essay held out.
+- Christianity: WEB Sermon, Augustine, Aquinas, and Chrysostom; KJV held out.
+- Lockean rights: two Locke files, toleration, and Spencer; Bastiat held out.
+
+Shared census:
+
+1. Chunk every primary source deterministically.
+2. Extract atoms from every chunk with Qwen 3.6 35B-A3B and Gemma 4 31B.
+3. Reject evidence excerpts that do not occur in the source chunk.
+4. Hierarchically cluster atoms while retaining candidate and source IDs.
+5. Compute a fixed cluster weight from extractor agreement, source breadth,
+   conflict/exception status, and support.
+
+Chunks do not overlap in the primary analysis. This prevents evidence repeated
+at a chunk boundary from being counted as independent support.
+
+Conditions:
+
+- `exhaustive`: writer sees every reference cluster.
+- `budgeted`: writer sees a deterministic diversity/coverage selection under
+  50% of the reference packet-character budget.
+- `truncated`: writer sees the first 80,000 raw source characters.
+
+Each condition uses the same Qwen writer, exact 10-criterion/4-guideline
+cardinality, a 65,536-token runtime context, and seeds `17,29,43,71,101`.
+
+Evaluation:
+
+- blinded reviews from Gemma 4 31B, Command R 35B, and Qwen 3.6 dense 27B;
+- recovered reference-cluster IDs and unsupported item IDs;
+- 12 balanced response-pair probes generated once per tradition;
+- fixed Command R pairwise judgments with deterministic A/B swapping.
+
+## Run One Tradition
+
+```bash
+python3 -m experiments.long_source_atom_census.run \
+  --tradition stoicism \
+  --output-root experiments/long_source_atom_census/runs
+```
+
+Build only the shared census and selection:
+
+```bash
+python3 -m experiments.long_source_atom_census.run \
+  --tradition stoicism \
+  --output-root experiments/long_source_atom_census/runs \
+  --census-only
+```
+
+Run the complete preregistered matrix and analysis:
+
+```bash
+python3 -m experiments.long_source_atom_census.run_matrix \
+  --output-root experiments/long_source_atom_census/runs/v2-preregistered
+```
+
+## Preregistered Gates
+
+The budgeted method is provisionally successful only if:
+
+- selection preserves all high-confidence conflict/exception clusters;
+- selection weighted reference recall is at least 0.90;
+- median independent-review coverage is no more than 5 points below exhaustive;
+- unsupported item rate is no more than 0.05;
+- pairwise agreement with the exhaustive-seed consensus is at least 0.90;
+- strong-writer evidence input is reduced by at least 40%;
+- conclusions replicate in all three traditions with paired bootstrap
+  confidence intervals that do not cross the non-inferiority margin.
+
+These thresholds are recorded before v2 results are generated. Failure is a
+result, not a reason to retune the method on the same runs.
+
+The analysis writes `analysis.json` and `report.md` into the output root. The
+budgeted method is supported only if every gate passes independently in every
+tradition; favorable aggregate metrics do not override a failed tradition.

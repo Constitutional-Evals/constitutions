@@ -1,0 +1,43 @@
+{
+  "stoicism": {
+    "value_system": "Stoicism",
+    "source_dir": "sources/stoicism",
+    "files": [
+      "epictetus-enchiridion-long.md",
+      "epictetus-discourses-long-selection.md",
+      "marcus-aurelius-meditations-long-books1-6.md",
+      "marcus-aurelius-meditations-long-books7-12.md",
+      "seneca-moral-letters-selection.md"
+    ],
+    "held_out_sensitivity_files": [
+      "marcus-aurelius-meditations-casaubon-books2-4.md",
+      "interpretive-long-philosophy-of-antoninus.md"
+    ]
+  },
+  "christianity": {
+    "value_system": "Christianity",
+    "source_dir": "sources/christianity",
+    "files": [
+      "sermon-on-the-mount-web.md",
+      "augustine-city-of-god-selections-dods.md",
+      "aquinas-summa-II-II-selections.md",
+      "chrysostom-homilies-on-matthew-selections.md"
+    ],
+    "held_out_sensitivity_files": [
+      "sermon-on-the-mount-kjv.md"
+    ]
+  },
+  "lockean-rights": {
+    "value_system": "Lockean Rights",
+    "source_dir": "sources/lockean-rights",
+    "files": [
+      "locke-second-treatise-1-natural-law-and-property.md",
+      "locke-second-treatise-2-civil-society-and-dissolution.md",
+      "locke-letter-concerning-toleration.md",
+      "spencer-man-versus-the-state-selected.md"
+    ],
+    "held_out_sensitivity_files": [
+      "bastiat-the-law.md"
+    ]
+  }
+}

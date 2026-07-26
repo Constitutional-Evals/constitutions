@@ -140,6 +140,14 @@ class SerializationTests(unittest.TestCase):
         self.assertEqual(cluster_id_schema["enum"], ["c1", "c2"])
         self.assertEqual(criterion_id_schema["enum"], ["c1", "c2"])
 
+    def test_cluster_schema_accepts_requested_census_size(self):
+        schema = cluster_schema_for(["c1"], max_clusters=40)
+
+        self.assertEqual(
+            schema["properties"]["clusters"]["maxItems"],
+            40,
+        )
+
     def test_review_scores_normalize_fractional_and_percentage_scales(self):
         review = {
             "coverage_score": 0.75,
