@@ -24,7 +24,7 @@ from experiments.long_source_distillation.run import (
 )
 
 
-PROTOCOL_VERSION = "long-source-atom-census-v2"
+PROTOCOL_VERSION = "long-source-atom-census-v2.1"
 TARGET_CRITERIA = 10
 TARGET_GUIDELINES = 4
 DEFAULT_SEEDS = (17, 29, 43, 71, 101)
@@ -33,7 +33,8 @@ DEFAULT_EXTRACTORS = (
     "qwen3.6:35b-a3b-q4_K_M",
     "gemma4:31b-it-q4_K_M",
 )
-DEFAULT_WRITER = "qwen3.6:35b-a3b-q4_K_M"
+DEFAULT_CLUSTER = "qwen3.6:35b-a3b-q4_K_M"
+DEFAULT_WRITER = "gemma4:31b-it-q4_K_M"
 DEFAULT_REVIEWERS = (
     "gemma4:31b-it-q4_K_M",
     "command-r:35b",
@@ -1050,7 +1051,7 @@ def parse_args(argv: Sequence[str] | None = None) -> argparse.Namespace:
     )
     parser.add_argument("--pair-judge-model", default=DEFAULT_PAIR_JUDGE)
     parser.add_argument("--probe-model", default="gemma4:31b-it-q4_K_M")
-    parser.add_argument("--cluster-model", default=DEFAULT_WRITER)
+    parser.add_argument("--cluster-model", default=DEFAULT_CLUSTER)
     parser.add_argument("--ollama-url", default="http://127.0.0.1:11434")
     parser.add_argument("--num-ctx", type=int, default=65536)
     parser.add_argument("--chunk-chars", type=int, default=18000)

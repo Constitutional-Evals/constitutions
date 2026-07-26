@@ -32,8 +32,13 @@ Conditions:
   50% of the reference packet-character budget.
 - `truncated`: writer sees the first 80,000 raw source characters.
 
-Each condition uses the same Qwen writer, exact 10-criterion/4-guideline
+Each condition uses the same Gemma 4 writer, exact 10-criterion/4-guideline
 cardinality, a 65,536-token runtime context, and seeds `17,29,43,71,101`.
+
+The writer was frozen before experimental generation. A pre-run contract smoke
+test rejected Qwen 3.6 35B-A3B after three malformed constitution responses;
+Gemma 4 and dense Qwen both passed, and Gemma 4 was selected for its lower
+observed latency. No experiment result was inspected in making this correction.
 
 Evaluation:
 
