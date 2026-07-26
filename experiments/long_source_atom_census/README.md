@@ -77,13 +77,14 @@ Evaluation:
 Install the pinned numerical dependencies and embedding model on Spark:
 
 ```bash
-python3 -m pip install -r \
+python3 -m venv .venv-atom-census
+.venv-atom-census/bin/pip install -r \
   experiments/long_source_atom_census/requirements-spark.txt
 ollama pull qwen3-embedding:4b
 ```
 
 ```bash
-python3 -m experiments.long_source_atom_census.run \
+.venv-atom-census/bin/python -m experiments.long_source_atom_census.run \
   --tradition stoicism \
   --output-root experiments/long_source_atom_census/runs
 ```
@@ -91,7 +92,7 @@ python3 -m experiments.long_source_atom_census.run \
 Build only the shared census and selection:
 
 ```bash
-python3 -m experiments.long_source_atom_census.run \
+.venv-atom-census/bin/python -m experiments.long_source_atom_census.run \
   --tradition stoicism \
   --output-root experiments/long_source_atom_census/runs \
   --census-only
@@ -100,7 +101,7 @@ python3 -m experiments.long_source_atom_census.run \
 Run the complete preregistered matrix and analysis:
 
 ```bash
-python3 -m experiments.long_source_atom_census.run_matrix \
+.venv-atom-census/bin/python -m experiments.long_source_atom_census.run_matrix \
   --output-root experiments/long_source_atom_census/runs/v2.5-preregistered
 ```
 
