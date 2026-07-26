@@ -5,6 +5,7 @@ from experiments.long_source_atom_census.analyze import (
     paired_bootstrap_interval,
 )
 from experiments.long_source_atom_census.run import (
+    ATOM_SCHEMA,
     blind_probe_cases,
     chunk_text,
     constitution_prompt,
@@ -15,6 +16,9 @@ from experiments.long_source_atom_census.run import (
 
 
 class GroundingTests(unittest.TestCase):
+    def test_atom_schema_does_not_impose_the_failed_eight_item_cap(self):
+        self.assertEqual(ATOM_SCHEMA["properties"]["atoms"]["maxItems"], 20)
+
     def test_evidence_grounding_normalizes_whitespace(self):
         source = "Virtue is\n\n  the only good."
 
