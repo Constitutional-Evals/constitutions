@@ -14,9 +14,10 @@ stored anywhere in this repo** (not even in `_private/`):
 | John Rawls, *Political Liberalism* (1993) | Columbia UP | copyright-withheld, metadata only |
 | T. M. Scanlon, *What We Owe to Each Other* (1998) | Harvard UP / Belknap | copyright-withheld, metadata only |
 
-For each, `manifest.json` carries `redistributable: false`, `files: []`, a publisher URL, and a
-short (<200-word) fair-use characterization of its key ideas, so the distillation still has a
-conceptual anchor even though the text is absent:
+For each, `manifest.json` carries `redistributable: false`, `files: []`, a publisher URL, a
+short (<200-word) fair-use characterization of its key ideas, **and brief fair-use excerpts of the
+canonical passages** (see "Fair-use excerpts" below), so the distillation still has a conceptual
+anchor even though the full text is absent:
 
 - **A Theory of Justice** — the original position, the veil of ignorance, justice as fairness, the
   two principles (equal basic liberties; fair equality of opportunity + the difference principle),
@@ -28,6 +29,25 @@ conceptual anchor even though the text is absent:
 
 Two interpretive/secondary works (Freeman's *Rawls*; the *Cambridge Companion to Rawls*) are also
 listed metadata-only, as orientation pointers for the human distiller.
+
+### Fair-use excerpts (so the distillation anchors on their own words)
+
+Brief direct quotations of the load-bearing passages — the ones reproduced verbatim in every
+textbook — are recorded for each of the three works so the distillation is not limited to the
+predecessors' phrasing:
+
+- **Published (this repo):** the excerpts live in each work's `notes` field in `manifest.json`.
+  This is the repo's sanctioned mechanism for copyrighted sources ("store only the URL + license +
+  a short fair-use excerpt publicly"). The sources stay `redistributable: false` with `files: []`,
+  so nothing copyrighted is committed as a repo file and CI stays green.
+- **Local (for distillation):** a fuller assembly, `_private/rawls-scanlon-fair-use-excerpts.md`
+  (gitignored, **not** published), holds the same excerpts formatted as a working document, to be
+  loaded into the distillation working bundle alongside a legally-obtained copy of the full texts.
+
+The excerpts follow the standard editions; **verify exact wording and pagination against a
+legally-obtained copy** (the two principles, for instance, are worded differently in the 1971 and
+1999 editions of *A Theory of Justice*). These are brief quotations under fair use, not CC-BY repo
+content.
 
 ## The solution: public-domain intellectual antecedents
 
@@ -63,10 +83,11 @@ Bundle total ≈ 301k characters (~75k tokens), under the 120k-token cap; each d
 
 Working files (raw downloads, extraction script) are in `_private/` (gitignored).
 
-## Open question for the human reviewer
+## Approach: antecedents + fair-use excerpts
 
-Is the PD-antecedent strategy the right weighting, or should the bundle instead lean on short
-fair-use *excerpts* of the actual Rawls/Scanlon text (a few paragraphs each, clearly within fair
-use) so the distillation anchors on Rawls's own words rather than only on his predecessors? The
-current bundle takes the conservative path: zero copyrighted text, antecedents + fair-use
-characterizations only.
+The bundle combines both strategies. The **committed** text is entirely public domain (the Rousseau
+/ Hume / Smith antecedents), so nothing copyrighted is published as a repo file. On top of that,
+**brief fair-use excerpts** of the actual Rawls and Scanlon passages are recorded (in `manifest.json`
+and, more fully, in gitignored `_private/`) so the distillation anchors on their own words as well
+as on their predecessors'. This keeps the public repo clean while giving the distillation direct
+access to the source texts' key formulations.
