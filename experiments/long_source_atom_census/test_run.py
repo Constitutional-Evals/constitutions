@@ -11,6 +11,7 @@ from experiments.long_source_atom_census.run import (
     chunk_text,
     constitution_prompt,
     evidence_is_grounded,
+    model_facing_cluster_packet,
     review_schema_for,
     select_budgeted_clusters,
 )
@@ -78,6 +79,26 @@ class GroundingTests(unittest.TestCase):
 
 
 class SelectionTests(unittest.TestCase):
+    def test_model_packet_excludes_internal_candidate_ids(self):
+        cluster = make_cluster(
+            "reference-001",
+            ["a.md"],
+            ["principle"],
+            weight=2.0,
+        )
+        cluster["evidence"] = [
+            {
+                "candidate_id": "internal-id",
+                "source_path": "a.md",
+                "evidence": "Exact excerpt",
+            }
+        ]
+
+        packet = model_facing_cluster_packet(cluster)
+
+        self.assertNotIn("candidate_ids", packet)
+        self.assertNotIn("candidate_id", packet["evidence"][0])
+
     def test_budgeted_selection_preserves_sources_and_conflicts(self):
         clusters = [
             make_cluster(

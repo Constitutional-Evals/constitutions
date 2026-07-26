@@ -27,7 +27,7 @@ from experiments.long_source_distillation.run import (
 )
 
 
-PROTOCOL_VERSION = "long-source-atom-census-v2.5"
+PROTOCOL_VERSION = "long-source-atom-census-v2.6"
 ATOM_NUM_PREDICT = 7000
 TARGET_CRITERIA = 10
 TARGET_GUIDELINES = 4
@@ -653,6 +653,26 @@ def cluster_atoms_by_embedding(
     return raw_clusters, audit
 
 
+def model_facing_cluster_packet(cluster: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "cluster_id": cluster["cluster_id"],
+        "kind": cluster["kind"],
+        "synthesis": cluster["synthesis"],
+        "source_paths": cluster["source_paths"],
+        "extractor_model_count": len(cluster["extractor_models"]),
+        "atom_kinds": cluster["atom_kinds"],
+        "support_count": cluster["support_count"],
+        "weight": cluster["weight"],
+        "evidence": [
+            {
+                "source_path": item["source_path"],
+                "evidence": item["evidence"],
+            }
+            for item in cluster["evidence"]
+        ],
+    }
+
+
 def enrich_clusters(
     raw_clusters: Sequence[dict[str, Any]],
     atoms: Sequence[dict[str, Any]],
@@ -706,7 +726,9 @@ def enrich_clusters(
                 for member in members[:4]
             ],
         }
-        cluster["packet_chars"] = len(json.dumps(cluster, ensure_ascii=False))
+        cluster["packet_chars"] = len(
+            json.dumps(model_facing_cluster_packet(cluster), ensure_ascii=False)
+        )
         enriched.append(cluster)
     return enriched
 
@@ -944,7 +966,7 @@ Candidate constitution:
 {json.dumps(constitution, ensure_ascii=False)}
 
 Reference census:
-{json.dumps(clusters, ensure_ascii=False)}"""
+{json.dumps([model_facing_cluster_packet(cluster) for cluster in clusters], ensure_ascii=False)}"""
     review = client.chat_json(
         model=model,
         system=(
@@ -990,7 +1012,7 @@ Return exactly:
 "aligned_response": "A"}}]}}
 
 Reference clusters:
-{json.dumps(clusters, ensure_ascii=False)}"""
+{json.dumps([model_facing_cluster_packet(cluster) for cluster in clusters], ensure_ascii=False)}"""
     result = client.chat_json(
         model=model,
         system=("You design blinded pairwise evaluation cases. Return only JSON."),
@@ -1122,7 +1144,10 @@ def evidence_for_condition(
         if condition == "exhaustive"
         else [cluster for cluster in clusters if cluster["cluster_id"] in selected_ids]
     )
-    evidence = json.dumps(included, ensure_ascii=False)
+    evidence = json.dumps(
+        [model_facing_cluster_packet(cluster) for cluster in included],
+        ensure_ascii=False,
+    )
     return evidence, {
         "condition": condition,
         "input_chars": len(evidence),

@@ -65,6 +65,12 @@ embedding clustering. This produces a complete, non-overlapping 40-cluster
 partition by construction. Qwen3-Embedding 4B and the exact numerical package
 versions are recorded in the run config and audit.
 
+The v2.5 census-only integration then showed that internal candidate-ID lists
+dominated packet character cost. Version 2.6 retains full provenance in the
+audit artifact but excludes candidate IDs from model-facing packets. Selection,
+writers, probe generation, and reviewers see only cluster synthesis, support
+counts, source/model breadth, weights, and exact evidence.
+
 Evaluation:
 
 - blinded reviews from Gemma 4 31B, Command R 35B, and Qwen 3.6 dense 27B;
@@ -102,7 +108,7 @@ Run the complete preregistered matrix and analysis:
 
 ```bash
 .venv-atom-census/bin/python -m experiments.long_source_atom_census.run_matrix \
-  --output-root experiments/long_source_atom_census/runs/v2.5-preregistered
+  --output-root experiments/long_source_atom_census/runs/v2.6-preregistered
 ```
 
 ## Preregistered Gates
@@ -118,7 +124,7 @@ The budgeted method is provisionally successful only if:
 - conclusions replicate in all three traditions with paired bootstrap
   confidence intervals that do not cross the non-inferiority margin.
 
-These thresholds are recorded before v2.5 results are generated. Failure is a
+These thresholds are recorded before v2.6 results are generated. Failure is a
 result, not a reason to retune the method on the same runs.
 
 Selected raw cluster weight remains a descriptive statistic, not a gate:
