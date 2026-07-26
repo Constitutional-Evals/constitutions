@@ -512,10 +512,8 @@ def alias_atoms_for_clustering(
 ) -> tuple[list[dict[str, Any]], dict[str, str]]:
     aliased = []
     original_ids = {}
-    for atom in atoms:
-        alias = f"census-{sha256_text(atom['candidate_id'])[:16]}"
-        if alias in original_ids:
-            raise ValueError(f"Clustering alias collision: {alias}")
+    for index, atom in enumerate(atoms, start=1):
+        alias = str(index)
         original_ids[alias] = atom["candidate_id"]
         aliased.append({**atom, "candidate_id": alias})
     return aliased, original_ids

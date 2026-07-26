@@ -83,10 +83,7 @@ class GroundingTests(unittest.TestCase):
             original_ids,
         )
 
-        self.assertEqual(len(set(aliases)), 2)
-        self.assertTrue(
-            all(atom["candidate_id"].startswith("census-") for atom in aliased)
-        )
+        self.assertEqual(aliases, ["1", "2"])
         self.assertEqual(
             restored[0]["candidate_ids"],
             ["chunk::atom-02", "chunk::atom-09"],

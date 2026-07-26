@@ -56,7 +56,7 @@ was retained.
 
 The first v2.4 clustering call also stopped before producing a reference
 cluster because rejected atoms create gaps in descriptive candidate IDs and the
-clusterer inferred a missing ID. Clustering now receives deterministic opaque
+clusterer inferred a missing ID. Clustering now receives gap-free numeric
 aliases and maps them back to the original provenance IDs after validation.
 The valid v2.4 census was retained unchanged.
 
