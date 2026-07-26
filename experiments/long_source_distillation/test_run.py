@@ -6,6 +6,7 @@ from experiments.long_source_distillation.run import (
     Chunk,
     chunk_document,
     cluster_schema_for,
+    merge_num_predict_for_candidates,
     constitution_schema_for,
     limit_chunks_stratified,
     normalize_review_scores,
@@ -167,6 +168,11 @@ class SerializationTests(unittest.TestCase):
             schema["properties"]["clusters"]["maxItems"],
             40,
         )
+
+    def test_merge_output_budget_scales_with_provenance_count(self):
+        self.assertEqual(merge_num_predict_for_candidates(0), 4000)
+        self.assertEqual(merge_num_predict_for_candidates(746), 12952)
+        self.assertEqual(merge_num_predict_for_candidates(2000), 16000)
 
     def test_review_scores_normalize_fractional_and_percentage_scales(self):
         review = {

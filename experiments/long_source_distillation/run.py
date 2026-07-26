@@ -761,6 +761,10 @@ def normalize_clusters(
     return clusters
 
 
+def merge_num_predict_for_candidates(candidate_count: int) -> int:
+    return min(16000, max(4000, 4000 + candidate_count * 12))
+
+
 def cluster_batch(
     client: OllamaClient,
     model: str,
@@ -836,7 +840,7 @@ Preliminary clusters:
         user=user,
         schema=cluster_schema_for(candidate_ids, max_clusters),
         temperature=0.1,
-        num_predict=4000,
+        num_predict=merge_num_predict_for_candidates(len(candidate_ids)),
     )
     merged = normalize_clusters(result["clusters"], candidate_kinds)
     ensure_known_candidate_ids(merged, set(candidate_ids), "Cluster merger")

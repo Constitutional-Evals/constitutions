@@ -66,6 +66,11 @@ trailing commas before applying the same JSON Schema. A partition audit then
 removes duplicate assignments and preserves any omitted atom as its own
 source-grounded singleton; clustering cannot silently lose census content.
 
+The first global merge reached its fixed 4,000-token generation limit and
+stopped mid-JSON. Merge output allowance now scales with the number of
+provenance IDs, capped at 16,000 tokens; the 65,536-token context and merge
+inputs are unchanged.
+
 Evaluation:
 
 - blinded reviews from Gemma 4 31B, Command R 35B, and Qwen 3.6 dense 27B;
