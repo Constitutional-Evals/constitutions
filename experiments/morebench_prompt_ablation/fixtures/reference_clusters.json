@@ -1,0 +1,23 @@
+[
+  {
+    "cluster_id": "reference-001",
+    "label": "fixture",
+    "kind": "criterion",
+    "synthesis": "Prefer source-grounded practical judgment.",
+    "representative_candidate_id": "fixture-atom-001",
+    "candidate_ids": ["fixture-atom-001"],
+    "source_paths": ["fixture.md"],
+    "extractor_models": ["fixture-extractor-a", "fixture-extractor-b"],
+    "atom_kinds": ["principle"],
+    "support_count": 1,
+    "weight": 1.75,
+    "evidence": [
+      {
+        "candidate_id": "fixture-atom-001",
+        "source_path": "fixture.md",
+        "evidence": "Use practical judgment."
+      }
+    ],
+    "packet_chars": 256
+  }
+]
