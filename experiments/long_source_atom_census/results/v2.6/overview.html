@@ -401,6 +401,65 @@
       border-top: 1px solid var(--ink);
     }
 
+    .best-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
+      gap: 42px;
+      align-items: start;
+    }
+
+    .recommendation {
+      padding: 28px;
+      border: 1px solid var(--accent);
+      border-radius: 6px;
+      background: var(--accent-soft);
+    }
+
+    .recommendation-label {
+      display: inline-block;
+      margin-bottom: 18px;
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 850;
+      text-transform: uppercase;
+    }
+
+    .recommendation h3 {
+      font-size: 24px;
+    }
+
+    .recommendation p {
+      margin-bottom: 0;
+      color: #315c65;
+    }
+
+    .recall-table td:not(:first-child),
+    .recall-table th:not(:first-child) {
+      font-variant-numeric: tabular-nums;
+      text-align: right;
+    }
+
+    .workflow-note {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(260px, 0.42fr);
+      gap: 30px;
+      align-items: center;
+      margin-top: 30px;
+      padding: 24px 0;
+      border-top: 1px solid var(--ink);
+      border-bottom: 1px solid var(--ink);
+    }
+
+    .workflow-note strong {
+      font-size: 19px;
+    }
+
+    .workflow-note p {
+      margin-bottom: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
     table {
       width: 100%;
       border-collapse: collapse;
@@ -667,7 +726,8 @@
     @media (max-width: 900px) {
       .section-head,
       .results-grid,
-      .next-actions {
+      .next-actions,
+      .best-grid {
         grid-template-columns: 1fr;
         gap: 24px;
       }
@@ -756,7 +816,8 @@
       .conditions,
       .finding-columns,
       .claim-grid,
-      .appendix-grid {
+      .appendix-grid,
+      .workflow-note {
         grid-template-columns: 1fr;
       }
 
@@ -1113,11 +1174,174 @@
       </div>
     </section>
 
+    <section class="band" id="best">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">03 / Decision</div>
+            <h2>Best so far: keep the complete cluster census</h2>
+          </div>
+          <p>
+            The quality ordering was consistent: all 40 clusters performed
+            best, the 21-cluster packet was second, and the raw prefix had the
+            weakest recovered coverage. The experiment did not establish that
+            early passage selection is safe.
+          </p>
+        </div>
+
+        <div class="best-grid">
+          <div>
+            <div class="result-table-wrap" style="margin-top: 0">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Approach</th>
+                    <th>Measured quality</th>
+                    <th class="numeric">Writer input</th>
+                    <th class="mobile-secondary">Upstream cost</th>
+                    <th>Use now?</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>All 40 clusters</td>
+                    <td>Best in every tradition</td>
+                    <td class="numeric">35.8-40.2K chars</td>
+                    <td class="mobile-secondary">Full census</td>
+                    <td><strong>Default</strong></td>
+                  </tr>
+                  <tr>
+                    <td>21 selected clusters</td>
+                    <td>Second-best; measurable loss</td>
+                    <td class="numeric">17.7-20.0K chars</td>
+                    <td class="mobile-secondary">Same full census</td>
+                    <td>Only if constrained</td>
+                  </tr>
+                  <tr>
+                    <td>Raw prefix</td>
+                    <td>Weakest recovered coverage</td>
+                    <td class="numeric">Approximately 80K chars</td>
+                    <td class="mobile-secondary">Low</td>
+                    <td>Baseline only</td>
+                  </tr>
+                  <tr>
+                    <td>Pre-score passages</td>
+                    <td>Unknown</td>
+                    <td class="numeric">Unknown</td>
+                    <td class="mobile-secondary">Potentially lower</td>
+                    <td>Untested</td>
+                  </tr>
+                  <tr>
+                    <td>MoReBench prompting</td>
+                    <td>Unknown</td>
+                    <td class="numeric">Not applicable</td>
+                    <td class="mobile-secondary">Low test cost</td>
+                    <td>Separate ablation</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <aside class="recommendation">
+            <span class="recommendation-label">Current recommendation</span>
+            <h3>Do not select at this scale</h3>
+            <p>
+              The complete packets were only 36-40K characters and already fit
+              comfortably inside the 65,536-token writer context. Reducing them
+              to 21 clusters created avoidable information loss.
+            </p>
+          </aside>
+        </div>
+
+        <div class="result-table-wrap">
+          <div class="chart-title">Recovered weighted cluster recall</div>
+          <div class="chart-note">
+            The concrete reviewer-majority cluster mapping ranked the approaches
+            in the same order for every tradition.
+          </div>
+          <table class="recall-table">
+            <thead>
+              <tr>
+                <th>Tradition</th>
+                <th>All 40</th>
+                <th>Selected 21</th>
+                <th>Raw prefix</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Stoicism</td>
+                <td>0.434</td>
+                <td>0.404</td>
+                <td>0.371</td>
+              </tr>
+              <tr>
+                <td>Christianity</td>
+                <td>0.437</td>
+                <td>0.427</td>
+                <td>0.275</td>
+              </tr>
+              <tr>
+                <td>Lockean rights</td>
+                <td>0.462</td>
+                <td>0.419</td>
+                <td>0.325</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="workflow-note">
+          <strong>
+            Context management is not the same as discarding source material.
+          </strong>
+          <p>
+            For larger books, compress late: let cheap local models read every
+            chunk, then batch and merge the resulting clusters.
+          </p>
+        </div>
+
+        <div class="pipeline" aria-label="Recommended long-source workflow">
+          <div class="stage">
+            <span class="stage-number">01</span>
+            <strong>Read every chunk</strong>
+            <span>Avoid early blind spots</span>
+          </div>
+          <div class="stage">
+            <span class="stage-number">02</span>
+            <strong>Extract local atoms</strong>
+            <span>Use inexpensive local models</span>
+          </div>
+          <div class="stage">
+            <span class="stage-number">03</span>
+            <strong>Cluster and dedupe</strong>
+            <span>Retain provenance and exceptions</span>
+          </div>
+          <div class="stage">
+            <span class="stage-number">04</span>
+            <strong>Write in batches</strong>
+            <span>Every cluster reaches a writer pass</span>
+          </div>
+          <div class="stage">
+            <span class="stage-number">05</span>
+            <strong>Iteratively reduce</strong>
+            <span>Merge overlap until stable</span>
+          </div>
+          <div class="stage">
+            <span class="stage-number">06</span>
+            <strong>Target human review</strong>
+            <span>Adjudicate weights and conflicts only</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section class="band" id="findings">
       <div class="container">
         <div class="section-head">
           <div>
-            <div class="eyebrow">03 / Findings</div>
+            <div class="eyebrow">04 / Findings</div>
             <h2>What was useful</h2>
           </div>
           <p>
@@ -1217,7 +1441,7 @@
       <div class="container">
         <div class="section-head">
           <div>
-            <div class="eyebrow">04 / Audit</div>
+            <div class="eyebrow">05 / Audit</div>
             <h2>Why the evaluation is not final</h2>
           </div>
           <p>
@@ -1269,7 +1493,7 @@
       <div class="container">
         <div class="section-head">
           <div>
-            <div class="eyebrow">05 / Interpretation</div>
+            <div class="eyebrow">06 / Interpretation</div>
             <h2>Claims we can and cannot make</h2>
           </div>
           <p>
@@ -1323,7 +1547,7 @@
       <div class="container">
         <div class="section-head">
           <div>
-            <div class="eyebrow">06 / Next</div>
+            <div class="eyebrow">07 / Next</div>
             <h2>Do the cheap question first</h2>
           </div>
           <p>
@@ -1348,56 +1572,119 @@
             <span class="action-order">Only if source selection remains a priority</span>
             <h3>Long-source v3</h3>
             <p>
-              Rebuild the selection study around truly held-out sources,
-              expert-validated hard cases, calibrated item-to-cluster coverage,
-              token-matched baselines, multiple pair judges, and cross-theory
-              discrimination.
+              First test whether sequential all-cluster processing removes the
+              need for selection. Then compare adaptive selection, audited
+              passage routing, and token-matched baselines on truly held-out
+              sources and expert-validated hard cases.
             </p>
           </article>
         </div>
 
-        <h3>v3 source-selection protocol</h3>
-        <div class="v3-grid" aria-label="v3 protocol">
+        <h3>Approaches v3 must compare</h3>
+        <div class="v3-grid" aria-label="v3 candidate approaches">
           <div class="v3-step">
-            <span class="step">01 / Split</span>
-            <h3>Prevent leakage</h3>
+            <span class="step">01 / Sequential</span>
+            <h3>All clusters in batches</h3>
             <p>
-              Freeze disjoint development, writer-primary, evaluation-source,
-              evaluation-case, and final-tradition partitions.
+              Let every cluster reach a writer pass, then iteratively merge.
+              This tests whether context limits can be solved without selection.
             </p>
           </div>
           <div class="v3-step">
-            <span class="step">02 / Match</span>
-            <h3>Compare fair budgets</h3>
+            <span class="step">02 / Adaptive</span>
+            <h3>Stop on stability</h3>
             <p>
-              Use tokenizer-measured oracle, hierarchical, raw-prefix,
-              stratified-raw, and summary conditions.
+              Select until a frozen coverage and marginal-gain rule is met,
+              rather than imposing an arbitrary 50% cutoff.
             </p>
           </div>
           <div class="v3-step">
-            <span class="step">03 / Calibrate</span>
-            <h3>Replace scalar coverage</h3>
+            <span class="step">03 / Ablation</span>
+            <h3>Retain fixed 50%</h3>
             <p>
-              Use expert-calibrated item-to-cluster labels with reliability and
-              adjudication reported.
+              Keep the failed v2.6 policy as a diagnostic condition, not the
+              presumed solution.
             </p>
           </div>
           <div class="v3-step">
-            <span class="step">04 / Challenge</span>
-            <h3>Use hard held-out cases</h3>
+            <span class="step">04 / Baselines</span>
+            <h3>Match tokenizer budgets</h3>
             <p>
-              At least 50 cases per tradition, multiple blinded judges, balanced
-              positions, and expert targets.
+              Compare raw-prefix, chapter-stratified raw text, and hierarchical
+              summaries at exactly the same writer-token budget.
             </p>
           </div>
           <div class="v3-step">
-            <span class="step">05 / Discriminate</span>
-            <h3>Test neighboring theories</h3>
+            <span class="step">05 / Router</span>
+            <h3>Audit passage pre-scoring</h3>
             <p>
-              Report cross-theory margins and confusion matrices on conflicts
-              where traditions predict different choices.
+              Extract high-scoring chunks plus a random sample of low-scoring
+              chunks, then estimate which normative atoms the router misses.
             </p>
           </div>
+        </div>
+
+        <div class="workflow-note">
+          <strong>Human effort moves to the narrowest high-value decisions.</strong>
+          <p>
+            Experts calibrate cluster importance, validate hard cases, and
+            adjudicate conflicts. They do not manually distill entire books.
+          </p>
+        </div>
+
+        <h3>How v3 can produce a final decision</h3>
+        <div class="v3-grid" aria-label="v3 final evaluation sequence">
+          <div class="v3-step">
+            <span class="step">01 / Develop</span>
+            <h3>Use v2.6 openly</h3>
+            <p>
+              Tune ratios, prompts, stopping rules, and case difficulty only on
+              data that are no longer treated as final.
+            </p>
+          </div>
+          <div class="v3-step">
+            <span class="step">02 / Power</span>
+            <h3>Measure enough units</h3>
+            <p>
+              Use development variance to set seed, case, judge, and tradition
+              counts before the final run.
+            </p>
+          </div>
+          <div class="v3-step">
+            <span class="step">03 / Freeze</span>
+            <h3>Lock the protocol</h3>
+            <p>
+              Freeze source splits, tokenizer budgets, expert weights, models,
+              prompts, margins, and exclusions.
+            </p>
+          </div>
+          <div class="v3-step">
+            <span class="step">04 / Test</span>
+            <h3>Run unseen traditions once</h3>
+            <p>
+              Use truly held-out sources, at least 50 hard cases per tradition,
+              multiple judges, and neighboring-theory contrasts.
+            </p>
+          </div>
+          <div class="v3-step">
+            <span class="step">05 / Decide</span>
+            <h3>Adopt the passing policy</h3>
+            <p>
+              Conclude sequential processing, adaptive selection, audited
+              routing, or targeted human review based on frozen gates.
+            </p>
+          </div>
+        </div>
+
+        <div class="workflow-note">
+          <strong>
+            “Final” means an actionable answer under a stated compute and token
+            budget, not a universal winner.
+          </strong>
+          <p>
+            A failure remains informative: if no automatic method passes, retain
+            every cluster and require human review only at the cluster level.
+          </p>
         </div>
       </div>
     </section>
@@ -1406,7 +1693,7 @@
       <div class="container">
         <div class="section-head">
           <div>
-            <div class="eyebrow">07 / Appendix</div>
+            <div class="eyebrow">08 / Appendix</div>
             <h2>Run details</h2>
           </div>
           <p>
