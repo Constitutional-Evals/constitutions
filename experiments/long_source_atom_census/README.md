@@ -141,7 +141,9 @@ tradition; favorable aggregate metrics do not override a failed tradition.
 
 The completed three-tradition run did not pass the preregistered gates. The
 unaltered generated report and complete analysis are tracked in
-[`results/v2.6`](results/v2.6). See
+[`results/v2.6`](results/v2.6). Open the
+[`HTML experiment overview`](results/v2.6/overview.html) for a visual readout.
+See
 [`POSTMORTEM_AND_V3.md`](POSTMORTEM_AND_V3.md) for the negative-result
 assessment, measurement limitations found after collection, and the proposed
 leakage-free v3 protocol. The postmortem does not change or reinterpret the

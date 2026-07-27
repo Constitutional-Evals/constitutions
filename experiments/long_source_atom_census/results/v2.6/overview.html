@@ -1,0 +1,1479 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Long-Source Constitution Distillation v2.6</title>
+  <style>
+    :root {
+      --ink: #171717;
+      --muted: #66645f;
+      --paper: #ffffff;
+      --wash: #f5f5f2;
+      --line: #d9d8d2;
+      --failure: #b42318;
+      --failure-soft: #fff1ef;
+      --success: #16735f;
+      --success-soft: #eaf7f3;
+      --warning: #9a5b13;
+      --warning-soft: #fff6e8;
+      --accent: #126e82;
+      --accent-soft: #e9f6f8;
+      --max: 1180px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--paper);
+      font-family:
+        Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+        "Segoe UI", sans-serif;
+      font-size: 16px;
+      line-height: 1.55;
+      letter-spacing: 0;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+    }
+
+    h1,
+    h2,
+    h3,
+    p {
+      margin-top: 0;
+    }
+
+    h1 {
+      max-width: 900px;
+      margin-bottom: 20px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(42px, 7vw, 82px);
+      font-weight: 500;
+      line-height: 1.02;
+      letter-spacing: 0;
+    }
+
+    h2 {
+      margin-bottom: 12px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 34px;
+      font-weight: 500;
+      line-height: 1.15;
+      letter-spacing: 0;
+    }
+
+    h3 {
+      margin-bottom: 8px;
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 1.35;
+      letter-spacing: 0;
+    }
+
+    .container {
+      width: min(calc(100% - 40px), var(--max));
+      margin: 0 auto;
+    }
+
+    .masthead {
+      border-bottom: 1px solid var(--line);
+      background: var(--paper);
+    }
+
+    .masthead-inner {
+      display: flex;
+      min-height: 56px;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .project {
+      font-size: 13px;
+      font-weight: 750;
+      text-transform: uppercase;
+    }
+
+    .masthead-meta {
+      color: var(--muted);
+      font-size: 13px;
+      text-align: right;
+    }
+
+    .hero {
+      min-height: min(760px, calc(100vh - 56px));
+      display: flex;
+      align-items: center;
+      padding: 72px 0 54px;
+      background:
+        linear-gradient(var(--line), var(--line)) left bottom / 100% 1px no-repeat,
+        var(--wash);
+    }
+
+    .eyebrow {
+      margin-bottom: 22px;
+      color: var(--failure);
+      font-size: 13px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+
+    .lede {
+      max-width: 780px;
+      margin-bottom: 38px;
+      color: #44433f;
+      font-size: 21px;
+      line-height: 1.45;
+    }
+
+    .scope-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      border-top: 1px solid var(--ink);
+      border-bottom: 1px solid var(--ink);
+    }
+
+    .scope-cell {
+      min-height: 150px;
+      padding: 24px 28px 26px 0;
+    }
+
+    .scope-cell + .scope-cell {
+      padding-left: 28px;
+      border-left: 1px solid var(--ink);
+    }
+
+    .scope-label {
+      margin-bottom: 9px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+
+    .scope-value {
+      max-width: 470px;
+      margin: 0;
+      font-size: 22px;
+      font-weight: 680;
+      line-height: 1.3;
+    }
+
+    .band {
+      padding: 76px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .band-tint {
+      background: var(--wash);
+    }
+
+    .section-head {
+      display: grid;
+      grid-template-columns: minmax(240px, 0.75fr) minmax(340px, 1.25fr);
+      gap: 60px;
+      margin-bottom: 42px;
+      align-items: start;
+    }
+
+    .section-head p {
+      max-width: 680px;
+      margin-bottom: 0;
+      color: var(--muted);
+      font-size: 18px;
+    }
+
+    .metric-strip {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      border-top: 1px solid var(--ink);
+      border-bottom: 1px solid var(--ink);
+    }
+
+    .metric {
+      min-height: 178px;
+      padding: 24px 26px 26px 0;
+    }
+
+    .metric + .metric {
+      padding-left: 26px;
+      border-left: 1px solid var(--ink);
+    }
+
+    .metric-value {
+      display: block;
+      margin-bottom: 8px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 52px;
+      line-height: 1;
+    }
+
+    .metric-label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: 750;
+    }
+
+    .metric-detail {
+      display: block;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .pipeline {
+      display: grid;
+      grid-template-columns: repeat(6, minmax(0, 1fr));
+      margin-top: 50px;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .stage {
+      position: relative;
+      min-height: 172px;
+      padding: 20px 18px;
+    }
+
+    .stage + .stage {
+      border-left: 1px solid var(--line);
+    }
+
+    .stage-number {
+      display: block;
+      margin-bottom: 18px;
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .stage strong {
+      display: block;
+      margin-bottom: 8px;
+      font-size: 15px;
+      line-height: 1.3;
+    }
+
+    .stage span:last-child {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.4;
+    }
+
+    .conditions {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+      margin-top: 28px;
+    }
+
+    .condition {
+      padding: 22px 22px 24px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--paper);
+    }
+
+    .condition-code {
+      display: inline-block;
+      margin-bottom: 16px;
+      color: var(--accent);
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 12px;
+      font-weight: 750;
+    }
+
+    .condition p {
+      margin-bottom: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .results-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.25fr) minmax(300px, 0.75fr);
+      gap: 58px;
+      align-items: start;
+    }
+
+    .chart-title {
+      margin-bottom: 4px;
+      font-weight: 750;
+    }
+
+    .chart-note {
+      margin-bottom: 28px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .bar-chart {
+      border-top: 1px solid var(--line);
+    }
+
+    .bar-row {
+      display: grid;
+      grid-template-columns: 134px minmax(150px, 1fr) 70px;
+      gap: 16px;
+      align-items: center;
+      min-height: 82px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .bar-label {
+      font-weight: 700;
+    }
+
+    .bar-track {
+      position: relative;
+      height: 18px;
+      background: #e8e7e2;
+    }
+
+    .bar-zero {
+      position: absolute;
+      top: -8px;
+      bottom: -8px;
+      left: 100%;
+      width: 1px;
+      background: var(--ink);
+    }
+
+    .bar-negative {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+      background: var(--failure);
+    }
+
+    .bar-value {
+      color: var(--failure);
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-weight: 750;
+      text-align: right;
+    }
+
+    .verdict {
+      padding: 28px;
+      border: 1px solid var(--failure);
+      border-radius: 6px;
+      background: var(--failure-soft);
+    }
+
+    .verdict-status {
+      display: inline-block;
+      margin-bottom: 16px;
+      padding: 4px 8px;
+      border: 1px solid var(--failure);
+      border-radius: 4px;
+      color: var(--failure);
+      font-size: 12px;
+      font-weight: 850;
+      text-transform: uppercase;
+    }
+
+    .verdict h3 {
+      font-size: 22px;
+    }
+
+    .verdict p {
+      margin-bottom: 0;
+      color: #65312d;
+    }
+
+    .result-table-wrap {
+      margin-top: 42px;
+      overflow-x: auto;
+      border-top: 1px solid var(--ink);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+    }
+
+    th,
+    td {
+      padding: 14px 12px;
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+
+    td.numeric,
+    th.numeric {
+      font-variant-numeric: tabular-nums;
+      text-align: right;
+      white-space: nowrap;
+    }
+
+    .fail {
+      color: var(--failure);
+      font-weight: 800;
+    }
+
+    .finding-columns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+    }
+
+    .finding-group {
+      border-top: 3px solid var(--success);
+      padding-top: 22px;
+    }
+
+    .finding-group.negative {
+      border-color: var(--failure);
+    }
+
+    .finding-list {
+      margin: 26px 0 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .finding-list li {
+      padding: 17px 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .finding-list strong {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .finding-list span {
+      display: block;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .audit-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      border-top: 1px solid var(--ink);
+      border-bottom: 1px solid var(--ink);
+    }
+
+    .audit-item {
+      min-height: 250px;
+      padding: 24px 22px;
+    }
+
+    .audit-item + .audit-item {
+      border-left: 1px solid var(--line);
+    }
+
+    .audit-tag {
+      display: inline-block;
+      margin-bottom: 28px;
+      padding: 4px 7px;
+      border: 1px solid var(--warning);
+      border-radius: 4px;
+      color: var(--warning);
+      font-size: 11px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+
+    .audit-item p {
+      margin-bottom: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .claim-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      overflow: hidden;
+    }
+
+    .claim {
+      padding: 30px;
+      background: var(--success-soft);
+    }
+
+    .claim + .claim {
+      border-left: 1px solid var(--line);
+      background: var(--failure-soft);
+    }
+
+    .claim ul {
+      margin: 20px 0 0;
+      padding-left: 20px;
+    }
+
+    .claim li + li {
+      margin-top: 12px;
+    }
+
+    .next-actions {
+      display: grid;
+      grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+      gap: 22px;
+      margin-bottom: 48px;
+    }
+
+    .action {
+      min-height: 245px;
+      padding: 28px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--paper);
+    }
+
+    .action.priority {
+      border-color: var(--accent);
+      background: var(--accent-soft);
+    }
+
+    .action-order {
+      display: block;
+      margin-bottom: 30px;
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 850;
+      text-transform: uppercase;
+    }
+
+    .action h3 {
+      font-size: 22px;
+    }
+
+    .action p {
+      margin-bottom: 0;
+      color: var(--muted);
+    }
+
+    .v3-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      border-top: 1px solid var(--ink);
+      border-bottom: 1px solid var(--ink);
+    }
+
+    .v3-step {
+      min-height: 240px;
+      padding: 22px 18px;
+    }
+
+    .v3-step + .v3-step {
+      border-left: 1px solid var(--line);
+    }
+
+    .v3-step .step {
+      display: block;
+      margin-bottom: 22px;
+      color: var(--accent);
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .v3-step p {
+      margin-bottom: 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .appendix {
+      font-size: 14px;
+    }
+
+    .appendix-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 40px;
+    }
+
+    .appendix h3 {
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .appendix dl {
+      margin: 0;
+    }
+
+    .appendix dt {
+      margin-top: 14px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+
+    .appendix dd {
+      margin: 3px 0 0;
+    }
+
+    .footer {
+      padding: 38px 0 50px;
+      background: var(--ink);
+      color: var(--paper);
+    }
+
+    .footer-inner {
+      display: flex;
+      justify-content: space-between;
+      gap: 32px;
+      align-items: flex-start;
+    }
+
+    .footer p {
+      max-width: 610px;
+      margin-bottom: 0;
+      color: #c9c8c2;
+      font-size: 13px;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      font-size: 13px;
+    }
+
+    .footer a {
+      color: var(--paper);
+    }
+
+    @media (max-width: 900px) {
+      .section-head,
+      .results-grid,
+      .next-actions {
+        grid-template-columns: 1fr;
+        gap: 24px;
+      }
+
+      .pipeline {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+      .stage:nth-child(4) {
+        border-left: 0;
+      }
+
+      .stage:nth-child(n + 4) {
+        border-top: 1px solid var(--line);
+      }
+
+      .audit-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .audit-item:nth-child(3) {
+        border-left: 0;
+      }
+
+      .audit-item:nth-child(n + 3) {
+        border-top: 1px solid var(--line);
+      }
+
+      .v3-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .v3-step:nth-child(odd) {
+        border-left: 0;
+      }
+
+      .v3-step:nth-child(n + 3) {
+        border-top: 1px solid var(--line);
+      }
+
+      .v3-step:last-child {
+        grid-column: 1 / -1;
+      }
+    }
+
+    @media (max-width: 680px) {
+      .container {
+        width: min(calc(100% - 28px), var(--max));
+      }
+
+      .masthead-inner,
+      .footer-inner {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 8px;
+        padding: 14px 0;
+      }
+
+      .masthead-meta {
+        text-align: left;
+      }
+
+      .hero {
+        min-height: auto;
+        padding: 56px 0 40px;
+      }
+
+      h1 {
+        font-size: 43px;
+      }
+
+      h2 {
+        font-size: 30px;
+      }
+
+      .lede {
+        font-size: 18px;
+      }
+
+      .band {
+        padding: 56px 0;
+      }
+
+      .scope-grid,
+      .metric-strip,
+      .conditions,
+      .finding-columns,
+      .claim-grid,
+      .appendix-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .scope-cell,
+      .scope-cell + .scope-cell,
+      .metric,
+      .metric + .metric {
+        min-height: auto;
+        padding: 22px 0;
+        border-left: 0;
+      }
+
+      .scope-cell + .scope-cell,
+      .metric + .metric {
+        border-top: 1px solid var(--ink);
+      }
+
+      .pipeline,
+      .audit-grid,
+      .v3-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .stage,
+      .audit-item,
+      .v3-step {
+        min-height: auto;
+      }
+
+      .stage + .stage,
+      .audit-item + .audit-item,
+      .v3-step + .v3-step {
+        border-top: 1px solid var(--line);
+        border-left: 0;
+      }
+
+      .v3-step:last-child {
+        grid-column: auto;
+      }
+
+      .bar-row {
+        grid-template-columns: 104px minmax(110px, 1fr) 58px;
+        gap: 10px;
+      }
+
+      .mobile-secondary {
+        display: none;
+      }
+
+      th,
+      td {
+        padding-right: 8px;
+        padding-left: 8px;
+      }
+
+      .claim + .claim {
+        border-top: 1px solid var(--line);
+        border-left: 0;
+      }
+
+      .footer-links {
+        justify-content: flex-start;
+      }
+    }
+
+    @media print {
+      @page {
+        size: A4;
+        margin: 14mm;
+      }
+
+      body {
+        font-size: 10pt;
+      }
+
+      .container {
+        width: 100%;
+      }
+
+      .hero {
+        min-height: auto;
+        padding: 28px 0;
+      }
+
+      h1 {
+        font-size: 40pt;
+      }
+
+      .band {
+        padding: 32px 0;
+      }
+
+      .condition,
+      .verdict,
+      .action,
+      .claim-grid {
+        break-inside: avoid;
+      }
+
+      .mobile-secondary {
+        display: table-cell !important;
+      }
+
+      .footer {
+        color: var(--ink);
+        background: var(--paper);
+        border-top: 1px solid var(--ink);
+      }
+
+      .footer p {
+        color: var(--muted);
+      }
+
+      .footer a {
+        color: var(--accent);
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="masthead">
+    <div class="container masthead-inner">
+      <div class="project">Constitutional Evals / Experiment Readout</div>
+      <div class="masthead-meta">Long-source atom census v2.6 / July 2026</div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <div class="eyebrow">Preregistered result: not supported</div>
+        <h1>What we actually tested, and what the 10-hour run taught us</h1>
+        <p class="lede">
+          This experiment tested whether a complete normative census could be
+          compressed before constitution writing without losing important
+          content. It did not test whether MoReBench-inspired prompting improves
+          constitution generation or review.
+        </p>
+
+        <div class="scope-grid" aria-label="Experiment scope">
+          <div class="scope-cell">
+            <div class="scope-label">Tested</div>
+            <p class="scope-value">
+              Post-census selection: 40 reference clusters versus a
+              21-cluster, approximately 50% evidence packet.
+            </p>
+          </div>
+          <div class="scope-cell">
+            <div class="scope-label">Not tested</div>
+            <p class="scope-value">
+              Conventional prompts versus MoReBench-informed
+              generator/reviewer prompts.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="band" id="design">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">01 / Design</div>
+            <h2>The causal question</h2>
+          </div>
+          <p>
+            Holding writer, schema, seeds, and evaluation machinery constant,
+            does a selected cluster packet preserve the normative coverage and
+            pairwise judgments produced from the complete cluster packet?
+          </p>
+        </div>
+
+        <div class="metric-strip" aria-label="Experiment scale">
+          <div class="metric">
+            <span class="metric-value">3</span>
+            <span class="metric-label">Traditions</span>
+            <span class="metric-detail">Stoicism, Christianity, Lockean rights</span>
+          </div>
+          <div class="metric">
+            <span class="metric-value">45</span>
+            <span class="metric-label">Constitutions</span>
+            <span class="metric-detail">3 conditions x 5 seeds x 3 traditions</span>
+          </div>
+          <div class="metric">
+            <span class="metric-value">180</span>
+            <span class="metric-label">Evaluations</span>
+            <span class="metric-detail">135 blinded reviews + 45 pair rankings</span>
+          </div>
+        </div>
+
+        <div class="pipeline" aria-label="Experiment pipeline">
+          <div class="stage">
+            <span class="stage-number">01</span>
+            <strong>Long sources</strong>
+            <span>27-29 chunks per tradition</span>
+          </div>
+          <div class="stage">
+            <span class="stage-number">02</span>
+            <strong>Dual extraction</strong>
+            <span>Every chunk read by two models</span>
+          </div>
+          <div class="stage">
+            <span class="stage-number">03</span>
+            <strong>Atom census</strong>
+            <span>328-746 grounded normative atoms</span>
+          </div>
+          <div class="stage">
+            <span class="stage-number">04</span>
+            <strong>Clustering</strong>
+            <span>Exactly 40 non-overlapping clusters</span>
+          </div>
+          <div class="stage">
+            <span class="stage-number">05</span>
+            <strong>Writing</strong>
+            <span>10 criteria + 4 guidelines each</span>
+          </div>
+          <div class="stage">
+            <span class="stage-number">06</span>
+            <strong>Evaluation</strong>
+            <span>3 reviewers + 12 response pairs</span>
+          </div>
+        </div>
+
+        <div class="conditions" aria-label="Experimental conditions">
+          <article class="condition">
+            <span class="condition-code">exhaustive</span>
+            <h3>All 40 clusters</h3>
+            <p>
+              The strongest available reference representation. This was
+              already a distilled packet, not the complete raw books.
+            </p>
+          </article>
+          <article class="condition">
+            <span class="condition-code">budgeted</span>
+            <h3>21 selected clusters</h3>
+            <p>
+              Approximately half the model-facing evidence, while preserving
+              source coverage and all high-confidence conflicts.
+            </p>
+          </article>
+          <article class="condition">
+            <span class="condition-code">truncated</span>
+            <h3>First 80,000 characters</h3>
+            <p>
+              A simple raw-prefix baseline intended to test whether the
+              hierarchical machinery earned its complexity.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="band band-tint" id="results">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">02 / Result</div>
+            <h2>The 50% packet failed</h2>
+          </div>
+          <p>
+            The budgeted method reduced evidence input as intended and remained
+            grounded, but it did not meet the preregistered coverage
+            noninferiority margin in any tradition.
+          </p>
+        </div>
+
+        <div class="results-grid">
+          <div>
+            <div class="chart-title">Budgeted minus exhaustive coverage</div>
+            <div class="chart-note">
+              Percentage-point difference. The preregistered lower-bound margin
+              was -5; all confidence intervals crossed or fell below it.
+            </div>
+
+            <div class="bar-chart" role="img" aria-label="Coverage loss by tradition">
+              <div class="bar-row">
+                <div class="bar-label">Stoicism</div>
+                <div class="bar-track">
+                  <div class="bar-negative" style="width: 40%"></div>
+                  <div class="bar-zero"></div>
+                </div>
+                <div class="bar-value">-8.0</div>
+              </div>
+              <div class="bar-row">
+                <div class="bar-label">Christianity</div>
+                <div class="bar-track">
+                  <div class="bar-negative" style="width: 80%"></div>
+                  <div class="bar-zero"></div>
+                </div>
+                <div class="bar-value">-16.0</div>
+              </div>
+              <div class="bar-row">
+                <div class="bar-label">Lockean rights</div>
+                <div class="bar-track">
+                  <div class="bar-negative" style="width: 40%"></div>
+                  <div class="bar-zero"></div>
+                </div>
+                <div class="bar-value">-8.0</div>
+              </div>
+            </div>
+          </div>
+
+          <aside class="verdict">
+            <div class="verdict-status">Fail</div>
+            <h3>No scientific support for the tested selector</h3>
+            <p>
+              Aggregate coverage difference was -10.67 points with a 95%
+              bootstrap interval of -16.00 to -5.47. Favorable grounding or
+              input reduction cannot override failed independent gates.
+            </p>
+          </aside>
+        </div>
+
+        <div class="result-table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Tradition</th>
+                <th class="numeric">Coverage difference</th>
+                <th class="numeric mobile-secondary">95% interval</th>
+                <th class="numeric">Pair agreement</th>
+                <th class="numeric mobile-secondary">Input reduction</th>
+                <th>Result</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Stoicism</td>
+                <td class="numeric">-8.0</td>
+                <td class="numeric mobile-secondary">[-16.0, 0.0]</td>
+                <td class="numeric">1.00</td>
+                <td class="numeric mobile-secondary">50.5%</td>
+                <td class="fail">FAIL</td>
+              </tr>
+              <tr>
+                <td>Christianity</td>
+                <td class="numeric">-16.0</td>
+                <td class="numeric mobile-secondary">[-20.0, -8.0]</td>
+                <td class="numeric">0.75</td>
+                <td class="numeric mobile-secondary">50.7%</td>
+                <td class="fail">FAIL</td>
+              </tr>
+              <tr>
+                <td>Lockean rights</td>
+                <td class="numeric">-8.0</td>
+                <td class="numeric mobile-secondary">[-16.4, 0.4]</td>
+                <td class="numeric">1.00</td>
+                <td class="numeric mobile-secondary">50.3%</td>
+                <td class="fail">FAIL</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section class="band" id="findings">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">03 / Findings</div>
+            <h2>What was useful</h2>
+          </div>
+          <p>
+            The selector failed, but the run established several engineering
+            facts and exposed measurement problems before they reached a
+            publication claim.
+          </p>
+        </div>
+
+        <div class="finding-columns">
+          <section class="finding-group">
+            <h3>Positive findings</h3>
+            <ul class="finding-list">
+              <li>
+                <strong>Exhaustive chunk traversal worked</strong>
+                <span>
+                  Every source chunk was processed by both extractors, avoiding
+                  premature passage filtering.
+                </span>
+              </li>
+              <li>
+                <strong>Grounding was strong</strong>
+                <span>
+                  Exact-evidence acceptance was 91.1%, 79.4%, and 86.7%; no
+                  condition had reviewer-consensus unsupported items.
+                </span>
+              </li>
+              <li>
+                <strong>Deterministic clustering was complete</strong>
+                <span>
+                  Each tradition produced a complete, non-overlapping
+                  40-cluster partition.
+                </span>
+              </li>
+              <li>
+                <strong>Compression was real</strong>
+                <span>
+                  The writer saw approximately half the exhaustive evidence,
+                  while every high-confidence conflict or exception survived.
+                </span>
+              </li>
+              <li>
+                <strong>Reproducible artifacts exist</strong>
+                <span>
+                  All 45 candidates, 135 reviews, 45 rankings, configs, source
+                  hashes, and preregistered gates completed without optional stopping.
+                </span>
+              </li>
+            </ul>
+          </section>
+
+          <section class="finding-group negative">
+            <h3>Negative findings</h3>
+            <ul class="finding-list">
+              <li>
+                <strong>Half the packet was too aggressive</strong>
+                <span>
+                  Coverage noninferiority failed in every tradition, with the
+                  largest loss in Christianity.
+                </span>
+              </li>
+              <li>
+                <strong>Behavioral preservation did not replicate</strong>
+                <span>
+                  Christianity reached only 0.75 agreement with exhaustive
+                  consensus, below the 0.90 gate.
+                </span>
+              </li>
+              <li>
+                <strong>Simple truncation remained competitive on probes</strong>
+                <span>
+                  It matched or exceeded budgeted probe accuracy in all three
+                  traditions, weakening the case for added complexity.
+                </span>
+              </li>
+              <li>
+                <strong>Five seeds yielded coarse uncertainty</strong>
+                <span>
+                  Twenty-point reviewer steps dominated paired differences and
+                  produced low-resolution intervals.
+                </span>
+              </li>
+              <li>
+                <strong>This does not answer the MoReBench question</strong>
+                <span>
+                  MoReBench-inspired review ideas were held constant; no
+                  conventional-versus-MoReBench ablation was run.
+                </span>
+              </li>
+            </ul>
+          </section>
+        </div>
+      </div>
+    </section>
+
+    <section class="band band-tint" id="audit">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">04 / Audit</div>
+            <h2>Why the evaluation is not final</h2>
+          </div>
+          <p>
+            These issues were identified after collection. They do not rescue
+            the failed selector; they limit how much the behavioral and scalar
+            review results can support.
+          </p>
+        </div>
+
+        <div class="audit-grid">
+          <article class="audit-item">
+            <div class="audit-tag">Leakage</div>
+            <h3>Held-out files were unused</h3>
+            <p>
+              Probes came from the same 40 reference clusters supplied to
+              writers. Accuracy measures internal consistency, not unseen-source
+              generalization.
+            </p>
+          </article>
+          <article class="audit-item">
+            <div class="audit-tag">Calibration</div>
+            <h3>Reviewers used incompatible scales</h3>
+            <p>
+              Coverage rank correlations were weak and sometimes negative.
+              Median aggregation often made Qwen's coarse 45/65/85 scale decisive.
+            </p>
+          </article>
+          <article class="audit-item">
+            <div class="audit-tag">Ceiling</div>
+            <h3>Most probes were too easy</h3>
+            <p>
+              Every condition reached median accuracy 1.0 for Stoicism and
+              Lockean rights, so these cases could not separate methods.
+            </p>
+          </article>
+          <article class="audit-item">
+            <div class="audit-tag">Contract</div>
+            <h3>Label balance was not enforced</h3>
+            <p>
+              Christianity produced 2 A versus 10 B targets and Stoicism 9
+              versus 3, despite a prompt requesting balance.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="band" id="claims">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">05 / Interpretation</div>
+            <h2>Claims we can and cannot make</h2>
+          </div>
+          <p>
+            The useful output is a precise boundary around the evidence, not a
+            favorable narrative assembled after the fact.
+          </p>
+        </div>
+
+        <div class="claim-grid">
+          <section class="claim">
+            <h3>Supported</h3>
+            <ul>
+              <li>
+                Exhaustive atom extraction and deterministic clustering are
+                technically feasible on the Spark.
+              </li>
+              <li>
+                A 50% cluster packet can preserve grounding and explicit
+                conflict clusters.
+              </li>
+              <li>
+                The tested selector did not preserve preregistered coverage.
+              </li>
+              <li>
+                The evaluation design exposed concrete issues worth fixing.
+              </li>
+            </ul>
+          </section>
+          <section class="claim">
+            <h3>Not supported</h3>
+            <ul>
+              <li>
+                The 50% selector is noninferior to the complete packet.
+              </li>
+              <li>
+                Generated probes demonstrate unseen-source generalization.
+              </li>
+              <li>
+                The constitutions are discriminative across moral traditions.
+              </li>
+              <li>
+                MoReBench-style generation or review improves EigenBench.
+              </li>
+            </ul>
+          </section>
+        </div>
+      </div>
+    </section>
+
+    <section class="band band-tint" id="next">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">06 / Next</div>
+            <h2>Do the cheap question first</h2>
+          </div>
+          <p>
+            Before another long-source run, isolate the question that originally
+            motivated the work: whether MoReBench-informed construction and
+            review prompts improve constitutions.
+          </p>
+        </div>
+
+        <div class="next-actions">
+          <article class="action priority">
+            <span class="action-order">Next experiment</span>
+            <h3>MoReBench prompt ablation</h3>
+            <p>
+              Hold sources, model, seeds, schema, and cases constant. Compare
+              conventional generation/review against a MoReBench-informed
+              generator and full diagnostic reviewer. This directly tests the
+              intended contribution at a fraction of the cost.
+            </p>
+          </article>
+          <article class="action">
+            <span class="action-order">Only if source selection remains a priority</span>
+            <h3>Long-source v3</h3>
+            <p>
+              Rebuild the selection study around truly held-out sources,
+              expert-validated hard cases, calibrated item-to-cluster coverage,
+              token-matched baselines, multiple pair judges, and cross-theory
+              discrimination.
+            </p>
+          </article>
+        </div>
+
+        <h3>v3 source-selection protocol</h3>
+        <div class="v3-grid" aria-label="v3 protocol">
+          <div class="v3-step">
+            <span class="step">01 / Split</span>
+            <h3>Prevent leakage</h3>
+            <p>
+              Freeze disjoint development, writer-primary, evaluation-source,
+              evaluation-case, and final-tradition partitions.
+            </p>
+          </div>
+          <div class="v3-step">
+            <span class="step">02 / Match</span>
+            <h3>Compare fair budgets</h3>
+            <p>
+              Use tokenizer-measured oracle, hierarchical, raw-prefix,
+              stratified-raw, and summary conditions.
+            </p>
+          </div>
+          <div class="v3-step">
+            <span class="step">03 / Calibrate</span>
+            <h3>Replace scalar coverage</h3>
+            <p>
+              Use expert-calibrated item-to-cluster labels with reliability and
+              adjudication reported.
+            </p>
+          </div>
+          <div class="v3-step">
+            <span class="step">04 / Challenge</span>
+            <h3>Use hard held-out cases</h3>
+            <p>
+              At least 50 cases per tradition, multiple blinded judges, balanced
+              positions, and expert targets.
+            </p>
+          </div>
+          <div class="v3-step">
+            <span class="step">05 / Discriminate</span>
+            <h3>Test neighboring theories</h3>
+            <p>
+              Report cross-theory margins and confusion matrices on conflicts
+              where traditions predict different choices.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="band appendix" id="appendix">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">07 / Appendix</div>
+            <h2>Run details</h2>
+          </div>
+          <p>
+            The complete machine-readable analysis and post-collection audit
+            remain available beside this overview.
+          </p>
+        </div>
+
+        <div class="appendix-grid">
+          <section>
+            <h3>Generation</h3>
+            <dl>
+              <dt>Writer</dt>
+              <dd>Gemma 4 31B</dd>
+              <dt>Seeds</dt>
+              <dd>17, 29, 43, 71, 101</dd>
+              <dt>Output contract</dt>
+              <dd>10 criteria + 4 guidelines</dd>
+              <dt>Context</dt>
+              <dd>65,536 tokens</dd>
+            </dl>
+          </section>
+          <section>
+            <h3>Representation</h3>
+            <dl>
+              <dt>Extractors</dt>
+              <dd>Qwen 3.6 35B A3B + Gemma 4 31B</dd>
+              <dt>Embedding</dt>
+              <dd>Qwen3-Embedding 4B</dd>
+              <dt>Clustering</dt>
+              <dd>Cosine average-linkage, stratified</dd>
+              <dt>Budget</dt>
+              <dd>50% model-facing packet characters</dd>
+            </dl>
+          </section>
+          <section>
+            <h3>Evaluation</h3>
+            <dl>
+              <dt>Reviewers</dt>
+              <dd>Gemma 4, Command R, Qwen 3.6</dd>
+              <dt>Pair judge</dt>
+              <dd>Command R 35B</dd>
+              <dt>Cases</dt>
+              <dd>12 generated pairs per tradition</dd>
+              <dt>Primary gate</dt>
+              <dd>Coverage noninferiority, lower 95% bound >= -5</dd>
+            </dl>
+          </section>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <p>
+        Negative results are retained without threshold changes. Post-collection
+        audits are labeled as such and do not alter the preregistered decision.
+      </p>
+      <nav class="footer-links" aria-label="Result artifacts">
+        <a href="report.md">Result report</a>
+        <a href="analysis.json">Analysis JSON</a>
+        <a href="post_collection_audit.md">Reviewer audit</a>
+        <a href="../../POSTMORTEM_AND_V3.md">v3 protocol</a>
+        <a href="https://arxiv.org/pdf/2510.16380">MoReBench paper</a>
+      </nav>
+    </div>
+  </footer>
+</body>
+</html>
