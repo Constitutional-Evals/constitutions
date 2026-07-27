@@ -1,0 +1,206 @@
+{
+  "status": "post_collection_descriptive_audit",
+  "traditions": [
+    {
+      "tradition": "christianity",
+      "candidate_count": 15,
+      "review_count": 45,
+      "ranking_count": 15,
+      "reviewers": {
+        "gemma4:31b-it-q4_K_M": {
+          "candidate_count": 15,
+          "coverage_score_distribution": {
+            "45": 3,
+            "58": 1,
+            "65": 11
+          },
+          "median_coverage_score": 65
+        },
+        "command-r:35b": {
+          "candidate_count": 15,
+          "coverage_score_distribution": {
+            "0": 2,
+            "12": 3,
+            "84": 1,
+            "86": 1,
+            "88": 1,
+            "95": 2,
+            "96": 5
+          },
+          "median_coverage_score": 88
+        },
+        "qwen3.6:27b-q4_K_M": {
+          "candidate_count": 15,
+          "coverage_score_distribution": {
+            "45": 1,
+            "65": 7,
+            "85": 7
+          },
+          "median_coverage_score": 65
+        }
+      },
+      "reviewer_pairs": [
+        {
+          "left_model": "gemma4:31b-it-q4_K_M",
+          "right_model": "command-r:35b",
+          "coverage_spearman": -0.17942102156218995,
+          "mean_recovered_cluster_jaccard": 0.5329665436902279
+        },
+        {
+          "left_model": "gemma4:31b-it-q4_K_M",
+          "right_model": "qwen3.6:27b-q4_K_M",
+          "coverage_spearman": -0.329914439536929,
+          "mean_recovered_cluster_jaccard": 0.8795382395382395
+        },
+        {
+          "left_model": "command-r:35b",
+          "right_model": "qwen3.6:27b-q4_K_M",
+          "coverage_spearman": 0.707402293098039,
+          "mean_recovered_cluster_jaccard": 0.562276008591798
+        }
+      ],
+      "probe_count": 12,
+      "probe_label_counts": {
+        "A": 2,
+        "B": 10
+      },
+      "condition_probe_medians": {
+        "exhaustive": 1.0,
+        "budgeted": 0.75,
+        "truncated": 0.8333333333333334
+      }
+    },
+    {
+      "tradition": "lockean-rights",
+      "candidate_count": 15,
+      "review_count": 45,
+      "ranking_count": 15,
+      "reviewers": {
+        "gemma4:31b-it-q4_K_M": {
+          "candidate_count": 15,
+          "coverage_score_distribution": {
+            "65": 11,
+            "75": 4
+          },
+          "median_coverage_score": 65
+        },
+        "command-r:35b": {
+          "candidate_count": 15,
+          "coverage_score_distribution": {
+            "56": 1,
+            "58": 1,
+            "83": 3,
+            "95": 5,
+            "96": 2,
+            "97": 3
+          },
+          "median_coverage_score": 95
+        },
+        "qwen3.6:27b-q4_K_M": {
+          "candidate_count": 15,
+          "coverage_score_distribution": {
+            "65": 4,
+            "85": 11
+          },
+          "median_coverage_score": 85
+        }
+      },
+      "reviewer_pairs": [
+        {
+          "left_model": "gemma4:31b-it-q4_K_M",
+          "right_model": "command-r:35b",
+          "coverage_spearman": -0.28666654722229684,
+          "mean_recovered_cluster_jaccard": 0.6875173029584795
+        },
+        {
+          "left_model": "gemma4:31b-it-q4_K_M",
+          "right_model": "qwen3.6:27b-q4_K_M",
+          "coverage_spearman": 0.36363636363636365,
+          "mean_recovered_cluster_jaccard": 0.905429292929293
+        },
+        {
+          "left_model": "command-r:35b",
+          "right_model": "qwen3.6:27b-q4_K_M",
+          "coverage_spearman": -0.035833318402787105,
+          "mean_recovered_cluster_jaccard": 0.7167589001412531
+        }
+      ],
+      "probe_count": 12,
+      "probe_label_counts": {
+        "A": 5,
+        "B": 7
+      },
+      "condition_probe_medians": {
+        "exhaustive": 1.0,
+        "budgeted": 1.0,
+        "truncated": 1.0
+      }
+    },
+    {
+      "tradition": "stoicism",
+      "candidate_count": 15,
+      "review_count": 45,
+      "ranking_count": 15,
+      "reviewers": {
+        "gemma4:31b-it-q4_K_M": {
+          "candidate_count": 15,
+          "coverage_score_distribution": {
+            "65": 14,
+            "75": 1
+          },
+          "median_coverage_score": 65
+        },
+        "command-r:35b": {
+          "candidate_count": 15,
+          "coverage_score_distribution": {
+            "12": 2,
+            "56": 1,
+            "95": 3,
+            "96": 2,
+            "97": 7
+          },
+          "median_coverage_score": 96
+        },
+        "qwen3.6:27b-q4_K_M": {
+          "candidate_count": 15,
+          "coverage_score_distribution": {
+            "45": 1,
+            "65": 6,
+            "85": 8
+          },
+          "median_coverage_score": 85
+        }
+      },
+      "reviewer_pairs": [
+        {
+          "left_model": "gemma4:31b-it-q4_K_M",
+          "right_model": "command-r:35b",
+          "coverage_spearman": 0.26238676764419283,
+          "mean_recovered_cluster_jaccard": 0.5059899307414668
+        },
+        {
+          "left_model": "gemma4:31b-it-q4_K_M",
+          "right_model": "qwen3.6:27b-q4_K_M",
+          "coverage_spearman": 0.24397501823713333,
+          "mean_recovered_cluster_jaccard": 0.7989391654097536
+        },
+        {
+          "left_model": "command-r:35b",
+          "right_model": "qwen3.6:27b-q4_K_M",
+          "coverage_spearman": 0.26886642896893254,
+          "mean_recovered_cluster_jaccard": 0.47557032173581965
+        }
+      ],
+      "probe_count": 12,
+      "probe_label_counts": {
+        "A": 9,
+        "B": 3
+      },
+      "condition_probe_medians": {
+        "exhaustive": 1.0,
+        "budgeted": 1.0,
+        "truncated": 1.0
+      }
+    }
+  ]
+}

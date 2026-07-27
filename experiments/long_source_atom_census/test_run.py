@@ -1,5 +1,6 @@
 import unittest
 
+from experiments.long_source_atom_census.audit import average_ranks, spearman
 from experiments.long_source_atom_census.analyze import (
     majority_ids,
     paired_bootstrap_interval,
@@ -233,6 +234,12 @@ class AnalysisTests(unittest.TestCase):
 
         self.assertEqual(first, second)
         self.assertEqual(first["estimate"], 2.0)
+
+    def test_average_ranks_handles_ties(self):
+        self.assertEqual(average_ranks([10, 20, 20, 40]), [0.0, 1.5, 1.5, 3.0])
+
+    def test_spearman_reports_opposite_order(self):
+        self.assertAlmostEqual(spearman([1, 2, 3], [3, 2, 1]), -1.0)
 
 
 def make_cluster(

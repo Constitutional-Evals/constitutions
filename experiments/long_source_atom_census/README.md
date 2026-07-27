@@ -136,3 +136,20 @@ preserves usable normative content.
 The analysis writes `analysis.json` and `report.md` into the output root. The
 budgeted method is supported only if every gate passes independently in every
 tradition; favorable aggregate metrics do not override a failed tradition.
+
+## v2.6 Result
+
+The completed three-tradition run did not pass the preregistered gates. The
+unaltered generated report and complete analysis are tracked in
+[`results/v2.6`](results/v2.6). See
+[`POSTMORTEM_AND_V3.md`](POSTMORTEM_AND_V3.md) for the negative-result
+assessment, measurement limitations found after collection, and the proposed
+leakage-free v3 protocol. The postmortem does not change or reinterpret the
+v2.6 gates.
+
+Reproduce the descriptive post-collection audit with:
+
+```bash
+.venv-atom-census/bin/python -m experiments.long_source_atom_census.audit \
+  experiments/long_source_atom_census/runs/v2.6-preregistered
+```
