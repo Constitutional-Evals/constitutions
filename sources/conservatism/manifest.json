@@ -1,0 +1,37 @@
+{
+  "constitution_id": "conservatism",
+  "sources": [
+    {
+      "title": "Alexis de Tocqueville, Democracy in America (1835), Vol. I, Chapter XII: 'Political Associations in the United States'",
+      "url": "https://www.gutenberg.org/ebooks/815",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["tocqueville-democracy-associations.md"],
+      "notes": "Public-domain complement to the appendix's modern sources. Henry Reeve translation, Project Gutenberg #815. The committed chapter concerns voluntary association, local initiative, and the institutions of civil society."
+    },
+    {
+      "title": "Edmund Burke, Reflections on the Revolution in France (1790)",
+      "url": "https://www.gutenberg.org/ebooks/15679",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["burke-reflections-selected.md"],
+      "notes": "Primary public-domain source. The committed selection comes from Project Gutenberg #15679 and preserves Burke's arguments for attending to circumstances, carrying forward an inherited constitutional order, reforming only the defective part, respecting socially accumulated practical judgment, and treating society as an intergenerational partnership. The selection is documented in README.md."
+    },
+    {
+      "title": "Michael Oakeshott, Rationalism in Politics and Other Essays (1962; expanded edition 1991)",
+      "url": "https://archive.org/details/rationalisminpol0000oake",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Copyrighted modern primary/interpretive source; metadata only. Oakeshott contrasts rationalist political design with practical knowledge embedded in traditions, and characterizes politics as a conversation rather than an enterprise governed by a final blueprint. No text is stored."
+    },
+    {
+      "title": "Roger Scruton, How to Be a Conservative (2014)",
+      "url": "https://www.bloomsbury.com/us/how-to-be-a-conservative-9781472923906/",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Copyrighted modern source; metadata only. Scruton presents conservatism as stewardship of inherited institutions, civil association, local loyalty, and gradual reform rather than a fixed partisan program. No text is stored."
+    }
+  ]
+}
