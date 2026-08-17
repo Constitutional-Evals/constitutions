@@ -1,0 +1,39 @@
+```json
+{
+  "constitution_id": "environmental_ethics",
+  "sources": [
+    {
+      "title": "Aldo Leopold, The Land Ethic — from A Sand County Almanac (1949)",
+      "url": "https://www.uky.edu/~rsand1/china2017/library/Leopold1.pdf",
+      "license": "copyrighted",
+      "redistributable": false,
+      "files":"" ,
+      "notes": "Foundational source #1. Leopold's land ethic extends the moral community beyond humans to soils, waters, plants, animals, and the biotic community as a whole. It develops themes of ecological interdependence, land health, conservation as an ethical responsibility, limits of purely economic valuation, and the shift from humanity as conqueror of nature to member and citizen of the land community."
+    },
+    {
+      "title": "J. Baird Callicott, The Conceptual Foundations of the Land Ethic (1987)",
+      "url": "https://biophilosophy.ca/Teaching/2070papers/Callicott.pdf",
+      "license": "copyrighted",
+      "redistributable": false,
+      "files": "",
+      "notes": "Foundational source #2. Callicott develops and defends the philosophical foundations of Leopold's land ethic. He connects it to Humean and Smithian moral sentiments, Darwinian accounts of social and moral development, ecological interdependence, and the expansion of moral community, while clarifying how obligations to the biotic community relate to existing human moral obligations."
+    },
+    {
+      "title": "Arne Næss, The Shallow and the Deep, Long-Range Ecology Movement: A Summary (1973)",
+      "url": "https://is.cuni.cz/studium/predmety/index.php?did=169208&do=download&kod=AFS100716",
+      "license": "copyrighted; publisher permits research, teaching, and private study but restricts redistribution",
+      "redistributable": false,
+      "files": "",
+      "notes": "Foundational source #3. Næss distinguishes shallow environmentalism focused primarily on pollution and resource depletion for human benefit from a deeper ecological orientation. The essay develops the relational view of organisms, biospherical egalitarianism, diversity and symbiosis, ecological complexity, anti-domination, local autonomy, decentralization, and ecosophy as an explicitly normative ecological worldview."
+    },
+    {
+      "title": "Holmes Rolston III, Environmental Ethics: Values in and Duties to the Natural World (1991)",
+      "url": "https://mountainscholar.org/items/ae0ec611-93e1-4408-aa8c-ede92f1fd6f5",
+      "license": "copyrighted",
+      "redistributable": false,
+      "files": "",
+      "notes": "Foundational source #4. Rolston develops a systematic non-anthropocentric environmental ethic in which moral significance extends beyond human interests. He examines duties toward animals, organisms, species, ecosystems, and the natural world, arguing for intrinsic and systemic forms of value while distinguishing ecological ethics from ethical principles developed specifically for human culture."
+    }
+  ]
+}
+```

@@ -1,0 +1,55 @@
+{
+  "constitution_id": "aboriginal_australian",
+  "sources": [
+    {
+      "title": "Bawaka Country including Sandie Suchet-Pearson, Sarah Wright, Kate Lloyd and Laklak Burarrwanga, Caring as Country: Towards an Ontology of Co-becoming in Natural Resource Management (2013)",
+      "url": "https://doi.org/10.1111/apv.12018",
+      "license": "copyrighted / no explicit open redistribution license identified",
+      "redistributable": false,
+      "files": [
+        "Caring_as_Country(1).md"
+      ],
+      "notes": "Foundational source #1. This collaboratively authored work develops a Yolŋu ontology of co-becoming through Bawaka Country, emphasizing that humans are part of Country rather than separate managers of it. It develops wetj as relational sharing, more-than-human agency, mutual care, attentiveness, responsibility, obligation, and the idea that Country both cares and is cared for. The article was published in Asia Pacific Viewpoint by Wiley and no open redistribution license was identified for the source used here."
+    },
+    {
+      "title": "Deborah Bird Rose, Nourishing Terrains: Australian Aboriginal Views of Landscape and Wilderness (1996)",
+      "url": "https://soe.dcceew.gov.au/views/reference/48800",
+      "license": "copyrighted; © Commonwealth of Australia 1996; all rights reserved",
+      "redistributable": false,
+      "files": [
+        "Nourishing_Terrains(1).md"
+      ],
+      "notes": "Interpretive and coverage source. Rose surveys Aboriginal relationships with Country across themes including sacred geography, Dreaming ecology, knowledge, land management, caring for Country, damage and waste, and human and ecological rights. The work stresses that Country is lived, known, cared for, and socially and spiritually significant rather than reducible to wilderness or resource. The book explicitly states that no part may be reproduced without permission and is therefore treated as non-redistributable."
+    },
+    {
+      "title": "Irene Watson, Re-Centring First Nations Knowledge and Places in a Terra Nullius Space (2014)",
+      "url": "https://doi.org/10.1177/117718011401000506",
+      "license": "copyrighted; © 2014 Ngā Pae o te Māramatanga",
+      "redistributable": false,
+      "files": [
+        "Re-Centring_First_Nations_Knowledge_and_Places(1).md"
+      ],
+      "notes": "Foundational source #2. Watson centers First Nations law, philosophy, knowledge, and lawful obligations to care for Country while analyzing the continuing effects of terra nullius and colonial dispossession. The article emphasizes that Indigenous knowledges are living, localized, relational, and grounded in particular countries, and argues for the re-centering of First Nations legal and philosophical traditions on their own terms. The published article is copyrighted and is treated as non-redistributable."
+    },
+    {
+      "title": "W. E. H. Stanner, The Dreaming (1953), in White Man Got No Dreaming: Essays 1938–1973 (1979) — selected pages",
+      "url": "https://hdl.handle.net/1885/114726",
+      "license": "copyrighted / open-access archive; no explicit redistribution license identified",
+      "redistributable": false,
+      "files": [
+        "The_Dreaming_pages_23-40(1).md"
+      ],
+      "notes": "Historical interpretive source. Stanner's essay presents The Dreaming as simultaneously a sacred ordering, a charter for continuing life, a source of law and conduct, and a framework connecting people, society, Country, totems, ancestors, and the present. Because Stanner was a non-Indigenous anthropologist writing in the mid-twentieth century, this source should be used as historical interpretation rather than treated as a substitute for contemporary First Nations voices. The 1979 collection is available through ANU Press's open-access archive, but no explicit license granting redistribution of the text was identified."
+    },
+    {
+      "title": "Mary Graham, Some Thoughts about the Philosophical Underpinnings of Aboriginal Worldviews (1999; republished 2008)",
+      "url": "https://australianhumanitiesreview.org/2008/11/01/some-thoughts-about-the-philosophical-underpinnings-of-aboriginal-worldviews/",
+      "license": "copyrighted; all rights reserved",
+      "redistributable": false,
+      "files": [
+        "Graham - Some Thoughts about the Philosophical Underpinnings of Aboriginal.md"
+      ],
+      "notes": "Foundational source #3. Graham formulates two central precepts: 'The Land is the Law' and 'You are not alone in the world.' The essay connects sacred land, Dreaming, custodianship, kinship, collective reflection, sharing, long-term responsibility, and social relations, presenting the relationship between people and land as foundational to human relationships and meaning. The source copy explicitly states 'all rights reserved' and is treated as non-redistributable."
+    }
+  ]
+}

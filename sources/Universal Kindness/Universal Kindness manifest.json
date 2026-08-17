@@ -1,0 +1,57 @@
+```json
+{
+  "constitution_id": "universal_kindness",
+  "sources": [
+    {
+      "title": "Mozi, Universal Love I–III — trans. Yi-pao Mei (1929)",
+      "url": "https://catalog.hathitrust.org/Record/001379764",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Mozi Universal Love 1-3.md"
+      ],
+      "notes": "Foundational source #1. Yi-pao Mei's 1929 English translation of the Mohist chapters on universal love or impartial care. These chapters develop the case for extending practical concern beyond oneself, one's family, or one's political community; criticize partiality as a source of conflict and social disorder; and connect universal concern with mutual aid, opposition to aggression, social benefit, and responsible government. The 1929 translation is public domain in the United States."
+    },
+    {
+      "title": "Early Buddhist Sources for Universal Kindness — trans. Bhikkhu Sujato",
+      "url": "https://github.com/suttacentral/bilara-data",
+      "license": "cc0",
+      "redistributable": true,
+      "files": [
+        "universal_kindness_early_buddhist_sources_source_only(1).md"
+      ],
+      "notes": "Foundational source #2. A curated collection of early Buddhist passages translated by Bhikkhu Sujato and published through SuttaCentral's Bilara project. The collection covers boundless goodwill toward living beings, compassion, sympathetic joy, equanimity, non-hatred under provocation, truthful and beneficial speech, harmless conduct, concern for both oneself and others, and the interruption of cycles of resentment and retaliation. Bhikkhu Sujato's SuttaCentral translations are dedicated to the public domain under Creative Commons Zero (CC0)."
+    },
+    {
+      "title": "Jane Addams, Democracy and Social Ethics (1902)",
+      "url": "https://www.gutenberg.org/ebooks/15487",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "UK_Critique_50k_relevant_to_Addams.md"
+      ],
+      "notes": "Foundational source #3. Jane Addams's account of social ethics and democratic responsibility. The work expands ethical concern beyond private morality to relationships shaped by class, labor, family, charity, politics, and social institutions. It emphasizes sympathetic understanding of lives different from one's own, reciprocal social relationships, humility in charitable action, the dangers of paternalism, democratic fellowship, and responsibility for the social conditions affecting others. Project Gutenberg identifies the edition as public domain in the United States."
+    },
+    {
+      "title": "Adam Smith, The Theory of Moral Sentiments",
+      "url": "https://www.gutenberg.org/ebooks/67363",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "UK_Critique_50k_relevant_to_Smith.md"
+      ],
+      "notes": "Foundational source #4. Adam Smith's account of sympathy, moral judgment, and social virtue. The work examines how people imaginatively enter into the situations of others, judge conduct from more impartial perspectives, regulate their own passions, distinguish propriety from impropriety, and understand beneficence, justice, resentment, merit, duty, and self-command. It contributes a framework for kindness that combines fellow-feeling with impartial judgment rather than reducing moral concern to emotional identification alone. Project Gutenberg identifies the edition as public domain in the United States."
+    },
+    {
+      "title": "Universal Declaration of Human Rights (1948)",
+      "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+      "license": "UN website terms of use",
+      "redistributable": false,
+      "files": [
+        "UN Declaration of Human Rights.md"
+      ],
+      "notes": "Foundational source #5. The Universal Declaration of Human Rights provides a universal framework of human dignity, equality, nondiscrimination, liberty, security, freedom of conscience and expression, political participation, social and economic rights, education, cultural participation, and duties toward the community. Within the Universal Kindness corpus it supplies rights-based constraints on benevolence, helping distinguish genuine concern for others from paternalism, coercion, discrimination, or disregard for individual freedom and equal standing. The source text was obtained from the official United Nations webpage. Because the source as obtained is not treated as redistributable for this repository, the derived file should be used internally and excluded from public repository releases."
+    }
+  ]
+}
+```

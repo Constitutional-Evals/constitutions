@@ -1,0 +1,35 @@
+{
+  "constitution_id": "marxism",
+  "sources": [
+    {
+      "title": "Karl Marx, Capital: A Critique of Political Economy, Volume I",
+      "url": "https://www.marxists.org/archive/marx/works/1867-c1/",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Marx_Critique_50k_relevant_to_Capital.md"
+      ],
+      "notes": "Foundational source #1. Selected passages from Capital, Volume I provide Marx's mature critique of capitalist production. The material covers commodities and commodity fetishism, value and labour, capital accumulation, exploitation and surplus value, machinery, working conditions, class relations, and the historically specific character of capitalist social relations. The source uses the first English edition of 1887, translated by Samuel Moore and Edward Aveling and edited by Frederick Engels."
+    },
+    {
+      "title": "Karl Marx and Friedrich Engels, The German Ideology (written 1845–1846)",
+      "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/",
+      "license": "copyrighted translation / redistribution not established",
+      "redistributable": false,
+      "files": [
+        "Marx_Critique_50k_relevant_to_ideology.md"
+      ],
+      "notes": "Foundational source #2. Selected passages from The German Ideology develop the materialist conception of history. The work emphasizes real individuals, productive activity, material conditions, division of labour, forms of property, class relations, and the dependence of political and ideological forms on historically specific social relations. The source text is based on a later Progress Publishers edition, so the extracted translation is treated as non-redistributable for the public repository."
+    },
+    {
+      "title": "Karl Marx, Economic and Philosophic Manuscripts of 1844",
+      "url": "https://www.marxists.org/archive/marx/works/1844/manuscripts/",
+      "license": "copyrighted translation / redistribution not established",
+      "redistributable": false,
+      "files": [
+        "Marx_Critique_50k_relevant_to_manuscript.md"
+      ],
+      "notes": "Foundational source #3. Selected passages from the Economic and Philosophic Manuscripts of 1844 provide Marx's early humanistic critique of political economy. The material covers alienated labour, private property, wages, capital, the worker's dependence on capitalist production, human self-realization, and the relationship between economic organization and human freedom. The source uses the Martin Milligan translation published by Progress Publishers, so the extracted translation is treated as non-redistributable for the public repository."
+    }
+  ]
+}

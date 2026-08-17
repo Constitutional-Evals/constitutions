@@ -1,0 +1,47 @@
+```json
+{
+  "constitution_id": "conservatism",
+  "sources": [
+    {
+      "title": "Edmund Burke, Reflections on the Revolution in France (1790)",
+      "url": "https://www.gutenberg.org/ebooks/15679",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Conservatism_Critique_50k_relevant_to_Reflections.md"
+      ],
+      "notes": "Foundational source #1. Edmund Burke's Reflections on the Revolution in France provides a foundational articulation of conservative political thought centered on inherited institutions, historical continuity, prudence, prescription, social obligation, property, religion, order, and skepticism toward attempts to reconstruct political society from abstract principles. Burke defends reform grounded in precedent and circumstance rather than wholesale revolutionary transformation and presents liberty as something sustained by institutions, habits, obligations, and accumulated social experience. The source edition was obtained from Project Gutenberg and is public domain in the United States."
+    },
+    {
+      "title": "David Hume, Hume's Political Discourses — selected political essays",
+      "url": "https://www.gutenberg.org/ebooks/59792",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "10 Essay.md"
+      ],
+      "notes": "Foundational source #2. Selected political essays by David Hume provide an empirical and skeptical account of political authority and institutional order. The collection addresses the foundations of government, consent and the original contract, political obedience, parties, succession, constitutional arrangements, political judgment, and the relationship between speculative political theories and historical practice. Hume contributes a strong emphasis on experience, convention, moderation, institutional stability, and the limits of deriving practical political arrangements from abstract first principles. The source edition was obtained from Project Gutenberg and is public domain in the United States."
+    },
+    {
+      "title": "Alexis de Tocqueville, Democracy in America — Volume I",
+      "url": "https://www.gutenberg.org/ebooks/815",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Conservatism_Critique_25k_relevant_to_DIA.md"
+      ],
+      "notes": "Foundational source #3a. Volume I of Alexis de Tocqueville's Democracy in America examines the political and institutional foundations of democratic liberty. Relevant themes include local self-government, townships, decentralization, civic participation, the distribution of political authority, the rule of law, the balance between freedom and order, majority power, and the importance of habits formed through participation in local institutions. Tocqueville's analysis contributes a defense of intermediary institutions and local political life against excessive administrative centralization. The source edition was obtained from Project Gutenberg and is public domain in the United States."
+    },
+    {
+      "title": "Alexis de Tocqueville, Democracy in America — Volume II",
+      "url": "https://www.gutenberg.org/ebooks/816",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Conservatism_Critique_15k_relevant_to_DIA.md"
+      ],
+      "notes": "Foundational source #3b. Volume II of Democracy in America extends Tocqueville's analysis from political institutions to the habits, beliefs, relationships, and cultural tendencies of democratic societies. Relevant themes include individualism, voluntary association, civic participation, religion and moral formation, materialism, social isolation, the preservation of common ties, and the danger of paternalistic or centralized democratic despotism. It contributes a social account of liberty in which free institutions depend upon habits, associations, communities, and moral commitments that prevent citizens from becoming isolated and politically passive. The source edition was obtained from Project Gutenberg and is public domain in the United States."
+    }
+  ]
+}
+```

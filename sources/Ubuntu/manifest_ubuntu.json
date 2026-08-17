@@ -1,0 +1,45 @@
+{
+  "constitution_id": "ubuntu",
+  "sources": [
+    {
+      "title": "Mogobe B. Ramose, The Relevance of Ubuntu to the Study of Philosophy",
+      "url": "https://www.cambridgescholars.com/product/978-1-5275-9277-3",
+      "license": "copyrighted",
+      "redistributable": false,
+      "files": [
+        "Ramose_The_Relevance_of_Ubuntu_to_the_Study_of_Philosophy(1).md"
+      ],
+      "notes": "Foundational source #1. Ramose provides the corpus's philosophical grounding of ubuntu as humanness and as a lived philosophy rooted in the Bantu-speaking peoples of Africa. The essay develops the relation between ubuntu and umuntu, be-ing and becoming, relational personhood, openness to change, and the ethical importance of mutual recognition, care, sharing, and social relationships. The source appears in the 2023 Cambridge Scholars volume Philosophical Reflections on Some Concerns and Values in African Societies and is treated as non-redistributable."
+    },
+    {
+      "title": "Thaddeus Metz, Toward an African Moral Theory (2007)",
+      "url": "https://doi.org/10.1111/j.1467-9760.2007.00280.x",
+      "license": "copyrighted",
+      "redistributable": false,
+      "files": [
+        "Metz_Toward_an_African_Moral_Theory(1).md"
+      ],
+      "notes": "Foundational source #2. Metz develops a systematic normative reconstruction of values associated with ubuntu and related ideas of personhood or humanness. He argues that right action is centrally connected to harmonious relationships involving identity and solidarity, and uses this framework to discuss reconciliation, consensus, cooperation, aid to others, community, and other characteristic moral judgments. The article was published in the Journal of Political Philosophy and is treated as non-redistributable."
+    },
+    {
+      "title": "Desmond Tutu, No Future Without Forgiveness — speech (2003)",
+      "url": "https://digitalcommons.unf.edu/archbishoptutupapers/6/",
+      "license": "in-copyright",
+      "redistributable": false,
+      "files": [
+        "Tutu Forgiveness:Future Speech.md"
+      ],
+      "notes": "Foundational source #3. Tutu connects ubuntu to forgiveness, reconciliation, communal harmony, and the restoration of damaged relationships. Drawing on South Africa's transition and the Truth and Reconciliation Commission, the speech presents forgiveness not as denial of wrongdoing but as relinquishing retaliation and creating the possibility of renewed relationship and a shared future. The University of North Florida archive marks the document as in copyright, so it is treated as non-redistributable."
+    },
+    {
+      "title": "C. Ewuoso and S. Hall, Core Aspects of Ubuntu: A Systematic Review (2019)",
+      "url": "https://journals.co.za/doi/10.7196/SAJBL.2019.v12i2.679",
+      "license": "CC BY-NC-SA 4.0",
+      "redistributable": true,
+      "files": [
+        "Ewuoso_Hall_Core_Aspects_of_Ubuntu(1).md"
+      ],
+      "notes": "Interpretive and coverage source. Ewuoso and Hall systematically review the ubuntu ethics literature to identify themes shared across competing interpretations. The review characterizes ubuntu as essentially relational, emphasizing interdependence, fellowship, reconciliation, compassion, community friendliness, harmonious relationships, and actions that honour the capacity to relate communally. The article is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0."
+    }
+  ]
+}

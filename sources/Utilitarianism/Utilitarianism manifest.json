@@ -1,0 +1,27 @@
+```json
+{
+  "constitution_id": "utilitarianism",
+  "sources": [
+    {
+      "title": "John Stuart Mill, Utilitarianism",
+      "url": "https://www.gutenberg.org/ebooks/11224",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Mill, Utilitarianism.md"
+      ],
+      "notes": "Foundational source #1. Mill's Utilitarianism presents the Greatest Happiness Principle, according to which actions are right insofar as they promote happiness and wrong insofar as they produce the reverse. The work develops the distinction between higher and lower pleasures, impartial concern for overall happiness, moral sanctions, the justification of the principle of utility, and the relationship between justice, rights, and utility. The Project Gutenberg edition is public domain in the United States."
+    },
+    {
+      "title": "Henry Sidgwick, The Methods of Ethics — selected passages from the Seventh Edition (1907)",
+      "url": "https://www.gutenberg.org/ebooks/46743",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Sidgwick_Methods_50k_relevant_to_Mill.md"
+      ],
+      "notes": "Foundational source #2. Selected passages from Sidgwick's The Methods of Ethics provide a systematic treatment of utilitarianism as Universalistic Hedonism. The material examines general happiness as the ultimate end, impartiality between persons, the relation between egoism and universal benevolence, justice and equality, common-sense moral rules, and the practical method of determining conduct by its consequences for overall happiness. The Project Gutenberg edition is the 1907 seventh edition and is public domain in the United States."
+    }
+  ]
+}
+```

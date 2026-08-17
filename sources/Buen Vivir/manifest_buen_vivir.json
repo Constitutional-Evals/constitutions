@@ -1,0 +1,45 @@
+{
+  "constitution_id": "buen_vivir",
+  "sources": [
+    {
+      "title": "Alberto Acosta, Rethinking the World from the Perspective of Buen Vivir (2016)",
+      "url": "https://www.socioeco.org/bdf_fiche-document-5248_en.html",
+      "license": "copyrighted / no explicit open redistribution license identified",
+      "redistributable": false,
+      "files": [
+        "Acosta Rethinking the World from the Perspective of Buen Vivir.md"
+      ],
+      "notes": "Foundational source #1. Acosta presents Buen Vivir as a plural and continually constructed alternative to conventional development, centered on living well together within communities and in harmony with nature. The essay emphasizes reciprocity, solidarity, decolonization, post-extractivism, limits to endless economic growth, community self-government, participatory decision-making, and the need to move beyond both anthropocentric capitalism and rigid development models. No explicit open redistribution license was identified for the source used here, so it is treated as non-redistributable."
+    },
+    {
+      "title": "Eduardo Gudynas, Buen Vivir: Today's Tomorrow (2011)",
+      "url": "https://doi.org/10.1057/dev.2011.86",
+      "license": "copyrighted",
+      "redistributable": false,
+      "files": [
+        "Gudynas_Buen_Vivir_Todays_Tomorrow(1).md"
+      ],
+      "notes": "Foundational source #2. Gudynas develops Buen Vivir as a plural platform of alternatives to development rather than a single doctrine. The article emphasizes indigenous contributions, community-based well-being, the inclusion of nature within the moral and political community, interculturality, decolonization, intrinsic values in nature, and rejection of linear and purely economic conceptions of progress. The article was published in Development by the Society for International Development and is treated as non-redistributable."
+    },
+    {
+      "title": "Constitution of the Republic of Ecuador (2008) — selected passages relevant to Buen Vivir",
+      "url": "https://www.asambleanacional.gob.ec/es/contenido/constitucion-de-la-republica-del-ecuador-2008-version-en",
+      "license": "public-domain official legal text / official translation",
+      "redistributable": true,
+      "files": [
+        "BuenVivir_50k_relevant_to_Ecuador2008.md"
+      ],
+      "notes": "Foundational source #3. Selected passages from Ecuador's 2008 Constitution provide an institutional expression of Buen Vivir (sumak kawsay) through rights and public obligations concerning water, food, health, education, housing, work, social security, intercultural participation, environmental protection, and the rights of nature. The Constitution frames social, economic, cultural, and environmental organization around dignified life, solidarity, participation, sustainability, and harmony with nature. The source file contains a stale extraction header incorrectly naming Burke's Reflections on the Revolution in France; the substantive text is from the Ecuadorian Constitution."
+    },
+    {
+      "title": "Political Constitution of the Plurinational State of Bolivia (2009) — English translation",
+      "url": "https://lawcat.berkeley.edu/record/517645",
+      "license": "copyrighted English translation",
+      "redistributable": false,
+      "files": [
+        "Bolivia Constitution.md"
+      ],
+      "notes": "Foundational source #4. Bolivia's 2009 Constitution provides a second constitutional implementation of Vivir Bien through the principles of suma qamaña, harmonious living, good life, reciprocity, solidarity, interdependence, social justice, pluralism, communal democracy, indigenous autonomy, collective welfare, and responsible use of natural resources. The file uses the English translation published in HeinOnline's World Constitutions Illustrated; the translation is explicitly copyrighted and all rights are reserved, so it is treated as non-redistributable."
+    }
+  ]
+}

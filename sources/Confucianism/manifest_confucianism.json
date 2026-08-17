@@ -1,0 +1,26 @@
+{
+  "constitution_id": "confucianism",
+  "sources": [
+    {
+      "title": "Confucian Analects, The Great Learning, and The Doctrine of the Mean — trans. James Legge",
+      "url": "https://www.gutenberg.org/ebooks/3100",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Analects, Doctrine of Mean, Great Learning.md"
+      ],
+      "notes": "Foundational source #1. This file contains the selected Confucian works from James Legge's The Chinese Classics used for the anchor: the Confucian Analects, The Great Learning, and The Doctrine of the Mean. Together they cover humane conduct and benevolence, ritual and propriety, filial and social relationships, learning and self-cultivation, exemplary character, the relation between personal cultivation and social order, and the ideals of equilibrium and harmony. The source was obtained from Project Gutenberg and is public domain in the United States."
+    },
+    {
+      "title": "Mencius, The Chinese Classics: Vol. 2 The Life and Teachings of Mencius — trans. James Legge (1875)",
+      "url": "https://oll.libertyfund.org/titles/legge-the-chinese-classics-vol-2-the-life-and-teachings-of-mencius",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "mencius_clean.md",
+        "Confuc_Critique_50k_relevant_to_Mencius.md"
+      ],
+      "notes": "Foundational source #2. Legge's Mencius develops Confucian accounts of benevolence and righteousness, moral cultivation, human nature, the responsibilities of rulers, benevolent government, education, material conditions for moral life, remonstrance against unjust rule, and concern for the people. mencius_clean.md preserves the full cleaned source, while Confuc_Critique_50k_relevant_to_Mencius.md contains the passages selected for relevance to the Confucianism anchor. Liberty Fund identifies the underlying 1875 Legge text as public domain."
+    }
+  ]
+}

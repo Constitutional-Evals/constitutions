@@ -1,0 +1,27 @@
+```json
+{
+  "constitution_id": "kantian_deontology",
+  "sources": [
+    {
+      "title": "Immanuel Kant, Fundamental Principles of the Metaphysic of Morals (1785) — trans. Thomas Kingsmill Abbott",
+      "url": "https://www.gutenberg.org/ebooks/5682",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Groundwork (Kant).md"
+      ],
+      "notes": "Foundational source #1. Kant's Groundwork develops the central principles of Kantian deontology: the good will, duty, moral worth, maxims, hypothetical and categorical imperatives, universal law, humanity as an end in itself, autonomy, the kingdom of ends, and the relationship between freedom and morality. It grounds moral obligation in principles that rational agents can recognize independently of inclination or expected consequences. The Thomas Kingsmill Abbott translation was obtained from Project Gutenberg and is public domain in the United States."
+    },
+    {
+      "title": "Immanuel Kant, The Critique of Practical Reason (1788) — trans. Thomas Kingsmill Abbott",
+      "url": "https://www.gutenberg.org/ebooks/5683",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "Kant_Critique_50k_relevant_to_Kantian_deontology.md"
+      ],
+      "notes": "Foundational source #2. The Critique of Practical Reason develops Kant's account of pure practical reason, practical laws, maxims, categorical obligation, autonomy, freedom, respect for the moral law, and the distinction between morality and principles grounded in inclination, pleasure, or private happiness. It provides the deeper philosophical foundation for the deontological framework introduced in the Groundwork and explains how rational agents can regard themselves as bound by universally valid moral law. The Thomas Kingsmill Abbott translation was obtained from Project Gutenberg and is public domain in the United States."
+    }
+  ]
+}
+```

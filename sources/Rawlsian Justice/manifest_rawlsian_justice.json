@@ -1,0 +1,23 @@
+{
+  "constitution_id": "rawlsian_justice",
+  "sources": [
+    {
+      "title": "John Rawls, A Theory of Justice — Revised Edition (1999; originally 1971)",
+      "license": "copyrighted",
+      "redistributable": false,
+      "notes": "Foundational source #1. Rawls develops justice as fairness through the original position and veil of ignorance. The work centers on equal basic liberties, fair equality of opportunity, the difference principle, distributive justice, institutional design, duties, and the idea of a well-ordered society. The corpus uses the revised edition rather than the original 1971 text."
+    },
+    {
+      "title": "John Rawls, Political Liberalism — Expanded Edition (2005; originally 1993)",
+      "license": "copyrighted",
+      "redistributable": false,
+      "notes": "Foundational source #2. Political Liberalism examines how a stable and just democratic society can persist despite deep and reasonable disagreement over moral, philosophical, and religious doctrines. It develops reasonable pluralism, overlapping consensus, public reason, political legitimacy, and the conception of citizens as free and equal. The corpus uses the expanded edition rather than only the original 1993 text."
+    },
+    {
+      "title": "T. M. Scanlon, What We Owe to Each Other (1998)",
+      "license": "copyrighted",
+      "redistributable": false,
+      "notes": "Foundational source #3. Scanlon develops a contractualist account of morality centered on principles that could be justified to others and that no person could reasonably reject. The work examines reasons, responsibility, well-being, moral motivation, interpersonal justification, and the structure of what individuals owe one another."
+    }
+  ]
+}

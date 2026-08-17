@@ -1,0 +1,45 @@
+{
+  "constitution_id": "secular_humanism",
+  "sources": [
+    {
+      "title": "John Dewey, A Common Faith (1934)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.90386",
+      "license": "copyrighted",
+      "redistributable": false,
+      "files": [
+        "A Common Faith.md"
+      ],
+      "notes": "Foundational source #1. Dewey develops a naturalistic account of the religious dimension of human experience without dependence on supernatural doctrine. The work emphasizes ideals grounded in human experience, intelligent inquiry, shared social purposes, moral commitment, and the possibility of a common faith centered on human capacities and cooperative improvement. The source edition explicitly states that reproduction requires publisher permission, so it is treated as non-redistributable."
+    },
+    {
+      "title": "Bertrand Russell, A Free Man's Worship",
+      "url": "https://www.gutenberg.org/ebooks/25447",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": [
+        "A Free Man's Worship.md"
+      ],
+      "notes": "Foundational source #2. Russell develops a secular account of moral aspiration and meaning in a universe that does not guarantee human purposes or values. The essay emphasizes intellectual freedom, fidelity to truth and freely chosen ideals, courage in the face of suffering and mortality, sympathy for others, and human solidarity without reliance on supernatural providence. The source was obtained from Project Gutenberg and is public domain in the United States."
+    },
+    {
+      "title": "A Secular Humanist Declaration (1980)",
+      "url": "https://secularhumanism.org/a-secular-humanist-declaration/",
+      "license": "copyrighted",
+      "redistributable": false,
+      "files": [
+        "Secular Humanist Declaration.md"
+      ],
+      "notes": "Foundational source #3. Issued by the Council for Democratic and Secular Humanism, the declaration presents an explicit modern secular-humanist framework centered on free inquiry, separation of church and state, democratic freedom, human rights, ethics based on critical intelligence, religious skepticism, reason, science, technology, education, and human responsibility for improving the human condition. The declaration is copyrighted by the Council for Secular Humanism and is treated as non-redistributable."
+    },
+    {
+      "title": "Amsterdam Declaration 2022 — Declaration of Modern Humanism",
+      "url": "https://humanists.international/what-is-humanism/the-amsterdam-declaration/",
+      "license": "copyrighted / no explicit redistribution license identified",
+      "redistributable": false,
+      "files": [
+        "The Amsterdam Declaration.md"
+      ],
+      "notes": "Foundational source #4. Humanists International's Amsterdam Declaration 2022 summarizes contemporary humanism as ethical, rational, and oriented toward human flourishing. It emphasizes dignity and freedom, responsibility to others and future generations, concern for sentient beings and nature, science and free inquiry, creativity and fulfillment, intellectual humility, cooperation across differing beliefs, and the construction of meaning without dogmatic revelation. No explicit open redistribution license was identified for the declaration itself, so the extracted source is treated as non-redistributable."
+    }
+  ]
+}

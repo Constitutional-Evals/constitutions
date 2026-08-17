@@ -1,0 +1,45 @@
+{
+  "constitution_id": "maori",
+  "sources": [
+    {
+      "title": "Māori Marsden, Kaitiakitanga: A Definitive Introduction to the Holistic World View of the Māori (1992)",
+      "url": "https://books.google.com/books/about/Kaitiakitanga.html?id=CW510AEACAAJ",
+      "license": "copyrighted / no explicit open redistribution license identified",
+      "redistributable": false,
+      "files": [
+        "Marsden_1992_Kaitiakitanga(1).md"
+      ],
+      "notes": "Foundational source #1. Marsden provides a broad account of the Māori worldview underlying kaitiakitanga. The work develops Māori cosmology, whakapapa, mauri, tapu, tikanga, kaupapa, relationships with Papatūānuku, spiritual and material dimensions of reality, and the responsibilities involved in kaitiakitanga, rāhui, and resource use. It is especially useful for locating kaitiakitanga within a holistic philosophical system rather than treating it narrowly as environmental guardianship. The 1992 work was published by the New Zealand Ministry for the Environment; no explicit open redistribution license was identified for the source used here."
+    },
+    {
+      "title": "Merata Kawharu, Kaitiakitanga: A Māori Anthropological Perspective of the Māori Socio-Environmental Ethic of Resource Management (2000)",
+      "url": "https://www.jstor.org/stable/20706951",
+      "license": "copyrighted",
+      "redistributable": false,
+      "files": [
+        "Kawharu_2000_Kaitiakitanga(1).md"
+      ],
+      "notes": "Foundational source #2. Kawharu develops kaitiakitanga as a social and environmental ethic grounded in whakapapa and kin-based authority. The article emphasizes that kaitiakitanga is broader than simple guardianship and involves rangatiratanga, mana whenua, mauri, tapu, rāhui, manaakitanga, reciprocity, obligation, resource management, and responsibilities linking ancestors, present communities, future generations, and the environment. The article was published in The Journal of the Polynesian Society and is treated as non-redistributable."
+    },
+    {
+      "title": "New Zealand Law Commission, Māori Custom and Values in New Zealand Law (NZLC SP9, 2001) — selected passages",
+      "url": "https://www.lawcom.govt.nz/our-work/maori-customary-law",
+      "license": "CC BY 4.0 for Law Commission-owned material",
+      "redistributable": true,
+      "files": [
+        "Maori_Critique_50k_relevant_to_CustomsVals.md"
+      ],
+      "notes": "Foundational and coverage source #3. Selected passages from the Law Commission's 2001 study paper provide a broad account of tikanga Māori, Māori custom law, and the values underlying appropriate conduct. The material emphasizes tikanga as a living and adaptive system grounded in enduring principles, variation among iwi, hapū, and whānau, and concepts including whakapapa, whanaungatanga, mana, tapu and noa, utu, kotahitanga, rangatiratanga, and relationships between people and the environment. The Law Commission's current copyright policy licenses Commission-owned website material under CC BY 4.0 unless otherwise indicated. Third-party material reproduced within the study remains subject to its own rights."
+    },
+    {
+      "title": "Wiremu Doherty, Tā Hirini Moko Mead, and Tā Pou Temara, Appendix 1: Tikanga — He Poutama (NZLC SP24, 2023)",
+      "url": "https://www.lawcom.govt.nz/our-work/tikanga-maori",
+      "license": "CC BY 4.0",
+      "redistributable": true,
+      "files": [
+        "NZLC_SP24_Appendix_1_Tikanga(1).md"
+      ],
+      "notes": "Foundational and contemporary coverage source #4. This expert appendix explains tikanga within te ao Māori and mātauranga Māori, while distinguishing broad Māori principles from their particular application through mātauranga ā-iwi. It covers whakapapa, whanaungatanga, mauri, mana, mana whenua, tapu, noa, utu, manaakitanga, kaitiaki, rāhui, kotahitanga, kawa, and other foundations of tikanga as a living system. It explicitly cautions against treating Māori as homogeneous and explains that application varies among iwi. The Law Commission states that Appendix 1 is licensed under Creative Commons Attribution 4.0 International."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "constitution_id": "north_american_indigenous",
+  "sources": [
+    {
+      "title": "Kyle Whyte, Indigenous Climate Change Studies: Indigenizing Futures, Decolonizing the Anthropocene (2017)",
+      "url": "https://doi.org/10.1215/00138282-55.1-2.153",
+      "license": "copyrighted; © 2017 Regents of the University of Colorado",
+      "redistributable": false,
+      "files": [
+        "Indigenous_Climate_Change_Studies_Whyte(1).md"
+      ],
+      "notes": "Foundational source #1. Whyte frames climate change as an intensification of environmental changes already imposed on Indigenous peoples through colonialism, capitalism, and industrialization. The article emphasizes Indigenous knowledge renewal, self-determination, relationships and reciprocity with human and nonhuman relatives, collective memory, adaptation, and responsibilities to future generations. The published article is copyrighted and is treated as non-redistributable."
+    },
+    {
+      "title": "Deborah McGregor, Indigenous Environmental Justice, Knowledge, and Law (2018)",
+      "url": "https://digitalcommons.osgoode.yorku.ca/scholarly_works/2901/",
+      "license": "copyrighted; © 2018 Regents of the University of California; reprinted by permission of Temple University Press",
+      "redistributable": false,
+      "files": [
+        "Indigenous_Environmental_Justice_Knowledge_and_Law_McGregor(1).md"
+      ],
+      "notes": "Foundational source #2. McGregor develops a distinct conception of Indigenous environmental justice grounded in Indigenous knowledge systems, legal orders, governance, sovereignty, and understandings of justice. Drawing especially on Anishinaabek traditions, the article emphasizes relationships and responsibilities among people, land, waters, ancestors, future generations, the spirit world, and other beings in Creation, while arguing that environmental justice must be shaped by Indigenous peoples on their own terms. The article is copyrighted and is treated as non-redistributable."
+    },
+    {
+      "title": "Robin Wall Kimmerer, Returning the Gift",
+      "url": "https://humansandnature.org/earth-ethic-robin-kimmerer/",
+      "license": "copyrighted / no explicit open redistribution license identified",
+      "redistributable": false,
+      "files": [
+        "Kimmerer Returning the Gift.md"
+      ],
+      "notes": "Foundational source #3. Kimmerer presents a Potawatomi-informed ethic of gratitude, reciprocity, responsibility, and membership in the living world. The essay links gifts with duties, challenges human exceptionalism, treats other beings as persons and relations, calls for restraint in consumption, and presents ecological restoration and care for the Earth as forms of returning the gifts humans receive. No explicit open redistribution license was identified for the source used here, so it is treated as non-redistributable."
+    },
+    {
+      "title": "Leanne Betasamosake Simpson, Land as Pedagogy: Nishnaabeg Intelligence and Rebellious Transformation (2014)",
+      "url": "https://jps.library.utoronto.ca/index.php/des/article/view/22170",
+      "license": "CC BY-NC 3.0",
+      "redistributable": true,
+      "files": [
+        "Land_as_Pedagogy_Simpson(1).md"
+      ],
+      "notes": "Foundational source #4. Simpson develops land as both the context and process of Nishnaabeg learning, knowledge, and resurgence. Through story and land-based practice, the article emphasizes relational and embodied learning, family and community, consent and learner agency, relationships with animal and plant teachers, self-determination, and rebuilding Indigenous political and cultural life outside assimilative settler-colonial institutions. The article is available under the Creative Commons Attribution-NonCommercial 3.0 license."
+    },
+    {
+      "title": "The Sacred Land Reader (2003), ed. Marjorie Beggs and Christopher McLeod",
+      "url": "https://sacredland.org/the-sacred-land-reader/",
+      "license": "copyrighted; © 2003 Sacred Land Film Project of Earth Island Institute",
+      "redistributable": false,
+      "files": [
+        "Sacred_Land_Reader(1).md"
+      ],
+      "notes": "Foundational source #5. The Sacred Land Reader collects essays on Native American sacred places, sacred geography, religious freedom, land management, law, resistance, and conflicts between Indigenous relationships to place and settler property or resource-extraction regimes. Its cases include Hopi, Wintu, and other Native communities and provide a multi-author perspective on obligations to sacred lands and the protection of Indigenous religious and cultural relationships with place. The Reader is copyrighted by the Sacred Land Film Project and is treated as non-redistributable."
+    }
+  ]
+}
