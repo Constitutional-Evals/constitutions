@@ -1,0 +1,37 @@
+{
+  "constitution_id": "care-ethics",
+  "sources": [
+    {
+      "title": "Maurice Hamington and Maggie FitzGerald, 'Feminist Care Ethics Confronts Mainstream Philosophy' (2022)",
+      "url": "https://doi.org/10.3390/philosophies7050091",
+      "license": "CC-BY-4.0",
+      "redistributable": true,
+      "files": ["hamington-fitzgerald-feminist-care-ethics.md"],
+      "notes": "Open-access editorial in Philosophies 7(5), 91. CC BY 4.0. The committed text provides a contemporary account of care ethics, its relational ontology, Gilligan's challenge to individualist abstraction, and current theoretical debates."
+    },
+    {
+      "title": "Carol Gilligan, In a Different Voice: Psychological Theory and Women's Development (1982)",
+      "url": "https://www.hup.harvard.edu/books/9780674445443",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Harvard University Press book; copyrighted, metadata only. Gilligan argues that dominant accounts of moral development overlook a relational moral voice organized around responsibility, connection, and the avoidance of hurt."
+    },
+    {
+      "title": "Nel Noddings, Caring: A Relational Approach to Ethics and Moral Education (1984; 2nd edition 2013)",
+      "url": "https://www.ucpress.edu/book/9780520275707/caring",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "University of California Press book; copyrighted, metadata only. Noddings develops care as an ethic of receptive attention, motivational displacement, and response within concrete caring relations."
+    },
+    {
+      "title": "Virginia Held, The Ethics of Care: Personal, Political, and Global (2006)",
+      "url": "https://doi.org/10.1093/0195180992.001.0001",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Oxford University Press book; copyrighted, metadata only. Held argues that care is a moral practice and value with personal, political, and global implications, challenging the treatment of care as merely private or secondary to justice."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "constitution_id": "neo-aristotelian-virtue-ethics",
+  "sources": [
+    {
+      "title": "Aristotle, Nicomachean Ethics, Books I-II (F. H. Peters translation)",
+      "url": "https://www.gutenberg.org/ebooks/8438",
+      "license": "public-domain",
+      "redistributable": true,
+      "files": ["aristotle-nicomachean-books-1-2.md"],
+      "notes": "Primary classical source. Public-domain F. H. Peters translation from Project Gutenberg #8438. Books I-II establish eudaimonia, the human function, virtue as a settled disposition, habituation, and the doctrine of the mean."
+    },
+    {
+      "title": "Calum McCracken, 'Virtue Ethics' (2024)",
+      "url": "https://introductiontoethics.pressbooks.tru.ca/chapter/virtue-ethics/",
+      "license": "CC-BY-4.0",
+      "redistributable": true,
+      "files": ["tru-open-virtue-ethics.md"],
+      "notes": "Contemporary openly licensed exposition from TRU Open Press. CC BY 4.0 attribution is retained in the committed file."
+    },
+    {
+      "title": "G. E. M. Anscombe, 'Modern Moral Philosophy' (1958)",
+      "url": "https://doi.org/10.1017/S0031819100037943",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Published in Philosophy 33(124), 1-19. Copyrighted journal article; metadata only. Anscombe criticizes modern moral philosophy's law-like obligation vocabulary when detached from a divine legislator, and calls for a return to a richer philosophy of psychology and virtue."
+    },
+    {
+      "title": "Philippa Foot, Natural Goodness (2001)",
+      "url": "https://doi.org/10.1093/0198235089.001.0001",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Oxford University Press book; copyrighted, metadata only. Foot develops a neo-Aristotelian naturalism in which evaluations of human action and character are tied to the life-form and natural goodness of human beings."
+    },
+    {
+      "title": "Rosalind Hursthouse, On Virtue Ethics (1999)",
+      "url": "https://doi.org/10.1093/0199247994.001.0001",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "Oxford University Press book; copyrighted, metadata only. Hursthouse gives a systematic account of virtue ethics, practical wisdom, eudaimonia, and the action-guiding form 'an action is right iff it is what a virtuous agent would characteristically do.'"
+    },
+    {
+      "title": "Alasdair MacIntyre, After Virtue (1981; 3rd edition 2007)",
+      "url": "https://undpress.nd.edu/9780268035044/after-virtue/",
+      "license": "proprietary",
+      "redistributable": false,
+      "files": [],
+      "notes": "University of Notre Dame Press book; copyrighted, metadata only. MacIntyre reconstructs virtue as intelligible within practices, traditions, and a narrative conception of a whole human life, criticizing the fragmentation of modern moral discourse."
+    }
+  ]
+}
