@@ -155,8 +155,7 @@
               "comparative": {
                 "type": "string",
                 "minLength": 1,
-                "pattern": "^Prefer the response that ",
-                "description": "The only field consumed by EigenBench judges. Must start with 'Prefer the response that'."
+                "description": "Conflict-resolution statement. Free form ('X holds until Y; then Z' or comparative); the prefix requirement applies to criteria only."
               },
               "reasoning": {
                 "type": "string",
@@ -182,7 +181,7 @@
           }
         ]
       },
-      "description": "Conflict-resolution guidance in the same comparative form as criteria ('Prefer the response that gives Z precedence over X when Y'). Same item shape as criteria."
+      "description": "Edge cases / conflict-resolution guidance. Same item shape as criteria but not required to start with 'Prefer the response that'."
     },
     "license": {
       "type": "string"
