@@ -14,7 +14,7 @@ inventory.py [DIR]  flags per item (prefix / overload); --full prints everything
 lint_specs.py       flags any spec text that would still fail the rules
 validate_anchors.py [DIR]   validate against schema/constitution.schema.json (v1.2)
 mapping.json        original item id -> new item id(s), for audit and for the blind-attribution baseline
-variants/uk-v2/     content-level experiment on Universal Kindness (not applied to the main set)
+variants/uk-v2/     content-level experiment on Universal Kindness (not applied to the main set; only the UK file kept, the other 23 were identical to the main set)
 ```
 
 Reasoning and scenarios of a split item are inherited by both halves unless the spec
