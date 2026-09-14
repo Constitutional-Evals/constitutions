@@ -21,7 +21,8 @@ for folder in FOLDERS:
         if f.name.startswith("_") or f.name in SKIP:
             continue
         data = json.loads(f.read_text())
-        (out / f.name).write_text(json.dumps(data["criteria"], indent=2, ensure_ascii=False))
+        crit = [c["comparative"] if isinstance(c, dict) else c for c in data["criteria"]]  # v1.2 object items -> judge-facing strings
+        (out / f.name).write_text(json.dumps(crit, indent=2, ensure_ascii=False))
         voices = data.get("voices")
         if voices:
             (out / f"{f.stem}.oct.json").write_text(json.dumps(voices, indent=2, ensure_ascii=False))

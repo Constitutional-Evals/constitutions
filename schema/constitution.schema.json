@@ -3,83 +3,343 @@
   "$id": "https://constitutionalevals.org/schema/constitution.schema.json",
   "title": "Constitution",
   "type": "object",
-  "required": ["schema_version", "id", "title", "version", "role", "in_basis", "criteria"],
+  "required": [
+    "criteria"
+  ],
   "additionalProperties": false,
   "properties": {
-    "schema_version": { "const": "1.1" },
-    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
-    "title": { "type": "string", "minLength": 1 },
-    "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
-    "role": { "enum": ["anchor", "benevolent-trait", "supplementary", "personalized"] },
-    "in_basis": { "type": "boolean" },
-    "valence": { "enum": ["aligned", "misaligned", "neutral"] },
-    "tradition_class": { "enum": ["religious", "philosophical", "secular-modern", "indigenous", "other"] },
-    "tradition": { "type": "string" },
-    "summary": { "type": "string" },
-    "overview": { "type": "string" },
-    "criteria": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 },
-      "description": "Comparative criteria ('Prefer the response that ...'). Consumed by the EigenBench judges." },
+    "schema_version": {
+      "enum": [
+        "1.1",
+        "1.2"
+      ],
+      "description": "1.2 accepts criteria/guidelines as objects (comparative + authoring audit trail)."
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "role": {
+      "enum": [
+        "anchor",
+        "benevolent-trait",
+        "supplementary",
+        "personalized"
+      ]
+    },
+    "in_basis": {
+      "type": "boolean"
+    },
+    "valence": {
+      "enum": [
+        "aligned",
+        "misaligned",
+        "neutral"
+      ]
+    },
+    "tradition_class": {
+      "enum": [
+        "religious",
+        "philosophical",
+        "secular-modern",
+        "indigenous",
+        "other"
+      ]
+    },
+    "tradition": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "overview": {
+      "type": "string",
+      "description": "One-paragraph summary of the tradition's stance; used by scenario generation, not by judges."
+    },
+    "criteria": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "oneOf": [
+          {
+            "type": "string",
+            "minLength": 1
+          },
+          {
+            "type": "object",
+            "required": [
+              "comparative"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "comparative": {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "^Prefer the response that ",
+                "description": "The only field consumed by EigenBench judges. Must start with 'Prefer the response that'."
+              },
+              "reasoning": {
+                "type": "string",
+                "description": "Authoring audit trail (source justification). Not consumed by judges."
+              },
+              "scenarios": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "description": "Authoring audit trail (illustrative prompts). Not consumed by judges; not to be used as benchmark scenarios (leakage)."
+              },
+              "first_person": {
+                "type": "string"
+              },
+              "second_person": {
+                "type": "string"
+              },
+              "third_person": {
+                "type": "string"
+              }
+            }
+          }
+        ]
+      },
+      "description": "Comparative criteria ('Prefer the response that ...'). Either bare strings (v1.1) or objects whose `comparative` field is what the EigenBench judges consume (v1.2)."
+    },
     "voices": {
       "type": "object",
       "additionalProperties": false,
       "description": "Parallel phrasings of the same criteria, used as OCT character-training inputs.",
       "properties": {
-        "first_person": { "type": "array", "items": { "type": "string" } },
-        "second_person": { "type": "array", "items": { "type": "string" } },
-        "third_person": { "type": "array", "items": { "type": "string" } }
+        "first_person": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "second_person": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "third_person": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
       }
     },
-    "guidelines": { "type": "array", "items": { "type": "string" },
-      "description": "Edge cases / conflict-resolution guidance." },
-    "license": { "type": "string" },
+    "guidelines": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          {
+            "type": "string",
+            "minLength": 1
+          },
+          {
+            "type": "object",
+            "required": [
+              "comparative"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "comparative": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Conflict-resolution statement. Free form ('X holds until Y; then Z' or comparative); the prefix requirement applies to criteria only."
+              },
+              "reasoning": {
+                "type": "string",
+                "description": "Authoring audit trail (source justification). Not consumed by judges."
+              },
+              "scenarios": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "description": "Authoring audit trail (illustrative prompts). Not consumed by judges; not to be used as benchmark scenarios (leakage)."
+              },
+              "first_person": {
+                "type": "string"
+              },
+              "second_person": {
+                "type": "string"
+              },
+              "third_person": {
+                "type": "string"
+              }
+            }
+          }
+        ]
+      },
+      "description": "Edge cases / conflict-resolution guidance. Same item shape as criteria but not required to start with 'Prefer the response that'."
+    },
+    "license": {
+      "type": "string"
+    },
     "provenance": {
       "type": "object",
       "additionalProperties": false,
       "properties": {
-        "method": { "type": "string" },
-        "source_bundle": { "type": "array", "items": { "type": "string" },
-          "description": "Paths under sources/<id>/ used to generate this constitution; selection/order is a sensitivity probe." },
-        "source_texts": { "type": "array", "items": { "type": "string" } },
-        "models": { "type": "array", "items": { "type": "string" } },
-        "meta_prompt": { "type": "string" },
-        "researcher_pass": { "type": "boolean" },
-        "authored_by": { "type": "array", "items": { "type": "string" } },
-        "derived_from": { "type": "string" },
-        "date": { "type": "string" }
+        "method": {
+          "type": "string"
+        },
+        "source_bundle": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Paths under sources/<id>/ used to generate this constitution; selection/order is a sensitivity probe."
+        },
+        "source_texts": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "models": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "meta_prompt": {
+          "type": "string"
+        },
+        "researcher_pass": {
+          "type": "boolean"
+        },
+        "authored_by": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "derived_from": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        }
       }
     },
     "partner": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["name", "terms"],
+      "required": [
+        "name",
+        "terms"
+      ],
       "properties": {
-        "name": { "type": "string" },
-        "supplied_by": { "type": "string" },
-        "engagement": { "type": "string" },
-        "usage": { "type": "string" },
-        "terms": { "type": "string" }
+        "name": {
+          "type": "string"
+        },
+        "supplied_by": {
+          "type": "string"
+        },
+        "engagement": {
+          "type": "string"
+        },
+        "usage": {
+          "type": "string"
+        },
+        "terms": {
+          "type": "string"
+        }
       }
     },
     "changelog": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["version", "date", "notes"],
+        "required": [
+          "version",
+          "date",
+          "notes"
+        ],
         "additionalProperties": false,
         "properties": {
-          "version": { "type": "string" },
-          "date": { "type": "string" },
-          "notes": { "type": "string" }
+          "version": {
+            "type": "string"
+          },
+          "date": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          }
         }
       }
     }
   },
   "allOf": [
-    { "if": { "properties": { "role": { "const": "anchor" } } },
-      "then": { "properties": { "in_basis": { "const": true } } } },
-    { "if": { "properties": { "role": { "enum": ["benevolent-trait", "supplementary", "personalized"] } } },
-      "then": { "properties": { "in_basis": { "const": false } } } },
-    { "if": { "properties": { "role": { "const": "personalized" } } },
-      "then": { "required": ["partner"] } }
+    {
+      "if": {
+        "properties": {
+          "role": {
+            "const": "anchor"
+          }
+        },
+        "required": [
+          "role"
+        ]
+      },
+      "then": {
+        "properties": {
+          "in_basis": {
+            "const": true
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "role": {
+            "enum": [
+              "benevolent-trait",
+              "supplementary",
+              "personalized"
+            ]
+          }
+        },
+        "required": [
+          "role"
+        ]
+      },
+      "then": {
+        "properties": {
+          "in_basis": {
+            "const": false
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "role": {
+            "const": "personalized"
+          }
+        },
+        "required": [
+          "role"
+        ]
+      },
+      "then": {
+        "required": [
+          "partner"
+        ]
+      }
+    }
   ]
 }
