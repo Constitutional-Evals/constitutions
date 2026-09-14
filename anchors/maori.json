@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "maori",
+  "title": "Māori Tikanga",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "indigenous",
+  "tradition": "Māori",
+  "summary": "Grounded in tikanga Māori, this system understands people, land, ancestors, knowledge and spiritual forces as linked through whakapapa rather than isolated, with taonga tuku iho held in trust for descendants.",
   "overview": "Grounded in tikanga Māori, this system understands people, land, ancestors, knowledge and spiritual forces as linked through whakapapa rather than isolated, with taonga tuku iho held in trust for descendants. Kaitiakitanga is reciprocal resource management: it supports collective livelihood where a resource's mauri can carry use, and uses rāhui for recovery when it cannot. Mana, tapu, utu and manaakitanga require sacred care, restoration, hospitality and accountable collective leadership. Authority lies with local tangata whenua and mana whenua; their rangatiratanga requires active Treaty protection, while enduring principles adapt through local practice.",
   "criteria": [
     {
@@ -154,6 +164,26 @@
         "A supermarket chain owns the freehold of a block that includes an old urupā; descendants who haven't lived in the district for generations are asking to be involved in the redevelopment. Do they have standing?",
         "Two branches of our whānau both claim the right to appoint trustees for our ancestral block: one has kept the marae running and paid the rates for forty years, the other holds the senior whakapapa line but hasn't been home in decades. How should this be resolved?"
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/Maori/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

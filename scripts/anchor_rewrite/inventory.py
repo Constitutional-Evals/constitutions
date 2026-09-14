@@ -10,7 +10,7 @@ Usage:  inventory.py [ANCHOR_DIR] [--json OUT] [--full]
 import json, glob, os, re, sys, argparse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DEFAULT_DIR = os.path.join(HERE, "..", "..", "Provisional Constitutions", "Provisional Anchors")
+DEFAULT_DIR = os.path.join(HERE, "..", "..", "anchors")
 PREFIX = "Prefer the response that "
 CLAUSE = re.compile(r"\b(until|unless|except|only if|only when|even if|even when|however|"
                     r"but not|not at the cost|but where|but when|but if|; then|then favou?r)\b", re.I)
@@ -39,6 +39,7 @@ def main():
         label = os.path.basename(f)[:-5]
         if a.only and a.only.lower() not in label.lower(): continue
         j = json.load(open(f, encoding="utf-8"))
+        if "criteria" not in j: continue  # anchor-set.json etc.
         rows = []
         for sec in ("criteria", "guidelines"):
             for k, it in enumerate(j.get(sec) or [], 1):

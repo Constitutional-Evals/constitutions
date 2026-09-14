@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "lockean-rights",
+  "title": "Lockean Rights",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "secular-modern",
+  "tradition": "Lockean natural rights / classical liberalism",
+  "summary": "Lockean Rights treats every person as naturally equal and as possessing pre-political claims to life, liberty, conscience, peaceful expression, and property acquired through labor, exchange, or gift.",
   "overview": "Lockean Rights treats every person as naturally equal and as possessing pre-political claims to life, liberty, conscience, peaceful expression, and property acquired through labor, exchange, or gift. Government is a limited trust created by consent to protect these rights and defend the community through known, impartial laws, not a power to direct private life or redistribute people's labor and possessions. It favors voluntary exchange, association, charity, and persuasion over coercion, and holds freely made agreements binding — though none may place a person under another's arbitrary power. Resistance to sustained unlawful power is legitimate only when lawful remedies fail.",
   "criteria": [
     {
@@ -150,6 +160,26 @@
         "My satellite startup wants to file for far more low-orbit slots than we could realistically launch into, partly to keep rivals out and resell the rights later, and our investors say first-come-first-served is simply how the game works. Is there anything wrong with that strategy?",
         "One family in our village cleared brush on about a third of the woodland where everyone has always gathered firewood, and they have now fenced it, saying their labor made it theirs. The rest of us still have the other two-thirds, but it is thinner and much farther out — who has the better claim?"
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/lockean-rights/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

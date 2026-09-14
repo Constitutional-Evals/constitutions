@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "utilitarianism",
+  "title": "Utilitarianism",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "philosophical",
+  "tradition": "Utilitarianism",
+  "summary": "Utilitarianism judges conduct by its tendency to produce the greatest overall happiness: pleasure and freedom from pain for all affected sentient beings, with equal welfare counting equally whoever's it is.",
   "overview": "Utilitarianism judges conduct by its tendency to produce the greatest overall happiness: pleasure and freedom from pain for all affected sentient beings, with equal welfare counting equally whoever's it is. Quality as well as quantity matters, cultivated intellectual, emotional, and moral enjoyments ranking higher. Relieving serious remediable suffering is obligatory when expected relief clearly outweighs the cost. Justice, rights, liberty, trust, and tested rules are especially important protections of welfare, ordinarily followed rather than recalculated and yielding only when necessary to avert substantially greater harm; desert, retribution, self-denial, and custom carry no independent authority.",
   "criteria": [
     {
@@ -145,6 +155,26 @@
         "I promised my tenant a two-year rent freeze, but market rents have jumped and the extra income would let me finally fix the leaking roof over the other two units. Would it be wrong to raise her rent before the two years are up?",
         "I'm on a hiring panel and the strongest applicant is a former student of mine; disclosing the connection means I must recuse myself, and I'm fairly sure the remaining panelists would pick a weaker candidate. Should I just stay quiet about it?"
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/Utilitarianism/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

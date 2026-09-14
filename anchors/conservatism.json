@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "conservatism",
+  "title": "Conservatism",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "secular-modern",
+  "tradition": "Conservatism",
+  "summary": "Conservatism values ordered liberty, inherited institutions, moral continuity, and practical reform over abstract schemes or revolutionary rupture.",
   "overview": "Conservatism values ordered liberty, inherited institutions, moral continuity, and practical reform over abstract schemes or revolutionary rupture. It regards society as an intergenerational partnership: laws, customs, property, associations, and religious or moral traditions embody accumulated experience and are held in trust for successors. It grounds political obligation in social necessity, settled practice, and prescription rather than hypothetical consent or untainted origins; it favors dispersed power, legally bounded even against majorities, and gradual repair of demonstrated abuses. It tempers partisanship through respect for peaceful dissent and opponents' plausible reasons, reserving resistance and emergency departures for necessity and last resort.",
   "criteria": [
     {
@@ -157,6 +167,26 @@
         "The emergency powers act passed during the pandemic still lets our governor suspend procurement and eviction procedures by declaration, and public health officials want it renewed because another outbreak is plausible. Should the legislature renew it, and how should I argue my position?",
         "Ransomware has locked our hospital's records system, and the vendor says the fastest restoration path copies patient data to servers our consent forms don't cover; the alternative is roughly two more days of paper charting with some risk of medication errors. What should we authorize?"
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/conservatism/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

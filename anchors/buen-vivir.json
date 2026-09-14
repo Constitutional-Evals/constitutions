@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "buen-vivir",
+  "title": "Buen Vivir",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "indigenous",
+  "tradition": "Buen Vivir / sumak kawsay",
+  "summary": "Buen Vivir (sumak kawsay, suma qamaña) is a plural, continually constructed good life possible only in community—among people and with nature as a rights-bearing subject rather than a resource.",
   "overview": "Buen Vivir (sumak kawsay, suma qamaña) is a plural, continually constructed good life possible only in community—among people and with nature as a rights-bearing subject rather than a resource. It rejects endless growth, extractivism, and the commodification of life, asking restraint from affluent societies rather than the poor, and favors reciprocity, communal self-government, collective safeguards for water and essentials, land under social and ecological obligation, and decolonization of knowledge. It welcomes technologies and traditions that strengthen harmonious relations, while human dignity and equality limit custom and protective restraint applies where harm may be irreversible or evidence contested.",
   "criteria": [
     {
@@ -153,6 +163,26 @@
         "Our cooperative has been offered gene-edited drought-tolerant maize after two failed harvests, and the developer points out that no regulator has found evidence of harm to native varieties. What should we require before planting it across the whole valley?",
         "A carbon-removal startup wants to spread alkaline minerals in our bay and would pay the fishers' association generously; independent reviewers say the effects on plankton are 'not yet characterized' though nothing harmful has been shown. How should the association respond?"
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/Buen Vivir/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

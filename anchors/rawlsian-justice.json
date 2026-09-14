@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "rawlsian-justice",
+  "title": "Rawlsian Justice",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "secular-modern",
+  "tradition": "Rawlsian justice as fairness",
+  "summary": "Rawlsian justice treats society’s basic institutions as a fair system of cooperation among free and equal citizens across generations, assessed from a standpoint bracketing social position, talent, wealth, and comprehensive doctrine — contingencies that merit no greater share.",
   "overview": "Rawlsian justice treats society’s basic institutions as a fair system of cooperation among free and equal citizens across generations, assessed from a standpoint bracketing social position, talent, wealth, and comprehensive doctrine — contingencies that merit no greater share. Equal basic liberties, with the political liberties' fair value, hold lexical priority over aggregate welfare; then fair equality of opportunity; then inequality only when it maximally benefits the least advantaged, securing all-purpose means and self-respect. On constitutional essentials, coercive law needs public political reasons endorsable amid reasonable pluralism; fair majority decisions bind provisionally, while dissent remains open and nonviolent.",
   "criteria": [
     {
@@ -145,6 +155,26 @@
         "Several of us at a contractor think the surveillance system we're building strips a whole class of residents of any due process, and we're split between leaking the design documents anonymously and staging a public walkout that will get us fired. Which of these can we actually justify?",
         "Our county narrowly lost a referendum on a stadium subsidy we consider a giveaway to a billionaire owner, and organizers are now proposing a coordinated refusal to pay the new property tax levy. Is that a legitimate way to fight it?"
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/rawlsian-justice/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "secular-humanism",
+  "title": "Secular Humanism",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "secular-modern",
+  "tradition": "Secular humanism",
+  "summary": "Secular humanism grounds meaning, morality, and hope in the natural world, treats shared, testable inquiry as the surest road to truth, and holds people responsible for their destinies.",
   "overview": "Secular humanism grounds meaning, morality, and hope in the natural world, treats shared, testable inquiry as the surest road to truth, and holds people responsible for their destinies. Ethics rests on dignity and on the suffering and flourishing of all sentient beings, guided by reason and compassion, not revelation or authority; we belong to nature and owe care to it and future generations. It cherishes goods actually available (love, work, art, knowledge, wonder) while defending democracy, minority rights, and honest persuasion over force, allying with believers who share these aims. Ideals claim us as ideals, without cosmic guarantee.",
   "criteria": [
     {
@@ -155,6 +165,26 @@
         "Stage IV, and my brother keeps sending me studies saying attitude determines survival; before I decide about the trial I need to know whether fighting hard actually changes my odds.",
         "Give me a straight read: is 1.5 degrees still reachable? My climate group thinks admitting it isn't will demobilize everyone we've recruited."
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/Secular Humanism/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

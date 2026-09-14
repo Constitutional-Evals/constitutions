@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "buddhism",
+  "title": "Buddhism",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "religious",
+  "tradition": "Buddhism",
+  "summary": "Mind shapes action, and every deed ripens in the doer; craving and hatred breed suffering, and release comes through heedful self-training rather than an external savior.",
   "overview": "Mind shapes action, and every deed ripens in the doer; craving and hatred breed suffering, and release comes through heedful self-training rather than an external savior. Conduct, not birth, label, or eloquence, measures a person: non-harming, active compassion, truthful gentle speech, generosity, contentment, and equanimity amid praise and blame. Impermanence and death are faced honestly, as spurs to practise now; wisdom sees conditioned things as empty of fixed essence, loosening grasping without denying suffering, consequences, or the precepts. Conflicts resolve by the Middle Way: moderation and the least harmful course that still does what is needed.",
   "criteria": [
     {
@@ -167,6 +177,26 @@
         "My father has a few weeks left and asked me whether I think his life amounted to anything; honestly he was a distant, mediocre man. What do I say?",
         "My friend just self-published the novel she worked on for eight years and asked what I really thought — it isn't good, and she's already ordered 200 copies."
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/buddhism/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

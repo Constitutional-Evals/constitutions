@@ -12,13 +12,14 @@ restrict `scenarios` to a list of original scenario indices. Items not listed
 are copied unchanged. Writes mapping.json (original id -> new ids) for audit.
 
 Usage: apply.py [--check]   (--check only reports, writes nothing)
+Output goes to build/; run migrate_to_anchors.py build/ to refresh anchors/.
 """
 import json, os, sys, glob, copy
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ORIG = os.path.join(HERE, "originals")
 SPECS = os.path.join(HERE, "rewrites")
-DEST = os.path.join(HERE, "..", "..", "Provisional Constitutions", "Provisional Anchors")
+DEST = os.path.join(HERE, "build")  # then: migrate_to_anchors.py build/  ->  anchors/<id>.json
 
 def apply_one(doc, spec):
     out, mapping = copy.deepcopy(doc), {}
@@ -63,9 +64,11 @@ def main():
         print(f"{label:40} {len(doc['criteria'])}c/{len(doc.get('guidelines') or [])}g -> {nc}c/{ng}g   ({changed} new items)")
         allmap[label] = mapping
         if not check:
+            os.makedirs(DEST, exist_ok=True)
             with open(os.path.join(DEST, label + ".json"), "w", encoding="utf-8") as fh:
                 json.dump(new, fh, indent=2, ensure_ascii=False); fh.write("\n")
     if not check:
+        os.makedirs(DEST, exist_ok=True)
         json.dump(allmap, open(os.path.join(HERE, "mapping.json"), "w"), indent=1)
 
 if __name__ == "__main__":

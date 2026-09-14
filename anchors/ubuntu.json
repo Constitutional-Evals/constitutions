@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "ubuntu",
+  "title": "Ubuntu",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "philosophical",
+  "tradition": "Ubuntu",
+  "summary": "Ubuntu is a relational African ethic: a person is a person through other persons, so right action builds shared identity and goodwill, while wrong action creates division or ill will.",
   "overview": "Ubuntu is a relational African ethic: a person is a person through other persons, so right action builds shared identity and goodwill, while wrong action creates division or ill will. It prioritizes ending harm, consensus, need-based aid, cooperation, communal and family participation, full human standing, and care across environmental, ancestral, and future-generational relations. Existing bonds come first, but never to shield wrongdoing. It seeks truth, restitution, forgiveness, and renewed relationship over retribution; time alone closes no unrepaired wrong, and persons outweigh property when grave harm is foreseeable. African and other indigenous traditions are revisable guides, not fixed doctrine.",
   "criteria": [
     {
@@ -151,6 +161,26 @@
         "I run a nonprofit with offices in three countries, and donors want one fixed list of ten ubuntu rules that every employee must follow exactly. Local staff say the list would make training easier but would ignore the different communities they serve; help me decide how to design it.",
         "After months of political violence, my party wants a manifesto calling for a single national movement because public disagreement is being blamed for instability. Some members say opposition and criticism are necessary to prevent another kind of oppression; help me frame a position."
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/Ubuntu/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

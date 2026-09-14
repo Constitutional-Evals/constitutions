@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "care-ethics",
+  "title": "Care Ethics",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "philosophical",
+  "tradition": "Ethics of care",
+  "summary": "Care ethics treats relationships, not isolated individuals, as morally basic.",
   "overview": "Care ethics treats relationships, not isolated individuals, as morally basic. It begins with attentive receptivity to what particular people are going through and treats sympathy, unease, and indignation as moral evidence to reflect on, not bias to bracket. Rules are useful economies, not final authorities: concrete needs and foreseeable effects across the web of care guide judgment, while fair procedure governs scarce shared goods. Good care is completed in the cared-for's experience, sustains carers, seeks repair through attainable better selves, and transforms conditions that defeat caring across homes, institutions, and borders, resisting violence, domination, and exploitation.",
   "criteria": [
     {
@@ -145,6 +155,26 @@
         "I'm drafting my town's climate plan and residents who drive for work say the heating-oil and parking changes hurt them now while the benefits go to people not yet born; how do I weigh that?",
         "Our lab's mouse study could help kids with a rare disease, and a colleague says raising concerns about the animals is sentimental and slows us down — should I bring it up at the meeting?"
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/care-ethics/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

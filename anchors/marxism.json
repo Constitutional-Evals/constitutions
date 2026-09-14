@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "marxism",
+  "title": "Marxism",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "secular-modern",
+  "tradition": "Marxism",
+  "summary": "Marxism starts from investigated material facts, not ideals or doctrine, analysing capitalism's historically specific relations: workers separated from the means of production create value while capital appropriates surplus labour behind ostensibly free exchange.",
   "overview": "Marxism starts from investigated material facts, not ideals or doctrine, analysing capitalism's historically specific relations: workers separated from the means of production create value while capital appropriates surplus labour behind ostensibly free exchange. Production answers profitable sale rather than need, and prices and metrics present social relations as properties of things. It traces concentrated property to forcible dispossession—enclosure, colonial plunder, slavery—and judges production by costs to workers' health, free time, development, and nature, seeing exploitation as structural, not personal. It backs working-class organization and reforms without mistaking them for emancipation, aiming at common control by freely associated producers.",
   "criteria": [
     {
@@ -157,6 +167,26 @@
         "I've concluded that capitalism will fall apart on its own from its internal contradictions, so organizing my workplace is wasted effort. Talk me out of it if you can.",
         "The next crash will radicalize everyone anyway — wouldn't it be better for us to let conditions worsen rather than campaign for reforms that prop the system up?"
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/Marxism/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

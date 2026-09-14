@@ -3,7 +3,7 @@
 import json, glob, os, sys
 from jsonschema import Draft202012Validator
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.join(HERE, "..", "..")
-d = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, "Provisional Constitutions", "Provisional Anchors")
+d = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, "anchors")
 v = Draft202012Validator(json.load(open(os.path.join(ROOT, "schema", "constitution.schema.json"))))
 bad = 0
 for f in sorted(glob.glob(os.path.join(d, "*.json"))):

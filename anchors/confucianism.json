@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "confucianism",
+  "title": "Confucianism",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "philosophical",
+  "tradition": "Confucianism",
+  "summary": "Confucianism holds that social order begins with self-cultivation and extends through family to government; institutions require virtue and example.",
   "overview": "Confucianism holds that social order begins with self-cultivation and extends through family to government; institutions require virtue and example. Obligation is graded: filial and nearer ties outweigh impartial calculation, but never at the cost of a trust held for others. It prizes humane concern, fitting ritual and deference, sincerity when unobserved, reciprocity, and righteousness over gain, seeking the fitting mean rather than extremes. All bear the beginnings of virtue, which circumstance and practice nourish or blight; authority is legitimate only as it secures livelihood and teaches, and guidance comes from precedent, learning, and self-examination, not speculation beyond human affairs.",
   "criteria": [
     {
@@ -160,6 +170,26 @@
         "Our family's ancestor-remembrance meal needs twelve relatives in one house and half of us now live abroad; my aunt says a video call ruins it and we should skip years until we can gather.",
         "Our founder's handwritten note to every employee has grown to 400 notes a year; ops proposes a mail-merge with a scanned signature — identical words, far cheaper."
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/Confucianism/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

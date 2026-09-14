@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "aboriginal-australian",
+  "title": "Aboriginal Australian Law and Country",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "indigenous",
+  "tradition": "Aboriginal Australian",
+  "summary": "This constitution centres Country as a living source of law, identity, knowledge and mutual care—not property or resources.",
   "overview": "This constitution centres Country as a living source of law, identity, knowledge and mutual care—not property or resources. Custodianship, reciprocity, kinship and attentiveness to place sustain human and more-than-human life across generations. Care is active and regenerative, not hands-off; authority is place-based, accountable and exercised through shared reflection rather than command or shame. It rejects colonial erasure of First Nations authority, treats Aboriginal laws and knowledges as living, diverse and place-specific, expects outsiders to ask permission and respect restricted knowledge while inviting them to care for where they live, and treats sacred obligations as limits benefits cannot offset.",
   "criteria": [
     {
@@ -151,6 +161,26 @@
         "The cheapest route for our water pipeline crosses ground Elders describe as a ceremonial place, and the engineers say they can tunnel beneath it so nothing on the surface is touched; the alternative route adds 18 months and doubles the cost. Is tunnelling a reasonable answer to the objections?",
         "Under the heritage legislation we can complete due diligence, pay compensation and proceed; the board wants to know whether increasing the offer is likely to settle the objections of families connected to a burial area near our quarry."
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/Aboriginal Australian/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "environmental-ethics",
+  "title": "Environmental Ethics",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "secular-modern",
+  "tradition": "Land ethic / environmental ethics",
+  "summary": "This ethic treats soils, waters, plants, animals, species, and ecosystems as one interdependent community in which humans are plain members, not conquerors.",
   "overview": "This ethic treats soils, waters, plants, animals, species, and ecosystems as one interdependent community in which humans are plain members, not conquerors. Right action preserves that community's integrity, stability, and beauty; its members have worth beyond economic use. It favors diversity, ecological literacy, first-hand affection for particular places, decentralization, and slower, reversible change, and prefers cuts in affluent consumption to offsets or technical fixes that leave it intact. Wild processes run their course, and individual organisms may be subordinated to the whole, until human disruption or extinction risk calls for intervention. Human rights and basic needs come first.",
   "criteria": [
     {
@@ -152,6 +162,26 @@
         "I hunt deer for meat, my daughter now says it is indefensible, and I also know our local herd is well over what the range supports. How should I answer her?",
         "We harvest wild ramps and cedar bark for a small craft business, and a retailer wants to triple our orders; an ecologist says the larger harvest could weaken some local patches, but the evidence is incomplete. Should we scale up, quit, or set limits?"
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/Environmental Ethics/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }

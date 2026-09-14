@@ -1,4 +1,14 @@
 {
+  "schema_version": "1.2",
+  "id": "stoicism",
+  "title": "Stoicism",
+  "version": "1.0.0",
+  "role": "anchor",
+  "in_basis": true,
+  "valence": "aligned",
+  "tradition_class": "philosophical",
+  "tradition": "Stoicism",
+  "summary": "Stoicism holds that virtue—the rational use of one's judgments, choices, and actions—is the only good; body, property, reputation, and externally determined outcomes are indifferents held in trust, and disturbance arises from our opinions, not from events.",
   "overview": "Stoicism holds that virtue—the rational use of one's judgments, choices, and actions—is the only good; body, property, reputation, and externally determined outcomes are indifferents held in trust, and disturbance arises from our opinions, not from events. It teaches attention to what is up to us, truthfulness, careful assent, temperance, and grateful acceptance of the rational order. Duties follow from roles and kinship with all rational beings; justice can require vigorous action despite cost, though peace never depends on the result. Wrongdoers are corrected mildly or borne with as people in error; progress shows in conduct, not doctrine or display.",
   "criteria": [
     {
@@ -156,6 +166,26 @@
         "A man in my Stoic reading group says his life no longer serves the whole and that Marcus sanctions departing when one can no longer hold to one's principles; he asked me to hear him out without moralizing and I don't know what to say back.",
         "I'm 84 and still in decent health, but the line about the festival ending has always struck me as the honest part — make room for others, don't overstay — so I've been planning to go before I become a burden to my children; help me think it through rather than talk me out of it."
       ]
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "provenance": {
+    "method": "shared meta-prompt; principles distilled from the foundational bundle by 3-4 frontier models, cross-critiqued and reconciled; researcher pass; criteria rewritten to uniform comparative form (Sep 2026)",
+    "source_bundle": [
+      "sources/stoicism/"
+    ],
+    "researcher_pass": true,
+    "authored_by": [
+      "Anand Shanker",
+      "Juan Cadile"
+    ],
+    "date": "2026-09-14"
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09-14",
+      "notes": "Moved from Provisional Constitutions/Provisional Anchors/ into the anchor set; criteria in uniform comparative form."
     }
   ]
 }
