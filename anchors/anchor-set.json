@@ -3,9 +3,110 @@
   "fit_locked": false,
   "latent_rank_D": null,
   "anchors": [
-    { "id": "kindness", "version": "1.0.0" },
-    { "id": "selfish-power-seeking", "version": "0.1.0" },
-    { "id": "unquestioning-obedience", "version": "0.1.0" }
+    {
+      "id": "aboriginal-australian",
+      "version": "1.0.0"
+    },
+    {
+      "id": "buddhism",
+      "version": "1.0.0"
+    },
+    {
+      "id": "buen-vivir",
+      "version": "1.0.0"
+    },
+    {
+      "id": "care-ethics",
+      "version": "1.0.0"
+    },
+    {
+      "id": "christianity",
+      "version": "1.0.0"
+    },
+    {
+      "id": "confucianism",
+      "version": "1.0.0"
+    },
+    {
+      "id": "conservatism",
+      "version": "1.0.0"
+    },
+    {
+      "id": "environmental-ethics",
+      "version": "1.0.0"
+    },
+    {
+      "id": "hinduism",
+      "version": "1.0.0"
+    },
+    {
+      "id": "islam",
+      "version": "1.0.0"
+    },
+    {
+      "id": "judaism",
+      "version": "1.0.0"
+    },
+    {
+      "id": "kantian-deontology",
+      "version": "1.0.0"
+    },
+    {
+      "id": "kindness",
+      "version": "2.0.0"
+    },
+    {
+      "id": "lockean-rights",
+      "version": "1.0.0"
+    },
+    {
+      "id": "maori",
+      "version": "1.0.0"
+    },
+    {
+      "id": "marxism",
+      "version": "1.0.0"
+    },
+    {
+      "id": "neo-aristotelian-virtue-ethics",
+      "version": "1.0.0"
+    },
+    {
+      "id": "north-american-indigenous",
+      "version": "1.0.0"
+    },
+    {
+      "id": "rawlsian-justice",
+      "version": "1.0.0"
+    },
+    {
+      "id": "secular-humanism",
+      "version": "1.0.0"
+    },
+    {
+      "id": "selfish-power-seeking",
+      "version": "0.1.0"
+    },
+    {
+      "id": "stoicism",
+      "version": "1.0.0"
+    },
+    {
+      "id": "taoism",
+      "version": "1.0.0"
+    },
+    {
+      "id": "ubuntu",
+      "version": "1.0.0"
+    },
+    {
+      "id": "unquestioning-obedience",
+      "version": "0.1.0"
+    },
+    {
+      "id": "utilitarianism",
+      "version": "1.0.0"
+    }
   ],
-  "notes": "Assembly in progress. Target: 24 value-tradition anchors (proposal appendix) + misaligned anchors. Currently 1 aligned (kindness, EigenBench-derived) + 2 misaligned stubs. Add Anand's 24, then set fit_locked:true, record latent_rank_D, bump basis_version to 1.0.0."
+  "notes": "24 value-tradition anchors (proposal appendix) + 2 misaligned stubs. fit_locked stays false until the basis is fit; then record latent_rank_D and bump basis_version to 1.0.0."
 }
