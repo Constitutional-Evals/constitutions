@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+.venv*/
+venv/
+env/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# API keys and secrets
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
