@@ -22,6 +22,26 @@ foundational bundle, not paraphrased from a supplied checklist.
 - **Frontier models via API** (LAISR OpenRouter) for the real runs \u2014 stateless, avoiding web-UI
   "memory" contamination. Free-tier web UIs are fine only for shaping the prompt.
 
+## Optional review protocols
+
+The generation notebook defaults to `review_protocol="baseline_v1"`, preserving the conventional
+generation, judge, and revision prompts. Experimental review protocols must be selected explicitly,
+and the selection is stored with the run artifacts.
+
+[`morebench_v1`](review-protocols/morebench-v1.md) gives the generator concise construction rules
+and a silent self-check, then applies a fuller item-level and set-level judge audit for coverage,
+clarity, atomicity, non-redundancy, balance, specificity, source-grounded counter-considerations,
+and validity. It tags review findings without changing the judge JSON schema. Enable it with:
+
+```python
+run_everything(
+    constitutionName,
+    docs_root,
+    max_rounds,
+    review_protocol="morebench_v1",
+)
+```
+
 ## Probes
 Vary the example constitution, and the selection/ordering/format of the bundle (incl. multiple
 .md per document), and measure how much the output constitution moves.
