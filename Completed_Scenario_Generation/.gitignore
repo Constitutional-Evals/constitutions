@@ -1,0 +1,10 @@
+# Local run data can include private inputs, model responses, and API logs.
+runs/
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
