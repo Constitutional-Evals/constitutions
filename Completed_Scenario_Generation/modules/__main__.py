@@ -13,6 +13,8 @@ from .stages import show_coverage
 def main():
     parser = argparse.ArgumentParser(description="Generate and evaluate scenarios")
     parser.add_argument("--constitutions", required=True, help="Constitution JSON, ZIP, or directory")
+    parser.add_argument("--target", default=cfg.TARGET_CONSTITUTION,
+                        help="One constitution ID to target within the supplied pool")
     parser.add_argument("--existing", default="", help="Optional benchmark JSON, ZIP, or directory")
     parser.add_argument("--run-name", default=cfg.RUN_NAME)
     parser.add_argument("--run-dir", default="runs", help="Persistent run/checkpoint directory")
@@ -23,6 +25,7 @@ def main():
     args = parser.parse_args()
 
     cfg.CONSTITUTION_INPUT = args.constitutions
+    cfg.TARGET_CONSTITUTION = args.target
     cfg.EXISTING_BANK_INPUT = args.existing
     cfg.RUN_NAME = args.run_name
     cfg.LOCAL_RUN_PARENT = str(Path(args.run_dir).expanduser())

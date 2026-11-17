@@ -269,7 +269,7 @@ def mount_workspace():
 
 def identity_settings():
     """Only changes to meaningful experiment settings invalidate saved runs."""
-    return {
+    settings = {
         "quota": cfg.SCENARIO_QUOTA, "breadth": cfg.MIN_DISTINCT_CRITERIA,
         "batch_size": cfg.GENERATION_BATCH_SIZE, "seed": cfg.SEED,
         "generation_rotation": cfg.GENERATION_MODELS,
@@ -291,6 +291,20 @@ def identity_settings():
             "quality_dimensions": cfg.QUALITY_DIMS,
             "scenario_types": cfg.SCENARIO_TYPES, "settings": cfg.SETTINGS}),
     }
+    if cfg.TARGET_CONSTITUTION:
+        settings["target_constitution"] = slug(cfg.TARGET_CONSTITUTION)
+    return settings
+
+
+def target_constitutions(const):
+    """Return the constitutions whose coverage this run aims to satisfy."""
+    if not cfg.TARGET_CONSTITUTION:
+        return const
+    target = slug(cfg.TARGET_CONSTITUTION)
+    if target not in const:
+        raise ValueError(f"Unknown target constitution {cfg.TARGET_CONSTITUTION!r}. "
+                         f"Available IDs: {', '.join(const)}")
+    return {target: const[target]}
 
 
 def initialize_workspace():
@@ -299,7 +313,8 @@ def initialize_workspace():
     inputs = root / "inputs"
     saved_const, saved_bank = inputs / "constitutions.json", inputs / "existing_bank.json"
 
-    if saved_const.exists() and saved_bank.exists():
+    has_snapshots = saved_const.exists() and saved_bank.exists()
+    if has_snapshots:
         const, bank = read_json(saved_const), read_json(saved_bank)
         for path, loader, saved in [
             (cfg.CONSTITUTION_INPUT, load_constitutions, const),
@@ -311,15 +326,17 @@ def initialize_workspace():
     else:
         const = load_constitutions(cfg.CONSTITUTION_INPUT)
         bank = load_existing_bank(cfg.EXISTING_BANK_INPUT, const)
-        atomic_json(saved_const, const)
-        atomic_json(saved_bank, bank)
 
+    target_constitutions(const)
     settings = identity_settings()
     signature = digest({"settings": settings, "constitutions": const, "bank": bank})
     manifest_path = root / "run_manifest.json"
     manifest = read_json(manifest_path)
     if manifest and manifest["identity"] != signature:
         raise RuntimeError("Saved inputs, prompts, or model settings changed; use another run name")
+    if not has_snapshots:
+        atomic_json(saved_const, const)
+        atomic_json(saved_bank, bank)
     if not manifest:
         atomic_json(manifest_path, {
             "identity": signature, "settings": settings,

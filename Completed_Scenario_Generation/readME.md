@@ -20,6 +20,12 @@ For an existing bank, add `--existing /path/to/benchmark.json`. You can also
 supply a previous `scenario_generation_pipeline_results.zip` directly: the
 loader imports its `benchmark.json` rather than its audit and report files. A single constitution JSON uses direct criterion targeting; multiple constitutions enable M3 and shared multicover selection.
 
+Add `--target oct-goodness` to generate for one constitution in a larger input
+pool. The target must be a constitution ID in the input. M3 still picks
+supplementary criteria from the other constitutions, and relevance is evaluated
+across the pool. The scenario quota, criterion breadth goal, and gap report apply
+to the target. Use a new run name when changing the target.
+
 Prompts, model IDs, quality thresholds, and other defaults are in `modules/config.py`. The command-line flags override run inputs, quota, batch size, and generation budget.
 
 Results appear in `<run-dir>/<run-name>/exports/`, with resumable caches under the same run directory. Increase `--max-attempts` and reuse the same run name to continue. The quota is 50 relevant scenarios per constitution, with at least 8 distinct criteria by default.

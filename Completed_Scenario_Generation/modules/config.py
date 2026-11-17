@@ -1,6 +1,7 @@
 """Edit model choices, prompts, and pipeline settings here."""
 
 CONSTITUTION_INPUT = "constitutions"     # JSON, ZIP, or folder
+TARGET_CONSTITUTION = ""                 # empty targets all input constitutions
 EXISTING_BANK_INPUT = ""                   # optional JSON, ZIP, or folder
 RUN_NAME = "scenario_generation_pipeline"         # unique experiment name
 LOCAL_RUN_PARENT = "runs"
