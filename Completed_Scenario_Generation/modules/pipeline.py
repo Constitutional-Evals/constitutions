@@ -8,7 +8,10 @@ from scipy.optimize import Bounds, LinearConstraint, milp
 from scipy.sparse import lil_matrix
 
 from . import config as cfg
-from .core import atomic_json, normalized_text, read_json, sample_coverage, sort_criterion_ids
+from .core import (
+    atomic_json, normalized_text, read_json, sample_coverage, sort_criterion_ids,
+    target_constitutions,
+)
 from .labels import label_new_survivors, populate_baseline, redundancy_screen
 from .stages import (
     batch_stage, choose_target, coverage_table,
@@ -21,7 +24,8 @@ from .stages import (
 def optimize_additions(const, existing, candidates):
     """Lexicographic MILP: quota shortfall → breadth shortfall → fewest additions."""
     counts, hits = sample_coverage(const, existing)
-    pool = [row for row in candidates if row.get("relevance")]
+    pool = [row for row in candidates
+            if any(row.get("relevance", {}).get(name) for name in const)]
     deficits = {c: max(0, cfg.SCENARIO_QUOTA - counts[c]) for c in const}
     breadth = {
         c: max(0, min(cfg.MIN_DISTINCT_CRITERIA, len(spec["criteria"]))
@@ -111,7 +115,7 @@ def optimize_additions(const, existing, candidates):
     }
 
 
-def write_exports(root, const, existing, selected, quality_pool, screening, optimization):
+def write_exports(root, const, targets, existing, selected, quality_pool, screening, optimization):
     """Export one master benchmark, one JSON per constitution, and audit reports."""
     root = Path(root)
     export = root / "exports"
@@ -144,7 +148,7 @@ def write_exports(root, const, existing, selected, quality_pool, screening, opti
     atomic_json(export / "benchmark.json", master)
     atomic_json(export / "optimization_status.json", optimization)
 
-    table = coverage_table(const, bank)
+    table = coverage_table(targets, bank)
     atomic_json(export / "coverage_by_constitution.json", table)
     _, before = sample_coverage(const, existing)
     _, after = sample_coverage(const, bank)
@@ -163,7 +167,7 @@ def write_exports(root, const, existing, selected, quality_pool, screening, opti
                             for r in table if r["breadth_shortfall"]},
         "uncovered_atomic_criteria": {
             name: [item["id"] for item in spec["criteria"] if not after[name][item["id"]]]
-            for name, spec in const.items()},
+            for name, spec in targets.items()},
     })
 
     totals = coverage_totals(table)
@@ -171,7 +175,7 @@ def write_exports(root, const, existing, selected, quality_pool, screening, opti
         "run_name": cfg.RUN_NAME, "constitutions": len(const),
         "existing_scenarios": len(existing), "quality_pool": len(quality_pool),
         "selected_additions": len(selected), "final_unique_scenarios": len(bank),
-        "capped_coverage": totals["capped"], "target_coverage": len(const) * cfg.SCENARIO_QUOTA,
+        "capped_coverage": totals["capped"], "target_coverage": len(targets) * cfg.SCENARIO_QUOTA,
         "remaining_slots": totals["shortfall"], "breadth_deficits": totals["breadth_shortfall"],
         "redundancy": screening.get("metrics", {}), "optimizer": optimization,
     })
@@ -194,6 +198,8 @@ def write_exports(root, const, existing, selected, quality_pool, screening, opti
 def run_pipeline(root, const, input_bank, client):
     """Generate, evaluate, select, and checkpoint until the attempt budget is reached."""
     root = Path(root)
+    targets = target_constitutions(const)
+    target_coverage = len(targets) * cfg.SCENARIO_QUOTA
     original = populate_baseline(client, root, const, input_bank)
     quality_pool = read_json(root / "audit/quality_pool.json", [])
     progress_path = root / "audit/progress.json"
@@ -202,19 +208,19 @@ def run_pipeline(root, const, input_bank, client):
     def refresh():
         screened = redundancy_screen(client, root, original, quality_pool)
         candidates = label_new_survivors(client, root, const, screened["kept"])
-        selected, result = optimize_additions(const, original, candidates)
-        archive, table = write_exports(root, const, original, selected,
+        selected, result = optimize_additions(targets, original, candidates)
+        archive, table = write_exports(root, const, targets, original, selected,
                                        quality_pool, screened, result)
         return original, selected, result, archive, table
 
     existing, selected, status, archive, table = refresh()
-    print(f"Starting coverage: {coverage_totals(table)['capped']}/{cfg.SCENARIO_QUOTA * len(const)}")
+    print(f"Starting coverage: {coverage_totals(table)['capped']}/{target_coverage}")
 
     while progress["attempts"] < cfg.MAX_NEW_ATTEMPTS:
         if cfg.STOP_WHEN_SATISFIED and status["feasible"]:
             print("All coverage targets satisfied")
             break
-        target = choose_target(const, existing + selected)
+        target = choose_target(targets, existing + selected)
         if target is None:
             break
         batch = progress["completed_batches"]
@@ -252,7 +258,7 @@ def run_pipeline(root, const, input_bank, client):
             "remaining_slots": totals["shortfall"],
         })
         print(f"Batch {batch + 1}: {target}; {len(judged['passed'])}/{len(slots)} quality pass; "
-              f"{len(selected)} additions selected; {totals['capped']}/{cfg.SCENARIO_QUOTA * len(const)} slots")
+              f"{len(selected)} additions selected; {totals['capped']}/{target_coverage} slots")
 
     # Write the final reports and archive.
     existing, selected, status, archive, table = refresh()
